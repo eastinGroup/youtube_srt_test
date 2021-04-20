@@ -1,0 +1,4104 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.280 align:start position:0%
+ 
+okay<00:00:00.240><c> so</c><00:00:00.299><c> today</c><00:00:00.630><c> we're</c><00:00:00.870><c> gonna</c><00:00:01.020><c> be</c><00:00:01.079><c> talking</c>
+
+00:00:01.280 --> 00:00:01.290 align:start position:0%
+okay so today we're gonna be talking
+ 
+
+00:00:01.290 --> 00:00:03.439 align:start position:0%
+okay so today we're gonna be talking
+about<00:00:01.319><c> units</c><00:00:01.770><c> and</c><00:00:02.070><c> in</c><00:00:02.909><c> particular</c><00:00:03.030><c> the</c>
+
+00:00:03.439 --> 00:00:03.449 align:start position:0%
+about units and in particular the
+ 
+
+00:00:03.449 --> 00:00:05.869 align:start position:0%
+about units and in particular the
+weirdest<00:00:04.339><c> units</c><00:00:05.339><c> of</c><00:00:05.549><c> the</c><00:00:05.640><c> weird</c><00:00:05.819><c> and</c>
+
+00:00:05.869 --> 00:00:05.879 align:start position:0%
+weirdest units of the weird and
+ 
+
+00:00:05.879 --> 00:00:07.700 align:start position:0%
+weirdest units of the weird and
+wonderful<00:00:06.180><c> ones</c><00:00:06.509><c> I'm</c><00:00:06.870><c> gonna</c><00:00:07.080><c> limit</c><00:00:07.259><c> myself</c><00:00:07.379><c> to</c>
+
+00:00:07.700 --> 00:00:07.710 align:start position:0%
+wonderful ones I'm gonna limit myself to
+ 
+
+00:00:07.710 --> 00:00:09.020 align:start position:0%
+wonderful ones I'm gonna limit myself to
+the<00:00:07.770><c> ones</c><00:00:07.950><c> that</c><00:00:08.069><c> are</c><00:00:08.160><c> actually</c><00:00:08.429><c> used</c><00:00:08.790><c> in</c>
+
+00:00:09.020 --> 00:00:09.030 align:start position:0%
+the ones that are actually used in
+ 
+
+00:00:09.030 --> 00:00:10.400 align:start position:0%
+the ones that are actually used in
+physics<00:00:09.450><c> literature</c><00:00:09.599><c> today</c><00:00:10.170><c> because</c>
+
+00:00:10.400 --> 00:00:10.410 align:start position:0%
+physics literature today because
+ 
+
+00:00:10.410 --> 00:00:11.690 align:start position:0%
+physics literature today because
+otherwise<00:00:10.650><c> we'd</c><00:00:11.070><c> be</c><00:00:11.099><c> here</c><00:00:11.400><c> all</c><00:00:11.490><c> day</c><00:00:11.639><c> talking</c>
+
+00:00:11.690 --> 00:00:11.700 align:start position:0%
+otherwise we'd be here all day talking
+ 
+
+00:00:11.700 --> 00:00:14.390 align:start position:0%
+otherwise we'd be here all day talking
+about<00:00:12.030><c> pirate</c><00:00:12.719><c> ninjas</c><00:00:13.139><c> on</c><00:00:13.290><c> Mars</c><00:00:13.920><c> and</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+about pirate ninjas on Mars and
+ 
+
+00:00:14.400 --> 00:00:16.160 align:start position:0%
+about pirate ninjas on Mars and
+measuring<00:00:15.059><c> bridges</c><00:00:15.480><c> in</c><00:00:15.660><c> Smoots</c>
+
+00:00:16.160 --> 00:00:16.170 align:start position:0%
+measuring bridges in Smoots
+ 
+
+00:00:16.170 --> 00:00:18.109 align:start position:0%
+measuring bridges in Smoots
+so<00:00:16.500><c> this</c><00:00:16.619><c> is</c><00:00:16.740><c> gonna</c><00:00:16.859><c> be</c><00:00:16.920><c> from</c><00:00:17.250><c> my</c><00:00:17.670><c> own</c>
+
+00:00:18.109 --> 00:00:18.119 align:start position:0%
+so this is gonna be from my own
+ 
+
+00:00:18.119 --> 00:00:20.269 align:start position:0%
+so this is gonna be from my own
+experiences<00:00:18.750><c> in</c><00:00:18.900><c> research</c><00:00:19.199><c> a</c><00:00:19.680><c> little</c><00:00:20.010><c> bit</c><00:00:20.220><c> of</c>
+
+00:00:20.269 --> 00:00:20.279 align:start position:0%
+experiences in research a little bit of
+ 
+
+00:00:20.279 --> 00:00:21.980 align:start position:0%
+experiences in research a little bit of
+research<00:00:20.460><c> I've</c><00:00:20.670><c> done</c><00:00:20.699><c> and</c><00:00:21.330><c> then</c><00:00:21.510><c> also</c><00:00:21.689><c> just</c>
+
+00:00:21.980 --> 00:00:21.990 align:start position:0%
+research I've done and then also just
+ 
+
+00:00:21.990 --> 00:00:23.150 align:start position:0%
+research I've done and then also just
+talking<00:00:22.289><c> to</c><00:00:22.380><c> people</c><00:00:22.500><c> on</c><00:00:22.769><c> Twitter</c>
+
+00:00:23.150 --> 00:00:23.160 align:start position:0%
+talking to people on Twitter
+ 
+
+00:00:23.160 --> 00:00:25.250 align:start position:0%
+talking to people on Twitter
+units<00:00:23.850><c> are</c><00:00:24.060><c> important</c><00:00:24.600><c> we</c><00:00:24.810><c> should</c><00:00:25.019><c> care</c><00:00:25.230><c> about</c>
+
+00:00:25.250 --> 00:00:25.260 align:start position:0%
+units are important we should care about
+ 
+
+00:00:25.260 --> 00:00:26.960 align:start position:0%
+units are important we should care about
+units<00:00:25.949><c> there</c><00:00:26.130><c> was</c><00:00:26.220><c> once</c><00:00:26.400><c> a</c><00:00:26.519><c> hundred</c><00:00:26.880><c> and</c>
+
+00:00:26.960 --> 00:00:26.970 align:start position:0%
+units there was once a hundred and
+ 
+
+00:00:26.970 --> 00:00:29.839 align:start position:0%
+units there was once a hundred and
+twenty<00:00:27.300><c> five</c><00:00:27.480><c> million</c><00:00:28.140><c> dollar</c><00:00:28.680><c> unit</c><00:00:29.189><c> error</c><00:00:29.580><c> in</c>
+
+00:00:29.839 --> 00:00:29.849 align:start position:0%
+twenty five million dollar unit error in
+ 
+
+00:00:29.849 --> 00:00:32.359 align:start position:0%
+twenty five million dollar unit error in
+the<00:00:30.240><c> Mars</c><00:00:30.750><c> climate</c><00:00:30.960><c> orbiter</c><00:00:31.230><c> in</c><00:00:31.679><c> 1999</c>
+
+00:00:32.359 --> 00:00:32.369 align:start position:0%
+the Mars climate orbiter in 1999
+ 
+
+00:00:32.369 --> 00:00:35.090 align:start position:0%
+the Mars climate orbiter in 1999
+basically<00:00:33.000><c> us</c><00:00:33.300><c> JPL</c><00:00:33.840><c> were</c><00:00:33.989><c> expecting</c><00:00:34.620><c> the</c>
+
+00:00:35.090 --> 00:00:35.100 align:start position:0%
+basically us JPL were expecting the
+ 
+
+00:00:35.100 --> 00:00:38.030 align:start position:0%
+basically us JPL were expecting the
+units<00:00:35.460><c> of</c><00:00:35.640><c> thrust</c><00:00:36.059><c> in</c><00:00:36.469><c> Newton's</c><00:00:37.469><c> per</c><00:00:37.590><c> second</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+units of thrust in Newton's per second
+ 
+
+00:00:38.040 --> 00:00:39.950 align:start position:0%
+units of thrust in Newton's per second
+normal<00:00:38.309><c> SI</c><00:00:38.579><c> unit</c><00:00:38.969><c> of</c><00:00:39.090><c> thrust</c><00:00:39.540><c> whereas</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+normal SI unit of thrust whereas
+ 
+
+00:00:39.960 --> 00:00:42.500 align:start position:0%
+normal SI unit of thrust whereas
+Lockheed<00:00:40.350><c> Martin</c><00:00:40.890><c> gave</c><00:00:41.489><c> it</c><00:00:41.640><c> to</c><00:00:41.760><c> them</c><00:00:41.940><c> in</c><00:00:42.059><c> pound</c>
+
+00:00:42.500 --> 00:00:42.510 align:start position:0%
+Lockheed Martin gave it to them in pound
+ 
+
+00:00:42.510 --> 00:00:44.779 align:start position:0%
+Lockheed Martin gave it to them in pound
+force<00:00:42.930><c> per</c><00:00:43.170><c> second</c><00:00:43.559><c> satellite</c><00:00:44.129><c> entered</c><00:00:44.610><c> Mars</c>
+
+00:00:44.779 --> 00:00:44.789 align:start position:0%
+force per second satellite entered Mars
+ 
+
+00:00:44.789 --> 00:00:47.119 align:start position:0%
+force per second satellite entered Mars
+orbit<00:00:45.149><c> to</c><00:00:45.510><c> shallow</c><00:00:46.050><c> and</c><00:00:46.410><c> it</c><00:00:46.620><c> exploded</c><00:00:46.920><c> in</c><00:00:47.070><c> the</c>
+
+00:00:47.119 --> 00:00:47.129 align:start position:0%
+orbit to shallow and it exploded in the
+ 
+
+00:00:47.129 --> 00:00:48.380 align:start position:0%
+orbit to shallow and it exploded in the
+atmosphere<00:00:47.160><c> and</c><00:00:47.700><c> everyone</c><00:00:48.030><c> swear</c><00:00:48.239><c> it</c><00:00:48.300><c> was</c>
+
+00:00:48.380 --> 00:00:48.390 align:start position:0%
+atmosphere and everyone swear it was
+ 
+
+00:00:48.390 --> 00:00:49.940 align:start position:0%
+atmosphere and everyone swear it was
+lost<00:00:48.570><c> people</c><00:00:48.899><c> should</c><00:00:49.020><c> care</c><00:00:49.200><c> about</c><00:00:49.379><c> units</c>
+
+00:00:49.940 --> 00:00:49.950 align:start position:0%
+lost people should care about units
+ 
+
+00:00:49.950 --> 00:00:51.860 align:start position:0%
+lost people should care about units
+always<00:00:50.280><c> write</c><00:00:50.730><c> the</c><00:00:50.910><c> unit's</c><00:00:51.210><c> so</c><00:00:51.539><c> what</c><00:00:51.690><c> I</c><00:00:51.719><c> want</c>
+
+00:00:51.860 --> 00:00:51.870 align:start position:0%
+always write the unit's so what I want
+ 
+
+00:00:51.870 --> 00:00:53.900 align:start position:0%
+always write the unit's so what I want
+to<00:00:51.930><c> start</c><00:00:52.050><c> with</c><00:00:52.230><c> is</c><00:00:52.379><c> the</c><00:00:52.559><c> one</c><00:00:52.649><c> that</c><00:00:52.860><c> when</c><00:00:53.610><c> I</c><00:00:53.640><c> was</c>
+
+00:00:53.900 --> 00:00:53.910 align:start position:0%
+to start with is the one that when I was
+ 
+
+00:00:53.910 --> 00:00:55.250 align:start position:0%
+to start with is the one that when I was
+learning<00:00:54.030><c> physics</c><00:00:54.480><c> I</c><00:00:54.600><c> thought</c><00:00:55.050><c> was</c><00:00:55.140><c> the</c>
+
+00:00:55.250 --> 00:00:55.260 align:start position:0%
+learning physics I thought was the
+ 
+
+00:00:55.260 --> 00:00:57.979 align:start position:0%
+learning physics I thought was the
+weirdest<00:00:55.620><c> it</c><00:00:55.980><c> is</c><00:00:56.219><c> a</c><00:00:56.460><c> parsec</c><00:00:56.910><c> so</c><00:00:57.600><c> a</c><00:00:57.629><c> lot</c><00:00:57.960><c> of</c>
+
+00:00:57.979 --> 00:00:57.989 align:start position:0%
+weirdest it is a parsec so a lot of
+ 
+
+00:00:57.989 --> 00:00:59.180 align:start position:0%
+weirdest it is a parsec so a lot of
+people<00:00:58.079><c> might</c><00:00:58.350><c> be</c><00:00:58.469><c> familiar</c><00:00:58.710><c> with</c><00:00:58.800><c> the</c><00:00:58.890><c> parsec</c>
+
+00:00:59.180 --> 00:00:59.190 align:start position:0%
+people might be familiar with the parsec
+ 
+
+00:00:59.190 --> 00:01:00.950 align:start position:0%
+people might be familiar with the parsec
+was<00:00:59.370><c> that</c><00:00:59.550><c> famous</c><00:00:59.699><c> line</c><00:00:59.940><c> in</c><00:01:00.000><c> Star</c><00:01:00.359><c> Wars</c><00:01:00.570><c> the</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+was that famous line in Star Wars the
+ 
+
+00:01:00.960 --> 00:01:02.450 align:start position:0%
+was that famous line in Star Wars the
+Millennium<00:01:01.260><c> Falcon</c><00:01:01.289><c> made</c><00:01:01.920><c> the</c><00:01:02.039><c> Kessel</c><00:01:02.190><c> run</c><00:01:02.370><c> in</c>
+
+00:01:02.450 --> 00:01:02.460 align:start position:0%
+Millennium Falcon made the Kessel run in
+ 
+
+00:01:02.460 --> 00:01:04.609 align:start position:0%
+Millennium Falcon made the Kessel run in
+12<00:01:02.760><c> parsecs</c><00:01:02.969><c> which</c><00:01:03.719><c> makes</c><00:01:03.960><c> people</c><00:01:04.140><c> think</c><00:01:04.290><c> that</c>
+
+00:01:04.609 --> 00:01:04.619 align:start position:0%
+12 parsecs which makes people think that
+ 
+
+00:01:04.619 --> 00:01:06.440 align:start position:0%
+12 parsecs which makes people think that
+it's<00:01:04.769><c> a</c><00:01:04.860><c> time</c><00:01:05.100><c> but</c><00:01:05.460><c> it's</c><00:01:05.580><c> not</c><00:01:05.670><c> it's</c><00:01:05.880><c> a</c><00:01:05.939><c> distance</c>
+
+00:01:06.440 --> 00:01:06.450 align:start position:0%
+it's a time but it's not it's a distance
+ 
+
+00:01:06.450 --> 00:01:08.870 align:start position:0%
+it's a time but it's not it's a distance
+the<00:01:06.780><c> way</c><00:01:06.960><c> that</c><00:01:07.170><c> it</c><00:01:07.290><c> is</c><00:01:07.500><c> a</c><00:01:07.860><c> fine</c><00:01:08.250><c> is</c><00:01:08.520><c> actually</c><00:01:08.790><c> in</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+the way that it is a fine is actually in
+ 
+
+00:01:08.880 --> 00:01:10.640 align:start position:0%
+the way that it is a fine is actually in
+terms<00:01:09.000><c> of</c><00:01:09.119><c> an</c><00:01:09.210><c> angle</c><00:01:09.720><c> it's</c><00:01:10.200><c> really</c><00:01:10.470><c> quite</c>
+
+00:01:10.640 --> 00:01:10.650 align:start position:0%
+terms of an angle it's really quite
+ 
+
+00:01:10.650 --> 00:01:12.050 align:start position:0%
+terms of an angle it's really quite
+strange<00:01:10.890><c> so</c><00:01:11.430><c> it's</c><00:01:11.549><c> all</c><00:01:11.670><c> to</c><00:01:11.760><c> do</c><00:01:11.850><c> with</c><00:01:11.880><c> this</c>
+
+00:01:12.050 --> 00:01:12.060 align:start position:0%
+strange so it's all to do with this
+ 
+
+00:01:12.060 --> 00:01:14.390 align:start position:0%
+strange so it's all to do with this
+thing<00:01:12.180><c> called</c><00:01:12.360><c> parallax</c><00:01:13.020><c> the</c><00:01:13.380><c> named</c><00:01:13.770><c> parsec</c>
+
+00:01:14.390 --> 00:01:14.400 align:start position:0%
+thing called parallax the named parsec
+ 
+
+00:01:14.400 --> 00:01:16.550 align:start position:0%
+thing called parallax the named parsec
+comes<00:01:14.640><c> from</c><00:01:14.909><c> a</c><00:01:14.939><c> portmanteau</c><00:01:15.270><c> of</c><00:01:15.509><c> parallax</c><00:01:16.229><c> an</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+comes from a portmanteau of parallax an
+ 
+
+00:01:16.560 --> 00:01:18.710 align:start position:0%
+comes from a portmanteau of parallax an
+arcsecond<00:01:17.250><c> which</c><00:01:17.729><c> is</c><00:01:17.850><c> an</c><00:01:17.939><c> angle</c><00:01:18.180><c> parsec</c>
+
+00:01:18.710 --> 00:01:18.720 align:start position:0%
+arcsecond which is an angle parsec
+ 
+
+00:01:18.720 --> 00:01:20.210 align:start position:0%
+arcsecond which is an angle parsec
+everybody<00:01:19.200><c> probably</c><00:01:19.680><c> at</c><00:01:19.770><c> some</c><00:01:19.830><c> point</c><00:01:19.950><c> has</c>
+
+00:01:20.210 --> 00:01:20.220 align:start position:0%
+everybody probably at some point has
+ 
+
+00:01:20.220 --> 00:01:21.740 align:start position:0%
+everybody probably at some point has
+done<00:01:20.400><c> this</c><00:01:20.549><c> where</c><00:01:21.060><c> they</c><00:01:21.299><c> put</c><00:01:21.450><c> their</c><00:01:21.540><c> finger</c><00:01:21.720><c> up</c>
+
+00:01:21.740 --> 00:01:21.750 align:start position:0%
+done this where they put their finger up
+ 
+
+00:01:21.750 --> 00:01:23.539 align:start position:0%
+done this where they put their finger up
+in<00:01:22.080><c> front</c><00:01:22.320><c> of</c><00:01:22.409><c> their</c><00:01:22.590><c> face</c><00:01:22.710><c> and</c><00:01:23.009><c> then</c><00:01:23.400><c> like</c>
+
+00:01:23.539 --> 00:01:23.549 align:start position:0%
+in front of their face and then like
+ 
+
+00:01:23.549 --> 00:01:25.070 align:start position:0%
+in front of their face and then like
+closing<00:01:23.759><c> one</c><00:01:23.970><c> eye</c><00:01:24.000><c> and</c><00:01:24.299><c> then</c><00:01:24.420><c> open</c><00:01:24.659><c> it</c><00:01:24.780><c> so</c><00:01:24.930><c> like</c>
+
+00:01:25.070 --> 00:01:25.080 align:start position:0%
+closing one eye and then open it so like
+ 
+
+00:01:25.080 --> 00:01:26.330 align:start position:0%
+closing one eye and then open it so like
+oh<00:01:25.200><c> look</c><00:01:25.350><c> my</c><00:01:25.470><c> thing</c><00:01:25.619><c> is</c><00:01:25.740><c> on</c><00:01:25.890><c> the</c><00:01:26.070><c> left</c><00:01:26.220><c> hand</c>
+
+00:01:26.330 --> 00:01:26.340 align:start position:0%
+oh look my thing is on the left hand
+ 
+
+00:01:26.340 --> 00:01:28.340 align:start position:0%
+oh look my thing is on the left hand
+side<00:01:26.520><c> of</c><00:01:26.610><c> your</c><00:01:26.640><c> face</c><00:01:26.820><c> Brady</c><00:01:27.090><c> on</c><00:01:27.229><c> the</c><00:01:28.229><c> right</c>
+
+00:01:28.340 --> 00:01:28.350 align:start position:0%
+side of your face Brady on the right
+ 
+
+00:01:28.350 --> 00:01:30.980 align:start position:0%
+side of your face Brady on the right
+hand<00:01:28.970><c> right</c><00:01:29.970><c> hand</c><00:01:30.150><c> side</c><00:01:30.299><c> I'm</c><00:01:30.450><c> not</c><00:01:30.659><c> even</c><00:01:30.900><c> my</c>
+
+00:01:30.980 --> 00:01:30.990 align:start position:0%
+hand right hand side I'm not even my
+ 
+
+00:01:30.990 --> 00:01:38.960 align:start position:0%
+hand right hand side I'm not even my
+finger<00:01:31.229><c> yeah</c><00:01:34.369><c> I</c><00:01:36.619><c> I</c><00:01:37.619><c> wasn't</c><00:01:38.100><c> trying</c><00:01:38.520><c> to</c><00:01:38.610><c> wave</c><00:01:38.820><c> it</c>
+
+00:01:38.960 --> 00:01:38.970 align:start position:0%
+finger yeah I I wasn't trying to wave it
+ 
+
+00:01:38.970 --> 00:01:44.690 align:start position:0%
+finger yeah I I wasn't trying to wave it
+again<00:01:42.649><c> and</c><00:01:43.649><c> so</c><00:01:43.950><c> basically</c><00:01:44.220><c> what's</c><00:01:44.399><c> happening</c>
+
+00:01:44.690 --> 00:01:44.700 align:start position:0%
+again and so basically what's happening
+ 
+
+00:01:44.700 --> 00:01:46.880 align:start position:0%
+again and so basically what's happening
+there<00:01:44.850><c> is</c><00:01:44.880><c> that</c><00:01:45.180><c> the</c><00:01:45.360><c> foreground</c><00:01:46.020><c> object</c><00:01:46.649><c> is</c>
+
+00:01:46.880 --> 00:01:46.890 align:start position:0%
+there is that the foreground object is
+ 
+
+00:01:46.890 --> 00:01:48.649 align:start position:0%
+there is that the foreground object is
+moving<00:01:47.250><c> with</c><00:01:47.729><c> respect</c><00:01:48.119><c> to</c><00:01:48.299><c> the</c><00:01:48.420><c> background</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+moving with respect to the background
+ 
+
+00:01:48.659 --> 00:01:51.380 align:start position:0%
+moving with respect to the background
+object<00:01:49.079><c> Brady</c><00:01:49.640><c> with</c><00:01:50.640><c> respect</c><00:01:50.939><c> to</c><00:01:51.030><c> like</c><00:01:51.180><c> what</c>
+
+00:01:51.380 --> 00:01:51.390 align:start position:0%
+object Brady with respect to like what
+ 
+
+00:01:51.390 --> 00:01:53.600 align:start position:0%
+object Brady with respect to like what
+angle<00:01:51.810><c> I</c><00:01:51.990><c> am</c><00:01:52.380><c> viewing</c><00:01:52.740><c> my</c><00:01:52.890><c> finger</c><00:01:53.130><c> at</c><00:01:53.250><c> and</c><00:01:53.369><c> if</c><00:01:53.460><c> I</c>
+
+00:01:53.600 --> 00:01:53.610 align:start position:0%
+angle I am viewing my finger at and if I
+ 
+
+00:01:53.610 --> 00:01:54.980 align:start position:0%
+angle I am viewing my finger at and if I
+move<00:01:53.790><c> my</c><00:01:53.850><c> finger</c><00:01:54.030><c> away</c><00:01:54.329><c> from</c><00:01:54.689><c> my</c><00:01:54.780><c> face</c><00:01:54.930><c> and</c>
+
+00:01:54.980 --> 00:01:54.990 align:start position:0%
+move my finger away from my face and
+ 
+
+00:01:54.990 --> 00:01:58.310 align:start position:0%
+move my finger away from my face and
+closer<00:01:55.409><c> to</c><00:01:55.680><c> it</c><00:01:56.490><c> moves</c><00:01:56.790><c> a</c><00:01:56.909><c> smaller</c><00:01:57.509><c> angle</c><00:01:57.689><c> and</c><00:01:58.049><c> a</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+closer to it moves a smaller angle and a
+ 
+
+00:01:58.320 --> 00:01:59.690 align:start position:0%
+closer to it moves a smaller angle and a
+bigger<00:01:58.500><c> angle</c><00:01:58.649><c> the</c><00:01:58.950><c> same</c><00:01:58.979><c> thing</c><00:01:59.250><c> happens</c><00:01:59.549><c> with</c>
+
+00:01:59.690 --> 00:01:59.700 align:start position:0%
+bigger angle the same thing happens with
+ 
+
+00:01:59.700 --> 00:02:02.480 align:start position:0%
+bigger angle the same thing happens with
+stars<00:02:00.210><c> so</c><00:02:00.840><c> foreground</c><00:02:01.409><c> stars</c><00:02:01.680><c> moving</c><00:02:02.280><c> with</c>
+
+00:02:02.480 --> 00:02:02.490 align:start position:0%
+stars so foreground stars moving with
+ 
+
+00:02:02.490 --> 00:02:04.249 align:start position:0%
+stars so foreground stars moving with
+respect<00:02:02.640><c> of</c><00:02:03.180><c> the</c><00:02:03.299><c> background</c><00:02:03.780><c> stars</c><00:02:04.079><c> at</c><00:02:04.229><c> the</c>
+
+00:02:04.249 --> 00:02:04.259 align:start position:0%
+respect of the background stars at the
+ 
+
+00:02:04.259 --> 00:02:05.060 align:start position:0%
+respect of the background stars at the
+constellations
+
+00:02:05.060 --> 00:02:05.070 align:start position:0%
+constellations
+ 
+
+00:02:05.070 --> 00:02:06.830 align:start position:0%
+constellations
+so<00:02:05.219><c> in</c><00:02:05.369><c> terms</c><00:02:05.610><c> of</c><00:02:05.759><c> like</c><00:02:05.909><c> where</c><00:02:06.180><c> the</c><00:02:06.390><c> earth</c><00:02:06.570><c> is</c>
+
+00:02:06.830 --> 00:02:06.840 align:start position:0%
+so in terms of like where the earth is
+ 
+
+00:02:06.840 --> 00:02:09.139 align:start position:0%
+so in terms of like where the earth is
+in<00:02:07.170><c> in</c><00:02:07.350><c> winters</c><00:02:07.710><c> left</c><00:02:08.520><c> eye</c><00:02:08.640><c> and</c><00:02:08.879><c> where</c><00:02:09.030><c> the</c>
+
+00:02:09.139 --> 00:02:09.149 align:start position:0%
+in in winters left eye and where the
+ 
+
+00:02:09.149 --> 00:02:10.999 align:start position:0%
+in in winters left eye and where the
+earth<00:02:09.270><c> is</c><00:02:09.390><c> in</c><00:02:09.539><c> summer</c><00:02:09.780><c> my</c><00:02:09.989><c> right</c><00:02:10.200><c> eye</c><00:02:10.229><c> sees</c><00:02:10.979><c> a</c>
+
+00:02:10.999 --> 00:02:11.009 align:start position:0%
+earth is in summer my right eye sees a
+ 
+
+00:02:11.009 --> 00:02:12.820 align:start position:0%
+earth is in summer my right eye sees a
+star<00:02:11.430><c> move</c>
+
+00:02:12.820 --> 00:02:12.830 align:start position:0%
+star move
+ 
+
+00:02:12.830 --> 00:02:14.890 align:start position:0%
+star move
+a<00:02:12.920><c> certain</c><00:02:13.370><c> angle</c><00:02:13.790><c> with</c><00:02:14.450><c> respect</c><00:02:14.480><c> to</c><00:02:14.840><c> the</c>
+
+00:02:14.890 --> 00:02:14.900 align:start position:0%
+a certain angle with respect to the
+ 
+
+00:02:14.900 --> 00:02:16.960 align:start position:0%
+a certain angle with respect to the
+background<00:02:15.170><c> stars</c><00:02:15.440><c> and</c><00:02:15.800><c> you</c><00:02:16.250><c> work</c><00:02:16.550><c> out</c><00:02:16.790><c> that</c>
+
+00:02:16.960 --> 00:02:16.970 align:start position:0%
+background stars and you work out that
+ 
+
+00:02:16.970 --> 00:02:18.700 align:start position:0%
+background stars and you work out that
+that<00:02:17.090><c> angle</c><00:02:17.300><c> actually</c><00:02:17.840><c> corresponds</c><00:02:18.470><c> to</c><00:02:18.500><c> a</c>
+
+00:02:18.700 --> 00:02:18.710 align:start position:0%
+that angle actually corresponds to a
+ 
+
+00:02:18.710 --> 00:02:20.500 align:start position:0%
+that angle actually corresponds to a
+distance<00:02:19.220><c> use</c><00:02:19.490><c> trigonometry</c><00:02:20.270><c> and</c><00:02:20.420><c> the</c>
+
+00:02:20.500 --> 00:02:20.510 align:start position:0%
+distance use trigonometry and the
+ 
+
+00:02:20.510 --> 00:02:22.180 align:start position:0%
+distance use trigonometry and the
+distance<00:02:20.870><c> from</c><00:02:20.930><c> the</c><00:02:21.110><c> earth</c><00:02:21.260><c> the</c><00:02:21.530><c> Sun</c><00:02:21.740><c> so</c><00:02:22.130><c> it</c>
+
+00:02:22.180 --> 00:02:22.190 align:start position:0%
+distance from the earth the Sun so it
+ 
+
+00:02:22.190 --> 00:02:24.280 align:start position:0%
+distance from the earth the Sun so it
+turns<00:02:22.340><c> out</c><00:02:22.430><c> that</c><00:02:22.580><c> a</c><00:02:22.640><c> parsec</c><00:02:23.120><c> is</c><00:02:23.150><c> about</c><00:02:23.450><c> 3</c><00:02:23.870><c> times</c>
+
+00:02:24.280 --> 00:02:24.290 align:start position:0%
+turns out that a parsec is about 3 times
+ 
+
+00:02:24.290 --> 00:02:27.460 align:start position:0%
+turns out that a parsec is about 3 times
+10<00:02:24.650><c> to</c><00:02:24.860><c> the</c><00:02:24.890><c> 16</c><00:02:25.520><c> meters</c><00:02:26.270><c> a</c><00:02:26.540><c> parsec</c><00:02:27.020><c> is</c><00:02:27.050><c> 30</c>
+
+00:02:27.460 --> 00:02:27.470 align:start position:0%
+10 to the 16 meters a parsec is 30
+ 
+
+00:02:27.470 --> 00:02:29.800 align:start position:0%
+10 to the 16 meters a parsec is 30
+petter<00:02:27.980><c> meters</c><00:02:28.550><c> we</c><00:02:29.090><c> don't</c><00:02:29.270><c> go</c><00:02:29.360><c> around</c><00:02:29.420><c> saying</c>
+
+00:02:29.800 --> 00:02:29.810 align:start position:0%
+petter meters we don't go around saying
+ 
+
+00:02:29.810 --> 00:02:31.960 align:start position:0%
+petter meters we don't go around saying
+things<00:02:30.200><c> like</c><00:02:30.320><c> you</c><00:02:30.530><c> know</c><00:02:30.650><c> that</c><00:02:30.860><c> the</c><00:02:31.010><c> Sun</c><00:02:31.280><c> is</c><00:02:31.550><c> 5</c>
+
+00:02:31.960 --> 00:02:31.970 align:start position:0%
+things like you know that the Sun is 5
+ 
+
+00:02:31.970 --> 00:02:34.060 align:start position:0%
+things like you know that the Sun is 5
+micro<00:02:32.600><c> parsecs</c><00:02:32.990><c> away</c><00:02:33.080><c> it's</c><00:02:33.440><c> definitely</c><00:02:33.890><c> only</c>
+
+00:02:34.060 --> 00:02:34.070 align:start position:0%
+micro parsecs away it's definitely only
+ 
+
+00:02:34.070 --> 00:02:35.890 align:start position:0%
+micro parsecs away it's definitely only
+used<00:02:34.490><c> for</c><00:02:34.760><c> distances</c><00:02:35.150><c> outside</c><00:02:35.570><c> the</c><00:02:35.720><c> solar</c>
+
+00:02:35.890 --> 00:02:35.900 align:start position:0%
+used for distances outside the solar
+ 
+
+00:02:35.900 --> 00:02:37.450 align:start position:0%
+used for distances outside the solar
+system<00:02:35.960><c> the</c><00:02:36.590><c> cool</c><00:02:36.710><c> thing</c><00:02:36.860><c> is</c><00:02:36.920><c> it</c><00:02:37.130><c> scales</c>
+
+00:02:37.450 --> 00:02:37.460 align:start position:0%
+system the cool thing is it scales
+ 
+
+00:02:37.460 --> 00:02:39.790 align:start position:0%
+system the cool thing is it scales
+really<00:02:37.640><c> well</c><00:02:37.850><c> so</c><00:02:38.300><c> nearby</c><00:02:38.810><c> stars</c><00:02:39.170><c> are</c><00:02:39.410><c> like</c><00:02:39.530><c> 10</c>
+
+00:02:39.790 --> 00:02:39.800 align:start position:0%
+really well so nearby stars are like 10
+ 
+
+00:02:39.800 --> 00:02:42.220 align:start position:0%
+really well so nearby stars are like 10
+to<00:02:40.070><c> a</c><00:02:40.100><c> hundreds</c><00:02:40.550><c> of</c><00:02:40.670><c> parsecs</c><00:02:41.150><c> galaxies</c><00:02:42.020><c> are</c>
+
+00:02:42.220 --> 00:02:42.230 align:start position:0%
+to a hundreds of parsecs galaxies are
+ 
+
+00:02:42.230 --> 00:02:44.470 align:start position:0%
+to a hundreds of parsecs galaxies are
+kiloparsecs<00:02:43.190><c> across</c><00:02:43.550><c> galaxies</c><00:02:44.330><c> are</c>
+
+00:02:44.470 --> 00:02:44.480 align:start position:0%
+kiloparsecs across galaxies are
+ 
+
+00:02:44.480 --> 00:02:46.900 align:start position:0%
+kiloparsecs across galaxies are
+separated<00:02:45.260><c> by</c><00:02:45.500><c> mega</c><00:02:45.890><c> parsecs</c><00:02:46.460><c> and</c><00:02:46.670><c> then</c><00:02:46.820><c> the</c>
+
+00:02:46.900 --> 00:02:46.910 align:start position:0%
+separated by mega parsecs and then the
+ 
+
+00:02:46.910 --> 00:02:49.480 align:start position:0%
+separated by mega parsecs and then the
+universe<00:02:47.240><c> itself</c><00:02:47.600><c> is</c><00:02:47.900><c> Giga</c><00:02:48.770><c> PASOK's</c>
+
+00:02:49.480 --> 00:02:49.490 align:start position:0%
+universe itself is Giga PASOK's
+ 
+
+00:02:49.490 --> 00:02:51.520 align:start position:0%
+universe itself is Giga PASOK's
+across<00:02:50.180><c> so</c><00:02:50.300><c> this</c><00:02:50.420><c> comes</c><00:02:50.600><c> from</c><00:02:50.750><c> the</c><00:02:50.870><c> idea</c><00:02:51.140><c> of</c><00:02:51.200><c> a</c>
+
+00:02:51.520 --> 00:02:51.530 align:start position:0%
+across so this comes from the idea of a
+ 
+
+00:02:51.530 --> 00:02:53.080 align:start position:0%
+across so this comes from the idea of a
+Hubble<00:02:52.040><c> length</c><00:02:52.280><c> you</c><00:02:52.640><c> know</c><00:02:52.730><c> what's</c><00:02:52.940><c> the</c>
+
+00:02:53.080 --> 00:02:53.090 align:start position:0%
+Hubble length you know what's the
+ 
+
+00:02:53.090 --> 00:02:55.420 align:start position:0%
+Hubble length you know what's the
+distance<00:02:53.420><c> to</c><00:02:53.600><c> the</c><00:02:53.750><c> farthest</c><00:02:54.380><c> object</c><00:02:55.160><c> that</c><00:02:55.280><c> we</c>
+
+00:02:55.420 --> 00:02:55.430 align:start position:0%
+distance to the farthest object that we
+ 
+
+00:02:55.430 --> 00:02:58.510 align:start position:0%
+distance to the farthest object that we
+can<00:02:55.610><c> observe</c><00:02:55.910><c> and</c><00:02:56.330><c> that's</c><00:02:56.660><c> about</c><00:02:56.830><c> 4.5</c><00:02:57.830><c> Giga</c>
+
+00:02:58.510 --> 00:02:58.520 align:start position:0%
+can observe and that's about 4.5 Giga
+ 
+
+00:02:58.520 --> 00:03:00.580 align:start position:0%
+can observe and that's about 4.5 Giga
+parsecs<00:02:59.030><c> and</c><00:02:59.270><c> that's</c><00:02:59.540><c> also</c><00:02:59.780><c> similar</c><00:03:00.170><c> to</c><00:03:00.320><c> the</c>
+
+00:03:00.580 --> 00:03:00.590 align:start position:0%
+parsecs and that's also similar to the
+ 
+
+00:03:00.590 --> 00:03:01.930 align:start position:0%
+parsecs and that's also similar to the
+hubble<00:03:00.890><c> time</c><00:03:01.130><c> as</c><00:03:01.370><c> well</c><00:03:01.490><c> which</c><00:03:01.580><c> is</c><00:03:01.670><c> the</c><00:03:01.760><c> best</c>
+
+00:03:01.930 --> 00:03:01.940 align:start position:0%
+hubble time as well which is the best
+ 
+
+00:03:01.940 --> 00:03:03.730 align:start position:0%
+hubble time as well which is the best
+estimate<00:03:02.330><c> for</c><00:03:02.390><c> the</c><00:03:02.510><c> age</c><00:03:02.570><c> of</c><00:03:02.630><c> the</c><00:03:02.780><c> universe</c><00:03:02.900><c> 14</c>
+
+00:03:03.730 --> 00:03:03.740 align:start position:0%
+estimate for the age of the universe 14
+ 
+
+00:03:03.740 --> 00:03:06.400 align:start position:0%
+estimate for the age of the universe 14
+Giga<00:03:04.490><c> years</c><00:03:04.730><c> billions</c><00:03:05.510><c> of</c><00:03:05.630><c> years</c><00:03:05.930><c> kicking</c><00:03:06.320><c> in</c>
+
+00:03:06.400 --> 00:03:06.410 align:start position:0%
+Giga years billions of years kicking in
+ 
+
+00:03:06.410 --> 00:03:08.560 align:start position:0%
+Giga years billions of years kicking in
+so<00:03:06.620><c> if</c><00:03:06.860><c> it</c><00:03:07.070><c> feels</c><00:03:07.340><c> really</c><00:03:07.700><c> weird</c><00:03:07.940><c> to</c><00:03:08.090><c> me</c><00:03:08.300><c> to</c>
+
+00:03:08.560 --> 00:03:08.570 align:start position:0%
+so if it feels really weird to me to
+ 
+
+00:03:08.570 --> 00:03:10.390 align:start position:0%
+so if it feels really weird to me to
+talk<00:03:08.750><c> about</c><00:03:08.900><c> distances</c><00:03:09.620><c> in</c><00:03:09.800><c> terms</c><00:03:09.980><c> of</c><00:03:10.100><c> angle</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+talk about distances in terms of angle
+ 
+
+00:03:10.400 --> 00:03:11.830 align:start position:0%
+talk about distances in terms of angle
+shifts<00:03:10.700><c> why</c><00:03:10.880><c> wouldn't</c><00:03:11.150><c> you</c><00:03:11.209><c> just</c><00:03:11.240><c> calculate</c>
+
+00:03:11.830 --> 00:03:11.840 align:start position:0%
+shifts why wouldn't you just calculate
+ 
+
+00:03:11.840 --> 00:03:14.290 align:start position:0%
+shifts why wouldn't you just calculate
+the<00:03:12.020><c> distance</c><00:03:12.530><c> and</c><00:03:12.770><c> I</c><00:03:13.340><c> had</c><00:03:13.730><c> a</c><00:03:13.760><c> little</c><00:03:14.000><c> put</c><00:03:14.150><c> down</c>
+
+00:03:14.290 --> 00:03:14.300 align:start position:0%
+the distance and I had a little put down
+ 
+
+00:03:14.300 --> 00:03:15.850 align:start position:0%
+the distance and I had a little put down
+from<00:03:15.020><c> someone</c><00:03:15.260><c> on</c><00:03:15.320><c> Twitter</c><00:03:15.500><c> for</c><00:03:15.740><c> my</c>
+
+00:03:15.850 --> 00:03:15.860 align:start position:0%
+from someone on Twitter for my
+ 
+
+00:03:15.860 --> 00:03:17.080 align:start position:0%
+from someone on Twitter for my
+millennial<00:03:16.250><c> ways</c><00:03:16.400><c> and</c><00:03:16.670><c> they</c><00:03:16.790><c> said</c><00:03:16.970><c> to</c><00:03:17.060><c> me</c>
+
+00:03:17.080 --> 00:03:17.090 align:start position:0%
+millennial ways and they said to me
+ 
+
+00:03:17.090 --> 00:03:19.150 align:start position:0%
+millennial ways and they said to me
+folks<00:03:17.540><c> wouldn't</c><00:03:17.930><c> think</c><00:03:18.110><c> parsec</c><00:03:18.650><c> was</c><00:03:18.800><c> so</c><00:03:18.920><c> weird</c>
+
+00:03:19.150 --> 00:03:19.160 align:start position:0%
+folks wouldn't think parsec was so weird
+ 
+
+00:03:19.160 --> 00:03:20.890 align:start position:0%
+folks wouldn't think parsec was so weird
+if<00:03:19.370><c> their</c><00:03:19.519><c> professional</c><00:03:20.060><c> career</c><00:03:20.300><c> extended</c>
+
+00:03:20.890 --> 00:03:20.900 align:start position:0%
+if their professional career extended
+ 
+
+00:03:20.900 --> 00:03:22.509 align:start position:0%
+if their professional career extended
+back<00:03:21.110><c> to</c><00:03:21.320><c> the</c><00:03:21.440><c> time</c><00:03:21.650><c> when</c><00:03:21.980><c> electronic</c>
+
+00:03:22.509 --> 00:03:22.519 align:start position:0%
+back to the time when electronic
+ 
+
+00:03:22.519 --> 00:03:24.670 align:start position:0%
+back to the time when electronic
+calculators<00:03:23.390><c> were</c><00:03:23.540><c> Rarity's</c><00:03:24.140><c> owned</c><00:03:24.440><c> by</c>
+
+00:03:24.670 --> 00:03:24.680 align:start position:0%
+calculators were Rarity's owned by
+ 
+
+00:03:24.680 --> 00:03:27.040 align:start position:0%
+calculators were Rarity's owned by
+university<00:03:25.160><c> departments</c><00:03:25.640><c> so</c><00:03:25.940><c> bill</c><00:03:26.750><c> keel</c>
+
+00:03:27.040 --> 00:03:27.050 align:start position:0%
+university departments so bill keel
+ 
+
+00:03:27.050 --> 00:03:29.050 align:start position:0%
+university departments so bill keel
+professional<00:03:27.739><c> astronomer</c><00:03:28.130><c> in</c><00:03:28.190><c> alabama</c><00:03:28.580><c> put</c>
+
+00:03:29.050 --> 00:03:29.060 align:start position:0%
+professional astronomer in alabama put
+ 
+
+00:03:29.060 --> 00:03:31.330 align:start position:0%
+professional astronomer in alabama put
+me<00:03:29.180><c> in</c><00:03:29.330><c> my</c><00:03:29.450><c> place</c><00:03:29.480><c> an</c><00:03:29.900><c> electron</c><00:03:30.380><c> volt</c><00:03:30.590><c> it's</c><00:03:31.160><c> not</c>
+
+00:03:31.330 --> 00:03:31.340 align:start position:0%
+me in my place an electron volt it's not
+ 
+
+00:03:31.340 --> 00:03:33.520 align:start position:0%
+me in my place an electron volt it's not
+a<00:03:31.370><c> voltage</c><00:03:31.760><c> nope</c><00:03:32.690><c> do</c><00:03:33.110><c> you</c><00:03:33.170><c> know</c><00:03:33.260><c> what</c><00:03:33.350><c> it</c><00:03:33.440><c> is</c>
+
+00:03:33.520 --> 00:03:33.530 align:start position:0%
+a voltage nope do you know what it is
+ 
+
+00:03:33.530 --> 00:03:37.360 align:start position:0%
+a voltage nope do you know what it is
+instead<00:03:35.320><c> yeah</c><00:03:36.320><c> so</c><00:03:36.530><c> it's</c><00:03:36.680><c> not</c><00:03:36.800><c> a</c><00:03:36.830><c> voltage</c><00:03:37.190><c> it's</c>
+
+00:03:37.360 --> 00:03:37.370 align:start position:0%
+instead yeah so it's not a voltage it's
+ 
+
+00:03:37.370 --> 00:03:40.150 align:start position:0%
+instead yeah so it's not a voltage it's
+an<00:03:37.459><c> energy</c><00:03:37.970><c> of</c><00:03:38.480><c> an</c><00:03:38.959><c> electron</c><00:03:39.050><c> basically</c><00:03:39.950><c> so</c>
+
+00:03:40.150 --> 00:03:40.160 align:start position:0%
+an energy of an electron basically so
+ 
+
+00:03:40.160 --> 00:03:42.120 align:start position:0%
+an energy of an electron basically so
+it's<00:03:40.340><c> the</c><00:03:40.430><c> energy</c><00:03:40.820><c> that</c><00:03:41.000><c> an</c><00:03:41.120><c> electron</c><00:03:41.600><c> gains</c>
+
+00:03:42.120 --> 00:03:42.130 align:start position:0%
+it's the energy that an electron gains
+ 
+
+00:03:42.130 --> 00:03:45.130 align:start position:0%
+it's the energy that an electron gains
+moving<00:03:43.130><c> through</c><00:03:43.459><c> a</c><00:03:43.700><c> voltage</c><00:03:44.209><c> of</c><00:03:44.360><c> 1</c><00:03:44.540><c> volt</c><00:03:44.570><c> so</c>
+
+00:03:45.130 --> 00:03:45.140 align:start position:0%
+moving through a voltage of 1 volt so
+ 
+
+00:03:45.140 --> 00:03:46.810 align:start position:0%
+moving through a voltage of 1 volt so
+obviously<00:03:45.380><c> electricity</c><00:03:45.920><c> comes</c><00:03:46.190><c> from</c><00:03:46.400><c> the</c>
+
+00:03:46.810 --> 00:03:46.820 align:start position:0%
+obviously electricity comes from the
+ 
+
+00:03:46.820 --> 00:03:48.670 align:start position:0%
+obviously electricity comes from the
+movement<00:03:47.239><c> of</c><00:03:47.330><c> particles</c><00:03:47.510><c> with</c><00:03:47.930><c> charges</c><00:03:48.410><c> and</c>
+
+00:03:48.670 --> 00:03:48.680 align:start position:0%
+movement of particles with charges and
+ 
+
+00:03:48.680 --> 00:03:50.830 align:start position:0%
+movement of particles with charges and
+protons<00:03:49.400><c> and</c><00:03:49.670><c> electrons</c><00:03:49.850><c> protons</c><00:03:50.300><c> tend</c><00:03:50.660><c> to</c><00:03:50.750><c> be</c>
+
+00:03:50.830 --> 00:03:50.840 align:start position:0%
+protons and electrons protons tend to be
+ 
+
+00:03:50.840 --> 00:03:52.449 align:start position:0%
+protons and electrons protons tend to be
+locked<00:03:51.019><c> into</c><00:03:51.200><c> atoms</c><00:03:51.590><c> so</c><00:03:51.769><c> it's</c><00:03:51.890><c> the</c><00:03:51.980><c> electrons</c>
+
+00:03:52.449 --> 00:03:52.459 align:start position:0%
+locked into atoms so it's the electrons
+ 
+
+00:03:52.459 --> 00:03:54.820 align:start position:0%
+locked into atoms so it's the electrons
+that<00:03:52.640><c> move</c><00:03:53.000><c> so</c><00:03:53.480><c> it</c><00:03:53.810><c> makes</c><00:03:53.989><c> a</c><00:03:54.320><c> lot</c><00:03:54.500><c> of</c><00:03:54.530><c> sense</c>
+
+00:03:54.820 --> 00:03:54.830 align:start position:0%
+that move so it makes a lot of sense
+ 
+
+00:03:54.830 --> 00:03:56.199 align:start position:0%
+that move so it makes a lot of sense
+when<00:03:54.920><c> you</c><00:03:55.100><c> think</c><00:03:55.250><c> about</c><00:03:55.310><c> it</c><00:03:55.580><c> like</c><00:03:55.790><c> that</c><00:03:55.850><c> but</c>
+
+00:03:56.199 --> 00:03:56.209 align:start position:0%
+when you think about it like that but
+ 
+
+00:03:56.209 --> 00:03:57.940 align:start position:0%
+when you think about it like that but
+the<00:03:56.300><c> reason</c><00:03:56.720><c> that</c><00:03:56.930><c> I</c><00:03:56.989><c> think</c><00:03:57.080><c> it's</c><00:03:57.320><c> weird</c><00:03:57.590><c> is</c>
+
+00:03:57.940 --> 00:03:57.950 align:start position:0%
+the reason that I think it's weird is
+ 
+
+00:03:57.950 --> 00:04:01.030 align:start position:0%
+the reason that I think it's weird is
+that<00:03:58.160><c> it's</c><00:03:58.489><c> not</c><00:03:58.670><c> a</c><00:03:58.700><c> defined</c><00:03:59.420><c> unit</c><00:04:00.230><c> it's</c><00:04:00.800><c> an</c>
+
+00:04:01.030 --> 00:04:01.040 align:start position:0%
+that it's not a defined unit it's an
+ 
+
+00:04:01.040 --> 00:04:03.400 align:start position:0%
+that it's not a defined unit it's an
+empirical<00:04:01.760><c> unit</c><00:04:02.269><c> it</c><00:04:02.360><c> comes</c><00:04:02.570><c> from</c><00:04:02.810><c> measurement</c>
+
+00:04:03.400 --> 00:04:03.410 align:start position:0%
+empirical unit it comes from measurement
+ 
+
+00:04:03.410 --> 00:04:05.530 align:start position:0%
+empirical unit it comes from measurement
+so<00:04:03.590><c> to</c><00:04:04.160><c> actually</c><00:04:04.489><c> refer</c><00:04:04.820><c> to</c><00:04:04.850><c> an</c><00:04:05.150><c> electron</c><00:04:05.510><c> volt</c>
+
+00:04:05.530 --> 00:04:05.540 align:start position:0%
+so to actually refer to an electron volt
+ 
+
+00:04:05.540 --> 00:04:06.610 align:start position:0%
+so to actually refer to an electron volt
+in<00:04:05.780><c> an</c><00:04:05.870><c> experiment</c><00:04:06.260><c> you</c><00:04:06.320><c> have</c><00:04:06.350><c> to</c><00:04:06.500><c> have</c>
+
+00:04:06.610 --> 00:04:06.620 align:start position:0%
+in an experiment you have to have
+ 
+
+00:04:06.620 --> 00:04:08.229 align:start position:0%
+in an experiment you have to have
+actually<00:04:06.890><c> measure</c><00:04:07.130><c> what</c><00:04:07.550><c> the</c><00:04:07.700><c> energy</c><00:04:07.850><c> gained</c>
+
+00:04:08.229 --> 00:04:08.239 align:start position:0%
+actually measure what the energy gained
+ 
+
+00:04:08.239 --> 00:04:11.259 align:start position:0%
+actually measure what the energy gained
+by<00:04:08.390><c> the</c><00:04:08.570><c> electron</c><00:04:08.989><c> is</c><00:04:09.110><c> over</c><00:04:09.500><c> 1</c><00:04:09.709><c> volts</c><00:04:10.269><c> because</c>
+
+00:04:11.259 --> 00:04:11.269 align:start position:0%
+by the electron is over 1 volts because
+ 
+
+00:04:11.269 --> 00:04:13.270 align:start position:0%
+by the electron is over 1 volts because
+it's<00:04:11.420><c> not</c><00:04:11.510><c> necessarily</c><00:04:11.900><c> like</c><00:04:11.930><c> defined</c><00:04:12.709><c> like</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+it's not necessarily like defined like
+ 
+
+00:04:13.280 --> 00:04:15.910 align:start position:0%
+it's not necessarily like defined like
+say<00:04:13.459><c> the</c><00:04:13.580><c> speed</c><00:04:13.790><c> of</c><00:04:13.910><c> light</c><00:04:14.060><c> is</c><00:04:14.239><c> defined</c><00:04:14.830><c> it's</c><00:04:15.830><c> a</c>
+
+00:04:15.910 --> 00:04:15.920 align:start position:0%
+say the speed of light is defined it's a
+ 
+
+00:04:15.920 --> 00:04:18.280 align:start position:0%
+say the speed of light is defined it's a
+measurement<00:04:16.280><c> unit</c><00:04:16.940><c> and</c><00:04:17.150><c> and</c><00:04:17.840><c> so</c><00:04:18.049><c> I</c><00:04:18.080><c> think</c>
+
+00:04:18.280 --> 00:04:18.290 align:start position:0%
+measurement unit and and so I think
+ 
+
+00:04:18.290 --> 00:04:20.440 align:start position:0%
+measurement unit and and so I think
+that's<00:04:18.560><c> kind</c><00:04:18.979><c> of</c><00:04:19.100><c> weird</c><00:04:19.430><c> how</c><00:04:19.760><c> it</c><00:04:19.790><c> becomes</c><00:04:20.150><c> the</c>
+
+00:04:20.440 --> 00:04:20.450 align:start position:0%
+that's kind of weird how it becomes the
+ 
+
+00:04:20.450 --> 00:04:22.390 align:start position:0%
+that's kind of weird how it becomes the
+sort<00:04:20.630><c> of</c><00:04:20.720><c> like</c><00:04:20.840><c> self-referential</c><00:04:21.320><c> kind</c><00:04:22.280><c> of</c>
+
+00:04:22.390 --> 00:04:22.400 align:start position:0%
+sort of like self-referential kind of
+ 
+
+00:04:22.400 --> 00:04:24.460 align:start position:0%
+sort of like self-referential kind of
+unit<00:04:22.700><c> so</c><00:04:23.120><c> if</c><00:04:23.270><c> you</c><00:04:23.390><c> do</c><00:04:23.600><c> measure</c><00:04:24.020><c> an</c><00:04:24.169><c> electron</c>
+
+00:04:24.460 --> 00:04:24.470 align:start position:0%
+unit so if you do measure an electron
+ 
+
+00:04:24.470 --> 00:04:26.469 align:start position:0%
+unit so if you do measure an electron
+volt<00:04:24.500><c> it</c><00:04:25.039><c> comes</c><00:04:25.280><c> out</c><00:04:25.400><c> at</c><00:04:25.520><c> one</c><00:04:25.729><c> point</c>
+
+00:04:26.469 --> 00:04:26.479 align:start position:0%
+volt it comes out at one point
+ 
+
+00:04:26.479 --> 00:04:30.430 align:start position:0%
+volt it comes out at one point
+times<00:04:26.750><c> 10</c><00:04:27.080><c> to</c><00:04:27.229><c> the</c><00:04:27.259><c> minus</c><00:04:27.680><c> 19</c><00:04:27.949><c> joules</c><00:04:28.550><c> or</c><00:04:29.169><c> 16</c><00:04:30.169><c> at</c>
+
+00:04:30.430 --> 00:04:30.440 align:start position:0%
+times 10 to the minus 19 joules or 16 at
+ 
+
+00:04:30.440 --> 00:04:33.159 align:start position:0%
+times 10 to the minus 19 joules or 16 at
+Oh<00:04:30.470><c> Jules</c><00:04:30.919><c> if</c><00:04:31.220><c> you</c><00:04:31.430><c> prefer</c><00:04:31.759><c> so</c><00:04:32.120><c> atomic</c><00:04:32.750><c> physics</c>
+
+00:04:33.159 --> 00:04:33.169 align:start position:0%
+Oh Jules if you prefer so atomic physics
+ 
+
+00:04:33.169 --> 00:04:34.749 align:start position:0%
+Oh Jules if you prefer so atomic physics
+nuclear<00:04:33.350><c> physics</c><00:04:33.590><c> particle</c><00:04:34.340><c> physics</c><00:04:34.610><c> they</c>
+
+00:04:34.749 --> 00:04:34.759 align:start position:0%
+nuclear physics particle physics they
+ 
+
+00:04:34.759 --> 00:04:36.730 align:start position:0%
+nuclear physics particle physics they
+all<00:04:34.940><c> deal</c><00:04:35.240><c> with</c><00:04:35.330><c> the</c><00:04:35.900><c> tiny</c><00:04:36.169><c> things</c><00:04:36.320><c> in</c><00:04:36.650><c> our</c>
+
+00:04:36.730 --> 00:04:36.740 align:start position:0%
+all deal with the tiny things in our
+ 
+
+00:04:36.740 --> 00:04:38.529 align:start position:0%
+all deal with the tiny things in our
+universe<00:04:36.770><c> and</c><00:04:37.400><c> so</c><00:04:37.610><c> these</c><00:04:37.789><c> kind</c><00:04:38.030><c> of</c><00:04:38.090><c> energies</c>
+
+00:04:38.529 --> 00:04:38.539 align:start position:0%
+universe and so these kind of energies
+ 
+
+00:04:38.539 --> 00:04:41.260 align:start position:0%
+universe and so these kind of energies
+are<00:04:39.190><c> appropriate</c><00:04:40.190><c> for</c><00:04:40.400><c> those</c><00:04:40.490><c> fields</c><00:04:40.820><c> cool</c>
+
+00:04:41.260 --> 00:04:41.270 align:start position:0%
+are appropriate for those fields cool
+ 
+
+00:04:41.270 --> 00:04:43.270 align:start position:0%
+are appropriate for those fields cool
+thing<00:04:41.449><c> is</c><00:04:41.570><c> though</c><00:04:41.720><c> it's</c><00:04:41.930><c> not</c><00:04:42.139><c> often</c><00:04:42.889><c> used</c><00:04:43.100><c> as</c>
+
+00:04:43.270 --> 00:04:43.280 align:start position:0%
+thing is though it's not often used as
+ 
+
+00:04:43.280 --> 00:04:46.080 align:start position:0%
+thing is though it's not often used as
+energy<00:04:43.789><c> unit</c><00:04:44.479><c> it's</c><00:04:44.810><c> used</c><00:04:45.110><c> as</c><00:04:45.229><c> a</c><00:04:45.259><c> mass</c><00:04:45.530><c> unit</c>
+
+00:04:46.080 --> 00:04:46.090 align:start position:0%
+energy unit it's used as a mass unit
+ 
+
+00:04:46.090 --> 00:04:48.249 align:start position:0%
+energy unit it's used as a mass unit
+yeah<00:04:47.090><c> so</c><00:04:47.360><c> if</c><00:04:47.449><c> we</c><00:04:47.539><c> think</c><00:04:47.600><c> about</c><00:04:47.690><c> what</c><00:04:47.900><c> Einstein</c>
+
+00:04:48.249 --> 00:04:48.259 align:start position:0%
+yeah so if we think about what Einstein
+ 
+
+00:04:48.259 --> 00:04:50.650 align:start position:0%
+yeah so if we think about what Einstein
+told<00:04:48.410><c> us</c><00:04:48.560><c> e</c><00:04:48.800><c> equals</c><00:04:49.370><c> MC</c><00:04:49.669><c> squared</c><00:04:49.699><c> energy</c><00:04:50.539><c> and</c>
+
+00:04:50.650 --> 00:04:50.660 align:start position:0%
+told us e equals MC squared energy and
+ 
+
+00:04:50.660 --> 00:04:51.400 align:start position:0%
+told us e equals MC squared energy and
+mass<00:04:50.780><c> are</c><00:04:50.900><c> equivalent</c>
+
+00:04:51.400 --> 00:04:51.410 align:start position:0%
+mass are equivalent
+ 
+
+00:04:51.410 --> 00:04:53.469 align:start position:0%
+mass are equivalent
+once<00:04:51.530><c> we've</c><00:04:51.710><c> measured</c><00:04:52.009><c> how</c><00:04:52.610><c> much</c><00:04:52.669><c> energy</c><00:04:53.000><c> an</c>
+
+00:04:53.469 --> 00:04:53.479 align:start position:0%
+once we've measured how much energy an
+ 
+
+00:04:53.479 --> 00:04:55.749 align:start position:0%
+once we've measured how much energy an
+electron<00:04:53.840><c> has</c><00:04:53.930><c> in</c><00:04:54.139><c> this</c><00:04:54.259><c> one</c><00:04:54.440><c> volt</c><00:04:54.740><c> we</c><00:04:55.550><c> then</c>
+
+00:04:55.749 --> 00:04:55.759 align:start position:0%
+electron has in this one volt we then
+ 
+
+00:04:55.759 --> 00:04:58.150 align:start position:0%
+electron has in this one volt we then
+can<00:04:56.120><c> know</c><00:04:56.150><c> its</c><00:04:56.389><c> mass</c><00:04:56.630><c> if</c><00:04:57.080><c> we</c><00:04:57.530><c> divide</c><00:04:57.800><c> it</c><00:04:57.919><c> by</c><00:04:57.949><c> C</c>
+
+00:04:58.150 --> 00:04:58.160 align:start position:0%
+can know its mass if we divide it by C
+ 
+
+00:04:58.160 --> 00:04:59.950 align:start position:0%
+can know its mass if we divide it by C
+squared<00:04:58.430><c> so</c><00:04:58.850><c> a</c><00:04:59.090><c> lot</c><00:04:59.300><c> of</c><00:04:59.389><c> times</c><00:04:59.539><c> that</c><00:04:59.690><c> you</c><00:04:59.750><c> see</c>
+
+00:04:59.950 --> 00:04:59.960 align:start position:0%
+squared so a lot of times that you see
+ 
+
+00:04:59.960 --> 00:05:01.390 align:start position:0%
+squared so a lot of times that you see
+electron<00:05:00.320><c> volt</c><00:05:00.500><c> is</c><00:05:00.620><c> actually</c><00:05:00.979><c> quoting</c><00:05:01.280><c> the</c>
+
+00:05:01.390 --> 00:05:01.400 align:start position:0%
+electron volt is actually quoting the
+ 
+
+00:05:01.400 --> 00:05:03.279 align:start position:0%
+electron volt is actually quoting the
+mass<00:05:01.699><c> of</c><00:05:02.030><c> these</c><00:05:02.300><c> tiny</c><00:05:02.570><c> tiny</c><00:05:02.750><c> particles</c>
+
+00:05:03.279 --> 00:05:03.289 align:start position:0%
+mass of these tiny tiny particles
+ 
+
+00:05:03.289 --> 00:05:05.020 align:start position:0%
+mass of these tiny tiny particles
+instead<00:05:04.190><c> you</c><00:05:04.340><c> just</c><00:05:04.370><c> have</c><00:05:04.550><c> to</c><00:05:04.639><c> remember</c><00:05:04.789><c> that</c>
+
+00:05:05.020 --> 00:05:05.030 align:start position:0%
+instead you just have to remember that
+ 
+
+00:05:05.030 --> 00:05:07.540 align:start position:0%
+instead you just have to remember that
+there's<00:05:05.210><c> this</c><00:05:05.330><c> divided</c><00:05:06.080><c> by</c><00:05:06.169><c> C</c><00:05:06.380><c> squared</c><00:05:06.740><c> unit</c>
+
+00:05:07.540 --> 00:05:07.550 align:start position:0%
+there's this divided by C squared unit
+ 
+
+00:05:07.550 --> 00:05:08.740 align:start position:0%
+there's this divided by C squared unit
+that's<00:05:07.729><c> there</c><00:05:07.910><c> as</c><00:05:08.060><c> well</c><00:05:08.210><c> that</c><00:05:08.240><c> you</c><00:05:08.479><c> have</c><00:05:08.630><c> to</c>
+
+00:05:08.740 --> 00:05:08.750 align:start position:0%
+that's there as well that you have to
+ 
+
+00:05:08.750 --> 00:05:11.110 align:start position:0%
+that's there as well that you have to
+not<00:05:08.900><c> forget</c><00:05:09.199><c> an</c><00:05:09.560><c> electron</c><00:05:10.039><c> nor</c><00:05:10.490><c> point</c><00:05:10.820><c> five</c>
+
+00:05:11.110 --> 00:05:11.120 align:start position:0%
+not forget an electron nor point five
+ 
+
+00:05:11.120 --> 00:05:13.480 align:start position:0%
+not forget an electron nor point five
+one<00:05:11.510><c> one</c><00:05:11.750><c> mega</c><00:05:12.320><c> electron</c><00:05:12.590><c> volts</c><00:05:13.190><c> per</c><00:05:13.340><c> C</c>
+
+00:05:13.480 --> 00:05:13.490 align:start position:0%
+one one mega electron volts per C
+ 
+
+00:05:13.490 --> 00:05:13.870 align:start position:0%
+one one mega electron volts per C
+squared
+
+00:05:13.870 --> 00:05:13.880 align:start position:0%
+squared
+ 
+
+00:05:13.880 --> 00:05:15.340 align:start position:0%
+squared
+and<00:05:13.970><c> that</c><00:05:14.150><c> might</c><00:05:14.330><c> sound</c><00:05:14.570><c> really</c><00:05:14.720><c> strange</c><00:05:14.960><c> but</c>
+
+00:05:15.340 --> 00:05:15.350 align:start position:0%
+and that might sound really strange but
+ 
+
+00:05:15.350 --> 00:05:16.600 align:start position:0%
+and that might sound really strange but
+like<00:05:15.470><c> most</c><00:05:15.650><c> undergrad</c><00:05:16.070><c> physicists</c><00:05:16.520><c> will</c>
+
+00:05:16.600 --> 00:05:16.610 align:start position:0%
+like most undergrad physicists will
+ 
+
+00:05:16.610 --> 00:05:17.500 align:start position:0%
+like most undergrad physicists will
+probably<00:05:16.850><c> know</c><00:05:16.910><c> that</c><00:05:17.030><c> off</c><00:05:17.150><c> the</c><00:05:17.180><c> top</c><00:05:17.270><c> of</c><00:05:17.389><c> their</c>
+
+00:05:17.500 --> 00:05:17.510 align:start position:0%
+probably know that off the top of their
+ 
+
+00:05:17.510 --> 00:05:19.659 align:start position:0%
+probably know that off the top of their
+head<00:05:17.630><c> in</c><00:05:18.380><c> mega</c><00:05:18.680><c> electron</c><00:05:18.889><c> volts</c><00:05:19.340><c> four</c><00:05:19.520><c> C's</c>
+
+00:05:19.659 --> 00:05:19.669 align:start position:0%
+head in mega electron volts four C's
+ 
+
+00:05:19.669 --> 00:05:21.610 align:start position:0%
+head in mega electron volts four C's
+good<00:05:19.849><c> which</c><00:05:20.270><c> is</c><00:05:20.389><c> kind</c><00:05:20.630><c> of</c><00:05:20.660><c> cool</c><00:05:20.840><c> right</c><00:05:21.139><c> the</c>
+
+00:05:21.610 --> 00:05:21.620 align:start position:0%
+good which is kind of cool right the
+ 
+
+00:05:21.620 --> 00:05:24.430 align:start position:0%
+good which is kind of cool right the
+Higgs<00:05:21.770><c> boson</c><00:05:21.949><c> that's</c><00:05:22.389><c> 125</c><00:05:23.389><c> Giga</c><00:05:24.229><c> electron</c>
+
+00:05:24.430 --> 00:05:24.440 align:start position:0%
+Higgs boson that's 125 Giga electron
+ 
+
+00:05:24.440 --> 00:05:26.379 align:start position:0%
+Higgs boson that's 125 Giga electron
+volts<00:05:25.039><c> this</c><00:05:25.190><c> is</c><00:05:25.250><c> good</c><00:05:25.550><c> and</c><00:05:25.729><c> so</c><00:05:25.849><c> again</c><00:05:26.180><c> this</c>
+
+00:05:26.379 --> 00:05:26.389 align:start position:0%
+volts this is good and so again this
+ 
+
+00:05:26.389 --> 00:05:28.150 align:start position:0%
+volts this is good and so again this
+idea<00:05:26.599><c> of</c><00:05:26.870><c> like</c><00:05:27.020><c> the</c><00:05:27.229><c> the</c><00:05:27.590><c> prefix</c><00:05:28.009><c> of</c><00:05:28.099><c> the</c>
+
+00:05:28.150 --> 00:05:28.160 align:start position:0%
+idea of like the the prefix of the
+ 
+
+00:05:28.160 --> 00:05:29.830 align:start position:0%
+idea of like the the prefix of the
+unit's<00:05:28.520><c> gives</c><00:05:28.759><c> you</c><00:05:28.910><c> an</c><00:05:29.000><c> idea</c><00:05:29.210><c> of</c><00:05:29.300><c> how</c><00:05:29.630><c> much</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+unit's gives you an idea of how much
+ 
+
+00:05:29.840 --> 00:05:31.689 align:start position:0%
+unit's gives you an idea of how much
+bigger<00:05:30.199><c> in</c><00:05:30.410><c> terms</c><00:05:30.560><c> of</c><00:05:30.770><c> an</c><00:05:30.889><c> electron</c><00:05:31.370><c> the</c><00:05:31.520><c> Higgs</c>
+
+00:05:31.689 --> 00:05:31.699 align:start position:0%
+bigger in terms of an electron the Higgs
+ 
+
+00:05:31.699 --> 00:05:32.800 align:start position:0%
+bigger in terms of an electron the Higgs
+boson<00:05:31.880><c> really</c><00:05:32.240><c> is</c><00:05:32.360><c> it's</c><00:05:32.570><c> one</c><00:05:32.660><c> of</c><00:05:32.720><c> those</c>
+
+00:05:32.800 --> 00:05:32.810 align:start position:0%
+boson really is it's one of those
+ 
+
+00:05:32.810 --> 00:05:34.540 align:start position:0%
+boson really is it's one of those
+massive<00:05:33.199><c> particles</c><00:05:33.560><c> we</c><00:05:33.650><c> know</c><00:05:33.800><c> so</c><00:05:34.099><c> it's</c><00:05:34.430><c> an</c>
+
+00:05:34.540 --> 00:05:34.550 align:start position:0%
+massive particles we know so it's an
+ 
+
+00:05:34.550 --> 00:05:37.510 align:start position:0%
+massive particles we know so it's an
+energy<00:05:34.910><c> but</c><00:05:35.150><c> sometimes</c><00:05:35.479><c> used</c><00:05:35.690><c> as</c><00:05:35.780><c> a</c><00:05:35.810><c> mass</c><00:05:36.520><c> so</c>
+
+00:05:37.510 --> 00:05:37.520 align:start position:0%
+energy but sometimes used as a mass so
+ 
+
+00:05:37.520 --> 00:05:41.550 align:start position:0%
+energy but sometimes used as a mass so
+Brady<00:05:37.699><c> have</c><00:05:38.389><c> you</c><00:05:38.479><c> ever</c><00:05:38.630><c> heard</c><00:05:38.840><c> of</c><00:05:38.960><c> snoo</c><00:05:39.289><c> B</c><00:05:39.699><c> yeah</c>
+
+00:05:41.550 --> 00:05:41.560 align:start position:0%
+Brady have you ever heard of snoo B yeah
+ 
+
+00:05:41.560 --> 00:05:45.219 align:start position:0%
+Brady have you ever heard of snoo B yeah
+Newby's<00:05:42.560><c> my</c><00:05:42.860><c> favorite</c><00:05:43.220><c> record</c><00:05:43.870><c> it's</c><00:05:44.870><c> not</c><00:05:45.020><c> like</c>
+
+00:05:45.219 --> 00:05:45.229 align:start position:0%
+Newby's my favorite record it's not like
+ 
+
+00:05:45.229 --> 00:05:49.450 align:start position:0%
+Newby's my favorite record it's not like
+Snoopy's<00:05:45.860><c> cousin</c><00:05:46.130><c> its</c><00:05:47.060><c> rapid</c><00:05:47.770><c> its</c><00:05:48.770><c> newbie</c><00:05:49.070><c> so</c>
+
+00:05:49.450 --> 00:05:49.460 align:start position:0%
+Snoopy's cousin its rapid its newbie so
+ 
+
+00:05:49.460 --> 00:05:51.070 align:start position:0%
+Snoopy's cousin its rapid its newbie so
+anything<00:05:49.669><c> this</c><00:05:49.760><c> is</c><00:05:49.820><c> one</c><00:05:50.060><c> my</c><00:05:50.150><c> favorites</c><00:05:50.539><c> do</c><00:05:50.930><c> be</c>
+
+00:05:51.070 --> 00:05:51.080 align:start position:0%
+anything this is one my favorites do be
+ 
+
+00:05:51.080 --> 00:05:54.129 align:start position:0%
+anything this is one my favorites do be
+it<00:05:51.500><c> stands</c><00:05:51.800><c> for</c><00:05:52.240><c> supernova</c><00:05:53.240><c> unit</c><00:05:53.630><c> in</c><00:05:53.810><c> the</c><00:05:54.020><c> B</c>
+
+00:05:54.129 --> 00:05:54.139 align:start position:0%
+it stands for supernova unit in the B
+ 
+
+00:05:54.139 --> 00:05:55.719 align:start position:0%
+it stands for supernova unit in the B
+band<00:05:54.380><c> so</c><00:05:54.889><c> basically</c><00:05:55.130><c> what</c><00:05:55.310><c> it</c><00:05:55.400><c> is</c><00:05:55.460><c> is</c><00:05:55.610><c> the</c>
+
+00:05:55.719 --> 00:05:55.729 align:start position:0%
+band so basically what it is is the
+ 
+
+00:05:55.729 --> 00:05:58.240 align:start position:0%
+band so basically what it is is the
+number<00:05:56.090><c> of</c><00:05:56.120><c> supernovae</c><00:05:56.810><c> per</c><00:05:57.560><c> century</c>
+
+00:05:58.240 --> 00:05:58.250 align:start position:0%
+number of supernovae per century
+ 
+
+00:05:58.250 --> 00:06:01.060 align:start position:0%
+number of supernovae per century
+per<00:05:59.000><c> 10</c><00:05:59.419><c> to</c><00:05:59.690><c> the</c><00:05:59.810><c> power</c><00:05:59.990><c> of</c><00:06:00.139><c> 10</c><00:06:00.530><c> solar</c>
+
+00:06:01.060 --> 00:06:01.070 align:start position:0%
+per 10 to the power of 10 solar
+ 
+
+00:06:01.070 --> 00:06:03.360 align:start position:0%
+per 10 to the power of 10 solar
+luminosities<00:06:01.940><c> in</c><00:06:02.210><c> the</c><00:06:02.479><c> B</c><00:06:02.630><c> band</c>
+
+00:06:03.360 --> 00:06:03.370 align:start position:0%
+luminosities in the B band
+ 
+
+00:06:03.370 --> 00:06:07.420 align:start position:0%
+luminosities in the B band
+yeah<00:06:05.139><c> basically</c><00:06:06.139><c> what</c><00:06:06.409><c> it</c><00:06:06.470><c> boils</c><00:06:06.530><c> down</c><00:06:06.770><c> to</c><00:06:06.889><c> is</c>
+
+00:06:07.420 --> 00:06:07.430 align:start position:0%
+yeah basically what it boils down to is
+ 
+
+00:06:07.430 --> 00:06:09.279 align:start position:0%
+yeah basically what it boils down to is
+number<00:06:08.270><c> of</c><00:06:08.419><c> so</c><00:06:08.510><c> you</c><00:06:08.599><c> put</c><00:06:08.720><c> over</c><00:06:08.810><c> per</c><00:06:09.080><c> century</c>
+
+00:06:09.279 --> 00:06:09.289 align:start position:0%
+number of so you put over per century
+ 
+
+00:06:09.289 --> 00:06:11.320 align:start position:0%
+number of so you put over per century
+per<00:06:09.620><c> galaxy</c><00:06:09.949><c> because</c><00:06:10.340><c> galaxies</c><00:06:11.000><c> are</c><00:06:11.120><c> about</c>
+
+00:06:11.320 --> 00:06:11.330 align:start position:0%
+per galaxy because galaxies are about
+ 
+
+00:06:11.330 --> 00:06:13.960 align:start position:0%
+per galaxy because galaxies are about
+sort<00:06:11.690><c> of</c><00:06:11.750><c> 10</c><00:06:12.169><c> billion</c><00:06:12.590><c> solar</c><00:06:13.370><c> luminosities</c>
+
+00:06:13.960 --> 00:06:13.970 align:start position:0%
+sort of 10 billion solar luminosities
+ 
+
+00:06:13.970 --> 00:06:16.629 align:start position:0%
+sort of 10 billion solar luminosities
+each<00:06:14.210><c> ish</c><00:06:14.599><c> about</c><00:06:15.080><c> 2</c><00:06:15.409><c> to</c><00:06:15.650><c> 3</c><00:06:15.919><c> for</c><00:06:16.220><c> the</c><00:06:16.250><c> Milky</c><00:06:16.550><c> Way</c>
+
+00:06:16.629 --> 00:06:16.639 align:start position:0%
+each ish about 2 to 3 for the Milky Way
+ 
+
+00:06:16.639 --> 00:06:17.830 align:start position:0%
+each ish about 2 to 3 for the Milky Way
+so<00:06:16.970><c> I</c><00:06:17.000><c> mean</c><00:06:17.240><c> it</c><00:06:17.300><c> probably</c><00:06:17.389><c> the</c><00:06:17.599><c> smallest</c>
+
+00:06:17.830 --> 00:06:17.840 align:start position:0%
+so I mean it probably the smallest
+ 
+
+00:06:17.840 --> 00:06:19.870 align:start position:0%
+so I mean it probably the smallest
+number<00:06:18.169><c> astronomy</c><00:06:18.560><c> has</c><00:06:18.710><c> so</c><00:06:19.099><c> how</c><00:06:19.220><c> could</c><00:06:19.760><c> it</c>
+
+00:06:19.870 --> 00:06:19.880 align:start position:0%
+number astronomy has so how could it
+ 
+
+00:06:19.880 --> 00:06:21.879 align:start position:0%
+number astronomy has so how could it
+give<00:06:19.970><c> us</c><00:06:20.060><c> that</c><00:06:20.240><c> really</c><00:06:20.570><c> even</c><00:06:20.720><c> a</c><00:06:20.780><c> 2</c><00:06:20.990><c> to</c><00:06:21.169><c> 3</c><00:06:21.409><c> Snoopy</c>
+
+00:06:21.879 --> 00:06:21.889 align:start position:0%
+give us that really even a 2 to 3 Snoopy
+ 
+
+00:06:21.889 --> 00:06:24.219 align:start position:0%
+give us that really even a 2 to 3 Snoopy
+galaxy<00:06:22.250><c> exactly</c><00:06:22.820><c> 2</c><00:06:23.000><c> to</c><00:06:23.120><c> 3</c><00:06:23.270><c> Snoopy's</c><00:06:23.659><c> you</c><00:06:24.080><c> can</c>
+
+00:06:24.219 --> 00:06:24.229 align:start position:0%
+galaxy exactly 2 to 3 Snoopy's you can
+ 
+
+00:06:24.229 --> 00:06:27.219 align:start position:0%
+galaxy exactly 2 to 3 Snoopy's you can
+do<00:06:24.320><c> this</c><00:06:24.440><c> in</c><00:06:24.560><c> any</c><00:06:24.680><c> astronomical</c><00:06:25.220><c> wave</c><00:06:25.970><c> band</c><00:06:26.270><c> so</c>
+
+00:06:27.219 --> 00:06:27.229 align:start position:0%
+do this in any astronomical wave band so
+ 
+
+00:06:27.229 --> 00:06:28.240 align:start position:0%
+do this in any astronomical wave band so
+you<00:06:27.260><c> know</c><00:06:27.380><c> this</c><00:06:27.500><c> is</c><00:06:27.590><c> the</c><00:06:27.680><c> range</c><00:06:28.010><c> of</c>
+
+00:06:28.240 --> 00:06:28.250 align:start position:0%
+you know this is the range of
+ 
+
+00:06:28.250 --> 00:06:29.589 align:start position:0%
+you know this is the range of
+wavelengths<00:06:28.729><c> that</c><00:06:28.880><c> you</c><00:06:28.970><c> look</c><00:06:29.120><c> at</c><00:06:29.300><c> to</c><00:06:29.330><c> tell</c>
+
+00:06:29.589 --> 00:06:29.599 align:start position:0%
+wavelengths that you look at to tell
+ 
+
+00:06:29.599 --> 00:06:30.820 align:start position:0%
+wavelengths that you look at to tell
+what<00:06:29.960><c> amount</c><00:06:30.199><c> of</c><00:06:30.289><c> light</c><00:06:30.470><c> that</c><00:06:30.500><c> you're</c><00:06:30.710><c> getting</c>
+
+00:06:30.820 --> 00:06:30.830 align:start position:0%
+what amount of light that you're getting
+ 
+
+00:06:30.830 --> 00:06:33.129 align:start position:0%
+what amount of light that you're getting
+an<00:06:30.949><c> optical</c><00:06:31.400><c> and</c><00:06:31.610><c> thread</c><00:06:31.880><c> so</c><00:06:32.180><c> that</c><00:06:32.210><c> can</c><00:06:32.449><c> be</c><00:06:32.479><c> u</c>
+
+00:06:33.129 --> 00:06:33.139 align:start position:0%
+an optical and thread so that can be u
+ 
+
+00:06:33.139 --> 00:06:38.690 align:start position:0%
+an optical and thread so that can be u
+bv<00:06:33.740><c> RI</c><00:06:34.719><c> g</c><00:06:35.719><c> z</c><00:06:36.340><c> YJ</c><00:06:37.340><c> h</c><00:06:37.370><c> KL</c><00:06:38.120><c> m</c><00:06:38.330><c> and</c>
+
+00:06:38.690 --> 00:06:38.700 align:start position:0%
+bv RI g z YJ h KL m and
+ 
+
+00:06:38.700 --> 00:06:43.270 align:start position:0%
+bv RI g z YJ h KL m and
+cute<00:06:38.850><c> so</c><00:06:39.600><c> you</c><00:06:39.660><c> can</c><00:06:39.840><c> have</c><00:06:39.990><c> Snoopy</c><00:06:40.940><c> snoot</c><00:06:41.940><c> K</c><00:06:42.230><c> snug</c>
+
+00:06:43.270 --> 00:06:43.280 align:start position:0%
+cute so you can have Snoopy snoot K snug
+ 
+
+00:06:43.280 --> 00:06:47.360 align:start position:0%
+cute so you can have Snoopy snoot K snug
+and<00:06:44.280><c> the</c><00:06:45.350><c> Newsies</c><00:06:46.380><c> yeah</c><00:06:46.740><c> you</c><00:06:47.190><c> could</c><00:06:47.340><c> have</c>
+
+00:06:47.360 --> 00:06:47.370 align:start position:0%
+and the Newsies yeah you could have
+ 
+
+00:06:47.370 --> 00:06:48.860 align:start position:0%
+and the Newsies yeah you could have
+smoothies<00:06:47.850><c> as</c><00:06:48.060><c> well</c><00:06:48.240><c> I</c><00:06:48.450><c> wouldn't</c><00:06:48.780><c> know</c>
+
+00:06:48.860 --> 00:06:48.870 align:start position:0%
+smoothies as well I wouldn't know
+ 
+
+00:06:48.870 --> 00:06:50.690 align:start position:0%
+smoothies as well I wouldn't know
+whether<00:06:48.960><c> it'd</c><00:06:49.140><c> be</c><00:06:49.230><c> like</c><00:06:49.410><c> five</c><00:06:50.100><c> snooze</c><00:06:50.520><c> ease</c>
+
+00:06:50.690 --> 00:06:50.700 align:start position:0%
+whether it'd be like five snooze ease
+ 
+
+00:06:50.700 --> 00:06:52.340 align:start position:0%
+whether it'd be like five snooze ease
+rather<00:06:51.000><c> than</c><00:06:51.120><c> like</c><00:06:51.270><c> two</c><00:06:51.630><c> to</c><00:06:51.690><c> three</c><00:06:51.780><c> Snoopy's</c>
+
+00:06:52.340 --> 00:06:52.350 align:start position:0%
+rather than like two to three Snoopy's
+ 
+
+00:06:52.350 --> 00:06:53.930 align:start position:0%
+rather than like two to three Snoopy's
+for<00:06:52.710><c> the</c><00:06:52.800><c> Milky</c><00:06:53.040><c> Way</c><00:06:53.130><c> I</c><00:06:53.310><c> don't</c><00:06:53.550><c> know</c><00:06:53.640><c> but</c><00:06:53.880><c> I</c>
+
+00:06:53.930 --> 00:06:53.940 align:start position:0%
+for the Milky Way I don't know but I
+ 
+
+00:06:53.940 --> 00:06:54.740 align:start position:0%
+for the Milky Way I don't know but I
+just<00:06:53.970><c> want</c><00:06:54.210><c> the</c><00:06:54.300><c> idea</c><00:06:54.480><c> that</c><00:06:54.600><c> like</c>
+
+00:06:54.740 --> 00:06:54.750 align:start position:0%
+just want the idea that like
+ 
+
+00:06:54.750 --> 00:06:56.630 align:start position:0%
+just want the idea that like
+professional<00:06:55.650><c> super</c><00:06:56.070><c> nova</c><00:06:56.220><c> restaurant</c><00:06:56.490><c> up</c><00:06:56.550><c> is</c>
+
+00:06:56.630 --> 00:06:56.640 align:start position:0%
+professional super nova restaurant up is
+ 
+
+00:06:56.640 --> 00:06:57.680 align:start position:0%
+professional super nova restaurant up is
+going<00:06:56.790><c> around</c><00:06:56.940><c> going</c><00:06:57.120><c> oh</c><00:06:57.300><c> yeah</c><00:06:57.450><c> that</c><00:06:57.570><c> one's</c>
+
+00:06:57.680 --> 00:06:57.690 align:start position:0%
+going around going oh yeah that one's
+ 
+
+00:06:57.690 --> 00:07:00.710 align:start position:0%
+going around going oh yeah that one's
+like<00:06:57.810><c> three</c><00:06:58.110><c> Snoopy's</c><00:06:59.090><c> i</c><00:07:00.090><c> guess</c><00:07:00.510><c> that</c><00:07:00.660><c> would</c>
+
+00:07:00.710 --> 00:07:00.720 align:start position:0%
+like three Snoopy's i guess that would
+ 
+
+00:07:00.720 --> 00:07:01.970 align:start position:0%
+like three Snoopy's i guess that would
+get<00:07:00.870><c> same</c><00:07:01.050><c> therefore</c><00:07:01.230><c> the</c><00:07:01.380><c> names</c><00:07:01.590><c> just</c><00:07:01.800><c> too</c>
+
+00:07:01.970 --> 00:07:01.980 align:start position:0%
+get same therefore the names just too
+ 
+
+00:07:01.980 --> 00:07:02.720 align:start position:0%
+get same therefore the names just too
+much<00:07:02.130><c> fun</c>
+
+00:07:02.720 --> 00:07:02.730 align:start position:0%
+much fun
+ 
+
+00:07:02.730 --> 00:07:05.510 align:start position:0%
+much fun
+okay<00:07:03.120><c> so</c><00:07:03.180><c> let's</c><00:07:03.390><c> break</c><00:07:03.900><c> this</c><00:07:03.990><c> down</c><00:07:04.380><c> Kerma</c><00:07:04.830><c> for</c>
+
+00:07:05.510 --> 00:07:05.520 align:start position:0%
+okay so let's break this down Kerma for
+ 
+
+00:07:05.520 --> 00:07:08.240 align:start position:0%
+okay so let's break this down Kerma for
+kinetic<00:07:06.300><c> energy</c><00:07:06.840><c> released</c><00:07:07.290><c> per</c><00:07:07.680><c> unit</c><00:07:08.040><c> mass</c>
+
+00:07:08.240 --> 00:07:08.250 align:start position:0%
+kinetic energy released per unit mass
+ 
+
+00:07:08.250 --> 00:07:09.920 align:start position:0%
+kinetic energy released per unit mass
+anything<00:07:08.910><c> about</c><00:07:09.030><c> like</c><00:07:09.180><c> a</c><00:07:09.240><c> radioactive</c><00:07:09.750><c> atom</c>
+
+00:07:09.920 --> 00:07:09.930 align:start position:0%
+anything about like a radioactive atom
+ 
+
+00:07:09.930 --> 00:07:12.110 align:start position:0%
+anything about like a radioactive atom
+how<00:07:10.410><c> much</c><00:07:10.530><c> kinetic</c><00:07:10.830><c> energy</c><00:07:11.340><c> it</c><00:07:11.460><c> releases</c><00:07:11.580><c> air</c>
+
+00:07:12.110 --> 00:07:12.120 align:start position:0%
+how much kinetic energy it releases air
+ 
+
+00:07:12.120 --> 00:07:13.850 align:start position:0%
+how much kinetic energy it releases air
+kurma<00:07:12.540><c> is</c><00:07:12.900><c> you</c><00:07:13.200><c> know</c><00:07:13.290><c> how</c><00:07:13.440><c> much</c><00:07:13.620><c> kinetic</c>
+
+00:07:13.850 --> 00:07:13.860 align:start position:0%
+kurma is you know how much kinetic
+ 
+
+00:07:13.860 --> 00:07:16.640 align:start position:0%
+kurma is you know how much kinetic
+energy<00:07:14.370><c> is</c><00:07:14.610><c> released</c><00:07:15.240><c> per</c><00:07:15.600><c> unit</c><00:07:15.870><c> mass</c><00:07:16.050><c> into</c><00:07:16.620><c> a</c>
+
+00:07:16.640 --> 00:07:16.650 align:start position:0%
+energy is released per unit mass into a
+ 
+
+00:07:16.650 --> 00:07:18.740 align:start position:0%
+energy is released per unit mass into a
+unit<00:07:17.070><c> mass</c><00:07:17.220><c> of</c><00:07:17.250><c> air</c><00:07:17.580><c> so</c><00:07:18.000><c> how</c><00:07:18.120><c> much</c><00:07:18.240><c> energy</c><00:07:18.630><c> the</c>
+
+00:07:18.740 --> 00:07:18.750 align:start position:0%
+unit mass of air so how much energy the
+ 
+
+00:07:18.750 --> 00:07:22.010 align:start position:0%
+unit mass of air so how much energy the
+air<00:07:18.870><c> then</c><00:07:19.170><c> absorbs</c><00:07:20.010><c> air</c><00:07:20.580><c> coma</c><00:07:21.120><c> strength</c><00:07:21.540><c> is</c>
+
+00:07:22.010 --> 00:07:22.020 align:start position:0%
+air then absorbs air coma strength is
+ 
+
+00:07:22.020 --> 00:07:23.780 align:start position:0%
+air then absorbs air coma strength is
+then<00:07:22.470><c> you</c><00:07:22.860><c> know</c><00:07:22.950><c> how</c><00:07:23.160><c> much</c><00:07:23.340><c> energy</c><00:07:23.520><c> is</c>
+
+00:07:23.780 --> 00:07:23.790 align:start position:0%
+then you know how much energy is
+ 
+
+00:07:23.790 --> 00:07:25.970 align:start position:0%
+then you know how much energy is
+deposited<00:07:24.300><c> into</c><00:07:24.510><c> the</c><00:07:24.720><c> air</c><00:07:24.900><c> at</c><00:07:25.200><c> a</c><00:07:25.260><c> distance</c>
+
+00:07:25.970 --> 00:07:25.980 align:start position:0%
+deposited into the air at a distance
+ 
+
+00:07:25.980 --> 00:07:29.470 align:start position:0%
+deposited into the air at a distance
+away<00:07:26.220><c> from</c><00:07:26.460><c> the</c><00:07:27.150><c> radioactive</c><00:07:27.960><c> source</c><00:07:28.230><c> squared</c>
+
+00:07:29.470 --> 00:07:29.480 align:start position:0%
+away from the radioactive source squared
+ 
+
+00:07:29.480 --> 00:07:33.080 align:start position:0%
+away from the radioactive source squared
+okay<00:07:30.510><c> so</c><00:07:31.170><c> air</c><00:07:31.800><c> kurma</c><00:07:32.190><c> is</c><00:07:32.490><c> obviously</c><00:07:32.970><c> its</c>
+
+00:07:33.080 --> 00:07:33.090 align:start position:0%
+okay so air kurma is obviously its
+ 
+
+00:07:33.090 --> 00:07:34.910 align:start position:0%
+okay so air kurma is obviously its
+energy<00:07:33.480><c> so</c><00:07:33.540><c> that's</c><00:07:33.750><c> measured</c><00:07:34.230><c> in</c><00:07:34.290><c> just</c><00:07:34.650><c> joules</c>
+
+00:07:34.910 --> 00:07:34.920 align:start position:0%
+energy so that's measured in just joules
+ 
+
+00:07:34.920 --> 00:07:36.800 align:start position:0%
+energy so that's measured in just joules
+per<00:07:35.100><c> kilogram</c><00:07:35.340><c> but</c><00:07:35.880><c> then</c><00:07:36.030><c> people</c><00:07:36.300><c> refer</c><00:07:36.660><c> to</c>
+
+00:07:36.800 --> 00:07:36.810 align:start position:0%
+per kilogram but then people refer to
+ 
+
+00:07:36.810 --> 00:07:38.600 align:start position:0%
+per kilogram but then people refer to
+that<00:07:36.900><c> as</c><00:07:37.050><c> a</c><00:07:37.080><c> gray</c><00:07:37.410><c> instead</c><00:07:38.010><c> which</c><00:07:38.580><c> is</c>
+
+00:07:38.600 --> 00:07:38.610 align:start position:0%
+that as a gray instead which is
+ 
+
+00:07:38.610 --> 00:07:40.340 align:start position:0%
+that as a gray instead which is
+shortened<00:07:39.150><c> capital</c><00:07:39.690><c> gy</c>
+
+00:07:40.340 --> 00:07:40.350 align:start position:0%
+shortened capital gy
+ 
+
+00:07:40.350 --> 00:07:41.990 align:start position:0%
+shortened capital gy
+not<00:07:40.500><c> to</c><00:07:40.620><c> be</c><00:07:40.740><c> confused</c><00:07:40.860><c> with</c><00:07:41.160><c> a</c><00:07:41.400><c> gig</c><00:07:41.550><c> year</c><00:07:41.820><c> which</c>
+
+00:07:41.990 --> 00:07:42.000 align:start position:0%
+not to be confused with a gig year which
+ 
+
+00:07:42.000 --> 00:07:44.420 align:start position:0%
+not to be confused with a gig year which
+is<00:07:42.180><c> capital</c><00:07:42.360><c> g</c><00:07:42.690><c> yr</c><00:07:42.840><c> and</c><00:07:43.410><c> so</c><00:07:43.560><c> that's</c><00:07:43.710><c> a</c><00:07:43.830><c> gray</c><00:07:44.070><c> and</c>
+
+00:07:44.420 --> 00:07:44.430 align:start position:0%
+is capital g yr and so that's a gray and
+ 
+
+00:07:44.430 --> 00:07:46.850 align:start position:0%
+is capital g yr and so that's a gray and
+then<00:07:44.580><c> you've</c><00:07:44.700><c> got</c><00:07:44.940><c> that</c><00:07:45.150><c> in</c><00:07:45.750><c> terms</c><00:07:46.110><c> of</c><00:07:46.410><c> you</c>
+
+00:07:46.850 --> 00:07:46.860 align:start position:0%
+then you've got that in terms of you
+ 
+
+00:07:46.860 --> 00:07:48.650 align:start position:0%
+then you've got that in terms of you
+know<00:07:46.890><c> the</c><00:07:46.980><c> rate</c><00:07:47.250><c> so</c><00:07:47.580><c> it's</c><00:07:47.730><c> per</c><00:07:47.880><c> hour</c><00:07:48.060><c> as</c><00:07:48.390><c> well</c>
+
+00:07:48.650 --> 00:07:48.660 align:start position:0%
+know the rate so it's per hour as well
+ 
+
+00:07:48.660 --> 00:07:50.510 align:start position:0%
+know the rate so it's per hour as well
+but<00:07:48.930><c> it's</c><00:07:49.080><c> you</c><00:07:49.620><c> know</c><00:07:49.680><c> air</c><00:07:49.860><c> chemist</c><00:07:50.190><c> strength</c>
+
+00:07:50.510 --> 00:07:50.520 align:start position:0%
+but it's you know air chemist strength
+ 
+
+00:07:50.520 --> 00:07:52.070 align:start position:0%
+but it's you know air chemist strength
+so<00:07:50.790><c> it's</c><00:07:50.940><c> this</c><00:07:51.060><c> distance</c><00:07:51.480><c> away</c><00:07:51.630><c> so</c><00:07:51.750><c> it's</c><00:07:51.990><c> the</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+so it's this distance away so it's the
+ 
+
+00:07:52.080 --> 00:07:54.770 align:start position:0%
+so it's this distance away so it's the
+Gray's<00:07:52.350><c> per</c><00:07:52.680><c> hour</c><00:07:52.890><c> per</c><00:07:53.190><c> meter</c><00:07:53.520><c> squared</c><00:07:53.820><c> okay</c>
+
+00:07:54.770 --> 00:07:54.780 align:start position:0%
+Gray's per hour per meter squared okay
+ 
+
+00:07:54.780 --> 00:07:55.970 align:start position:0%
+Gray's per hour per meter squared okay
+and<00:07:55.290><c> they</c><00:07:55.410><c> decided</c><00:07:55.680><c> that</c><00:07:55.770><c> was</c><00:07:55.890><c> too</c>
+
+00:07:55.970 --> 00:07:55.980 align:start position:0%
+and they decided that was too
+ 
+
+00:07:55.980 --> 00:07:58.730 align:start position:0%
+and they decided that was too
+complicated<00:07:56.370><c> of</c><00:07:56.700><c> a</c><00:07:56.760><c> unit</c><00:07:57.060><c> to</c><00:07:57.660><c> to</c><00:07:58.140><c> work</c><00:07:58.290><c> in</c><00:07:58.500><c> and</c>
+
+00:07:58.730 --> 00:07:58.740 align:start position:0%
+complicated of a unit to to work in and
+ 
+
+00:07:58.740 --> 00:08:00.770 align:start position:0%
+complicated of a unit to to work in and
+so<00:07:58.980><c> they</c><00:07:59.070><c> gave</c><00:07:59.190><c> it</c><00:07:59.340><c> a</c><00:07:59.430><c> new</c><00:07:59.580><c> name</c><00:07:59.610><c> you</c><00:08:00.570><c> want</c><00:08:00.720><c> to</c>
+
+00:08:00.770 --> 00:08:00.780 align:start position:0%
+so they gave it a new name you want to
+ 
+
+00:08:00.780 --> 00:08:03.970 align:start position:0%
+so they gave it a new name you want to
+know<00:08:00.840><c> what</c><00:08:00.990><c> they</c><00:08:01.110><c> called</c><00:08:01.350><c> this</c><00:08:01.920><c> unit</c><00:08:02.690><c> unit</c>
+
+00:08:03.970 --> 00:08:03.980 align:start position:0%
+know what they called this unit unit
+ 
+
+00:08:03.980 --> 00:08:07.550 align:start position:0%
+know what they called this unit unit
+they<00:08:04.980><c> called</c><00:08:05.160><c> it</c><00:08:05.310><c> unit</c><00:08:05.610><c> and</c><00:08:06.450><c> it</c><00:08:06.630><c> has</c><00:08:06.870><c> just</c><00:08:07.110><c> a</c>
+
+00:08:07.550 --> 00:08:07.560 align:start position:0%
+they called it unit and it has just a
+ 
+
+00:08:07.560 --> 00:08:11.270 align:start position:0%
+they called it unit and it has just a
+capital<00:08:07.980><c> u</c><00:08:08.270><c> it's</c><00:08:09.270><c> just</c><00:08:09.510><c> it's</c><00:08:09.920><c> just</c><00:08:10.920><c> it's</c><00:08:11.100><c> so</c>
+
+00:08:11.270 --> 00:08:11.280 align:start position:0%
+capital u it's just it's just it's so
+ 
+
+00:08:11.280 --> 00:08:13.400 align:start position:0%
+capital u it's just it's just it's so
+ridiculous<00:08:12.120><c> but</c><00:08:12.600><c> they</c><00:08:12.720><c> just</c><00:08:12.930><c> call</c><00:08:13.080><c> it</c><00:08:13.110><c> you'd</c>
+
+00:08:13.400 --> 00:08:13.410 align:start position:0%
+ridiculous but they just call it you'd
+ 
+
+00:08:13.410 --> 00:08:16.280 align:start position:0%
+ridiculous but they just call it you'd
+it<00:08:13.530><c> like</c><00:08:13.620><c> how</c><00:08:13.740><c> lazy</c><00:08:13.980><c> can</c><00:08:14.220><c> you</c><00:08:14.400><c> pay</c><00:08:14.730><c> so</c><00:08:15.450><c> one</c><00:08:15.990><c> or</c>
+
+00:08:16.280 --> 00:08:16.290 align:start position:0%
+it like how lazy can you pay so one or
+ 
+
+00:08:16.290 --> 00:08:18.320 align:start position:0%
+it like how lazy can you pay so one or
+arrogant<00:08:16.740><c> yeah</c><00:08:17.010><c> good</c><00:08:17.760><c> yeah</c><00:08:17.940><c> it's</c><00:08:18.090><c> just</c><00:08:18.180><c> this</c>
+
+00:08:18.320 --> 00:08:18.330 align:start position:0%
+arrogant yeah good yeah it's just this
+ 
+
+00:08:18.330 --> 00:08:22.780 align:start position:0%
+arrogant yeah good yeah it's just this
+is<00:08:18.510><c> the</c><00:08:18.630><c> defining</c><00:08:19.380><c> unit</c><00:08:19.920><c> one</c><00:08:20.360><c> you</c><00:08:21.360><c> one</c><00:08:21.960><c> unit</c><00:08:22.320><c> is</c>
+
+00:08:22.780 --> 00:08:22.790 align:start position:0%
+is the defining unit one you one unit is
+ 
+
+00:08:22.790 --> 00:08:28.150 align:start position:0%
+is the defining unit one you one unit is
+a<00:08:23.790><c> micro</c><00:08:24.540><c> gray</c><00:08:24.810><c> per</c><00:08:25.080><c> meter</c><00:08:25.260><c> squared</c><00:08:25.560><c> per</c><00:08:25.620><c> hour</c>
+
+00:08:28.150 --> 00:08:28.160 align:start position:0%
+ 
+ 
+
+00:08:28.160 --> 00:08:32.060 align:start position:0%
+ 
+an<00:08:29.160><c> ERG</c><00:08:29.460><c> it's</c><00:08:30.450><c> not</c><00:08:30.570><c> like</c><00:08:30.690><c> an</c><00:08:30.780><c> unsure</c><00:08:31.110><c> leg</c><00:08:31.350><c> it's</c>
+
+00:08:32.060 --> 00:08:32.070 align:start position:0%
+an ERG it's not like an unsure leg it's
+ 
+
+00:08:32.070 --> 00:08:33.980 align:start position:0%
+an ERG it's not like an unsure leg it's
+actually<00:08:32.430><c> a</c><00:08:32.460><c> unit</c><00:08:32.790><c> of</c><00:08:32.910><c> energy</c><00:08:33.060><c> so</c><00:08:33.570><c> most</c><00:08:33.780><c> of</c><00:08:33.900><c> the</c>
+
+00:08:33.980 --> 00:08:33.990 align:start position:0%
+actually a unit of energy so most of the
+ 
+
+00:08:33.990 --> 00:08:35.719 align:start position:0%
+actually a unit of energy so most of the
+units<00:08:34.260><c> that</c><00:08:34.349><c> we</c><00:08:34.530><c> come</c><00:08:34.650><c> across</c><00:08:34.710><c> every</c><00:08:35.130><c> day</c><00:08:35.160><c> are</c>
+
+00:08:35.719 --> 00:08:35.729 align:start position:0%
+units that we come across every day are
+ 
+
+00:08:35.729 --> 00:08:37.730 align:start position:0%
+units that we come across every day are
+you<00:08:36.030><c> know</c><00:08:36.120><c> like</c><00:08:36.210><c> meters</c><00:08:36.570><c> seconds</c><00:08:37.169><c> kilograms</c><00:08:37.590><c> I</c>
+
+00:08:37.730 --> 00:08:37.740 align:start position:0%
+you know like meters seconds kilograms I
+ 
+
+00:08:37.740 --> 00:08:40.100 align:start position:0%
+you know like meters seconds kilograms I
+mean<00:08:37.830><c> like</c><00:08:38.010><c> there</c><00:08:38.220><c> are</c><00:08:38.460><c> a</c><00:08:39.000><c> part</c><00:08:39.360><c> of</c><00:08:39.570><c> a</c><00:08:39.780><c> unit</c>
+
+00:08:40.100 --> 00:08:40.110 align:start position:0%
+mean like there are a part of a unit
+ 
+
+00:08:40.110 --> 00:08:42.800 align:start position:0%
+mean like there are a part of a unit
+system<00:08:40.530><c> that's</c><00:08:41.099><c> actually</c><00:08:41.400><c> defined</c><00:08:41.810><c> it's</c>
+
+00:08:42.800 --> 00:08:42.810 align:start position:0%
+system that's actually defined it's
+ 
+
+00:08:42.810 --> 00:08:46.190 align:start position:0%
+system that's actually defined it's
+called<00:08:42.960><c> the</c><00:08:43.020><c> SI</c><00:08:43.640><c> units</c><00:08:44.640><c> basically</c><00:08:45.180><c> the</c><00:08:45.930><c> define</c>
+
+00:08:46.190 --> 00:08:46.200 align:start position:0%
+called the SI units basically the define
+ 
+
+00:08:46.200 --> 00:08:49.490 align:start position:0%
+called the SI units basically the define
+system<00:08:46.590><c> but</c><00:08:47.310><c> and</c><00:08:47.460><c> so</c><00:08:47.940><c> in</c><00:08:48.330><c> the</c><00:08:48.600><c> SI</c><00:08:48.930><c> units</c><00:08:49.290><c> your</c>
+
+00:08:49.490 --> 00:08:49.500 align:start position:0%
+system but and so in the SI units your
+ 
+
+00:08:49.500 --> 00:08:51.770 align:start position:0%
+system but and so in the SI units your
+standard<00:08:49.860><c> unit</c><00:08:50.100><c> of</c><00:08:50.190><c> energy</c><00:08:50.310><c> is</c><00:08:50.670><c> joules</c><00:08:50.940><c> people</c>
+
+00:08:51.770 --> 00:08:51.780 align:start position:0%
+standard unit of energy is joules people
+ 
+
+00:08:51.780 --> 00:08:52.460 align:start position:0%
+standard unit of energy is joules people
+are<00:08:51.840><c> quite</c><00:08:51.990><c> familiar</c><00:08:52.200><c> with</c>
+
+00:08:52.460 --> 00:08:52.470 align:start position:0%
+are quite familiar with
+ 
+
+00:08:52.470 --> 00:08:53.660 align:start position:0%
+are quite familiar with
+that<00:08:52.590><c> instead</c><00:08:53.040><c> you</c><00:08:53.250><c> can</c><00:08:53.400><c> work</c><00:08:53.520><c> in</c><00:08:53.640><c> a</c>
+
+00:08:53.660 --> 00:08:53.670 align:start position:0%
+that instead you can work in a
+ 
+
+00:08:53.670 --> 00:08:55.040 align:start position:0%
+that instead you can work in a
+completely<00:08:54.000><c> different</c><00:08:54.150><c> system</c><00:08:54.630><c> of</c><00:08:54.690><c> units</c>
+
+00:08:55.040 --> 00:08:55.050 align:start position:0%
+completely different system of units
+ 
+
+00:08:55.050 --> 00:08:57.560 align:start position:0%
+completely different system of units
+which<00:08:55.410><c> is</c><00:08:55.560><c> called</c><00:08:55.740><c> CGS</c><00:08:56.310><c> or</c><00:08:56.610><c> centimeters</c><00:08:57.300><c> grams</c>
+
+00:08:57.560 --> 00:08:57.570 align:start position:0%
+which is called CGS or centimeters grams
+ 
+
+00:08:57.570 --> 00:08:59.420 align:start position:0%
+which is called CGS or centimeters grams
+per<00:08:57.870><c> second</c><00:08:58.200><c> okay</c><00:08:58.800><c> and</c><00:08:58.920><c> that's</c><00:08:59.040><c> your</c><00:08:59.160><c> base</c>
+
+00:08:59.420 --> 00:08:59.430 align:start position:0%
+per second okay and that's your base
+ 
+
+00:08:59.430 --> 00:09:01.130 align:start position:0%
+per second okay and that's your base
+system<00:09:00.150><c> that</c><00:09:00.300><c> all</c><00:09:00.420><c> your</c><00:09:00.540><c> units</c><00:09:00.750><c> are</c><00:09:00.900><c> built</c><00:09:00.990><c> up</c>
+
+00:09:01.130 --> 00:09:01.140 align:start position:0%
+system that all your units are built up
+ 
+
+00:09:01.140 --> 00:09:03.740 align:start position:0%
+system that all your units are built up
+and<00:09:01.350><c> the</c><00:09:01.500><c> base</c><00:09:01.820><c> energy</c><00:09:02.820><c> unit</c><00:09:03.240><c> in</c><00:09:03.390><c> that</c><00:09:03.570><c> system</c>
+
+00:09:03.740 --> 00:09:03.750 align:start position:0%
+and the base energy unit in that system
+ 
+
+00:09:03.750 --> 00:09:06.140 align:start position:0%
+and the base energy unit in that system
+is<00:09:04.050><c> eggs</c><00:09:04.350><c> okay</c><00:09:05.040><c> because</c><00:09:05.460><c> my</c><00:09:05.670><c> son</c><00:09:05.850><c> a</c><00:09:05.880><c> little</c><00:09:06.060><c> bit</c>
+
+00:09:06.140 --> 00:09:06.150 align:start position:0%
+is eggs okay because my son a little bit
+ 
+
+00:09:06.150 --> 00:09:07.790 align:start position:0%
+is eggs okay because my son a little bit
+weird<00:09:06.330><c> people</c><00:09:06.600><c> but</c><00:09:06.960><c> back</c><00:09:07.140><c> at</c><00:09:07.320><c> the</c><00:09:07.410><c> turn</c><00:09:07.620><c> of</c>
+
+00:09:07.790 --> 00:09:07.800 align:start position:0%
+weird people but back at the turn of
+ 
+
+00:09:07.800 --> 00:09:09.920 align:start position:0%
+weird people but back at the turn of
+like<00:09:07.950><c> sort</c><00:09:08.130><c> of</c><00:09:08.160><c> a</c><00:09:08.250><c> century</c><00:09:08.490><c> of</c><00:09:08.520><c> the</c><00:09:08.610><c> 1802</c><00:09:09.300><c> 1900s</c>
+
+00:09:09.920 --> 00:09:09.930 align:start position:0%
+like sort of a century of the 1802 1900s
+ 
+
+00:09:09.930 --> 00:09:11.810 align:start position:0%
+like sort of a century of the 1802 1900s
+this<00:09:10.350><c> was</c><00:09:10.560><c> the</c><00:09:10.680><c> preferred</c><00:09:11.010><c> system</c><00:09:11.310><c> of</c><00:09:11.580><c> unit</c>
+
+00:09:11.810 --> 00:09:11.820 align:start position:0%
+this was the preferred system of unit
+ 
+
+00:09:11.820 --> 00:09:14.240 align:start position:0%
+this was the preferred system of unit
+Maxwell<00:09:12.360><c> was</c><00:09:12.840><c> a</c><00:09:12.870><c> big</c><00:09:13.200><c> fan</c><00:09:13.410><c> of</c><00:09:13.440><c> working</c><00:09:13.650><c> in</c><00:09:13.920><c> CGS</c>
+
+00:09:14.240 --> 00:09:14.250 align:start position:0%
+Maxwell was a big fan of working in CGS
+ 
+
+00:09:14.250 --> 00:09:15.530 align:start position:0%
+Maxwell was a big fan of working in CGS
+and<00:09:14.520><c> he</c><00:09:14.580><c> wanted</c><00:09:14.850><c> that</c><00:09:15.000><c> to</c><00:09:15.120><c> become</c><00:09:15.360><c> like</c>
+
+00:09:15.530 --> 00:09:15.540 align:start position:0%
+and he wanted that to become like
+ 
+
+00:09:15.540 --> 00:09:18.530 align:start position:0%
+and he wanted that to become like
+adopted<00:09:16.440><c> across</c><00:09:17.130><c> all</c><00:09:17.370><c> fields</c><00:09:17.670><c> this</c><00:09:18.270><c> is</c><00:09:18.390><c> one</c><00:09:18.510><c> of</c>
+
+00:09:18.530 --> 00:09:18.540 align:start position:0%
+adopted across all fields this is one of
+ 
+
+00:09:18.540 --> 00:09:20.180 align:start position:0%
+adopted across all fields this is one of
+these<00:09:18.690><c> sort</c><00:09:18.840><c> of</c><00:09:18.930><c> historical</c><00:09:19.560><c> units</c><00:09:19.890><c> that</c><00:09:20.040><c> was</c>
+
+00:09:20.180 --> 00:09:20.190 align:start position:0%
+these sort of historical units that was
+ 
+
+00:09:20.190 --> 00:09:23.360 align:start position:0%
+these sort of historical units that was
+was<00:09:20.580><c> in</c><00:09:20.760><c> use</c><00:09:20.940><c> then</c><00:09:21.270><c> in</c><00:09:21.660><c> in</c><00:09:22.500><c> a</c><00:09:22.560><c> lot</c><00:09:22.860><c> of</c><00:09:23.010><c> areas</c><00:09:23.340><c> of</c>
+
+00:09:23.360 --> 00:09:23.370 align:start position:0%
+was in use then in in a lot of areas of
+ 
+
+00:09:23.370 --> 00:09:25.610 align:start position:0%
+was in use then in in a lot of areas of
+physics<00:09:23.790><c> because</c><00:09:24.600><c> you</c><00:09:24.960><c> know</c><00:09:25.050><c> centimeters</c>
+
+00:09:25.610 --> 00:09:25.620 align:start position:0%
+physics because you know centimeters
+ 
+
+00:09:25.620 --> 00:09:26.750 align:start position:0%
+physics because you know centimeters
+Graham's<00:09:25.860><c> second</c><00:09:26.370><c> when</c><00:09:26.490><c> you're</c><00:09:26.610><c> thinking</c>
+
+00:09:26.750 --> 00:09:26.760 align:start position:0%
+Graham's second when you're thinking
+ 
+
+00:09:26.760 --> 00:09:29.120 align:start position:0%
+Graham's second when you're thinking
+about<00:09:26.970><c> early</c><00:09:27.120><c> physics</c><00:09:27.600><c> in</c><00:09:27.810><c> like</c><00:09:28.020><c> labs</c><00:09:28.350><c> those</c>
+
+00:09:29.120 --> 00:09:29.130 align:start position:0%
+about early physics in like labs those
+ 
+
+00:09:29.130 --> 00:09:30.200 align:start position:0%
+about early physics in like labs those
+are<00:09:29.370><c> the</c><00:09:29.460><c> kind</c><00:09:29.670><c> of</c><00:09:29.730><c> scales</c><00:09:29.940><c> that</c><00:09:30.090><c> you're</c>
+
+00:09:30.200 --> 00:09:30.210 align:start position:0%
+are the kind of scales that you're
+ 
+
+00:09:30.210 --> 00:09:31.370 align:start position:0%
+are the kind of scales that you're
+working<00:09:30.330><c> with</c><00:09:30.660><c> right</c><00:09:30.780><c> you're</c><00:09:30.930><c> working</c><00:09:31.260><c> with</c>
+
+00:09:31.370 --> 00:09:31.380 align:start position:0%
+working with right you're working with
+ 
+
+00:09:31.380 --> 00:09:33.230 align:start position:0%
+working with right you're working with
+grams<00:09:31.620><c> of</c><00:09:31.830><c> substance</c><00:09:31.980><c> across</c><00:09:32.460><c> centimeters</c><00:09:33.060><c> in</c>
+
+00:09:33.230 --> 00:09:33.240 align:start position:0%
+grams of substance across centimeters in
+ 
+
+00:09:33.240 --> 00:09:34.790 align:start position:0%
+grams of substance across centimeters in
+terms<00:09:33.450><c> of</c><00:09:33.570><c> seconds</c><00:09:33.930><c> so</c><00:09:33.990><c> it</c><00:09:34.080><c> made</c><00:09:34.320><c> total</c><00:09:34.590><c> sense</c>
+
+00:09:34.790 --> 00:09:34.800 align:start position:0%
+terms of seconds so it made total sense
+ 
+
+00:09:34.800 --> 00:09:37.250 align:start position:0%
+terms of seconds so it made total sense
+thing<00:09:35.400><c> is</c><00:09:35.520><c> cuz</c><00:09:35.760><c> it's</c><00:09:35.940><c> tradition</c><00:09:36.570><c> there</c><00:09:37.140><c> are</c>
+
+00:09:37.250 --> 00:09:37.260 align:start position:0%
+thing is cuz it's tradition there are
+ 
+
+00:09:37.260 --> 00:09:38.780 align:start position:0%
+thing is cuz it's tradition there are
+some<00:09:37.410><c> fields</c><00:09:37.650><c> that</c><00:09:37.890><c> still</c><00:09:38.070><c> use</c><00:09:38.280><c> it</c><00:09:38.430><c> problem</c>
+
+00:09:38.780 --> 00:09:38.790 align:start position:0%
+some fields that still use it problem
+ 
+
+00:09:38.790 --> 00:09:40.610 align:start position:0%
+some fields that still use it problem
+it's<00:09:39.000><c> the</c><00:09:39.060><c> fields</c><00:09:39.420><c> that</c><00:09:39.570><c> still</c><00:09:39.780><c> use</c><00:09:40.050><c> this</c><00:09:40.290><c> it's</c>
+
+00:09:40.610 --> 00:09:40.620 align:start position:0%
+it's the fields that still use this it's
+ 
+
+00:09:40.620 --> 00:09:42.830 align:start position:0%
+it's the fields that still use this it's
+astronomy<00:09:41.100><c> where</c><00:09:41.700><c> they're</c><00:09:42.150><c> done</c><00:09:42.300><c> quoting</c>
+
+00:09:42.830 --> 00:09:42.840 align:start position:0%
+astronomy where they're done quoting
+ 
+
+00:09:42.840 --> 00:09:45.080 align:start position:0%
+astronomy where they're done quoting
+energies<00:09:43.500><c> released</c><00:09:43.770><c> from</c><00:09:44.040><c> black</c><00:09:44.250><c> holes</c><00:09:44.280><c> like</c>
+
+00:09:45.080 --> 00:09:45.090 align:start position:0%
+energies released from black holes like
+ 
+
+00:09:45.090 --> 00:09:48.230 align:start position:0%
+energies released from black holes like
+10<00:09:45.510><c> to</c><00:09:45.720><c> the</c><00:09:45.840><c> 44</c><00:09:46.350><c> eggs</c><00:09:46.680><c> per</c><00:09:46.980><c> second</c><00:09:47.340><c> and</c><00:09:47.580><c> energy</c>
+
+00:09:48.230 --> 00:09:48.240 align:start position:0%
+10 to the 44 eggs per second and energy
+ 
+
+00:09:48.240 --> 00:09:50.510 align:start position:0%
+10 to the 44 eggs per second and energy
+released<00:09:48.510><c> from</c><00:09:48.540><c> supernova</c><00:09:49.140><c> of</c><00:09:49.290><c> 10</c><00:09:49.740><c> to</c><00:09:50.010><c> the</c><00:09:50.100><c> 51</c>
+
+00:09:50.510 --> 00:09:50.520 align:start position:0%
+released from supernova of 10 to the 51
+ 
+
+00:09:50.520 --> 00:09:51.470 align:start position:0%
+released from supernova of 10 to the 51
+eggs
+
+00:09:51.470 --> 00:09:51.480 align:start position:0%
+eggs
+ 
+
+00:09:51.480 --> 00:09:53.750 align:start position:0%
+eggs
+it<00:09:51.930><c> just</c><00:09:52.140><c> is</c><00:09:52.290><c> such</c><00:09:52.500><c> a</c><00:09:52.530><c> ridiculous</c><00:09:53.040><c> unit</c><00:09:53.490><c> to</c><00:09:53.640><c> now</c>
+
+00:09:53.750 --> 00:09:53.760 align:start position:0%
+it just is such a ridiculous unit to now
+ 
+
+00:09:53.760 --> 00:09:55.940 align:start position:0%
+it just is such a ridiculous unit to now
+work<00:09:54.060><c> in</c><00:09:54.360><c> so</c><00:09:54.960><c> if</c><00:09:55.050><c> you</c><00:09:55.140><c> think</c><00:09:55.200><c> about</c><00:09:55.440><c> energy</c><00:09:55.680><c> we</c>
+
+00:09:55.940 --> 00:09:55.950 align:start position:0%
+work in so if you think about energy we
+ 
+
+00:09:55.950 --> 00:09:57.950 align:start position:0%
+work in so if you think about energy we
+think<00:09:56.220><c> about</c><00:09:56.430><c> maybe</c><00:09:56.700><c> calories</c><00:09:57.210><c> as</c><00:09:57.360><c> well</c><00:09:57.390><c> one</c>
+
+00:09:57.950 --> 00:09:57.960 align:start position:0%
+think about maybe calories as well one
+ 
+
+00:09:57.960 --> 00:10:00.650 align:start position:0%
+think about maybe calories as well one
+calorie<00:09:58.230><c> is</c><00:09:58.410><c> forty</c><00:09:59.010><c> one</c><00:09:59.160><c> bigger</c><00:09:59.520><c> eggs</c><00:09:59.790><c> so</c><00:10:00.450><c> that</c>
+
+00:10:00.650 --> 00:10:00.660 align:start position:0%
+calorie is forty one bigger eggs so that
+ 
+
+00:10:00.660 --> 00:10:02.390 align:start position:0%
+calorie is forty one bigger eggs so that
+I'll<00:10:00.810><c> give</c><00:10:00.960><c> you</c><00:10:01.080><c> an</c><00:10:01.260><c> idea</c><00:10:01.410><c> of</c><00:10:01.650><c> how</c><00:10:01.800><c> small</c><00:10:02.130><c> an</c>
+
+00:10:02.390 --> 00:10:02.400 align:start position:0%
+I'll give you an idea of how small an
+ 
+
+00:10:02.400 --> 00:10:04.160 align:start position:0%
+I'll give you an idea of how small an
+egg<00:10:02.550><c> is</c><00:10:02.760><c> and</c><00:10:03.000><c> so</c><00:10:03.090><c> this</c><00:10:03.240><c> is</c><00:10:03.390><c> why</c><00:10:03.510><c> you</c><00:10:03.570><c> see</c><00:10:03.930><c> in</c>
+
+00:10:04.160 --> 00:10:04.170 align:start position:0%
+egg is and so this is why you see in
+ 
+
+00:10:04.170 --> 00:10:07.010 align:start position:0%
+egg is and so this is why you see in
+astronomy<00:10:04.770><c> is</c><00:10:04.890><c> ridiculous</c><00:10:05.640><c> right</c><00:10:05.910><c> so</c><00:10:06.600><c> much</c><00:10:06.780><c> so</c>
+
+00:10:07.010 --> 00:10:07.020 align:start position:0%
+astronomy is ridiculous right so much so
+ 
+
+00:10:07.020 --> 00:10:09.380 align:start position:0%
+astronomy is ridiculous right so much so
+the<00:10:07.490><c> supernova</c><00:10:08.490><c> scientist</c><00:10:08.910><c> again</c><00:10:09.180><c> these</c>
+
+00:10:09.380 --> 00:10:09.390 align:start position:0%
+the supernova scientist again these
+ 
+
+00:10:09.390 --> 00:10:10.820 align:start position:0%
+the supernova scientist again these
+pesky<00:10:09.630><c> super</c><00:10:09.990><c> noted</c><00:10:10.200><c> scientists</c><00:10:10.680><c> just</c>
+
+00:10:10.820 --> 00:10:10.830 align:start position:0%
+pesky super noted scientists just
+ 
+
+00:10:10.830 --> 00:10:13.310 align:start position:0%
+pesky super noted scientists just
+inventing<00:10:11.340><c> units</c><00:10:11.700><c> they</c><00:10:12.480><c> decided</c><00:10:12.930><c> that</c><00:10:12.960><c> most</c>
+
+00:10:13.310 --> 00:10:13.320 align:start position:0%
+inventing units they decided that most
+ 
+
+00:10:13.320 --> 00:10:16.220 align:start position:0%
+inventing units they decided that most
+supernovae<00:10:13.890><c> are</c><00:10:14.130><c> about</c><00:10:14.640><c> 10</c><00:10:15.090><c> to</c><00:10:15.270><c> the</c><00:10:15.390><c> 51</c><00:10:15.900><c> eggs</c>
+
+00:10:16.220 --> 00:10:16.230 align:start position:0%
+supernovae are about 10 to the 51 eggs
+ 
+
+00:10:16.230 --> 00:10:18.500 align:start position:0%
+supernovae are about 10 to the 51 eggs
+so<00:10:16.710><c> they</c><00:10:16.830><c> invented</c><00:10:17.250><c> a</c><00:10:17.340><c> new</c><00:10:17.490><c> unit</c><00:10:17.820><c> which</c><00:10:18.330><c> is</c><00:10:18.480><c> a</c>
+
+00:10:18.500 --> 00:10:18.510 align:start position:0%
+so they invented a new unit which is a
+ 
+
+00:10:18.510 --> 00:10:22.280 align:start position:0%
+so they invented a new unit which is a
+foe<00:10:18.870><c> which</c><00:10:19.710><c> comes</c><00:10:19.920><c> from</c><00:10:20.040><c> 10</c><00:10:20.310><c> to</c><00:10:20.610><c> the</c><00:10:20.780><c> 51</c><00:10:21.780><c> eggs</c>
+
+00:10:22.280 --> 00:10:22.290 align:start position:0%
+foe which comes from 10 to the 51 eggs
+ 
+
+00:10:22.290 --> 00:10:24.920 align:start position:0%
+foe which comes from 10 to the 51 eggs
+so<00:10:22.950><c> a</c><00:10:22.980><c> foe</c><00:10:23.310><c> is</c><00:10:23.520><c> 10</c><00:10:23.730><c> to</c><00:10:23.820><c> the</c><00:10:23.880><c> 51</c><00:10:24.240><c> X</c><00:10:24.420><c> and</c><00:10:24.630><c> so</c><00:10:24.720><c> law</c><00:10:24.810><c> go</c>
+
+00:10:24.920 --> 00:10:24.930 align:start position:0%
+so a foe is 10 to the 51 X and so law go
+ 
+
+00:10:24.930 --> 00:10:26.180 align:start position:0%
+so a foe is 10 to the 51 X and so law go
+around<00:10:25.080><c> saying</c><00:10:25.260><c> okay</c><00:10:25.380><c> let's</c><00:10:25.590><c> supernova</c><00:10:26.040><c> went</c>
+
+00:10:26.180 --> 00:10:26.190 align:start position:0%
+around saying okay let's supernova went
+ 
+
+00:10:26.190 --> 00:10:28.840 align:start position:0%
+around saying okay let's supernova went
+off<00:10:26.310><c> with</c><00:10:26.460><c> like</c><00:10:26.610><c> two</c><00:10:26.820><c> foe</c><00:10:27.060><c> or</c><00:10:27.300><c> like</c><00:10:28.140><c> 3.2</c><00:10:28.680><c> foe</c>
+
+00:10:28.840 --> 00:10:28.850 align:start position:0%
+off with like two foe or like 3.2 foe
+ 
+
+00:10:28.850 --> 00:10:32.720 align:start position:0%
+off with like two foe or like 3.2 foe
+you<00:10:29.850><c> look</c><00:10:30.000><c> so</c><00:10:30.180><c> gangster</c><00:10:31.010><c> the</c><00:10:32.010><c> only</c><00:10:32.370><c> time</c><00:10:32.550><c> I've</c>
+
+00:10:32.720 --> 00:10:32.730 align:start position:0%
+you look so gangster the only time I've
+ 
+
+00:10:32.730 --> 00:10:40.160 align:start position:0%
+you look so gangster the only time I've
+ever<00:10:32.760><c> looked</c><00:10:33.120><c> gangster</c><00:10:38.510><c> astronomy</c><00:10:39.510><c> and</c><00:10:39.990><c> I</c>
+
+00:10:40.160 --> 00:10:40.170 align:start position:0%
+ever looked gangster astronomy and I
+ 
+
+00:10:40.170 --> 00:10:41.420 align:start position:0%
+ever looked gangster astronomy and I
+have<00:10:40.290><c> to</c><00:10:40.350><c> say</c><00:10:40.470><c> this</c><00:10:40.680><c> one</c><00:10:40.860><c> probably</c><00:10:41.190><c> got</c><00:10:41.310><c> the</c>
+
+00:10:41.420 --> 00:10:41.430 align:start position:0%
+have to say this one probably got the
+ 
+
+00:10:41.430 --> 00:10:43.520 align:start position:0%
+have to say this one probably got the
+most<00:10:41.640><c> hate</c><00:10:41.940><c> on</c><00:10:42.090><c> Twitter</c><00:10:42.330><c> like</c><00:10:43.080><c> there</c><00:10:43.230><c> are</c><00:10:43.320><c> so</c>
+
+00:10:43.520 --> 00:10:43.530 align:start position:0%
+most hate on Twitter like there are so
+ 
+
+00:10:43.530 --> 00:10:44.990 align:start position:0%
+most hate on Twitter like there are so
+many<00:10:43.680><c> frustrated</c><00:10:44.130><c> astronomers</c><00:10:44.700><c> out</c><00:10:44.790><c> there</c><00:10:44.970><c> I</c>
+
+00:10:44.990 --> 00:10:45.000 align:start position:0%
+many frustrated astronomers out there I
+ 
+
+00:10:45.000 --> 00:10:46.550 align:start position:0%
+many frustrated astronomers out there I
+have<00:10:45.210><c> to</c><00:10:45.330><c> use</c><00:10:45.450><c> this</c><00:10:45.570><c> unit</c><00:10:45.840><c> and</c><00:10:45.960><c> they</c><00:10:46.170><c> just</c><00:10:46.380><c> hate</c>
+
+00:10:46.550 --> 00:10:46.560 align:start position:0%
+have to use this unit and they just hate
+ 
+
+00:10:46.560 --> 00:10:47.870 align:start position:0%
+have to use this unit and they just hate
+it<00:10:46.800><c> the</c><00:10:47.160><c> Jansky</c>
+
+00:10:47.870 --> 00:10:47.880 align:start position:0%
+it the Jansky
+ 
+
+00:10:47.880 --> 00:10:49.640 align:start position:0%
+it the Jansky
+and<00:10:47.970><c> it's</c><00:10:48.510><c> used</c><00:10:48.720><c> a</c><00:10:48.780><c> lot</c><00:10:48.840><c> in</c><00:10:49.050><c> radio</c><00:10:49.500><c> astronomy</c>
+
+00:10:49.640 --> 00:10:49.650 align:start position:0%
+and it's used a lot in radio astronomy
+ 
+
+00:10:49.650 --> 00:10:52.730 align:start position:0%
+and it's used a lot in radio astronomy
+so<00:10:50.370><c> it's</c><00:10:50.520><c> all</c><00:10:50.640><c> about</c><00:10:50.850><c> the</c><00:10:51.060><c> flux</c><00:10:51.540><c> density</c><00:10:51.930><c> that</c>
+
+00:10:52.730 --> 00:10:52.740 align:start position:0%
+so it's all about the flux density that
+ 
+
+00:10:52.740 --> 00:10:55.070 align:start position:0%
+so it's all about the flux density that
+you<00:10:52.830><c> have</c><00:10:53.100><c> from</c><00:10:53.700><c> a</c><00:10:53.820><c> radio</c><00:10:54.120><c> source</c><00:10:54.360><c> how</c><00:10:54.840><c> much</c>
+
+00:10:55.070 --> 00:10:55.080 align:start position:0%
+you have from a radio source how much
+ 
+
+00:10:55.080 --> 00:10:56.930 align:start position:0%
+you have from a radio source how much
+energy<00:10:55.410><c> you're</c><00:10:56.040><c> actually</c><00:10:56.310><c> getting</c><00:10:56.430><c> from</c><00:10:56.910><c> that</c>
+
+00:10:56.930 --> 00:10:56.940 align:start position:0%
+energy you're actually getting from that
+ 
+
+00:10:56.940 --> 00:11:00.020 align:start position:0%
+energy you're actually getting from that
+radio<00:10:57.300><c> source</c><00:10:57.600><c> per</c><00:10:58.350><c> sort</c><00:10:59.010><c> of</c><00:10:59.070><c> unit</c><00:10:59.430><c> angle</c><00:10:59.820><c> on</c>
+
+00:11:00.020 --> 00:11:00.030 align:start position:0%
+radio source per sort of unit angle on
+ 
+
+00:11:00.030 --> 00:11:03.440 align:start position:0%
+radio source per sort of unit angle on
+the<00:11:00.300><c> sky</c><00:11:00.510><c> so</c><00:11:01.080><c> a</c><00:11:01.110><c> Jansky</c><00:11:01.590><c> is</c><00:11:01.800><c> defined</c><00:11:02.280><c> as</c><00:11:02.640><c> 10</c><00:11:03.210><c> to</c>
+
+00:11:03.440 --> 00:11:03.450 align:start position:0%
+the sky so a Jansky is defined as 10 to
+ 
+
+00:11:03.450 --> 00:11:05.380 align:start position:0%
+the sky so a Jansky is defined as 10 to
+the<00:11:03.570><c> minus</c><00:11:03.990><c> 26</c>
+
+00:11:05.380 --> 00:11:05.390 align:start position:0%
+the minus 26
+ 
+
+00:11:05.390 --> 00:11:08.050 align:start position:0%
+the minus 26
+watts<00:11:05.510><c> per</c><00:11:06.050><c> square</c><00:11:06.230><c> meter</c><00:11:06.410><c> per</c><00:11:07.250><c> Hertz</c><00:11:07.490><c> so</c>
+
+00:11:08.050 --> 00:11:08.060 align:start position:0%
+watts per square meter per Hertz so
+ 
+
+00:11:08.060 --> 00:11:09.700 align:start position:0%
+watts per square meter per Hertz so
+you're<00:11:08.360><c> working</c><00:11:08.780><c> in</c><00:11:08.900><c> so</c><00:11:09.050><c> Hertz</c><00:11:09.260><c> is</c><00:11:09.500><c> out</c><00:11:09.620><c> which</c>
+
+00:11:09.700 --> 00:11:09.710 align:start position:0%
+you're working in so Hertz is out which
+ 
+
+00:11:09.710 --> 00:11:11.140 align:start position:0%
+you're working in so Hertz is out which
+is<00:11:09.830><c> the</c><00:11:09.950><c> frequency</c><00:11:10.400><c> of</c><00:11:10.490><c> radiation</c><00:11:10.520><c> you're</c><00:11:11.060><c> out</c>
+
+00:11:11.140 --> 00:11:11.150 align:start position:0%
+is the frequency of radiation you're out
+ 
+
+00:11:11.150 --> 00:11:12.910 align:start position:0%
+is the frequency of radiation you're out
+the<00:11:11.270><c> frequency</c><00:11:11.630><c> of</c><00:11:11.690><c> the</c><00:11:11.750><c> radiation</c><00:11:11.990><c> you</c><00:11:12.740><c> want</c>
+
+00:11:12.910 --> 00:11:12.920 align:start position:0%
+the frequency of the radiation you want
+ 
+
+00:11:12.920 --> 00:11:14.170 align:start position:0%
+the frequency of the radiation you want
+to<00:11:12.980><c> know</c><00:11:13.040><c> in</c><00:11:13.190><c> terms</c><00:11:13.430><c> of</c><00:11:13.580><c> like</c><00:11:13.730><c> per</c><00:11:13.910><c> meter</c>
+
+00:11:14.170 --> 00:11:14.180 align:start position:0%
+to know in terms of like per meter
+ 
+
+00:11:14.180 --> 00:11:15.790 align:start position:0%
+to know in terms of like per meter
+squared<00:11:14.600><c> because</c><00:11:14.930><c> that's</c><00:11:15.050><c> your</c><00:11:15.260><c> collecting</c>
+
+00:11:15.790 --> 00:11:15.800 align:start position:0%
+squared because that's your collecting
+ 
+
+00:11:15.800 --> 00:11:18.850 align:start position:0%
+squared because that's your collecting
+area<00:11:16.160><c> of</c><00:11:16.400><c> your</c><00:11:16.970><c> actual</c><00:11:17.270><c> sort</c><00:11:17.720><c> of</c><00:11:17.780><c> CCD</c><00:11:18.350><c> as</c><00:11:18.590><c> well</c>
+
+00:11:18.850 --> 00:11:18.860 align:start position:0%
+area of your actual sort of CCD as well
+ 
+
+00:11:18.860 --> 00:11:20.680 align:start position:0%
+area of your actual sort of CCD as well
+and<00:11:19.100><c> then</c><00:11:19.190><c> your</c><00:11:19.310><c> watts</c><00:11:19.520><c> is</c><00:11:19.730><c> obviously</c><00:11:20.060><c> the</c>
+
+00:11:20.680 --> 00:11:20.690 align:start position:0%
+and then your watts is obviously the
+ 
+
+00:11:20.690 --> 00:11:22.210 align:start position:0%
+and then your watts is obviously the
+amount<00:11:20.810><c> of</c><00:11:21.170><c> energy</c><00:11:21.800><c> that</c><00:11:21.830><c> you're</c><00:11:22.070><c> actually</c>
+
+00:11:22.210 --> 00:11:22.220 align:start position:0%
+amount of energy that you're actually
+ 
+
+00:11:22.220 --> 00:11:24.160 align:start position:0%
+amount of energy that you're actually
+getting<00:11:22.520><c> from</c><00:11:22.850><c> it</c><00:11:22.940><c> but</c><00:11:23.450><c> you've</c><00:11:23.570><c> also</c><00:11:23.720><c> had</c><00:11:24.050><c> to</c>
+
+00:11:24.160 --> 00:11:24.170 align:start position:0%
+getting from it but you've also had to
+ 
+
+00:11:24.170 --> 00:11:26.830 align:start position:0%
+getting from it but you've also had to
+integrate<00:11:24.500><c> over</c><00:11:24.830><c> the</c><00:11:25.190><c> angle</c><00:11:25.670><c> that</c><00:11:26.330><c> you</c><00:11:26.660><c> were</c>
+
+00:11:26.830 --> 00:11:26.840 align:start position:0%
+integrate over the angle that you were
+ 
+
+00:11:26.840 --> 00:11:29.380 align:start position:0%
+integrate over the angle that you were
+on<00:11:26.990><c> in</c><00:11:27.170><c> the</c><00:11:27.260><c> sky</c><00:11:27.530><c> as</c><00:11:27.890><c> well</c><00:11:28.250><c> and</c><00:11:28.610><c> the</c><00:11:29.000><c> way</c><00:11:29.150><c> that</c>
+
+00:11:29.380 --> 00:11:29.390 align:start position:0%
+on in the sky as well and the way that
+ 
+
+00:11:29.390 --> 00:11:31.540 align:start position:0%
+on in the sky as well and the way that
+the<00:11:29.480><c> Jansky</c><00:11:29.780><c> is</c><00:11:29.990><c> defined</c><00:11:30.410><c> is</c><00:11:30.830><c> that</c><00:11:31.280><c> you</c><00:11:31.370><c> have</c>
+
+00:11:31.540 --> 00:11:31.550 align:start position:0%
+the Jansky is defined is that you have
+ 
+
+00:11:31.550 --> 00:11:34.390 align:start position:0%
+the Jansky is defined is that you have
+to<00:11:31.700><c> integrate</c><00:11:31.940><c> over</c><00:11:32.300><c> a</c><00:11:32.870><c> unit</c><00:11:33.110><c> angle</c><00:11:33.620><c> which</c><00:11:34.280><c> is</c>
+
+00:11:34.390 --> 00:11:34.400 align:start position:0%
+to integrate over a unit angle which is
+ 
+
+00:11:34.400 --> 00:11:36.460 align:start position:0%
+to integrate over a unit angle which is
+called<00:11:34.610><c> the</c><00:11:34.760><c> stir</c><00:11:35.090><c> Radian</c><00:11:35.540><c> so</c><00:11:36.200><c> a</c><00:11:36.230><c> stayer</c>
+
+00:11:36.460 --> 00:11:36.470 align:start position:0%
+called the stir Radian so a stayer
+ 
+
+00:11:36.470 --> 00:11:39.100 align:start position:0%
+called the stir Radian so a stayer
+Radian<00:11:36.800><c> is</c><00:11:36.950><c> basically</c><00:11:37.310><c> just</c><00:11:37.430><c> a</c><00:11:37.730><c> square</c><00:11:38.180><c> Radian</c>
+
+00:11:39.100 --> 00:11:39.110 align:start position:0%
+Radian is basically just a square Radian
+ 
+
+00:11:39.110 --> 00:11:40.270 align:start position:0%
+Radian is basically just a square Radian
+just<00:11:39.290><c> a</c><00:11:39.350><c> weird</c><00:11:39.530><c> word</c><00:11:39.680><c> for</c><00:11:39.860><c> it</c><00:11:39.920><c> so</c><00:11:40.010><c> you</c><00:11:40.070><c> have</c><00:11:40.190><c> to</c>
+
+00:11:40.270 --> 00:11:40.280 align:start position:0%
+just a weird word for it so you have to
+ 
+
+00:11:40.280 --> 00:11:42.250 align:start position:0%
+just a weird word for it so you have to
+integrate<00:11:40.490><c> over</c><00:11:40.670><c> square</c><00:11:41.150><c> radians</c><00:11:41.690><c> on</c><00:11:41.900><c> the</c><00:11:42.050><c> sky</c>
+
+00:11:42.250 --> 00:11:42.260 align:start position:0%
+integrate over square radians on the sky
+ 
+
+00:11:42.260 --> 00:11:44.370 align:start position:0%
+integrate over square radians on the sky
+as<00:11:42.500><c> well</c><00:11:42.680><c> so</c><00:11:42.830><c> it's</c><00:11:42.980><c> just</c><00:11:43.070><c> this</c><00:11:43.220><c> horrendous</c>
+
+00:11:44.370 --> 00:11:44.380 align:start position:0%
+as well so it's just this horrendous
+ 
+
+00:11:44.380 --> 00:11:46.450 align:start position:0%
+as well so it's just this horrendous
+unit<00:11:45.380><c> especially</c><00:11:45.770><c> if</c><00:11:45.860><c> you</c><00:11:45.950><c> never</c><00:11:46.190><c> come</c><00:11:46.340><c> across</c>
+
+00:11:46.450 --> 00:11:46.460 align:start position:0%
+unit especially if you never come across
+ 
+
+00:11:46.460 --> 00:11:48.730 align:start position:0%
+unit especially if you never come across
+it<00:11:46.670><c> before</c><00:11:46.820><c> so</c><00:11:47.300><c> I</c><00:11:47.540><c> kind</c><00:11:47.960><c> of</c><00:11:47.990><c> feel</c><00:11:48.140><c> like</c><00:11:48.170><c> it's</c><00:11:48.560><c> a</c>
+
+00:11:48.730 --> 00:11:48.740 align:start position:0%
+it before so I kind of feel like it's a
+ 
+
+00:11:48.740 --> 00:11:50.590 align:start position:0%
+it before so I kind of feel like it's a
+little<00:11:48.890><c> bit</c><00:11:49.010><c> of</c><00:11:49.190><c> a</c><00:11:49.280><c> barrier</c><00:11:49.610><c> to</c><00:11:49.790><c> entry</c><00:11:49.940><c> for</c><00:11:50.570><c> a</c>
+
+00:11:50.590 --> 00:11:50.600 align:start position:0%
+little bit of a barrier to entry for a
+ 
+
+00:11:50.600 --> 00:11:51.970 align:start position:0%
+little bit of a barrier to entry for a
+lot<00:11:50.780><c> of</c><00:11:50.810><c> students</c><00:11:51.260><c> that</c><00:11:51.500><c> come</c><00:11:51.620><c> to</c><00:11:51.680><c> Radio</c>
+
+00:11:51.970 --> 00:11:51.980 align:start position:0%
+lot of students that come to Radio
+ 
+
+00:11:51.980 --> 00:11:53.440 align:start position:0%
+lot of students that come to Radio
+Astronomy<00:11:52.100><c> as</c><00:11:52.550><c> well</c><00:11:52.700><c> in</c><00:11:52.880><c> the</c><00:11:53.030><c> fact</c><00:11:53.210><c> that</c><00:11:53.270><c> it's</c>
+
+00:11:53.440 --> 00:11:53.450 align:start position:0%
+Astronomy as well in the fact that it's
+ 
+
+00:11:53.450 --> 00:11:55.180 align:start position:0%
+Astronomy as well in the fact that it's
+such<00:11:53.600><c> a</c><00:11:53.630><c> weird</c><00:11:53.840><c> unit</c><00:11:54.200><c> and</c><00:11:54.560><c> also</c><00:11:54.920><c> just</c>
+
+00:11:55.180 --> 00:11:55.190 align:start position:0%
+such a weird unit and also just
+ 
+
+00:11:55.190 --> 00:11:58.510 align:start position:0%
+such a weird unit and also just
+conversion<00:11:55.940><c> from</c><00:11:56.240><c> that</c><00:11:57.050><c> unit</c><00:11:57.470><c> two</c><00:11:57.740><c> units</c><00:11:57.980><c> that</c>
+
+00:11:58.510 --> 00:11:58.520 align:start position:0%
+conversion from that unit two units that
+ 
+
+00:11:58.520 --> 00:12:00.700 align:start position:0%
+conversion from that unit two units that
+people<00:11:58.880><c> are</c><00:11:59.000><c> used</c><00:11:59.180><c> to</c><00:11:59.330><c> working</c><00:11:59.720><c> with</c><00:11:59.750><c> in</c><00:12:00.140><c> like</c>
+
+00:12:00.700 --> 00:12:00.710 align:start position:0%
+people are used to working with in like
+ 
+
+00:12:00.710 --> 00:12:02.290 align:start position:0%
+people are used to working with in like
+optical<00:12:01.190><c> studies</c><00:12:01.490><c> instead</c><00:12:01.790><c> like</c><00:12:01.940><c> if</c><00:12:02.030><c> you</c><00:12:02.150><c> want</c>
+
+00:12:02.290 --> 00:12:02.300 align:start position:0%
+optical studies instead like if you want
+ 
+
+00:12:02.300 --> 00:12:04.660 align:start position:0%
+optical studies instead like if you want
+to<00:12:02.360><c> do</c><00:12:02.480><c> like</c><00:12:02.660><c> a</c><00:12:02.720><c> comparative</c><00:12:03.410><c> you</c><00:12:04.100><c> know</c><00:12:04.190><c> I</c><00:12:04.220><c> have</c>
+
+00:12:04.660 --> 00:12:04.670 align:start position:0%
+to do like a comparative you know I have
+ 
+
+00:12:04.670 --> 00:12:06.130 align:start position:0%
+to do like a comparative you know I have
+my<00:12:04.850><c> source</c><00:12:05.150><c> and</c><00:12:05.360><c> I've</c><00:12:05.480><c> seen</c><00:12:05.720><c> it</c><00:12:05.930><c> in</c><00:12:06.050><c> the</c>
+
+00:12:06.130 --> 00:12:06.140 align:start position:0%
+my source and I've seen it in the
+ 
+
+00:12:06.140 --> 00:12:08.500 align:start position:0%
+my source and I've seen it in the
+optical<00:12:06.620><c> but</c><00:12:07.220><c> now</c><00:12:07.340><c> how</c><00:12:07.880><c> much</c><00:12:07.970><c> energy</c><00:12:08.300><c> is</c><00:12:08.420><c> it</c>
+
+00:12:08.500 --> 00:12:08.510 align:start position:0%
+optical but now how much energy is it
+ 
+
+00:12:08.510 --> 00:12:09.520 align:start position:0%
+optical but now how much energy is it
+having<00:12:08.630><c> the</c><00:12:08.750><c> radio</c><00:12:09.080><c> and</c><00:12:09.260><c> how</c><00:12:09.350><c> does</c><00:12:09.410><c> that</c>
+
+00:12:09.520 --> 00:12:09.530 align:start position:0%
+having the radio and how does that
+ 
+
+00:12:09.530 --> 00:12:11.470 align:start position:0%
+having the radio and how does that
+compare<00:12:09.650><c> you</c><00:12:10.430><c> obviously</c><00:12:10.730><c> have</c><00:12:10.820><c> to</c><00:12:10.850><c> convert</c>
+
+00:12:11.470 --> 00:12:11.480 align:start position:0%
+compare you obviously have to convert
+ 
+
+00:12:11.480 --> 00:12:13.570 align:start position:0%
+compare you obviously have to convert
+those<00:12:11.630><c> units</c><00:12:12.110><c> to</c><00:12:12.710><c> the</c><00:12:12.800><c> same</c><00:12:13.010><c> unit</c><00:12:13.340><c> to</c><00:12:13.460><c> be</c><00:12:13.520><c> able</c>
+
+00:12:13.570 --> 00:12:13.580 align:start position:0%
+those units to the same unit to be able
+ 
+
+00:12:13.580 --> 00:12:15.280 align:start position:0%
+those units to the same unit to be able
+to<00:12:13.700><c> compare</c><00:12:14.000><c> them</c><00:12:14.180><c> which</c><00:12:14.600><c> brings</c><00:12:14.870><c> me</c><00:12:15.020><c> on</c><00:12:15.110><c> to</c><00:12:15.140><c> my</c>
+
+00:12:15.280 --> 00:12:15.290 align:start position:0%
+to compare them which brings me on to my
+ 
+
+00:12:15.290 --> 00:12:18.130 align:start position:0%
+to compare them which brings me on to my
+next<00:12:15.400><c> unit</c><00:12:16.400><c> which</c><00:12:16.790><c> is</c><00:12:16.940><c> related</c><00:12:17.510><c> which</c><00:12:17.990><c> was</c>
+
+00:12:18.130 --> 00:12:18.140 align:start position:0%
+next unit which is related which was
+ 
+
+00:12:18.140 --> 00:12:19.840 align:start position:0%
+next unit which is related which was
+called<00:12:18.350><c> the</c><00:12:18.410><c> Nano</c><00:12:18.740><c> Maggie</c><00:12:19.190><c> I</c><00:12:19.460><c> just</c><00:12:19.640><c> think</c><00:12:19.790><c> of</c>
+
+00:12:19.840 --> 00:12:19.850 align:start position:0%
+called the Nano Maggie I just think of
+ 
+
+00:12:19.850 --> 00:12:22.420 align:start position:0%
+called the Nano Maggie I just think of
+like<00:12:20.000><c> tiny</c><00:12:20.240><c> Maggie</c><00:12:20.540><c> Simpson</c><00:12:20.770><c> the</c><00:12:21.770><c> Nano</c><00:12:21.950><c> Maggie</c>
+
+00:12:22.420 --> 00:12:22.430 align:start position:0%
+like tiny Maggie Simpson the Nano Maggie
+ 
+
+00:12:22.430 --> 00:12:24.370 align:start position:0%
+like tiny Maggie Simpson the Nano Maggie
+which<00:12:22.670><c> is</c><00:12:22.790><c> about</c><00:12:22.940><c> three</c><00:12:23.270><c> point</c><00:12:23.570><c> six</c><00:12:23.840><c> times</c><00:12:24.230><c> ten</c>
+
+00:12:24.370 --> 00:12:24.380 align:start position:0%
+which is about three point six times ten
+ 
+
+00:12:24.380 --> 00:12:27.130 align:start position:0%
+which is about three point six times ten
+to<00:12:24.770><c> the</c><00:12:24.800><c> minus</c><00:12:24.920><c> six</c><00:12:25.580><c> jean</c><00:12:26.210><c> skis</c><00:12:26.450><c> three</c><00:12:26.990><c> point</c>
+
+00:12:27.130 --> 00:12:27.140 align:start position:0%
+to the minus six jean skis three point
+ 
+
+00:12:27.140 --> 00:12:29.380 align:start position:0%
+to the minus six jean skis three point
+six<00:12:27.230><c> micro</c><00:12:27.650><c> G</c><00:12:27.710><c> on</c><00:12:27.800><c> skis</c><00:12:28.070><c> is</c><00:12:28.370><c> what</c><00:12:29.120><c> the</c><00:12:29.240><c> Nano</c>
+
+00:12:29.380 --> 00:12:29.390 align:start position:0%
+six micro G on skis is what the Nano
+ 
+
+00:12:29.390 --> 00:12:31.300 align:start position:0%
+six micro G on skis is what the Nano
+Maggie<00:12:29.780><c> is</c><00:12:29.960><c> defined</c><00:12:30.650><c> as</c><00:12:30.800><c> and</c><00:12:30.980><c> it</c><00:12:31.040><c> comes</c><00:12:31.220><c> from</c>
+
+00:12:31.300 --> 00:12:31.310 align:start position:0%
+Maggie is defined as and it comes from
+ 
+
+00:12:31.310 --> 00:12:34.000 align:start position:0%
+Maggie is defined as and it comes from
+sort<00:12:31.610><c> of</c><00:12:31.640><c> your</c><00:12:32.090><c> zero</c><00:12:32.390><c> point</c><00:12:32.480><c> in</c><00:12:32.990><c> the</c><00:12:33.410><c> magnitude</c>
+
+00:12:34.000 --> 00:12:34.010 align:start position:0%
+sort of your zero point in the magnitude
+ 
+
+00:12:34.010 --> 00:12:35.380 align:start position:0%
+sort of your zero point in the magnitude
+system<00:12:34.520><c> that</c><00:12:34.640><c> you're</c><00:12:34.760><c> working</c><00:12:34.790><c> with</c><00:12:35.270><c> this</c>
+
+00:12:35.380 --> 00:12:35.390 align:start position:0%
+system that you're working with this
+ 
+
+00:12:35.390 --> 00:12:37.000 align:start position:0%
+system that you're working with this
+magnitude<00:12:35.780><c> is</c><00:12:35.900><c> like</c><00:12:36.050><c> brightness</c><00:12:36.380><c> system</c><00:12:36.890><c> in</c>
+
+00:12:37.000 --> 00:12:37.010 align:start position:0%
+magnitude is like brightness system in
+ 
+
+00:12:37.010 --> 00:12:38.980 align:start position:0%
+magnitude is like brightness system in
+astronomy<00:12:37.310><c> and</c><00:12:37.760><c> it's</c><00:12:38.060><c> just</c><00:12:38.240><c> this</c><00:12:38.360><c> huge</c><00:12:38.660><c> mess</c>
+
+00:12:38.980 --> 00:12:38.990 align:start position:0%
+astronomy and it's just this huge mess
+ 
+
+00:12:38.990 --> 00:12:42.880 align:start position:0%
+astronomy and it's just this huge mess
+still<00:12:39.310><c> so</c><00:12:40.310><c> it's</c><00:12:41.270><c> on</c><00:12:41.510><c> my</c><00:12:41.660><c> list</c><00:12:41.840><c> because</c><00:12:42.050><c> it's</c>
+
+00:12:42.880 --> 00:12:42.890 align:start position:0%
+still so it's on my list because it's
+ 
+
+00:12:42.890 --> 00:12:44.440 align:start position:0%
+still so it's on my list because it's
+cause<00:12:43.250><c> astronomers</c><00:12:43.820><c> so</c><00:12:44.090><c> much</c><00:12:44.240><c> frustration</c>
+
+00:12:44.440 --> 00:12:44.450 align:start position:0%
+cause astronomers so much frustration
+ 
+
+00:12:44.450 --> 00:12:46.240 align:start position:0%
+cause astronomers so much frustration
+over<00:12:44.960><c> the</c><00:12:45.080><c> years</c><00:12:45.290><c> this</c><00:12:45.770><c> is</c><00:12:45.920><c> a</c><00:12:45.950><c> paper</c><00:12:46.130><c> from</c>
+
+00:12:46.240 --> 00:12:46.250 align:start position:0%
+over the years this is a paper from
+ 
+
+00:12:46.250 --> 00:12:50.340 align:start position:0%
+over the years this is a paper from
+astronomers<00:12:46.850><c> again</c><00:12:48.250><c> and</c><00:12:49.250><c> they're</c><00:12:49.520><c> studying</c>
+
+00:12:50.340 --> 00:12:50.350 align:start position:0%
+astronomers again and they're studying
+ 
+
+00:12:50.350 --> 00:12:53.560 align:start position:0%
+astronomers again and they're studying
+molecular<00:12:51.350><c> cloud</c><00:12:51.980><c> densities</c><00:12:52.880><c> so</c><00:12:53.150><c> that</c><00:12:53.480><c> the</c>
+
+00:12:53.560 --> 00:12:53.570 align:start position:0%
+molecular cloud densities so that the
+ 
+
+00:12:53.570 --> 00:12:55.540 align:start position:0%
+molecular cloud densities so that the
+clouds<00:12:53.870><c> that</c><00:12:54.080><c> are</c><00:12:54.140><c> gonna</c><00:12:54.290><c> form</c><00:12:54.590><c> stars</c><00:12:55.070><c> the</c><00:12:55.340><c> gas</c>
+
+00:12:55.540 --> 00:12:55.550 align:start position:0%
+clouds that are gonna form stars the gas
+ 
+
+00:12:55.550 --> 00:12:57.310 align:start position:0%
+clouds that are gonna form stars the gas
+it's<00:12:56.150><c> all</c><00:12:56.270><c> going</c><00:12:56.420><c> to</c><00:12:56.480><c> condense</c><00:12:56.720><c> to</c><00:12:56.840><c> form</c><00:12:56.960><c> stars</c>
+
+00:12:57.310 --> 00:12:57.320 align:start position:0%
+it's all going to condense to form stars
+ 
+
+00:12:57.320 --> 00:12:58.870 align:start position:0%
+it's all going to condense to form stars
+they're<00:12:57.650><c> looking</c><00:12:57.830><c> at</c><00:12:57.920><c> how</c><00:12:58.040><c> dense</c><00:12:58.340><c> they</c><00:12:58.550><c> are</c><00:12:58.700><c> in</c>
+
+00:12:58.870 --> 00:12:58.880 align:start position:0%
+they're looking at how dense they are in
+ 
+
+00:12:58.880 --> 00:13:01.270 align:start position:0%
+they're looking at how dense they are in
+the<00:12:59.300><c> universe</c><00:12:59.630><c> and</c><00:12:59.930><c> what</c><00:13:00.230><c> the</c><00:13:00.410><c> pressure</c><00:13:00.770><c> is</c><00:13:00.920><c> in</c>
+
+00:13:01.270 --> 00:13:01.280 align:start position:0%
+the universe and what the pressure is in
+ 
+
+00:13:01.280 --> 00:13:02.890 align:start position:0%
+the universe and what the pressure is in
+these<00:13:01.760><c> clouds</c><00:13:02.000><c> as</c><00:13:02.240><c> well</c><00:13:02.360><c> that's</c><00:13:02.510><c> gonna</c><00:13:02.720><c> squish</c>
+
+00:13:02.890 --> 00:13:02.900 align:start position:0%
+these clouds as well that's gonna squish
+ 
+
+00:13:02.900 --> 00:13:05.110 align:start position:0%
+these clouds as well that's gonna squish
+them<00:13:03.080><c> together</c><00:13:03.200><c> so</c><00:13:03.710><c> sentence</c><00:13:04.010><c> is</c><00:13:04.130><c> more</c><00:13:04.760><c> over</c>
+
+00:13:05.110 --> 00:13:05.120 align:start position:0%
+them together so sentence is more over
+ 
+
+00:13:05.120 --> 00:13:07.300 align:start position:0%
+them together so sentence is more over
+some<00:13:05.600><c> of</c><00:13:05.690><c> the</c><00:13:05.810><c> highest</c><00:13:06.200><c> column</c><00:13:06.770><c> density</c>
+
+00:13:07.300 --> 00:13:07.310 align:start position:0%
+some of the highest column density
+ 
+
+00:13:07.310 --> 00:13:09.430 align:start position:0%
+some of the highest column density
+clumps<00:13:07.910><c> would</c><00:13:08.150><c> require</c><00:13:08.420><c> enormous</c><00:13:08.870><c> confining</c>
+
+00:13:09.430 --> 00:13:09.440 align:start position:0%
+clumps would require enormous confining
+ 
+
+00:13:09.440 --> 00:13:11.920 align:start position:0%
+clumps would require enormous confining
+pressures<00:13:10.100><c> of</c><00:13:10.430><c> roughly</c><00:13:10.940><c> a</c><00:13:11.060><c> thousand</c><00:13:11.690><c> to</c><00:13:11.900><c> a</c>
+
+00:13:11.920 --> 00:13:11.930 align:start position:0%
+pressures of roughly a thousand to a
+ 
+
+00:13:11.930 --> 00:13:16.210 align:start position:0%
+pressures of roughly a thousand to a
+billion<00:13:12.320><c> Kelvin</c><00:13:12.920><c> per</c><00:13:13.370><c> centimeter</c><00:13:13.970><c> cubed</c><00:13:15.220><c> so</c>
+
+00:13:16.210 --> 00:13:16.220 align:start position:0%
+billion Kelvin per centimeter cubed so
+ 
+
+00:13:16.220 --> 00:13:17.170 align:start position:0%
+billion Kelvin per centimeter cubed so
+that<00:13:16.250><c> was</c><00:13:16.490><c> a</c><00:13:16.520><c> pressure</c>
+
+00:13:17.170 --> 00:13:17.180 align:start position:0%
+that was a pressure
+ 
+
+00:13:17.180 --> 00:13:20.260 align:start position:0%
+that was a pressure
+in<00:13:17.590><c> kelvins</c><00:13:18.590><c> per</c><00:13:18.680><c> centimeter</c><00:13:19.190><c> cubed</c><00:13:19.610><c> Kelvin</c><00:13:20.120><c> a</c>
+
+00:13:20.260 --> 00:13:20.270 align:start position:0%
+in kelvins per centimeter cubed Kelvin a
+ 
+
+00:13:20.270 --> 00:13:22.540 align:start position:0%
+in kelvins per centimeter cubed Kelvin a
+unit<00:13:20.570><c> of</c><00:13:20.660><c> temperature</c><00:13:21.110><c> and</c><00:13:21.290><c> centimeter</c><00:13:22.250><c> cubed</c>
+
+00:13:22.540 --> 00:13:22.550 align:start position:0%
+unit of temperature and centimeter cubed
+ 
+
+00:13:22.550 --> 00:13:25.330 align:start position:0%
+unit of temperature and centimeter cubed
+a<00:13:22.760><c> unit</c><00:13:23.090><c> of</c><00:13:23.240><c> volume</c><00:13:23.270><c> so</c><00:13:23.810><c> they're</c><00:13:24.650><c> quoting</c>
+
+00:13:25.330 --> 00:13:25.340 align:start position:0%
+a unit of volume so they're quoting
+ 
+
+00:13:25.340 --> 00:13:27.460 align:start position:0%
+a unit of volume so they're quoting
+pressures<00:13:26.090><c> in</c><00:13:26.330><c> temperatures</c><00:13:27.170><c> per</c><00:13:27.320><c> volume</c>
+
+00:13:27.460 --> 00:13:27.470 align:start position:0%
+pressures in temperatures per volume
+ 
+
+00:13:27.470 --> 00:13:29.350 align:start position:0%
+pressures in temperatures per volume
+most<00:13:28.430><c> the</c><00:13:28.520><c> time</c><00:13:28.670><c> pressures</c><00:13:29.000><c> are</c><00:13:29.150><c> done</c><00:13:29.240><c> in</c>
+
+00:13:29.350 --> 00:13:29.360 align:start position:0%
+most the time pressures are done in
+ 
+
+00:13:29.360 --> 00:13:32.530 align:start position:0%
+most the time pressures are done in
+atmospheres<00:13:29.990><c> or</c><00:13:30.170><c> bars</c><00:13:30.830><c> as</c><00:13:31.220><c> well</c><00:13:31.430><c> here</c><00:13:32.030><c> they're</c>
+
+00:13:32.530 --> 00:13:32.540 align:start position:0%
+atmospheres or bars as well here they're
+ 
+
+00:13:32.540 --> 00:13:33.880 align:start position:0%
+atmospheres or bars as well here they're
+doing<00:13:32.690><c> it</c><00:13:32.780><c> in</c><00:13:32.840><c> kelvins</c><00:13:33.200><c> per</c><00:13:33.230><c> centimeter</c><00:13:33.590><c> cubed</c>
+
+00:13:33.880 --> 00:13:33.890 align:start position:0%
+doing it in kelvins per centimeter cubed
+ 
+
+00:13:33.890 --> 00:13:35.380 align:start position:0%
+doing it in kelvins per centimeter cubed
+which<00:13:34.100><c> probably</c><00:13:34.400><c> doesn't</c><00:13:34.640><c> make</c><00:13:34.730><c> any</c><00:13:34.940><c> sense</c>
+
+00:13:35.380 --> 00:13:35.390 align:start position:0%
+which probably doesn't make any sense
+ 
+
+00:13:35.390 --> 00:13:37.960 align:start position:0%
+which probably doesn't make any sense
+until<00:13:35.900><c> you</c><00:13:35.960><c> think</c><00:13:36.230><c> about</c><00:13:36.350><c> the</c><00:13:36.740><c> context</c><00:13:37.370><c> so</c><00:13:37.790><c> in</c>
+
+00:13:37.960 --> 00:13:37.970 align:start position:0%
+until you think about the context so in
+ 
+
+00:13:37.970 --> 00:13:40.180 align:start position:0%
+until you think about the context so in
+space<00:13:38.180><c> the</c><00:13:38.810><c> gases</c><00:13:39.230><c> that</c><00:13:39.530><c> you're</c><00:13:39.710><c> dealing</c><00:13:40.160><c> with</c>
+
+00:13:40.180 --> 00:13:40.190 align:start position:0%
+space the gases that you're dealing with
+ 
+
+00:13:40.190 --> 00:13:41.860 align:start position:0%
+space the gases that you're dealing with
+the<00:13:40.430><c> gases</c><00:13:40.700><c> you're</c><00:13:40.910><c> modeling</c><00:13:41.150><c> here</c><00:13:41.390><c> they're</c>
+
+00:13:41.860 --> 00:13:41.870 align:start position:0%
+the gases you're modeling here they're
+ 
+
+00:13:41.870 --> 00:13:44.560 align:start position:0%
+the gases you're modeling here they're
+very<00:13:42.290><c> low</c><00:13:42.830><c> density</c><00:13:42.980><c> there's</c><00:13:43.940><c> barely</c><00:13:44.270><c> any</c>
+
+00:13:44.560 --> 00:13:44.570 align:start position:0%
+very low density there's barely any
+ 
+
+00:13:44.570 --> 00:13:46.180 align:start position:0%
+very low density there's barely any
+interactions<00:13:45.440><c> you</c><00:13:45.860><c> know</c><00:13:45.950><c> there's</c><00:13:46.100><c> no</c>
+
+00:13:46.180 --> 00:13:46.190 align:start position:0%
+interactions you know there's no
+ 
+
+00:13:46.190 --> 00:13:48.520 align:start position:0%
+interactions you know there's no
+collisions<00:13:46.820><c> and</c><00:13:47.300><c> so</c><00:13:47.720><c> basically</c><00:13:47.960><c> what</c><00:13:48.140><c> we</c><00:13:48.260><c> call</c>
+
+00:13:48.520 --> 00:13:48.530 align:start position:0%
+collisions and so basically what we call
+ 
+
+00:13:48.530 --> 00:13:50.230 align:start position:0%
+collisions and so basically what we call
+that<00:13:48.740><c> is</c><00:13:48.830><c> an</c><00:13:48.950><c> ideal</c><00:13:49.310><c> gas</c><00:13:49.400><c> so</c><00:13:49.970><c> we</c><00:13:50.090><c> might</c>
+
+00:13:50.230 --> 00:13:50.240 align:start position:0%
+that is an ideal gas so we might
+ 
+
+00:13:50.240 --> 00:13:51.340 align:start position:0%
+that is an ideal gas so we might
+remember<00:13:50.360><c> that</c><00:13:50.540><c> from</c><00:13:50.690><c> high</c><00:13:50.750><c> school</c><00:13:50.990><c> ideal</c>
+
+00:13:51.340 --> 00:13:51.350 align:start position:0%
+remember that from high school ideal
+ 
+
+00:13:51.350 --> 00:13:53.020 align:start position:0%
+remember that from high school ideal
+gases<00:13:51.740><c> okay</c><00:13:52.100><c> let</c><00:13:52.250><c> can</c><00:13:52.370><c> beam</c><00:13:52.460><c> always</c><00:13:52.760><c> modeled</c>
+
+00:13:53.020 --> 00:13:53.030 align:start position:0%
+gases okay let can beam always modeled
+ 
+
+00:13:53.030 --> 00:13:54.850 align:start position:0%
+gases okay let can beam always modeled
+as<00:13:53.090><c> an</c><00:13:53.180><c> ideal</c><00:13:53.720><c> gas</c><00:13:53.780><c> and</c><00:13:54.140><c> so</c><00:13:54.320><c> that</c><00:13:54.500><c> means</c><00:13:54.680><c> that</c>
+
+00:13:54.850 --> 00:13:54.860 align:start position:0%
+as an ideal gas and so that means that
+ 
+
+00:13:54.860 --> 00:13:56.800 align:start position:0%
+as an ideal gas and so that means that
+we<00:13:54.950><c> can</c><00:13:55.100><c> apply</c><00:13:55.310><c> the</c><00:13:55.430><c> ideal</c><00:13:55.850><c> gas</c><00:13:56.000><c> law</c><00:13:56.060><c> which</c>
+
+00:13:56.800 --> 00:13:56.810 align:start position:0%
+we can apply the ideal gas law which
+ 
+
+00:13:56.810 --> 00:14:00.880 align:start position:0%
+we can apply the ideal gas law which
+people<00:13:57.260><c> might</c><00:13:57.380><c> remember</c><00:13:57.470><c> PV</c><00:13:58.070><c> equals</c><00:13:58.610><c> NRT</c><00:13:59.890><c> P</c>
+
+00:14:00.880 --> 00:14:00.890 align:start position:0%
+people might remember PV equals NRT P
+ 
+
+00:14:00.890 --> 00:14:02.590 align:start position:0%
+people might remember PV equals NRT P
+being<00:14:01.070><c> the</c><00:14:01.160><c> pressure</c><00:14:01.310><c> V</c><00:14:01.730><c> being</c><00:14:01.940><c> the</c><00:14:02.030><c> volume</c><00:14:02.360><c> n</c>
+
+00:14:02.590 --> 00:14:02.600 align:start position:0%
+being the pressure V being the volume n
+ 
+
+00:14:02.600 --> 00:14:06.250 align:start position:0%
+being the pressure V being the volume n
+is<00:14:03.110><c> the</c><00:14:03.590><c> number</c><00:14:04.010><c> of</c><00:14:04.220><c> moles</c><00:14:05.060><c> of</c><00:14:05.510><c> an</c><00:14:05.720><c> element</c><00:14:06.080><c> R</c>
+
+00:14:06.250 --> 00:14:06.260 align:start position:0%
+is the number of moles of an element R
+ 
+
+00:14:06.260 --> 00:14:07.690 align:start position:0%
+is the number of moles of an element R
+being<00:14:06.560><c> a</c><00:14:06.650><c> constant</c><00:14:06.950><c> and</c><00:14:07.130><c> then</c><00:14:07.220><c> T</c><00:14:07.400><c> being</c><00:14:07.610><c> the</c>
+
+00:14:07.690 --> 00:14:07.700 align:start position:0%
+being a constant and then T being the
+ 
+
+00:14:07.700 --> 00:14:09.310 align:start position:0%
+being a constant and then T being the
+temperature<00:14:08.060><c> astronomers</c><00:14:08.630><c> change</c><00:14:08.870><c> this</c><00:14:09.110><c> so</c>
+
+00:14:09.310 --> 00:14:09.320 align:start position:0%
+temperature astronomers change this so
+ 
+
+00:14:09.320 --> 00:14:11.470 align:start position:0%
+temperature astronomers change this so
+that<00:14:09.350><c> they're</c><00:14:09.590><c> working</c><00:14:09.800><c> in</c><00:14:10.220><c> the</c><00:14:10.520><c> number</c><00:14:11.300><c> of</c>
+
+00:14:11.470 --> 00:14:11.480 align:start position:0%
+that they're working in the number of
+ 
+
+00:14:11.480 --> 00:14:13.150 align:start position:0%
+that they're working in the number of
+actual<00:14:11.720><c> atoms</c><00:14:12.050><c> they've</c><00:14:12.500><c> got</c><00:14:12.680><c> because</c><00:14:12.860><c> they</c>
+
+00:14:13.150 --> 00:14:13.160 align:start position:0%
+actual atoms they've got because they
+ 
+
+00:14:13.160 --> 00:14:14.500 align:start position:0%
+actual atoms they've got because they
+can<00:14:13.310><c> kind</c><00:14:13.640><c> of</c><00:14:13.760><c> estimate</c><00:14:14.060><c> the</c><00:14:14.180><c> number</c><00:14:14.360><c> a</c><00:14:14.390><c> so</c>
+
+00:14:14.500 --> 00:14:14.510 align:start position:0%
+can kind of estimate the number a so
+ 
+
+00:14:14.510 --> 00:14:16.150 align:start position:0%
+can kind of estimate the number a so
+because<00:14:14.750><c> it's</c><00:14:14.930><c> such</c><00:14:15.260><c> a</c><00:14:15.290><c> low</c><00:14:15.440><c> density</c><00:14:15.620><c> they</c>
+
+00:14:16.150 --> 00:14:16.160 align:start position:0%
+because it's such a low density they
+ 
+
+00:14:16.160 --> 00:14:17.860 align:start position:0%
+because it's such a low density they
+rearrange<00:14:16.520><c> it</c><00:14:16.700><c> so</c><00:14:16.850><c> that</c><00:14:16.970><c> it's</c><00:14:17.090><c> P</c><00:14:17.300><c> equals</c>
+
+00:14:17.860 --> 00:14:17.870 align:start position:0%
+rearrange it so that it's P equals
+ 
+
+00:14:17.870 --> 00:14:20.110 align:start position:0%
+rearrange it so that it's P equals
+number<00:14:18.530><c> of</c><00:14:18.710><c> atoms</c><00:14:18.860><c> divided</c><00:14:19.550><c> by</c><00:14:19.640><c> the</c><00:14:19.700><c> volume</c>
+
+00:14:20.110 --> 00:14:20.120 align:start position:0%
+number of atoms divided by the volume
+ 
+
+00:14:20.120 --> 00:14:22.390 align:start position:0%
+number of atoms divided by the volume
+times<00:14:20.840><c> by</c><00:14:20.960><c> the</c><00:14:21.020><c> Boltzmann</c><00:14:21.350><c> constant</c><00:14:21.620><c> times</c>
+
+00:14:22.390 --> 00:14:22.400 align:start position:0%
+times by the Boltzmann constant times
+ 
+
+00:14:22.400 --> 00:14:23.800 align:start position:0%
+times by the Boltzmann constant times
+temperature<00:14:22.520><c> and</c><00:14:23.000><c> they</c><00:14:23.180><c> basically</c><00:14:23.360><c> just</c><00:14:23.570><c> say</c>
+
+00:14:23.800 --> 00:14:23.810 align:start position:0%
+temperature and they basically just say
+ 
+
+00:14:23.810 --> 00:14:25.900 align:start position:0%
+temperature and they basically just say
+drop<00:14:24.740><c> the</c><00:14:24.830><c> Boltzmann</c><00:14:25.160><c> constant</c><00:14:25.190><c> and</c><00:14:25.640><c> then</c>
+
+00:14:25.900 --> 00:14:25.910 align:start position:0%
+drop the Boltzmann constant and then
+ 
+
+00:14:25.910 --> 00:14:27.100 align:start position:0%
+drop the Boltzmann constant and then
+they<00:14:26.000><c> say</c><00:14:26.120><c> the</c><00:14:26.240><c> pressure</c><00:14:26.480><c> is</c><00:14:26.750><c> there</c><00:14:26.900><c> for</c><00:14:27.050><c> the</c>
+
+00:14:27.100 --> 00:14:27.110 align:start position:0%
+they say the pressure is there for the
+ 
+
+00:14:27.110 --> 00:14:28.960 align:start position:0%
+they say the pressure is there for the
+temperature<00:14:27.500><c> of</c><00:14:27.560><c> the</c><00:14:27.650><c> volume</c><00:14:27.980><c> and</c><00:14:28.160><c> so</c>
+
+00:14:28.960 --> 00:14:28.970 align:start position:0%
+temperature of the volume and so
+ 
+
+00:14:28.970 --> 00:14:30.460 align:start position:0%
+temperature of the volume and so
+basically<00:14:29.210><c> everybody</c><00:14:29.540><c> knows</c><00:14:29.930><c> that</c><00:14:30.170><c> when</c><00:14:30.320><c> they</c>
+
+00:14:30.460 --> 00:14:30.470 align:start position:0%
+basically everybody knows that when they
+ 
+
+00:14:30.470 --> 00:14:33.040 align:start position:0%
+basically everybody knows that when they
+quote<00:14:30.770><c> these</c><00:14:31.430><c> numbers</c><00:14:31.850><c> of</c><00:14:32.030><c> like</c><00:14:32.210><c> a</c><00:14:32.480><c> thousand</c>
+
+00:14:33.040 --> 00:14:33.050 align:start position:0%
+quote these numbers of like a thousand
+ 
+
+00:14:33.050 --> 00:14:34.810 align:start position:0%
+quote these numbers of like a thousand
+to<00:14:33.140><c> a</c><00:14:33.170><c> billion</c><00:14:33.530><c> Kelvin</c><00:14:34.040><c> per</c><00:14:34.130><c> centimeter</c><00:14:34.520><c> cubed</c>
+
+00:14:34.810 --> 00:14:34.820 align:start position:0%
+to a billion Kelvin per centimeter cubed
+ 
+
+00:14:34.820 --> 00:14:36.520 align:start position:0%
+to a billion Kelvin per centimeter cubed
+but<00:14:35.240><c> there's</c><00:14:35.420><c> some</c><00:14:35.660><c> Boltzmann</c><00:14:36.050><c> constant</c><00:14:36.080><c> in</c>
+
+00:14:36.520 --> 00:14:36.530 align:start position:0%
+but there's some Boltzmann constant in
+ 
+
+00:14:36.530 --> 00:14:37.720 align:start position:0%
+but there's some Boltzmann constant in
+there<00:14:36.740><c> that</c><00:14:36.890><c> they</c><00:14:36.980><c> haven't</c><00:14:37.310><c> taken</c><00:14:37.400><c> into</c>
+
+00:14:37.720 --> 00:14:37.730 align:start position:0%
+there that they haven't taken into
+ 
+
+00:14:37.730 --> 00:14:39.850 align:start position:0%
+there that they haven't taken into
+account<00:14:37.870><c> but</c><00:14:38.870><c> they</c><00:14:38.960><c> don't</c><00:14:39.080><c> say</c><00:14:39.260><c> it</c><00:14:39.440><c> it's</c><00:14:39.740><c> just</c>
+
+00:14:39.850 --> 00:14:39.860 align:start position:0%
+account but they don't say it it's just
+ 
+
+00:14:39.860 --> 00:14:41.920 align:start position:0%
+account but they don't say it it's just
+that<00:14:39.950><c> everybody</c><00:14:40.370><c> knows</c><00:14:40.580><c> that</c><00:14:40.940><c> it's</c><00:14:41.750><c> there</c>
+
+00:14:41.920 --> 00:14:41.930 align:start position:0%
+that everybody knows that it's there
+ 
+
+00:14:41.930 --> 00:14:44.230 align:start position:0%
+that everybody knows that it's there
+which<00:14:42.470><c> I</c><00:14:42.530><c> think</c><00:14:42.560><c> it's</c><00:14:42.800><c> just</c><00:14:42.890><c> really</c><00:14:43.040><c> lazy</c><00:14:43.310><c> and</c>
+
+00:14:44.230 --> 00:14:44.240 align:start position:0%
+which I think it's just really lazy and
+ 
+
+00:14:44.240 --> 00:14:45.610 align:start position:0%
+which I think it's just really lazy and
+also<00:14:44.480><c> they</c><00:14:44.600><c> haven't</c><00:14:44.840><c> dumped</c><00:14:45.110><c> this</c><00:14:45.200><c> unit</c><00:14:45.560><c> I</c>
+
+00:14:45.610 --> 00:14:45.620 align:start position:0%
+also they haven't dumped this unit I
+ 
+
+00:14:45.620 --> 00:14:46.720 align:start position:0%
+also they haven't dumped this unit I
+feel<00:14:45.770><c> like</c><00:14:45.860><c> if</c><00:14:45.980><c> this</c><00:14:46.070><c> unit</c><00:14:46.310><c> should</c><00:14:46.430><c> be</c><00:14:46.490><c> dub</c>
+
+00:14:46.720 --> 00:14:46.730 align:start position:0%
+feel like if this unit should be dub
+ 
+
+00:14:46.730 --> 00:14:48.880 align:start position:0%
+feel like if this unit should be dub
+like<00:14:46.910><c> they're</c><00:14:47.090><c> lazy</c><00:14:47.270><c> or</c><00:14:47.540><c> something</c><00:14:47.900><c> like</c><00:14:48.140><c> it's</c>
+
+00:14:48.880 --> 00:14:48.890 align:start position:0%
+like they're lazy or something like it's
+ 
+
+00:14:48.890 --> 00:14:50.230 align:start position:0%
+like they're lazy or something like it's
+just<00:14:49.100><c> they</c><00:14:49.340><c> need</c><00:14:49.490><c> to</c><00:14:49.610><c> give</c><00:14:49.730><c> it</c><00:14:49.820><c> a</c><00:14:49.880><c> name</c><00:14:50.030><c> if</c>
+
+00:14:50.230 --> 00:14:50.240 align:start position:0%
+just they need to give it a name if
+ 
+
+00:14:50.240 --> 00:14:51.550 align:start position:0%
+just they need to give it a name if
+they're<00:14:50.390><c> gonna</c><00:14:50.510><c> keep</c><00:14:50.750><c> using</c><00:14:51.020><c> it</c><00:14:51.230><c> because</c><00:14:51.320><c> it's</c>
+
+00:14:51.550 --> 00:14:51.560 align:start position:0%
+they're gonna keep using it because it's
+ 
+
+00:14:51.560 --> 00:14:52.870 align:start position:0%
+they're gonna keep using it because it's
+really<00:14:52.040><c> strange</c><00:14:52.280><c> and</c><00:14:52.430><c> it</c><00:14:52.550><c> would</c><00:14:52.670><c> really</c>
+
+00:14:52.870 --> 00:14:52.880 align:start position:0%
+really strange and it would really
+ 
+
+00:14:52.880 --> 00:14:54.580 align:start position:0%
+really strange and it would really
+confuse<00:14:53.300><c> people</c><00:14:53.450><c> especially</c><00:14:54.110><c> people</c><00:14:54.350><c> like</c>
+
+00:14:54.580 --> 00:14:54.590 align:start position:0%
+confuse people especially people like
+ 
+
+00:14:54.590 --> 00:14:56.080 align:start position:0%
+confuse people especially people like
+new<00:14:54.800><c> to</c><00:14:54.950><c> the</c><00:14:55.040><c> field</c><00:14:55.280><c> that</c><00:14:55.490><c> have</c><00:14:55.640><c> never</c><00:14:55.880><c> even</c>
+
+00:14:56.080 --> 00:14:56.090 align:start position:0%
+new to the field that have never even
+ 
+
+00:14:56.090 --> 00:14:57.550 align:start position:0%
+new to the field that have never even
+come<00:14:56.240><c> across</c><00:14:56.480><c> this</c><00:14:56.660><c> before</c><00:14:56.810><c> last</c><00:14:57.320><c> but</c><00:14:57.500><c> not</c>
+
+00:14:57.550 --> 00:14:57.560 align:start position:0%
+come across this before last but not
+ 
+
+00:14:57.560 --> 00:15:00.940 align:start position:0%
+come across this before last but not
+least<00:14:57.770><c> is</c><00:14:58.190><c> a</c><00:14:58.730><c> barn</c><00:14:59.470><c> you've</c><00:15:00.470><c> heard</c><00:15:00.620><c> a</c><00:15:00.650><c> barn</c>
+
+00:15:00.940 --> 00:15:00.950 align:start position:0%
+least is a barn you've heard a barn
+ 
+
+00:15:00.950 --> 00:15:03.760 align:start position:0%
+least is a barn you've heard a barn
+before<00:15:01.630><c> like</c><00:15:02.630><c> barn</c><00:15:02.840><c> conversions</c><00:15:03.440><c> or</c><00:15:03.650><c> like</c>
+
+00:15:03.760 --> 00:15:03.770 align:start position:0%
+before like barn conversions or like
+ 
+
+00:15:03.770 --> 00:15:07.780 align:start position:0%
+before like barn conversions or like
+sheds<00:15:04.100><c> and</c><00:15:04.370><c> stuff</c><00:15:04.580><c> okay</c><00:15:04.970><c> so</c><00:15:05.210><c> a</c><00:15:05.870><c> barn</c><00:15:06.460><c> is</c><00:15:07.460><c> using</c>
+
+00:15:07.780 --> 00:15:07.790 align:start position:0%
+sheds and stuff okay so a barn is using
+ 
+
+00:15:07.790 --> 00:15:09.310 align:start position:0%
+sheds and stuff okay so a barn is using
+particle<00:15:08.000><c> physics</c><00:15:08.300><c> all</c><00:15:08.510><c> the</c><00:15:08.600><c> time</c><00:15:08.840><c> it's</c><00:15:09.170><c> a</c>
+
+00:15:09.310 --> 00:15:09.320 align:start position:0%
+particle physics all the time it's a
+ 
+
+00:15:09.320 --> 00:15:12.220 align:start position:0%
+particle physics all the time it's a
+cross-sectional<00:15:10.190><c> area</c><00:15:10.670><c> of</c><00:15:10.910><c> a</c><00:15:11.150><c> particle</c><00:15:11.690><c> okay</c>
+
+00:15:12.220 --> 00:15:12.230 align:start position:0%
+cross-sectional area of a particle okay
+ 
+
+00:15:12.230 --> 00:15:14.800 align:start position:0%
+cross-sectional area of a particle okay
+so<00:15:12.320><c> it's</c><00:15:12.560><c> about</c><00:15:12.710><c> a</c><00:15:12.770><c> hundred</c><00:15:13.810><c> femtometers</c>
+
+00:15:14.800 --> 00:15:14.810 align:start position:0%
+so it's about a hundred femtometers
+ 
+
+00:15:14.810 --> 00:15:17.320 align:start position:0%
+so it's about a hundred femtometers
+squared<00:15:15.230><c> its</c><00:15:15.740><c> defined</c><00:15:16.040><c> us</c><00:15:16.220><c> so</c><00:15:16.520><c> that's</c><00:15:16.610><c> 10</c><00:15:17.120><c> to</c>
+
+00:15:17.320 --> 00:15:17.330 align:start position:0%
+squared its defined us so that's 10 to
+ 
+
+00:15:17.330 --> 00:15:20.290 align:start position:0%
+squared its defined us so that's 10 to
+the<00:15:17.450><c> minus</c><00:15:17.840><c> 28</c><00:15:18.440><c> meters</c><00:15:19.430><c> squared</c><00:15:19.760><c> it's</c><00:15:20.150><c> about</c>
+
+00:15:20.290 --> 00:15:20.300 align:start position:0%
+the minus 28 meters squared it's about
+ 
+
+00:15:20.300 --> 00:15:21.700 align:start position:0%
+the minus 28 meters squared it's about
+the<00:15:20.480><c> cross-sectional</c><00:15:21.020><c> area</c><00:15:21.290><c> of</c><00:15:21.320><c> a</c><00:15:21.440><c> uranium</c>
+
+00:15:21.700 --> 00:15:21.710 align:start position:0%
+the cross-sectional area of a uranium
+ 
+
+00:15:21.710 --> 00:15:23.350 align:start position:0%
+the cross-sectional area of a uranium
+nucleus<00:15:22.310><c> so</c><00:15:22.580><c> the</c><00:15:22.640><c> reason</c><00:15:22.850><c> it's</c><00:15:22.910><c> called</c><00:15:23.000><c> a</c><00:15:23.150><c> barn</c>
+
+00:15:23.350 --> 00:15:23.360 align:start position:0%
+nucleus so the reason it's called a barn
+ 
+
+00:15:23.360 --> 00:15:25.000 align:start position:0%
+nucleus so the reason it's called a barn
+it<00:15:23.630><c> comes</c><00:15:23.840><c> from</c><00:15:24.080><c> the</c><00:15:24.260><c> u.s.</c><00:15:24.500><c> expression</c>
+
+00:15:25.000 --> 00:15:25.010 align:start position:0%
+it comes from the u.s. expression
+ 
+
+00:15:25.010 --> 00:15:26.650 align:start position:0%
+it comes from the u.s. expression
+couldn't<00:15:25.430><c> hit</c><00:15:25.700><c> the</c><00:15:25.940><c> broadside</c><00:15:26.240><c> of</c><00:15:26.480><c> a</c><00:15:26.630><c> barn</c>
+
+00:15:26.650 --> 00:15:26.660 align:start position:0%
+couldn't hit the broadside of a barn
+ 
+
+00:15:26.660 --> 00:15:28.300 align:start position:0%
+couldn't hit the broadside of a barn
+which<00:15:27.350><c> means</c><00:15:27.560><c> that</c><00:15:27.680><c> your</c><00:15:27.770><c> aim</c><00:15:27.950><c> is</c><00:15:28.130><c> terrible</c>
+
+00:15:28.300 --> 00:15:28.310 align:start position:0%
+which means that your aim is terrible
+ 
+
+00:15:28.310 --> 00:15:30.400 align:start position:0%
+which means that your aim is terrible
+basically<00:15:28.910><c> so</c><00:15:29.060><c> obviously</c><00:15:29.450><c> the</c><00:15:30.020><c> idea</c><00:15:30.260><c> of</c>
+
+00:15:30.400 --> 00:15:30.410 align:start position:0%
+basically so obviously the idea of
+ 
+
+00:15:30.410 --> 00:15:30.850 align:start position:0%
+basically so obviously the idea of
+particle
+
+00:15:30.850 --> 00:15:30.860 align:start position:0%
+particle
+ 
+
+00:15:30.860 --> 00:15:32.140 align:start position:0%
+particle
+because<00:15:31.130><c> you're</c><00:15:31.280><c> trying</c><00:15:31.460><c> to</c><00:15:31.730><c> get</c><00:15:31.850><c> two</c>
+
+00:15:32.140 --> 00:15:32.150 align:start position:0%
+because you're trying to get two
+ 
+
+00:15:32.150 --> 00:15:34.000 align:start position:0%
+because you're trying to get two
+particle<00:15:32.660><c> beams</c><00:15:32.810><c> to</c><00:15:32.990><c> collide</c><00:15:33.230><c> no</c><00:15:33.470><c> Amy</c><00:15:33.680><c> just</c><00:15:33.890><c> be</c>
+
+00:15:34.000 --> 00:15:34.010 align:start position:0%
+particle beams to collide no Amy just be
+ 
+
+00:15:34.010 --> 00:15:35.470 align:start position:0%
+particle beams to collide no Amy just be
+good<00:15:34.190><c> so</c><00:15:34.580><c> you</c><00:15:34.940><c> need</c><00:15:35.030><c> to</c><00:15:35.120><c> be</c><00:15:35.180><c> able</c><00:15:35.240><c> to</c><00:15:35.330><c> hit</c><00:15:35.450><c> a</c>
+
+00:15:35.470 --> 00:15:35.480 align:start position:0%
+good so you need to be able to hit a
+ 
+
+00:15:35.480 --> 00:15:37.420 align:start position:0%
+good so you need to be able to hit a
+bond<00:15:35.660><c> and</c><00:15:36.050><c> so</c><00:15:36.290><c> they</c><00:15:36.410><c> they</c><00:15:36.680><c> talk</c><00:15:36.740><c> about</c><00:15:37.130><c> you</c>
+
+00:15:37.420 --> 00:15:37.430 align:start position:0%
+bond and so they they talk about you
+ 
+
+00:15:37.430 --> 00:15:39.730 align:start position:0%
+bond and so they they talk about you
+know<00:15:37.520><c> one</c><00:15:38.000><c> bond</c><00:15:38.240><c> cross-sectional</c><00:15:39.080><c> area</c><00:15:39.350><c> or</c><00:15:39.560><c> we</c>
+
+00:15:39.730 --> 00:15:39.740 align:start position:0%
+know one bond cross-sectional area or we
+ 
+
+00:15:39.740 --> 00:15:40.870 align:start position:0%
+know one bond cross-sectional area or we
+know<00:15:39.860><c> we</c><00:15:39.950><c> got</c><00:15:40.070><c> to</c><00:15:40.160><c> hit</c><00:15:40.250><c> that</c><00:15:40.280><c> target</c><00:15:40.550><c> within</c>
+
+00:15:40.870 --> 00:15:40.880 align:start position:0%
+know we got to hit that target within
+ 
+
+00:15:40.880 --> 00:15:44.320 align:start position:0%
+know we got to hit that target within
+like<00:15:41.150><c> point</c><00:15:41.360><c> by</c><00:15:41.420><c> bond</c><00:15:41.630><c> I</c><00:15:41.900><c> presume</c><00:15:42.710><c> I</c><00:15:43.330><c> presume</c>
+
+00:15:44.320 --> 00:15:44.330 align:start position:0%
+like point by bond I presume I presume
+ 
+
+00:15:44.330 --> 00:15:45.850 align:start position:0%
+like point by bond I presume I presume
+that's<00:15:44.510><c> what</c><00:15:44.660><c> like</c><00:15:44.810><c> the</c><00:15:44.900><c> control</c><00:15:45.230><c> centers</c>
+
+00:15:45.850 --> 00:15:45.860 align:start position:0%
+that's what like the control centers
+ 
+
+00:15:45.860 --> 00:15:47.440 align:start position:0%
+that's what like the control centers
+if<00:15:45.920><c> these</c><00:15:46.160><c> particle</c><00:15:46.730><c> physics</c><00:15:46.940><c> experiment</c><00:15:47.360><c> for</c>
+
+00:15:47.440 --> 00:15:47.450 align:start position:0%
+if these particle physics experiment for
+ 
+
+00:15:47.450 --> 00:15:51.010 align:start position:0%
+if these particle physics experiment for
+like<00:15:48.700><c> the</c><00:15:49.700><c> cross-sectional</c><00:15:50.150><c> area</c><00:15:50.390><c> of</c><00:15:50.450><c> a</c>
+
+00:15:51.010 --> 00:15:51.020 align:start position:0%
+like the cross-sectional area of a
+ 
+
+00:15:51.020 --> 00:15:52.330 align:start position:0%
+like the cross-sectional area of a
+particle<00:15:51.710><c> you</c><00:15:51.800><c> know</c><00:15:51.920><c> you've</c><00:15:52.040><c> always</c><00:15:52.130><c> got</c>
+
+00:15:52.330 --> 00:15:52.340 align:start position:0%
+particle you know you've always got
+ 
+
+00:15:52.340 --> 00:15:53.920 align:start position:0%
+particle you know you've always got
+something<00:15:52.490><c> tiny</c><00:15:52.820><c> times</c><00:15:53.180><c> by</c><00:15:53.330><c> something</c><00:15:53.510><c> tiny</c><00:15:53.750><c> I</c>
+
+00:15:53.920 --> 00:15:53.930 align:start position:0%
+something tiny times by something tiny I
+ 
+
+00:15:53.930 --> 00:15:55.750 align:start position:0%
+something tiny times by something tiny I
+was<00:15:54.050><c> even</c><00:15:54.860><c> smaller</c><00:15:55.130><c> so</c><00:15:55.430><c> that's</c><00:15:55.520><c> why</c><00:15:55.640><c> they</c>
+
+00:15:55.750 --> 00:15:55.760 align:start position:0%
+was even smaller so that's why they
+ 
+
+00:15:55.760 --> 00:15:57.130 align:start position:0%
+was even smaller so that's why they
+needed<00:15:55.940><c> a</c><00:15:56.120><c> new</c><00:15:56.270><c> unit</c><00:15:56.600><c> I'll</c><00:15:56.750><c> give</c><00:15:56.930><c> them</c><00:15:57.020><c> that</c>
+
+00:15:57.130 --> 00:15:57.140 align:start position:0%
+needed a new unit I'll give them that
+ 
+
+00:15:57.140 --> 00:15:59.350 align:start position:0%
+needed a new unit I'll give them that
+it's<00:15:57.500><c> not</c><00:15:57.650><c> an</c><00:15:57.740><c> SI</c><00:15:58.100><c> unit</c><00:15:58.130><c> necessarily</c><00:15:59.120><c> but</c><00:15:59.270><c> it</c>
+
+00:15:59.350 --> 00:15:59.360 align:start position:0%
+it's not an SI unit necessarily but it
+ 
+
+00:15:59.360 --> 00:16:01.060 align:start position:0%
+it's not an SI unit necessarily but it
+is<00:15:59.450><c> recognized</c><00:16:00.050><c> by</c><00:16:00.290><c> them</c><00:16:00.530><c> as</c><00:16:00.680><c> a</c><00:16:00.710><c> unit</c><00:16:00.980><c> because</c>
+
+00:16:01.060 --> 00:16:01.070 align:start position:0%
+is recognized by them as a unit because
+ 
+
+00:16:01.070 --> 00:16:02.830 align:start position:0%
+is recognized by them as a unit because
+it's<00:16:01.400><c> used</c><00:16:01.670><c> so</c><00:16:01.940><c> much</c><00:16:02.090><c> in</c><00:16:02.300><c> the</c><00:16:02.390><c> field</c><00:16:02.570><c> as</c><00:16:02.750><c> well</c>
+
+00:16:02.830 --> 00:16:02.840 align:start position:0%
+it's used so much in the field as well
+ 
+
+00:16:02.840 --> 00:16:04.420 align:start position:0%
+it's used so much in the field as well
+similar<00:16:03.140><c> to</c><00:16:03.320><c> a</c><00:16:03.350><c> Jansky</c><00:16:03.710><c> actually</c><00:16:04.040><c> there's</c>
+
+00:16:04.420 --> 00:16:04.430 align:start position:0%
+similar to a Jansky actually there's
+ 
+
+00:16:04.430 --> 00:16:06.940 align:start position:0%
+similar to a Jansky actually there's
+also<00:16:04.730><c> technically</c><00:16:05.150><c> the</c><00:16:05.510><c> outhouse</c><00:16:06.020><c> which</c><00:16:06.770><c> is</c><00:16:06.920><c> a</c>
+
+00:16:06.940 --> 00:16:06.950 align:start position:0%
+also technically the outhouse which is a
+ 
+
+00:16:06.950 --> 00:16:10.480 align:start position:0%
+also technically the outhouse which is a
+micro<00:16:07.310><c> barn</c><00:16:07.520><c> and</c><00:16:08.360><c> the</c><00:16:08.750><c> shed</c><00:16:09.020><c> which</c><00:16:09.860><c> is</c><00:16:09.980><c> a</c><00:16:10.010><c> Yocto</c>
+
+00:16:10.480 --> 00:16:10.490 align:start position:0%
+micro barn and the shed which is a Yocto
+ 
+
+00:16:10.490 --> 00:16:12.370 align:start position:0%
+micro barn and the shed which is a Yocto
+barn<00:16:10.700><c> the</c><00:16:11.360><c> thing</c><00:16:11.510><c> that</c><00:16:11.630><c> I</c><00:16:11.660><c> love</c><00:16:11.900><c> about</c><00:16:11.930><c> bonds</c>
+
+00:16:12.370 --> 00:16:12.380 align:start position:0%
+barn the thing that I love about bonds
+ 
+
+00:16:12.380 --> 00:16:16.120 align:start position:0%
+barn the thing that I love about bonds
+is<00:16:12.740><c> that</c><00:16:13.610><c> you</c><00:16:13.850><c> basically</c><00:16:13.970><c> have</c><00:16:14.270><c> a</c><00:16:14.300><c> tiny</c><00:16:15.130><c> area</c>
+
+00:16:16.120 --> 00:16:16.130 align:start position:0%
+is that you basically have a tiny area
+ 
+
+00:16:16.130 --> 00:16:16.750 align:start position:0%
+is that you basically have a tiny area
+okay
+
+00:16:16.750 --> 00:16:16.760 align:start position:0%
+okay
+ 
+
+00:16:16.760 --> 00:16:19.510 align:start position:0%
+okay
+and<00:16:17.020><c> what</c><00:16:18.020><c> about</c><00:16:18.110><c> if</c><00:16:18.380><c> we</c><00:16:18.410><c> combined</c><00:16:18.950><c> a</c><00:16:19.220><c> tiny</c>
+
+00:16:19.510 --> 00:16:19.520 align:start position:0%
+and what about if we combined a tiny
+ 
+
+00:16:19.520 --> 00:16:23.470 align:start position:0%
+and what about if we combined a tiny
+area<00:16:20.030><c> with</c><00:16:20.780><c> a</c><00:16:20.810><c> very</c><00:16:21.200><c> large</c><00:16:21.500><c> distance</c><00:16:22.330><c> so</c><00:16:23.330><c> if</c>
+
+00:16:23.470 --> 00:16:23.480 align:start position:0%
+area with a very large distance so if
+ 
+
+00:16:23.480 --> 00:16:24.550 align:start position:0%
+area with a very large distance so if
+you<00:16:23.570><c> remember</c><00:16:23.810><c> we</c><00:16:23.930><c> had</c><00:16:24.110><c> a</c><00:16:24.140><c> very</c><00:16:24.440><c> large</c>
+
+00:16:24.550 --> 00:16:24.560 align:start position:0%
+you remember we had a very large
+ 
+
+00:16:24.560 --> 00:16:26.800 align:start position:0%
+you remember we had a very large
+distance<00:16:24.950><c> of</c><00:16:25.190><c> beginning</c><00:16:25.430><c> we</c><00:16:25.490><c> had</c><00:16:25.580><c> parsecs</c><00:16:26.090><c> and</c>
+
+00:16:26.800 --> 00:16:26.810 align:start position:0%
+distance of beginning we had parsecs and
+ 
+
+00:16:26.810 --> 00:16:28.450 align:start position:0%
+distance of beginning we had parsecs and
+we<00:16:26.900><c> were</c><00:16:26.990><c> talking</c><00:16:27.290><c> about</c><00:16:27.380><c> the</c><00:16:27.950><c> Hubble</c>
+
+00:16:28.450 --> 00:16:28.460 align:start position:0%
+we were talking about the Hubble
+ 
+
+00:16:28.460 --> 00:16:31.990 align:start position:0%
+we were talking about the Hubble
+distance<00:16:28.850><c> being</c><00:16:29.330><c> like</c><00:16:29.480><c> 4.5</c><00:16:30.230><c> Giga</c><00:16:31.070><c> parsec</c><00:16:31.490><c> okay</c>
+
+00:16:31.990 --> 00:16:32.000 align:start position:0%
+distance being like 4.5 Giga parsec okay
+ 
+
+00:16:32.000 --> 00:16:35.320 align:start position:0%
+distance being like 4.5 Giga parsec okay
+and<00:16:32.210><c> if</c><00:16:32.870><c> we</c><00:16:33.110><c> combine</c><00:16:33.380><c> a</c><00:16:33.950><c> very</c><00:16:34.190><c> small</c><00:16:34.460><c> area</c><00:16:35.060><c> and</c>
+
+00:16:35.320 --> 00:16:35.330 align:start position:0%
+and if we combine a very small area and
+ 
+
+00:16:35.330 --> 00:16:38.850 align:start position:0%
+and if we combine a very small area and
+a<00:16:36.110><c> very</c><00:16:36.140><c> large</c><00:16:36.440><c> distance</c><00:16:37.310><c> we</c><00:16:38.180><c> get</c><00:16:38.330><c> a</c><00:16:38.360><c> volume</c>
+
+00:16:38.850 --> 00:16:38.860 align:start position:0%
+a very large distance we get a volume
+ 
+
+00:16:38.860 --> 00:16:41.470 align:start position:0%
+a very large distance we get a volume
+okay<00:16:39.860><c> but</c><00:16:40.100><c> very</c><00:16:40.310><c> very</c><00:16:40.460><c> tiny</c><00:16:40.730><c> area</c><00:16:40.880><c> and</c><00:16:41.360><c> very</c>
+
+00:16:41.470 --> 00:16:41.480 align:start position:0%
+okay but very very tiny area and very
+ 
+
+00:16:41.480 --> 00:16:43.720 align:start position:0%
+okay but very very tiny area and very
+very<00:16:41.720><c> large</c><00:16:41.870><c> distance</c><00:16:42.350><c> gives</c><00:16:43.160><c> you</c><00:16:43.340><c> a</c><00:16:43.370><c> volume</c>
+
+00:16:43.720 --> 00:16:43.730 align:start position:0%
+very large distance gives you a volume
+ 
+
+00:16:43.730 --> 00:16:45.520 align:start position:0%
+very large distance gives you a volume
+that's<00:16:43.910><c> actually</c><00:16:44.390><c> quite</c><00:16:44.540><c> reachable</c><00:16:45.170><c> to</c><00:16:45.230><c> like</c>
+
+00:16:45.520 --> 00:16:45.530 align:start position:0%
+that's actually quite reachable to like
+ 
+
+00:16:45.530 --> 00:16:48.400 align:start position:0%
+that's actually quite reachable to like
+everyday<00:16:46.150><c> volumes</c><00:16:47.150><c> combined</c><00:16:47.630><c> a</c><00:16:47.660><c> barn</c><00:16:48.080><c> in</c><00:16:48.320><c> a</c>
+
+00:16:48.400 --> 00:16:48.410 align:start position:0%
+everyday volumes combined a barn in a
+ 
+
+00:16:48.410 --> 00:16:51.010 align:start position:0%
+everyday volumes combined a barn in a
+mega<00:16:48.560><c> parsec</c><00:16:48.920><c> you</c><00:16:49.430><c> get</c><00:16:49.550><c> a</c><00:16:49.580><c> barn</c><00:16:49.940><c> megaparsec</c>
+
+00:16:51.010 --> 00:16:51.020 align:start position:0%
+mega parsec you get a barn megaparsec
+ 
+
+00:16:51.020 --> 00:16:53.070 align:start position:0%
+mega parsec you get a barn megaparsec
+which<00:16:51.650><c> is</c><00:16:51.770><c> about</c><00:16:51.920><c> the</c><00:16:51.980><c> size</c><00:16:52.160><c> of</c><00:16:52.220><c> a</c><00:16:52.340><c> teaspoon</c>
+
+00:16:53.070 --> 00:16:53.080 align:start position:0%
+which is about the size of a teaspoon
+ 
+
+00:16:53.080 --> 00:16:55.540 align:start position:0%
+which is about the size of a teaspoon
+yeah<00:16:54.080><c> which</c><00:16:54.380><c> I</c><00:16:54.500><c> really</c><00:16:54.710><c> really</c><00:16:54.920><c> like</c><00:16:55.040><c> remember</c>
+
+00:16:55.540 --> 00:16:55.550 align:start position:0%
+yeah which I really really like remember
+ 
+
+00:16:55.550 --> 00:16:57.730 align:start position:0%
+yeah which I really really like remember
+our<00:16:55.790><c> Hubble</c><00:16:56.210><c> length</c><00:16:56.360><c> before</c><00:16:56.810><c> was</c><00:16:57.020><c> a</c><00:16:57.050><c> 4.5</c><00:16:57.500><c> Giga</c>
+
+00:16:57.730 --> 00:16:57.740 align:start position:0%
+our Hubble length before was a 4.5 Giga
+ 
+
+00:16:57.740 --> 00:16:58.270 align:start position:0%
+our Hubble length before was a 4.5 Giga
+PASOK's
+
+00:16:58.270 --> 00:16:58.280 align:start position:0%
+PASOK's
+ 
+
+00:16:58.280 --> 00:17:00.700 align:start position:0%
+PASOK's
+so<00:16:58.670><c> you</c><00:16:58.760><c> can</c><00:16:58.850><c> have</c><00:16:58.970><c> a</c><00:16:59.000><c> Hubble</c><00:16:59.330><c> bond</c><00:16:59.710><c> which</c>
+
+00:17:00.700 --> 00:17:00.710 align:start position:0%
+so you can have a Hubble bond which
+ 
+
+00:17:00.710 --> 00:17:02.140 align:start position:0%
+so you can have a Hubble bond which
+again<00:17:00.890><c> is</c><00:17:01.010><c> a</c><00:17:01.040><c> volume</c><00:17:01.370><c> and</c><00:17:01.580><c> it's</c><00:17:01.670><c> about</c><00:17:01.760><c> 13</c>
+
+00:17:02.140 --> 00:17:02.150 align:start position:0%
+again is a volume and it's about 13
+ 
+
+00:17:02.150 --> 00:17:04.030 align:start position:0%
+again is a volume and it's about 13
+liters<00:17:02.540><c> so</c><00:17:03.440><c> you</c><00:17:03.530><c> could</c><00:17:03.650><c> talk</c><00:17:03.740><c> about</c><00:17:03.920><c> like</c>
+
+00:17:04.030 --> 00:17:04.040 align:start position:0%
+liters so you could talk about like
+ 
+
+00:17:04.040 --> 00:17:05.680 align:start position:0%
+liters so you could talk about like
+filling<00:17:04.400><c> up</c><00:17:04.490><c> your</c><00:17:04.520><c> car</c><00:17:04.850><c> with</c><00:17:04.880><c> like</c><00:17:05.420><c> rubber</c>
+
+00:17:05.680 --> 00:17:05.690 align:start position:0%
+filling up your car with like rubber
+ 
+
+00:17:05.690 --> 00:17:07.930 align:start position:0%
+filling up your car with like rubber
+bands<00:17:05.990><c> if</c><00:17:06.740><c> you</c><00:17:06.920><c> wanted</c><00:17:07.100><c> or</c><00:17:07.280><c> like</c><00:17:07.400><c> my</c><00:17:07.520><c> car</c><00:17:07.760><c> get</c>
+
+00:17:07.930 --> 00:17:07.940 align:start position:0%
+bands if you wanted or like my car get
+ 
+
+00:17:07.940 --> 00:17:10.330 align:start position:0%
+bands if you wanted or like my car get
+so<00:17:08.120><c> many</c><00:17:08.240><c> cobble</c><00:17:08.570><c> burns</c><00:17:09.110><c> miles</c><00:17:09.800><c> per</c><00:17:10.100><c> Hubble</c>
+
+00:17:10.330 --> 00:17:10.340 align:start position:0%
+so many cobble burns miles per Hubble
+ 
+
+00:17:10.340 --> 00:17:12.370 align:start position:0%
+so many cobble burns miles per Hubble
+bond<00:17:10.490><c> which</c><00:17:11.420><c> i</c><00:17:11.510><c> think</c><00:17:11.570><c> is</c><00:17:11.780><c> really</c><00:17:11.930><c> really</c><00:17:12.170><c> nice</c>
+
+00:17:12.370 --> 00:17:12.380 align:start position:0%
+bond which i think is really really nice
+ 
+
+00:17:12.380 --> 00:17:14.740 align:start position:0%
+bond which i think is really really nice
+so<00:17:12.620><c> that</c><00:17:12.830><c> got</c><00:17:12.950><c> me</c><00:17:12.980><c> thinking</c><00:17:13.270><c> whether</c><00:17:14.270><c> we</c><00:17:14.540><c> could</c>
+
+00:17:14.740 --> 00:17:14.750 align:start position:0%
+so that got me thinking whether we could
+ 
+
+00:17:14.750 --> 00:17:16.900 align:start position:0%
+so that got me thinking whether we could
+use<00:17:15.050><c> these</c><00:17:15.260><c> crazy</c><00:17:15.560><c> units</c><00:17:16.010><c> in</c><00:17:16.310><c> something</c><00:17:16.790><c> more</c>
+
+00:17:16.900 --> 00:17:16.910 align:start position:0%
+use these crazy units in something more
+ 
+
+00:17:16.910 --> 00:17:18.570 align:start position:0%
+use these crazy units in something more
+everyday
+
+00:17:18.570 --> 00:17:18.580 align:start position:0%
+everyday
+ 
+
+00:17:18.580 --> 00:17:22.450 align:start position:0%
+everyday
+perhaps<00:17:19.580><c> like</c><00:17:19.820><c> a</c><00:17:19.850><c> cake</c><00:17:20.150><c> recipe</c><00:17:20.360><c> and</c><00:17:21.460><c> perhaps</c>
+
+00:17:22.450 --> 00:17:22.460 align:start position:0%
+perhaps like a cake recipe and perhaps
+ 
+
+00:17:22.460 --> 00:17:24.250 align:start position:0%
+perhaps like a cake recipe and perhaps
+we<00:17:22.760><c> could</c><00:17:22.880><c> have</c><00:17:23.090><c> a</c><00:17:23.120><c> physics</c><00:17:23.510><c> inspired</c><00:17:23.960><c> cake</c>
+
+00:17:24.250 --> 00:17:24.260 align:start position:0%
+we could have a physics inspired cake
+ 
+
+00:17:24.260 --> 00:17:27.670 align:start position:0%
+we could have a physics inspired cake
+recipe<00:17:24.740><c> all</c><00:17:25.520><c> in</c><00:17:25.790><c> crazy</c><00:17:26.060><c> units</c><00:17:26.420><c> yeah</c><00:17:26.930><c> yeah</c><00:17:27.200><c> yeah</c>
+
+00:17:27.670 --> 00:17:27.680 align:start position:0%
+recipe all in crazy units yeah yeah yeah
+ 
+
+00:17:27.680 --> 00:17:29.830 align:start position:0%
+recipe all in crazy units yeah yeah yeah
+okay<00:17:28.130><c> I</c><00:17:28.340><c> actually</c><00:17:28.850><c> got</c><00:17:29.150><c> a</c><00:17:29.180><c> cake</c><00:17:29.330><c> recipe</c><00:17:29.450><c> you</c>
+
+00:17:29.830 --> 00:17:29.840 align:start position:0%
+okay I actually got a cake recipe you
+ 
+
+00:17:29.840 --> 00:17:32.530 align:start position:0%
+okay I actually got a cake recipe you
+made<00:17:29.990><c> one</c><00:17:30.200><c> I</c><00:17:30.320><c> actually</c><00:17:30.530><c> well</c><00:17:30.860><c> I</c><00:17:31.300><c> acquired</c><00:17:32.300><c> a</c>
+
+00:17:32.530 --> 00:17:32.540 align:start position:0%
+made one I actually well I acquired a
+ 
+
+00:17:32.540 --> 00:17:34.660 align:start position:0%
+made one I actually well I acquired a
+cake<00:17:32.720><c> recipe</c><00:17:32.870><c> yeah</c><00:17:33.530><c> from</c><00:17:33.950><c> maryberry</c>
+
+00:17:34.660 --> 00:17:34.670 align:start position:0%
+cake recipe yeah from maryberry
+ 
+
+00:17:34.670 --> 00:17:37.330 align:start position:0%
+cake recipe yeah from maryberry
+obviously<00:17:35.360><c> yeah</c><00:17:35.750><c> and</c><00:17:36.320><c> I</c><00:17:36.440><c> rewritten</c><00:17:36.830><c> her</c><00:17:37.070><c> cake</c>
+
+00:17:37.330 --> 00:17:37.340 align:start position:0%
+obviously yeah and I rewritten her cake
+ 
+
+00:17:37.340 --> 00:17:40.900 align:start position:0%
+obviously yeah and I rewritten her cake
+recipe<00:17:37.700><c> yeah</c><00:17:38.090><c> to</c><00:17:38.480><c> be</c><00:17:38.720><c> physics</c><00:17:39.410><c> yeah</c><00:17:40.160><c> yeah</c><00:17:40.640><c> I</c>
+
+00:17:40.900 --> 00:17:40.910 align:start position:0%
+recipe yeah to be physics yeah yeah I
+ 
+
+00:17:40.910 --> 00:17:42.430 align:start position:0%
+recipe yeah to be physics yeah yeah I
+feel<00:17:41.240><c> like</c><00:17:41.330><c> this</c><00:17:41.450><c> should</c><00:17:41.570><c> be</c><00:17:41.630><c> read</c><00:17:41.900><c> in</c><00:17:42.110><c> like</c><00:17:42.290><c> my</c>
+
+00:17:42.430 --> 00:17:42.440 align:start position:0%
+feel like this should be read in like my
+ 
+
+00:17:42.440 --> 00:17:43.420 align:start position:0%
+feel like this should be read in like my
+most<00:17:42.650><c> be</c>
+
+00:17:43.420 --> 00:17:43.430 align:start position:0%
+most be
+ 
+
+00:17:43.430 --> 00:17:46.300 align:start position:0%
+most be
+see<00:17:43.700><c> RP</c><00:17:44.330><c> accent</c><00:17:45.140><c> what</c><00:17:45.740><c> do</c><00:17:45.800><c> you</c><00:17:45.860><c> think</c><00:17:45.980><c> yeah</c>
+
+00:17:46.300 --> 00:17:46.310 align:start position:0%
+see RP accent what do you think yeah
+ 
+
+00:17:46.310 --> 00:17:52.150 align:start position:0%
+see RP accent what do you think yeah
+yeah<00:17:46.610><c> okay</c><00:17:47.270><c> okay</c><00:17:50.410><c> preheat</c><00:17:51.410><c> the</c><00:17:51.530><c> oven</c><00:17:51.560><c> to</c><00:17:52.010><c> give</c>
+
+00:17:52.150 --> 00:17:52.160 align:start position:0%
+yeah okay okay preheat the oven to give
+ 
+
+00:17:52.160 --> 00:17:53.890 align:start position:0%
+yeah okay okay preheat the oven to give
+an<00:17:52.250><c> output</c><00:17:52.460><c> flux</c><00:17:52.880><c> density</c><00:17:53.300><c> in</c><00:17:53.450><c> the</c><00:17:53.540><c> infrared</c>
+
+00:17:53.890 --> 00:17:53.900 align:start position:0%
+an output flux density in the infrared
+ 
+
+00:17:53.900 --> 00:17:57.070 align:start position:0%
+an output flux density in the infrared
+regime<00:17:54.320><c> of</c><00:17:54.500><c> seven</c><00:17:54.920><c> Yocto</c><00:17:55.460><c> nano</c><00:17:55.730><c> Maggie's</c><00:17:56.080><c> then</c>
+
+00:17:57.070 --> 00:17:57.080 align:start position:0%
+regime of seven Yocto nano Maggie's then
+ 
+
+00:17:57.080 --> 00:17:59.860 align:start position:0%
+regime of seven Yocto nano Maggie's then
+make<00:17:57.410><c> sure</c><00:17:57.440><c> to</c><00:17:57.590><c> grease</c><00:17:57.890><c> in</c><00:17:58.040><c> line</c><00:17:58.190><c> to</c><00:17:58.520><c> 6.5</c><00:17:59.510><c> at</c><00:17:59.810><c> Oh</c>
+
+00:17:59.860 --> 00:17:59.870 align:start position:0%
+make sure to grease in line to 6.5 at Oh
+ 
+
+00:17:59.870 --> 00:18:02.710 align:start position:0%
+make sure to grease in line to 6.5 at Oh
+parsecs<00:18:00.530><c> sandwich</c><00:18:00.830><c> tins</c><00:18:01.100><c> break</c><00:18:02.000><c> for</c><00:18:02.300><c> eggs</c>
+
+00:18:02.710 --> 00:18:02.720 align:start position:0%
+parsecs sandwich tins break for eggs
+ 
+
+00:18:02.720 --> 00:18:05.080 align:start position:0%
+parsecs sandwich tins break for eggs
+that's<00:18:02.960><c> eggs</c><00:18:03.260><c> not</c><00:18:03.500><c> eggs</c><00:18:03.740><c> into</c><00:18:04.070><c> a</c><00:18:04.460><c> large</c><00:18:04.730><c> mixing</c>
+
+00:18:05.080 --> 00:18:05.090 align:start position:0%
+that's eggs not eggs into a large mixing
+ 
+
+00:18:05.090 --> 00:18:08.440 align:start position:0%
+that's eggs not eggs into a large mixing
+bowl<00:18:05.150><c> then</c><00:18:05.450><c> mix</c><00:18:05.870><c> in</c><00:18:06.880><c> 126</c><00:18:07.880><c> Yasha</c>
+
+00:18:08.440 --> 00:18:08.450 align:start position:0%
+bowl then mix in 126 Yasha
+ 
+
+00:18:08.450 --> 00:18:09.730 align:start position:0%
+bowl then mix in 126 Yasha
+electron<00:18:08.840><c> volts</c><00:18:09.110><c> for</c><00:18:09.290><c> speed</c><00:18:09.500><c> of</c><00:18:09.590><c> light</c>
+
+00:18:09.730 --> 00:18:09.740 align:start position:0%
+electron volts for speed of light
+ 
+
+00:18:09.740 --> 00:18:12.580 align:start position:0%
+electron volts for speed of light
+squared<00:18:09.980><c> of</c><00:18:10.310><c> both</c><00:18:10.730><c> sugar</c><00:18:11.030><c> and</c><00:18:11.180><c> flour</c><00:18:11.660><c> with</c><00:18:12.290><c> two</c>
+
+00:18:12.580 --> 00:18:12.590 align:start position:0%
+squared of both sugar and flour with two
+ 
+
+00:18:12.590 --> 00:18:13.840 align:start position:0%
+squared of both sugar and flour with two
+barn<00:18:13.010><c> megaparsecs</c>
+
+00:18:13.840 --> 00:18:13.850 align:start position:0%
+barn megaparsecs
+ 
+
+00:18:13.850 --> 00:18:15.580 align:start position:0%
+barn megaparsecs
+of<00:18:13.910><c> baking</c><00:18:14.270><c> powder</c><00:18:14.390><c> and</c><00:18:14.660><c> naught</c><00:18:15.140><c> point</c><00:18:15.350><c> naught</c>
+
+00:18:15.580 --> 00:18:15.590 align:start position:0%
+of baking powder and naught point naught
+ 
+
+00:18:15.590 --> 00:18:18.130 align:start position:0%
+of baking powder and naught point naught
+six<00:18:15.950><c> humble</c><00:18:16.220><c> bonds</c><00:18:16.400><c> of</c><00:18:16.670><c> butter</c><00:18:16.990><c> divide</c><00:18:17.990><c> the</c>
+
+00:18:18.130 --> 00:18:18.140 align:start position:0%
+six humble bonds of butter divide the
+ 
+
+00:18:18.140 --> 00:18:19.990 align:start position:0%
+six humble bonds of butter divide the
+mixture<00:18:18.260><c> evenly</c><00:18:18.650><c> between</c><00:18:19.130><c> the</c><00:18:19.340><c> two</c><00:18:19.430><c> tins</c><00:18:19.760><c> and</c>
+
+00:18:19.990 --> 00:18:20.000 align:start position:0%
+mixture evenly between the two tins and
+ 
+
+00:18:20.000 --> 00:18:21.820 align:start position:0%
+mixture evenly between the two tins and
+bake<00:18:20.510><c> the</c><00:18:20.720><c> cakes</c><00:18:20.930><c> on</c><00:18:21.110><c> the</c><00:18:21.200><c> middle</c><00:18:21.530><c> shelf</c><00:18:21.650><c> of</c>
+
+00:18:21.820 --> 00:18:21.830 align:start position:0%
+bake the cakes on the middle shelf of
+ 
+
+00:18:21.830 --> 00:18:24.480 align:start position:0%
+bake the cakes on the middle shelf of
+the<00:18:21.920><c> oven</c><00:18:22.070><c> for</c><00:18:22.580><c> three</c><00:18:22.910><c> femto</c><00:18:23.660><c> Hubbell</c><00:18:23.990><c> types</c>
+
+00:18:24.480 --> 00:18:24.490 align:start position:0%
+the oven for three femto Hubbell types
+ 
+
+00:18:24.490 --> 00:18:26.800 align:start position:0%
+the oven for three femto Hubbell types
+sandwich<00:18:25.490><c> together</c><00:18:25.760><c> with</c><00:18:25.910><c> Jam</c><00:18:26.090><c> once</c><00:18:26.360><c> cool</c><00:18:26.630><c> and</c>
+
+00:18:26.800 --> 00:18:26.810 align:start position:0%
+sandwich together with Jam once cool and
+ 
+
+00:18:26.810 --> 00:18:28.270 align:start position:0%
+sandwich together with Jam once cool and
+sprinkle<00:18:27.350><c> over</c><00:18:27.410><c> some</c><00:18:27.530><c> castor</c><00:18:27.950><c> sugar</c><00:18:27.980><c> for</c>
+
+00:18:28.270 --> 00:18:28.280 align:start position:0%
+sprinkle over some castor sugar for
+ 
+
+00:18:28.280 --> 00:18:29.890 align:start position:0%
+sprinkle over some castor sugar for
+decoration<00:18:28.730><c> and</c><00:18:28.850><c> there</c><00:18:29.360><c> you</c><00:18:29.480><c> have</c><00:18:29.510><c> it</c><00:18:29.660><c> a</c>
+
+00:18:29.890 --> 00:18:29.900 align:start position:0%
+decoration and there you have it a
+ 
+
+00:18:29.900 --> 00:18:35.350 align:start position:0%
+decoration and there you have it a
+physics<00:18:30.380><c> inspired</c><00:18:30.830><c> Victoria</c><00:18:31.490><c> sponge</c><00:18:31.580><c> cake</c>
+
+00:18:35.350 --> 00:18:35.360 align:start position:0%
+ 
+ 
+
+00:18:35.360 --> 00:18:45.410 align:start position:0%
+ 
+[Music]
+
+00:18:45.410 --> 00:18:45.420 align:start position:0%
+ 
+ 
+
+00:18:45.420 --> 00:18:47.480 align:start position:0%
+ 
+you
+
