@@ -1,0 +1,3352 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.629 align:start position:0%
+ 
+hello<00:00:00.399><c> maths</c><00:00:00.640><c> fans</c><00:00:01.120><c> this</c><00:00:01.360><c> is</c><00:00:01.520><c> dr</c><00:00:01.839><c> tom</c><00:00:02.080><c> crawford</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+hello maths fans this is dr tom crawford
+ 
+
+00:00:02.639 --> 00:00:04.390 align:start position:0%
+hello maths fans this is dr tom crawford
+from<00:00:02.879><c> the</c><00:00:03.120><c> university</c><00:00:03.600><c> of</c><00:00:03.679><c> oxford</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+from the university of oxford
+ 
+
+00:00:04.400 --> 00:00:06.950 align:start position:0%
+from the university of oxford
+and<00:00:04.640><c> today</c><00:00:05.120><c> we're</c><00:00:05.359><c> talking</c><00:00:05.680><c> about</c><00:00:06.080><c> partial</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+and today we're talking about partial
+ 
+
+00:00:06.960 --> 00:00:08.070 align:start position:0%
+and today we're talking about partial
+differentiation
+
+00:00:08.070 --> 00:00:08.080 align:start position:0%
+differentiation
+ 
+
+00:00:08.080 --> 00:00:10.390 align:start position:0%
+differentiation
+partial<00:00:08.480><c> differentiation</c><00:00:09.679><c> is</c><00:00:09.840><c> what</c><00:00:10.000><c> happens</c>
+
+00:00:10.390 --> 00:00:10.400 align:start position:0%
+partial differentiation is what happens
+ 
+
+00:00:10.400 --> 00:00:11.910 align:start position:0%
+partial differentiation is what happens
+when<00:00:10.559><c> you</c><00:00:10.719><c> differentiate</c><00:00:11.599><c> a</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+when you differentiate a
+ 
+
+00:00:11.920 --> 00:00:15.669 align:start position:0%
+when you differentiate a
+function<00:00:12.799><c> of</c><00:00:13.120><c> more</c><00:00:13.360><c> than</c><00:00:13.679><c> one</c><00:00:14.480><c> variable</c>
+
+00:00:15.669 --> 00:00:15.679 align:start position:0%
+function of more than one variable
+ 
+
+00:00:15.679 --> 00:00:17.910 align:start position:0%
+function of more than one variable
+so<00:00:15.920><c> if</c><00:00:15.920><c> we</c><00:00:16.160><c> start</c><00:00:16.560><c> by</c><00:00:16.880><c> considering</c><00:00:17.520><c> the</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+so if we start by considering the
+ 
+
+00:00:17.920 --> 00:00:18.790 align:start position:0%
+so if we start by considering the
+standard
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+standard
+ 
+
+00:00:18.800 --> 00:00:22.310 align:start position:0%
+standard
+derivative<00:00:20.080><c> so</c><00:00:20.480><c> if</c><00:00:20.880><c> i</c><00:00:21.039><c> want</c><00:00:21.279><c> to</c><00:00:21.439><c> know</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+derivative so if i want to know
+ 
+
+00:00:22.320 --> 00:00:25.509 align:start position:0%
+derivative so if i want to know
+df<00:00:23.600><c> by</c><00:00:23.840><c> dx</c>
+
+00:00:25.509 --> 00:00:25.519 align:start position:0%
+df by dx
+ 
+
+00:00:25.519 --> 00:00:28.790 align:start position:0%
+df by dx
+for<00:00:25.760><c> a</c><00:00:26.000><c> function</c><00:00:26.640><c> f</c><00:00:27.439><c> of</c><00:00:27.840><c> x</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+for a function f of x
+ 
+
+00:00:28.800 --> 00:00:32.470 align:start position:0%
+for a function f of x
+then<00:00:29.039><c> this</c><00:00:29.359><c> is</c><00:00:29.599><c> equal</c><00:00:30.080><c> to</c><00:00:30.560><c> the</c><00:00:31.119><c> limit</c>
+
+00:00:32.470 --> 00:00:32.480 align:start position:0%
+then this is equal to the limit
+ 
+
+00:00:32.480 --> 00:00:35.670 align:start position:0%
+then this is equal to the limit
+as<00:00:32.800><c> h</c><00:00:33.760><c> tends</c><00:00:34.160><c> to</c><00:00:34.399><c> zero</c>
+
+00:00:35.670 --> 00:00:35.680 align:start position:0%
+as h tends to zero
+ 
+
+00:00:35.680 --> 00:00:39.670 align:start position:0%
+as h tends to zero
+of<00:00:36.719><c> f</c><00:00:37.200><c> at</c><00:00:37.680><c> x</c><00:00:38.079><c> plus</c><00:00:38.480><c> h</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+of f at x plus h
+ 
+
+00:00:39.680 --> 00:00:43.030 align:start position:0%
+of f at x plus h
+minus<00:00:41.120><c> f</c><00:00:41.440><c> at</c><00:00:42.079><c> x</c>
+
+00:00:43.030 --> 00:00:43.040 align:start position:0%
+minus f at x
+ 
+
+00:00:43.040 --> 00:00:46.150 align:start position:0%
+minus f at x
+divided<00:00:43.760><c> by</c><00:00:45.039><c> h</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+divided by h
+ 
+
+00:00:46.160 --> 00:00:47.910 align:start position:0%
+divided by h
+if<00:00:46.320><c> we</c><00:00:46.399><c> were</c><00:00:46.559><c> to</c><00:00:46.719><c> look</c><00:00:46.879><c> at</c><00:00:46.960><c> the</c><00:00:47.200><c> graph</c><00:00:47.520><c> of</c><00:00:47.680><c> this</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+if we were to look at the graph of this
+ 
+
+00:00:47.920 --> 00:00:50.310 align:start position:0%
+if we were to look at the graph of this
+function<00:00:48.879><c> which</c><00:00:49.200><c> maybe</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+function which maybe
+ 
+
+00:00:50.320 --> 00:00:53.510 align:start position:0%
+function which maybe
+would<00:00:50.559><c> be</c><00:00:50.800><c> something</c><00:00:51.360><c> like</c><00:00:51.680><c> the</c><00:00:51.920><c> following</c><00:00:53.120><c> so</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+would be something like the following so
+ 
+
+00:00:53.520 --> 00:00:57.029 align:start position:0%
+would be something like the following so
+f<00:00:53.760><c> of</c><00:00:53.920><c> x</c><00:00:55.600><c> and</c><00:00:55.680><c> then</c><00:00:56.160><c> x</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+f of x and then x
+ 
+
+00:00:57.039 --> 00:00:58.709 align:start position:0%
+f of x and then x
+perhaps<00:00:57.600><c> it</c><00:00:57.680><c> would</c><00:00:57.760><c> look</c><00:00:58.000><c> something</c><00:00:58.399><c> like</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+perhaps it would look something like
+ 
+
+00:00:58.719 --> 00:01:01.830 align:start position:0%
+perhaps it would look something like
+this<00:00:59.920><c> then</c><00:01:00.160><c> what</c><00:01:00.320><c> we're</c><00:01:00.559><c> doing</c><00:01:00.960><c> here</c>
+
+00:01:01.830 --> 00:01:01.840 align:start position:0%
+this then what we're doing here
+ 
+
+00:01:01.840 --> 00:01:05.270 align:start position:0%
+this then what we're doing here
+is<00:01:02.320><c> we</c><00:01:02.559><c> are</c><00:01:03.039><c> taking</c><00:01:03.440><c> a</c><00:01:03.680><c> point</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+is we are taking a point
+ 
+
+00:01:05.280 --> 00:01:09.750 align:start position:0%
+is we are taking a point
+here<00:01:05.680><c> let's</c><00:01:06.000><c> call</c><00:01:06.159><c> this</c><00:01:06.720><c> x</c><00:01:07.920><c> another</c><00:01:08.479><c> point</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+here let's call this x another point
+ 
+
+00:01:09.760 --> 00:01:13.030 align:start position:0%
+here let's call this x another point
+at<00:01:10.159><c> x</c><00:01:10.400><c> plus</c><00:01:10.840><c> h</c>
+
+00:01:13.030 --> 00:01:13.040 align:start position:0%
+at x plus h
+ 
+
+00:01:13.040 --> 00:01:14.270 align:start position:0%
+at x plus h
+and<00:01:13.200><c> what</c><00:01:13.360><c> we're</c><00:01:13.520><c> doing</c><00:01:13.840><c> is</c><00:01:13.920><c> we're</c>
+
+00:01:14.270 --> 00:01:14.280 align:start position:0%
+and what we're doing is we're
+ 
+
+00:01:14.280 --> 00:01:16.149 align:start position:0%
+and what we're doing is we're
+approximating
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+approximating
+ 
+
+00:01:16.159 --> 00:01:19.429 align:start position:0%
+approximating
+this<00:01:16.560><c> gradient</c><00:01:17.920><c> and</c><00:01:18.080><c> we're</c><00:01:18.320><c> taking</c><00:01:18.640><c> the</c><00:01:18.880><c> limit</c>
+
+00:01:19.429 --> 00:01:19.439 align:start position:0%
+this gradient and we're taking the limit
+ 
+
+00:01:19.439 --> 00:01:21.830 align:start position:0%
+this gradient and we're taking the limit
+as<00:01:19.600><c> we</c><00:01:19.759><c> allow</c><00:01:20.240><c> this</c><00:01:20.640><c> point</c><00:01:21.040><c> to</c><00:01:21.200><c> move</c><00:01:21.439><c> closer</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+as we allow this point to move closer
+ 
+
+00:01:21.840 --> 00:01:23.030 align:start position:0%
+as we allow this point to move closer
+and<00:01:22.000><c> closer</c>
+
+00:01:23.030 --> 00:01:23.040 align:start position:0%
+and closer
+ 
+
+00:01:23.040 --> 00:01:26.230 align:start position:0%
+and closer
+to<00:01:23.520><c> x</c><00:01:24.560><c> so</c><00:01:24.799><c> we're</c><00:01:25.119><c> working</c><00:01:25.600><c> out</c>
+
+00:01:26.230 --> 00:01:26.240 align:start position:0%
+to x so we're working out
+ 
+
+00:01:26.240 --> 00:01:30.149 align:start position:0%
+to x so we're working out
+how<00:01:26.560><c> does</c><00:01:26.799><c> our</c><00:01:27.040><c> function</c><00:01:27.840><c> f</c><00:01:28.799><c> change</c>
+
+00:01:30.149 --> 00:01:30.159 align:start position:0%
+how does our function f change
+ 
+
+00:01:30.159 --> 00:01:33.109 align:start position:0%
+how does our function f change
+in<00:01:30.320><c> the</c><00:01:30.560><c> x</c><00:01:30.960><c> direction</c><00:01:31.759><c> because</c><00:01:32.159><c> f</c><00:01:32.400><c> is</c><00:01:32.560><c> just</c><00:01:32.880><c> a</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+in the x direction because f is just a
+ 
+
+00:01:33.119 --> 00:01:33.990 align:start position:0%
+in the x direction because f is just a
+line
+
+00:01:33.990 --> 00:01:34.000 align:start position:0%
+line
+ 
+
+00:01:34.000 --> 00:01:36.230 align:start position:0%
+line
+what<00:01:34.240><c> this</c><00:01:34.479><c> means</c><00:01:34.880><c> is</c><00:01:35.040><c> that</c><00:01:35.439><c> f</c><00:01:35.600><c> can</c><00:01:35.840><c> only</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+what this means is that f can only
+ 
+
+00:01:36.240 --> 00:01:37.190 align:start position:0%
+what this means is that f can only
+change
+
+00:01:37.190 --> 00:01:37.200 align:start position:0%
+change
+ 
+
+00:01:37.200 --> 00:01:40.550 align:start position:0%
+change
+in<00:01:37.360><c> the</c><00:01:37.680><c> x</c><00:01:38.560><c> direction</c><00:01:39.360><c> so</c><00:01:39.600><c> as</c><00:01:39.759><c> we</c><00:01:40.079><c> move</c><00:01:40.320><c> along</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+in the x direction so as we move along
+ 
+
+00:01:40.560 --> 00:01:41.830 align:start position:0%
+in the x direction so as we move along
+the<00:01:40.720><c> x-axis</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+the x-axis
+ 
+
+00:01:41.840 --> 00:01:44.310 align:start position:0%
+the x-axis
+we're<00:01:42.159><c> interested</c><00:01:42.560><c> in</c><00:01:42.799><c> how</c><00:01:43.200><c> does</c><00:01:43.840><c> the</c><00:01:44.000><c> value</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+we're interested in how does the value
+ 
+
+00:01:44.320 --> 00:01:46.950 align:start position:0%
+we're interested in how does the value
+of<00:01:44.560><c> f</c><00:01:44.799><c> or</c><00:01:44.960><c> the</c><00:01:45.040><c> value</c><00:01:45.360><c> on</c><00:01:45.439><c> the</c><00:01:45.600><c> y-axis</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+of f or the value on the y-axis
+ 
+
+00:01:46.960 --> 00:01:50.230 align:start position:0%
+of f or the value on the y-axis
+change<00:01:48.000><c> so</c><00:01:48.240><c> the</c><00:01:48.479><c> only</c><00:01:49.119><c> real</c><00:01:49.439><c> derivative</c><00:01:50.079><c> we</c>
+
+00:01:50.230 --> 00:01:50.240 align:start position:0%
+change so the only real derivative we
+ 
+
+00:01:50.240 --> 00:01:51.749 align:start position:0%
+change so the only real derivative we
+can<00:01:50.479><c> do</c><00:01:50.720><c> here</c>
+
+00:01:51.749 --> 00:01:51.759 align:start position:0%
+can do here
+ 
+
+00:01:51.759 --> 00:01:54.550 align:start position:0%
+can do here
+is<00:01:52.079><c> the</c><00:01:52.320><c> f</c><00:01:52.560><c> by</c><00:01:52.720><c> dx</c><00:01:53.280><c> because</c><00:01:53.439><c> that</c><00:01:53.600><c> is</c><00:01:53.680><c> the</c><00:01:53.920><c> only</c>
+
+00:01:54.550 --> 00:01:54.560 align:start position:0%
+is the f by dx because that is the only
+ 
+
+00:01:54.560 --> 00:01:55.830 align:start position:0%
+is the f by dx because that is the only
+direction<00:01:55.280><c> in</c><00:01:55.360><c> which</c>
+
+00:01:55.830 --> 00:01:55.840 align:start position:0%
+direction in which
+ 
+
+00:01:55.840 --> 00:01:59.670 align:start position:0%
+direction in which
+f<00:01:56.640><c> is</c><00:01:56.960><c> changing</c><00:01:58.320><c> now</c><00:01:58.560><c> if</c><00:01:58.719><c> we</c><00:01:58.880><c> have</c><00:01:59.119><c> a</c><00:01:59.280><c> function</c>
+
+00:01:59.670 --> 00:01:59.680 align:start position:0%
+f is changing now if we have a function
+ 
+
+00:01:59.680 --> 00:01:59.990 align:start position:0%
+f is changing now if we have a function
+of
+
+00:01:59.990 --> 00:02:00.000 align:start position:0%
+of
+ 
+
+00:02:00.000 --> 00:02:02.950 align:start position:0%
+of
+several<00:02:00.960><c> variables</c><00:02:01.920><c> and</c><00:02:02.079><c> let's</c><00:02:02.399><c> just</c><00:02:02.640><c> start</c>
+
+00:02:02.950 --> 00:02:02.960 align:start position:0%
+several variables and let's just start
+ 
+
+00:02:02.960 --> 00:02:03.429 align:start position:0%
+several variables and let's just start
+with
+
+00:02:03.429 --> 00:02:03.439 align:start position:0%
+with
+ 
+
+00:02:03.439 --> 00:02:06.550 align:start position:0%
+with
+two<00:02:04.640><c> for</c><00:02:04.960><c> example</c><00:02:05.759><c> we</c><00:02:05.920><c> have</c><00:02:06.320><c> f</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+two for example we have f
+ 
+
+00:02:06.560 --> 00:02:10.869 align:start position:0%
+two for example we have f
+of<00:02:06.719><c> x</c><00:02:07.119><c> and</c><00:02:07.360><c> y</c><00:02:08.479><c> so</c><00:02:08.720><c> now</c><00:02:09.119><c> f</c><00:02:09.440><c> depends</c><00:02:10.000><c> on</c><00:02:10.319><c> both</c><00:02:10.640><c> x</c>
+
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+of x and y so now f depends on both x
+ 
+
+00:02:10.879 --> 00:02:12.229 align:start position:0%
+of x and y so now f depends on both x
+and<00:02:11.039><c> y</c>
+
+00:02:12.229 --> 00:02:12.239 align:start position:0%
+and y
+ 
+
+00:02:12.239 --> 00:02:13.830 align:start position:0%
+and y
+and<00:02:12.400><c> so</c><00:02:12.640><c> what</c><00:02:12.800><c> this</c><00:02:13.040><c> is</c><00:02:13.200><c> actually</c><00:02:13.440><c> going</c><00:02:13.680><c> to</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+and so what this is actually going to
+ 
+
+00:02:13.840 --> 00:02:16.309 align:start position:0%
+and so what this is actually going to
+give<00:02:14.080><c> you</c><00:02:14.720><c> is</c><00:02:14.959><c> a</c><00:02:15.200><c> surface</c>
+
+00:02:16.309 --> 00:02:16.319 align:start position:0%
+give you is a surface
+ 
+
+00:02:16.319 --> 00:02:21.350 align:start position:0%
+give you is a surface
+so<00:02:16.560><c> if</c><00:02:16.720><c> you</c><00:02:16.800><c> were</c><00:02:17.040><c> to</c><00:02:17.200><c> plot</c><00:02:18.239><c> z</c><00:02:19.280><c> is</c><00:02:19.599><c> equal</c><00:02:20.080><c> to</c>
+
+00:02:21.350 --> 00:02:21.360 align:start position:0%
+so if you were to plot z is equal to
+ 
+
+00:02:21.360 --> 00:02:24.630 align:start position:0%
+so if you were to plot z is equal to
+some<00:02:21.760><c> function</c><00:02:22.879><c> of</c><00:02:23.280><c> x</c><00:02:23.599><c> and</c><00:02:23.760><c> y</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+some function of x and y
+ 
+
+00:02:24.640 --> 00:02:27.830 align:start position:0%
+some function of x and y
+you<00:02:24.800><c> get</c><00:02:25.040><c> a</c><00:02:25.280><c> three</c><00:02:25.599><c> dimensional</c><00:02:26.640><c> surface</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+you get a three dimensional surface
+ 
+
+00:02:27.840 --> 00:02:29.830 align:start position:0%
+you get a three dimensional surface
+which<00:02:28.080><c> will</c><00:02:28.319><c> change</c><00:02:28.720><c> in</c><00:02:28.879><c> both</c><00:02:29.200><c> the</c><00:02:29.440><c> x</c>
+
+00:02:29.830 --> 00:02:29.840 align:start position:0%
+which will change in both the x
+ 
+
+00:02:29.840 --> 00:02:31.589 align:start position:0%
+which will change in both the x
+direction<00:02:30.720><c> and</c>
+
+00:02:31.589 --> 00:02:31.599 align:start position:0%
+direction and
+ 
+
+00:02:31.599 --> 00:02:34.150 align:start position:0%
+direction and
+the<00:02:31.840><c> y</c><00:02:32.239><c> direction</c><00:02:32.879><c> so</c><00:02:33.040><c> if</c><00:02:33.120><c> we</c><00:02:33.360><c> consider</c><00:02:34.000><c> the</c>
+
+00:02:34.150 --> 00:02:34.160 align:start position:0%
+the y direction so if we consider the
+ 
+
+00:02:34.160 --> 00:02:35.509 align:start position:0%
+the y direction so if we consider the
+example
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+example
+ 
+
+00:02:35.519 --> 00:02:38.710 align:start position:0%
+example
+z<00:02:36.080><c> equals</c><00:02:37.280><c> x</c><00:02:38.160><c> y</c>
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+z equals x y
+ 
+
+00:02:38.720 --> 00:02:41.990 align:start position:0%
+z equals x y
+squared<00:02:40.080><c> plus</c><00:02:40.879><c> y</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+squared plus y
+ 
+
+00:02:42.000 --> 00:02:45.190 align:start position:0%
+squared plus y
+x<00:02:42.640><c> cubed</c><00:02:43.599><c> so</c><00:02:43.760><c> when</c><00:02:43.920><c> we</c><00:02:44.080><c> plug</c><00:02:44.400><c> this</c><00:02:44.720><c> into</c><00:02:45.040><c> our</c>
+
+00:02:45.190 --> 00:02:45.200 align:start position:0%
+x cubed so when we plug this into our
+ 
+
+00:02:45.200 --> 00:02:47.270 align:start position:0%
+x cubed so when we plug this into our
+maple<00:02:45.680><c> calculator</c><00:02:46.560><c> app</c>
+
+00:02:47.270 --> 00:02:47.280 align:start position:0%
+maple calculator app
+ 
+
+00:02:47.280 --> 00:02:50.470 align:start position:0%
+maple calculator app
+we<00:02:47.519><c> are</c><00:02:47.680><c> given</c><00:02:48.319><c> the</c><00:02:48.640><c> three</c><00:02:49.840><c> surface</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+we are given the three surface
+ 
+
+00:02:50.480 --> 00:02:54.070 align:start position:0%
+we are given the three surface
+plot<00:02:51.599><c> of</c><00:02:51.840><c> this</c><00:02:52.239><c> function</c><00:02:53.440><c> and</c><00:02:53.599><c> we</c><00:02:53.760><c> can</c><00:02:53.920><c> see</c>
+
+00:02:54.070 --> 00:02:54.080 align:start position:0%
+plot of this function and we can see
+ 
+
+00:02:54.080 --> 00:02:55.509 align:start position:0%
+plot of this function and we can see
+that<00:02:54.319><c> it</c><00:02:54.480><c> is</c><00:02:54.720><c> indeed</c><00:02:55.200><c> a</c>
+
+00:02:55.509 --> 00:02:55.519 align:start position:0%
+that it is indeed a
+ 
+
+00:02:55.519 --> 00:02:58.790 align:start position:0%
+that it is indeed a
+surface<00:02:56.720><c> it's</c><00:02:57.040><c> changing</c><00:02:57.599><c> in</c><00:02:57.920><c> both</c><00:02:58.400><c> the</c>
+
+00:02:58.790 --> 00:02:58.800 align:start position:0%
+surface it's changing in both the
+ 
+
+00:02:58.800 --> 00:03:03.910 align:start position:0%
+surface it's changing in both the
+x<00:02:59.519><c> and</c><00:02:59.760><c> the</c><00:03:00.000><c> y</c><00:03:00.480><c> directions</c><00:03:02.840><c> simultaneously</c>
+
+00:03:03.910 --> 00:03:03.920 align:start position:0%
+x and the y directions simultaneously
+ 
+
+00:03:03.920 --> 00:03:06.949 align:start position:0%
+x and the y directions simultaneously
+and<00:03:04.080><c> so</c><00:03:04.400><c> therefore</c><00:03:05.040><c> it</c><00:03:05.280><c> now</c><00:03:05.599><c> makes</c><00:03:06.000><c> sense</c>
+
+00:03:06.949 --> 00:03:06.959 align:start position:0%
+and so therefore it now makes sense
+ 
+
+00:03:06.959 --> 00:03:09.509 align:start position:0%
+and so therefore it now makes sense
+that<00:03:07.440><c> you</c><00:03:07.680><c> might</c><00:03:08.000><c> want</c><00:03:08.239><c> to</c><00:03:08.400><c> know</c><00:03:09.120><c> how</c><00:03:09.360><c> the</c>
+
+00:03:09.509 --> 00:03:09.519 align:start position:0%
+that you might want to know how the
+ 
+
+00:03:09.519 --> 00:03:11.110 align:start position:0%
+that you might want to know how the
+function<00:03:09.920><c> is</c><00:03:10.159><c> changing</c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+function is changing
+ 
+
+00:03:11.120 --> 00:03:14.949 align:start position:0%
+function is changing
+in<00:03:11.360><c> more</c><00:03:11.599><c> than</c><00:03:12.000><c> one</c><00:03:12.720><c> direction</c><00:03:13.760><c> as</c><00:03:14.000><c> an</c><00:03:14.159><c> example</c>
+
+00:03:14.949 --> 00:03:14.959 align:start position:0%
+in more than one direction as an example
+ 
+
+00:03:14.959 --> 00:03:17.750 align:start position:0%
+in more than one direction as an example
+from<00:03:15.120><c> this</c><00:03:15.360><c> particular</c><00:03:16.159><c> viewpoint</c><00:03:17.360><c> we</c><00:03:17.519><c> can</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+from this particular viewpoint we can
+ 
+
+00:03:17.760 --> 00:03:17.990 align:start position:0%
+from this particular viewpoint we can
+see
+
+00:03:17.990 --> 00:03:18.000 align:start position:0%
+see
+ 
+
+00:03:18.000 --> 00:03:21.030 align:start position:0%
+see
+that<00:03:18.239><c> as</c><00:03:18.400><c> we</c><00:03:18.640><c> move</c><00:03:18.959><c> along</c><00:03:19.200><c> the</c><00:03:19.480><c> x-axis</c><00:03:20.879><c> the</c>
+
+00:03:21.030 --> 00:03:21.040 align:start position:0%
+that as we move along the x-axis the
+ 
+
+00:03:21.040 --> 00:03:22.869 align:start position:0%
+that as we move along the x-axis the
+function<00:03:21.440><c> is</c><00:03:21.680><c> decreasing</c>
+
+00:03:22.869 --> 00:03:22.879 align:start position:0%
+function is decreasing
+ 
+
+00:03:22.879 --> 00:03:26.550 align:start position:0%
+function is decreasing
+so<00:03:23.120><c> in</c><00:03:23.360><c> this</c><00:03:23.680><c> direction</c><00:03:24.799><c> in</c><00:03:24.959><c> the</c><00:03:25.200><c> x-direction</c>
+
+00:03:26.550 --> 00:03:26.560 align:start position:0%
+so in this direction in the x-direction
+ 
+
+00:03:26.560 --> 00:03:29.750 align:start position:0%
+so in this direction in the x-direction
+our<00:03:26.799><c> function</c><00:03:27.120><c> is</c><00:03:27.360><c> decreasing</c><00:03:28.879><c> but</c><00:03:29.280><c> if</c><00:03:29.519><c> we</c>
+
+00:03:29.750 --> 00:03:29.760 align:start position:0%
+our function is decreasing but if we
+ 
+
+00:03:29.760 --> 00:03:31.270 align:start position:0%
+our function is decreasing but if we
+rotate<00:03:30.319><c> the</c><00:03:30.560><c> image</c>
+
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+rotate the image
+ 
+
+00:03:31.280 --> 00:03:34.149 align:start position:0%
+rotate the image
+we<00:03:31.440><c> can</c><00:03:31.680><c> now</c><00:03:32.000><c> see</c><00:03:32.159><c> that</c><00:03:32.400><c> along</c><00:03:32.720><c> the</c><00:03:32.959><c> y-axis</c><00:03:33.920><c> so</c>
+
+00:03:34.149 --> 00:03:34.159 align:start position:0%
+we can now see that along the y-axis so
+ 
+
+00:03:34.159 --> 00:03:35.589 align:start position:0%
+we can now see that along the y-axis so
+in<00:03:34.239><c> the</c><00:03:34.480><c> y-direction</c>
+
+00:03:35.589 --> 00:03:35.599 align:start position:0%
+in the y-direction
+ 
+
+00:03:35.599 --> 00:03:38.149 align:start position:0%
+in the y-direction
+our<00:03:35.840><c> function</c><00:03:36.239><c> is</c><00:03:36.560><c> increasing</c><00:03:37.760><c> so</c><00:03:38.000><c> our</c>
+
+00:03:38.149 --> 00:03:38.159 align:start position:0%
+our function is increasing so our
+ 
+
+00:03:38.159 --> 00:03:38.789 align:start position:0%
+our function is increasing so our
+function
+
+00:03:38.789 --> 00:03:38.799 align:start position:0%
+function
+ 
+
+00:03:38.799 --> 00:03:42.470 align:start position:0%
+function
+is<00:03:39.040><c> behaving</c><00:03:39.920><c> differently</c><00:03:41.040><c> it</c><00:03:41.280><c> is</c><00:03:41.680><c> changing</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+is behaving differently it is changing
+ 
+
+00:03:42.480 --> 00:03:45.990 align:start position:0%
+is behaving differently it is changing
+in<00:03:42.720><c> a</c><00:03:43.040><c> different</c><00:03:43.680><c> way</c><00:03:44.640><c> depending</c><00:03:45.440><c> on</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+in a different way depending on
+ 
+
+00:03:46.000 --> 00:03:48.350 align:start position:0%
+in a different way depending on
+the<00:03:46.239><c> direction</c><00:03:47.360><c> in</c><00:03:47.519><c> which</c><00:03:47.840><c> we</c><00:03:48.080><c> are</c>
+
+00:03:48.350 --> 00:03:48.360 align:start position:0%
+the direction in which we are
+ 
+
+00:03:48.360 --> 00:03:49.509 align:start position:0%
+the direction in which we are
+investigating
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+investigating
+ 
+
+00:03:49.519 --> 00:03:51.830 align:start position:0%
+investigating
+and<00:03:49.680><c> so</c><00:03:49.920><c> what</c><00:03:50.159><c> partial</c><00:03:50.560><c> derivatives</c><00:03:51.360><c> really</c>
+
+00:03:51.830 --> 00:03:51.840 align:start position:0%
+and so what partial derivatives really
+ 
+
+00:03:51.840 --> 00:03:52.550 align:start position:0%
+and so what partial derivatives really
+do
+
+00:03:52.550 --> 00:03:52.560 align:start position:0%
+do
+ 
+
+00:03:52.560 --> 00:03:55.270 align:start position:0%
+do
+is<00:03:52.799><c> allow</c><00:03:53.120><c> us</c><00:03:53.360><c> to</c><00:03:53.599><c> calculate</c><00:03:54.480><c> the</c><00:03:54.720><c> rate</c><00:03:55.040><c> of</c>
+
+00:03:55.270 --> 00:03:55.280 align:start position:0%
+is allow us to calculate the rate of
+ 
+
+00:03:55.280 --> 00:03:56.229 align:start position:0%
+is allow us to calculate the rate of
+change
+
+00:03:56.229 --> 00:03:56.239 align:start position:0%
+change
+ 
+
+00:03:56.239 --> 00:04:00.070 align:start position:0%
+change
+for<00:03:56.640><c> a</c><00:03:56.959><c> given</c><00:03:57.920><c> direction</c><00:03:59.120><c> so</c><00:03:59.360><c> the</c><00:03:59.680><c> x</c>
+
+00:04:00.070 --> 00:04:00.080 align:start position:0%
+for a given direction so the x
+ 
+
+00:04:00.080 --> 00:04:03.350 align:start position:0%
+for a given direction so the x
+partial<00:04:00.560><c> derivative</c><00:04:01.360><c> tells</c><00:04:01.760><c> us</c><00:04:02.239><c> how</c><00:04:02.560><c> does</c><00:04:02.879><c> our</c>
+
+00:04:03.350 --> 00:04:03.360 align:start position:0%
+partial derivative tells us how does our
+ 
+
+00:04:03.360 --> 00:04:06.789 align:start position:0%
+partial derivative tells us how does our
+function<00:04:04.319><c> f</c><00:04:04.480><c> of</c><00:04:04.720><c> x</c><00:04:05.040><c> y</c><00:04:05.920><c> how</c><00:04:06.080><c> does</c><00:04:06.319><c> that</c>
+
+00:04:06.789 --> 00:04:06.799 align:start position:0%
+function f of x y how does that
+ 
+
+00:04:06.799 --> 00:04:10.070 align:start position:0%
+function f of x y how does that
+change<00:04:07.599><c> specifically</c><00:04:08.640><c> moving</c><00:04:09.280><c> in</c><00:04:09.439><c> the</c><00:04:09.680><c> x</c>
+
+00:04:10.070 --> 00:04:10.080 align:start position:0%
+change specifically moving in the x
+ 
+
+00:04:10.080 --> 00:04:11.589 align:start position:0%
+change specifically moving in the x
+direction
+
+00:04:11.589 --> 00:04:11.599 align:start position:0%
+direction
+ 
+
+00:04:11.599 --> 00:04:14.149 align:start position:0%
+direction
+and<00:04:11.760><c> then</c><00:04:11.920><c> the</c><00:04:12.159><c> y</c><00:04:12.560><c> partial</c><00:04:13.040><c> derivative</c><00:04:13.920><c> will</c>
+
+00:04:14.149 --> 00:04:14.159 align:start position:0%
+and then the y partial derivative will
+ 
+
+00:04:14.159 --> 00:04:15.670 align:start position:0%
+and then the y partial derivative will
+tell<00:04:14.400><c> us</c><00:04:14.560><c> how</c><00:04:14.799><c> our</c><00:04:15.040><c> function</c>
+
+00:04:15.670 --> 00:04:15.680 align:start position:0%
+tell us how our function
+ 
+
+00:04:15.680 --> 00:04:19.909 align:start position:0%
+tell us how our function
+changes<00:04:16.799><c> if</c><00:04:16.959><c> we</c><00:04:17.280><c> only</c><00:04:17.759><c> move</c><00:04:18.560><c> in</c><00:04:18.720><c> the</c><00:04:18.959><c> y</c>
+
+00:04:19.909 --> 00:04:19.919 align:start position:0%
+changes if we only move in the y
+ 
+
+00:04:19.919 --> 00:04:22.469 align:start position:0%
+changes if we only move in the y
+direction<00:04:20.799><c> so</c><00:04:21.040><c> mathematically</c><00:04:22.240><c> our</c>
+
+00:04:22.469 --> 00:04:22.479 align:start position:0%
+direction so mathematically our
+ 
+
+00:04:22.479 --> 00:04:24.230 align:start position:0%
+direction so mathematically our
+definitions<00:04:23.440><c> are</c><00:04:23.520><c> going</c><00:04:23.759><c> to</c><00:04:23.919><c> be</c>
+
+00:04:24.230 --> 00:04:24.240 align:start position:0%
+definitions are going to be
+ 
+
+00:04:24.240 --> 00:04:28.230 align:start position:0%
+definitions are going to be
+as<00:04:24.960><c> follows</c><00:04:25.919><c> if</c><00:04:26.160><c> i</c><00:04:26.320><c> want</c><00:04:26.720><c> to</c><00:04:26.880><c> know</c>
+
+00:04:28.230 --> 00:04:28.240 align:start position:0%
+as follows if i want to know
+ 
+
+00:04:28.240 --> 00:04:32.230 align:start position:0%
+as follows if i want to know
+the<00:04:28.880><c> partial</c><00:04:30.080><c> x</c><00:04:30.400><c> derivative</c>
+
+00:04:32.230 --> 00:04:32.240 align:start position:0%
+the partial x derivative
+ 
+
+00:04:32.240 --> 00:04:35.350 align:start position:0%
+the partial x derivative
+of<00:04:32.720><c> f</c><00:04:33.120><c> where</c><00:04:33.520><c> f</c><00:04:33.840><c> is</c><00:04:34.000><c> a</c><00:04:34.080><c> function</c><00:04:34.400><c> of</c><00:04:34.639><c> x</c><00:04:35.040><c> and</c>
+
+00:04:35.350 --> 00:04:35.360 align:start position:0%
+of f where f is a function of x and
+ 
+
+00:04:35.360 --> 00:04:38.469 align:start position:0%
+of f where f is a function of x and
+y<00:04:36.560><c> first</c><00:04:36.880><c> of</c><00:04:36.960><c> all</c><00:04:37.120><c> we</c><00:04:37.280><c> use</c><00:04:37.440><c> this</c><00:04:37.680><c> curly</c><00:04:38.160><c> d</c>
+
+00:04:38.469 --> 00:04:38.479 align:start position:0%
+y first of all we use this curly d
+ 
+
+00:04:38.479 --> 00:04:40.870 align:start position:0%
+y first of all we use this curly d
+notation<00:04:39.440><c> and</c><00:04:39.600><c> this</c><00:04:39.919><c> just</c><00:04:40.080><c> says</c><00:04:40.400><c> that</c><00:04:40.560><c> this</c><00:04:40.720><c> is</c>
+
+00:04:40.870 --> 00:04:40.880 align:start position:0%
+notation and this just says that this is
+ 
+
+00:04:40.880 --> 00:04:42.150 align:start position:0%
+notation and this just says that this is
+a<00:04:41.120><c> partial</c>
+
+00:04:42.150 --> 00:04:42.160 align:start position:0%
+a partial
+ 
+
+00:04:42.160 --> 00:04:45.430 align:start position:0%
+a partial
+derivative<00:04:43.360><c> compared</c><00:04:43.919><c> to</c><00:04:44.160><c> the</c><00:04:44.479><c> standard</c><00:04:45.199><c> or</c>
+
+00:04:45.430 --> 00:04:45.440 align:start position:0%
+derivative compared to the standard or
+ 
+
+00:04:45.440 --> 00:04:46.150 align:start position:0%
+derivative compared to the standard or
+full
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+full
+ 
+
+00:04:46.160 --> 00:04:49.350 align:start position:0%
+full
+derivative<00:04:47.360><c> in</c><00:04:47.520><c> this</c><00:04:48.240><c> situation</c><00:04:49.120><c> and</c><00:04:49.199><c> we</c>
+
+00:04:49.350 --> 00:04:49.360 align:start position:0%
+derivative in this situation and we
+ 
+
+00:04:49.360 --> 00:04:50.469 align:start position:0%
+derivative in this situation and we
+define<00:04:49.919><c> this</c>
+
+00:04:50.469 --> 00:04:50.479 align:start position:0%
+define this
+ 
+
+00:04:50.479 --> 00:04:54.710 align:start position:0%
+define this
+to<00:04:50.639><c> be</c><00:04:51.600><c> the</c><00:04:51.759><c> limit</c><00:04:53.120><c> as</c><00:04:53.440><c> h</c>
+
+00:04:54.710 --> 00:04:54.720 align:start position:0%
+to be the limit as h
+ 
+
+00:04:54.720 --> 00:04:59.670 align:start position:0%
+to be the limit as h
+tends<00:04:55.040><c> to</c><00:04:55.280><c> zero</c><00:04:56.639><c> so</c><00:04:57.360><c> unchanged</c><00:04:58.000><c> so</c><00:04:58.240><c> far</c>
+
+00:04:59.670 --> 00:04:59.680 align:start position:0%
+tends to zero so unchanged so far
+ 
+
+00:04:59.680 --> 00:05:02.710 align:start position:0%
+tends to zero so unchanged so far
+of<00:05:00.240><c> f</c><00:05:01.280><c> of</c><00:05:01.919><c> x</c>
+
+00:05:02.710 --> 00:05:02.720 align:start position:0%
+of f of x
+ 
+
+00:05:02.720 --> 00:05:05.990 align:start position:0%
+of f of x
+plus<00:05:03.360><c> h</c><00:05:04.560><c> comma</c>
+
+00:05:05.990 --> 00:05:06.000 align:start position:0%
+plus h comma
+ 
+
+00:05:06.000 --> 00:05:09.350 align:start position:0%
+plus h comma
+y<00:05:07.280><c> minus</c><00:05:08.479><c> f</c>
+
+00:05:09.350 --> 00:05:09.360 align:start position:0%
+y minus f
+ 
+
+00:05:09.360 --> 00:05:14.230 align:start position:0%
+y minus f
+of<00:05:09.680><c> x</c><00:05:10.320><c> y</c><00:05:11.759><c> all</c><00:05:12.000><c> divided</c><00:05:12.800><c> by</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+of x y all divided by
+ 
+
+00:05:14.240 --> 00:05:17.350 align:start position:0%
+of x y all divided by
+h<00:05:14.960><c> so</c><00:05:15.120><c> you'll</c><00:05:15.360><c> notice</c><00:05:15.840><c> it's</c><00:05:16.080><c> very</c><00:05:16.560><c> similar</c>
+
+00:05:17.350 --> 00:05:17.360 align:start position:0%
+h so you'll notice it's very similar
+ 
+
+00:05:17.360 --> 00:05:20.629 align:start position:0%
+h so you'll notice it's very similar
+in<00:05:17.520><c> fact</c><00:05:17.840><c> almost</c><00:05:18.320><c> identical</c><00:05:19.520><c> to</c><00:05:19.680><c> our</c><00:05:20.160><c> full</c>
+
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+in fact almost identical to our full
+ 
+
+00:05:20.639 --> 00:05:23.670 align:start position:0%
+in fact almost identical to our full
+or<00:05:20.880><c> standard</c><00:05:21.440><c> derivative</c><00:05:22.000><c> df</c><00:05:22.400><c> by</c><00:05:22.639><c> dx</c>
+
+00:05:23.670 --> 00:05:23.680 align:start position:0%
+or standard derivative df by dx
+ 
+
+00:05:23.680 --> 00:05:27.110 align:start position:0%
+or standard derivative df by dx
+but<00:05:23.919><c> in</c><00:05:24.080><c> the</c><00:05:24.320><c> partial</c><00:05:24.880><c> case</c><00:05:25.759><c> what</c><00:05:25.919><c> we're</c><00:05:26.240><c> doing</c>
+
+00:05:27.110 --> 00:05:27.120 align:start position:0%
+but in the partial case what we're doing
+ 
+
+00:05:27.120 --> 00:05:30.310 align:start position:0%
+but in the partial case what we're doing
+is<00:05:27.280><c> we're</c><00:05:27.600><c> adding</c><00:05:28.320><c> our</c><00:05:28.639><c> h</c><00:05:29.280><c> our</c><00:05:29.680><c> small</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+is we're adding our h our small
+ 
+
+00:05:30.320 --> 00:05:33.670 align:start position:0%
+is we're adding our h our small
+increment<00:05:31.360><c> this</c><00:05:31.600><c> is</c><00:05:31.840><c> added</c><00:05:32.400><c> only</c><00:05:33.199><c> to</c><00:05:33.360><c> the</c>
+
+00:05:33.670 --> 00:05:33.680 align:start position:0%
+increment this is added only to the
+ 
+
+00:05:33.680 --> 00:05:36.950 align:start position:0%
+increment this is added only to the
+x<00:05:34.080><c> coordinate</c><00:05:35.199><c> of</c><00:05:35.440><c> our</c><00:05:35.600><c> function</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+x coordinate of our function
+ 
+
+00:05:36.960 --> 00:05:39.990 align:start position:0%
+x coordinate of our function
+y<00:05:37.759><c> remains</c><00:05:38.320><c> unchanged</c>
+
+00:05:39.990 --> 00:05:40.000 align:start position:0%
+y remains unchanged
+ 
+
+00:05:40.000 --> 00:05:41.710 align:start position:0%
+y remains unchanged
+so<00:05:40.240><c> this</c><00:05:40.479><c> is</c><00:05:40.639><c> telling</c><00:05:40.960><c> us</c><00:05:41.199><c> that</c><00:05:41.440><c> the</c>
+
+00:05:41.710 --> 00:05:41.720 align:start position:0%
+so this is telling us that the
+ 
+
+00:05:41.720 --> 00:05:43.510 align:start position:0%
+so this is telling us that the
+y-coordinate<00:05:42.960><c> doesn't</c>
+
+00:05:43.510 --> 00:05:43.520 align:start position:0%
+y-coordinate doesn't
+ 
+
+00:05:43.520 --> 00:05:47.189 align:start position:0%
+y-coordinate doesn't
+change<00:05:44.000><c> the</c><00:05:44.240><c> value</c><00:05:44.720><c> of</c><00:05:44.960><c> y</c><00:05:45.919><c> remains</c>
+
+00:05:47.189 --> 00:05:47.199 align:start position:0%
+change the value of y remains
+ 
+
+00:05:47.199 --> 00:05:50.070 align:start position:0%
+change the value of y remains
+constant<00:05:48.400><c> and</c><00:05:48.639><c> we're</c><00:05:48.960><c> just</c><00:05:49.199><c> looking</c><00:05:49.600><c> at</c><00:05:49.759><c> what</c>
+
+00:05:50.070 --> 00:05:50.080 align:start position:0%
+constant and we're just looking at what
+ 
+
+00:05:50.080 --> 00:05:50.629 align:start position:0%
+constant and we're just looking at what
+happens
+
+00:05:50.629 --> 00:05:50.639 align:start position:0%
+happens
+ 
+
+00:05:50.639 --> 00:05:54.070 align:start position:0%
+happens
+if<00:05:50.800><c> we</c><00:05:51.120><c> change</c><00:05:51.919><c> the</c><00:05:52.320><c> x</c><00:05:52.720><c> value</c>
+
+00:05:54.070 --> 00:05:54.080 align:start position:0%
+if we change the x value
+ 
+
+00:05:54.080 --> 00:05:56.790 align:start position:0%
+if we change the x value
+only<00:05:54.720><c> the</c><00:05:54.880><c> partial</c><00:05:55.360><c> y</c><00:05:55.600><c> derivative</c><00:05:56.479><c> is</c><00:05:56.639><c> of</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+only the partial y derivative is of
+ 
+
+00:05:56.800 --> 00:05:58.469 align:start position:0%
+only the partial y derivative is of
+course<00:05:57.120><c> very</c><00:05:57.520><c> similar</c>
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+course very similar
+ 
+
+00:05:58.479 --> 00:06:01.110 align:start position:0%
+course very similar
+so<00:05:58.720><c> here</c><00:05:59.360><c> we're</c><00:05:59.600><c> interested</c><00:06:00.160><c> in</c><00:06:00.319><c> how</c><00:06:00.800><c> f</c>
+
+00:06:01.110 --> 00:06:01.120 align:start position:0%
+so here we're interested in how f
+ 
+
+00:06:01.120 --> 00:06:02.390 align:start position:0%
+so here we're interested in how f
+changes
+
+00:06:02.390 --> 00:06:02.400 align:start position:0%
+changes
+ 
+
+00:06:02.400 --> 00:06:06.070 align:start position:0%
+changes
+in<00:06:02.560><c> the</c><00:06:02.880><c> y</c><00:06:03.280><c> direction</c><00:06:04.639><c> so</c><00:06:04.880><c> we</c><00:06:05.120><c> take</c><00:06:05.360><c> the</c><00:06:05.600><c> same</c>
+
+00:06:06.070 --> 00:06:06.080 align:start position:0%
+in the y direction so we take the same
+ 
+
+00:06:06.080 --> 00:06:09.430 align:start position:0%
+in the y direction so we take the same
+limit<00:06:06.880><c> as</c><00:06:07.120><c> h</c><00:06:07.520><c> goes</c><00:06:07.759><c> to</c><00:06:08.000><c> zero</c>
+
+00:06:09.430 --> 00:06:09.440 align:start position:0%
+limit as h goes to zero
+ 
+
+00:06:09.440 --> 00:06:13.510 align:start position:0%
+limit as h goes to zero
+but<00:06:09.759><c> now</c><00:06:10.880><c> we</c><00:06:11.039><c> leave</c><00:06:11.520><c> x</c><00:06:12.080><c> unchanged</c><00:06:13.039><c> so</c><00:06:13.280><c> it's</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+but now we leave x unchanged so it's
+ 
+
+00:06:13.520 --> 00:06:17.110 align:start position:0%
+but now we leave x unchanged so it's
+f<00:06:13.680><c> of</c><00:06:13.919><c> x</c><00:06:14.960><c> and</c><00:06:15.199><c> now</c><00:06:15.440><c> we</c><00:06:15.680><c> add</c><00:06:16.000><c> h</c>
+
+00:06:17.110 --> 00:06:17.120 align:start position:0%
+f of x and now we add h
+ 
+
+00:06:17.120 --> 00:06:20.550 align:start position:0%
+f of x and now we add h
+to<00:06:17.280><c> the</c><00:06:17.520><c> y</c><00:06:17.919><c> value</c><00:06:19.039><c> then</c><00:06:19.280><c> we</c><00:06:19.520><c> subtract</c>
+
+00:06:20.550 --> 00:06:20.560 align:start position:0%
+to the y value then we subtract
+ 
+
+00:06:20.560 --> 00:06:24.469 align:start position:0%
+to the y value then we subtract
+f<00:06:20.960><c> x</c><00:06:21.280><c> y</c><00:06:22.479><c> and</c><00:06:22.560><c> then</c><00:06:22.800><c> we</c><00:06:22.960><c> divide</c>
+
+00:06:24.469 --> 00:06:24.479 align:start position:0%
+f x y and then we divide
+ 
+
+00:06:24.479 --> 00:06:28.150 align:start position:0%
+f x y and then we divide
+by<00:06:24.720><c> h</c><00:06:25.600><c> so</c><00:06:26.160><c> very</c><00:06:26.479><c> similar</c><00:06:27.120><c> to</c><00:06:27.280><c> the</c><00:06:27.520><c> partial</c>
+
+00:06:28.150 --> 00:06:28.160 align:start position:0%
+by h so very similar to the partial
+ 
+
+00:06:28.160 --> 00:06:31.990 align:start position:0%
+by h so very similar to the partial
+x<00:06:28.639><c> except</c><00:06:29.199><c> now</c><00:06:29.919><c> we</c><00:06:30.080><c> do</c><00:06:30.319><c> the</c><00:06:30.560><c> plus</c><00:06:31.039><c> h</c>
+
+00:06:31.990 --> 00:06:32.000 align:start position:0%
+x except now we do the plus h
+ 
+
+00:06:32.000 --> 00:06:35.590 align:start position:0%
+x except now we do the plus h
+on<00:06:32.160><c> the</c><00:06:32.840><c> y</c><00:06:33.919><c> coordinate</c>
+
+00:06:35.590 --> 00:06:35.600 align:start position:0%
+on the y coordinate
+ 
+
+00:06:35.600 --> 00:06:37.670 align:start position:0%
+on the y coordinate
+because<00:06:35.919><c> we're</c><00:06:36.160><c> interested</c><00:06:36.960><c> in</c><00:06:37.199><c> how</c><00:06:37.440><c> the</c>
+
+00:06:37.670 --> 00:06:37.680 align:start position:0%
+because we're interested in how the
+ 
+
+00:06:37.680 --> 00:06:39.590 align:start position:0%
+because we're interested in how the
+function<00:06:38.319><c> changes</c>
+
+00:06:39.590 --> 00:06:39.600 align:start position:0%
+function changes
+ 
+
+00:06:39.600 --> 00:06:43.189 align:start position:0%
+function changes
+when<00:06:40.400><c> we</c><00:06:40.639><c> change</c><00:06:41.120><c> y</c><00:06:41.840><c> and</c><00:06:42.160><c> only</c>
+
+00:06:43.189 --> 00:06:43.199 align:start position:0%
+when we change y and only
+ 
+
+00:06:43.199 --> 00:06:46.230 align:start position:0%
+when we change y and only
+change<00:06:43.759><c> y</c><00:06:44.639><c> so</c><00:06:44.800><c> the</c><00:06:45.120><c> x</c><00:06:45.440><c> coordinate</c><00:06:46.000><c> here</c>
+
+00:06:46.230 --> 00:06:46.240 align:start position:0%
+change y so the x coordinate here
+ 
+
+00:06:46.240 --> 00:06:47.749 align:start position:0%
+change y so the x coordinate here
+remains<00:06:46.800><c> constant</c>
+
+00:06:47.749 --> 00:06:47.759 align:start position:0%
+remains constant
+ 
+
+00:06:47.759 --> 00:06:51.270 align:start position:0%
+remains constant
+and<00:06:47.919><c> we</c><00:06:48.080><c> are</c><00:06:48.240><c> purely</c><00:06:48.800><c> moving</c><00:06:49.680><c> a</c><00:06:49.919><c> small</c><00:06:50.319><c> amount</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+and we are purely moving a small amount
+ 
+
+00:06:51.280 --> 00:06:54.390 align:start position:0%
+and we are purely moving a small amount
+in<00:06:51.360><c> the</c><00:06:51.599><c> y</c><00:06:52.000><c> direction</c><00:06:53.440><c> and</c><00:06:53.599><c> then</c><00:06:53.840><c> taking</c><00:06:54.160><c> the</c>
+
+00:06:54.390 --> 00:06:54.400 align:start position:0%
+in the y direction and then taking the
+ 
+
+00:06:54.400 --> 00:06:55.189 align:start position:0%
+in the y direction and then taking the
+limit
+
+00:06:55.189 --> 00:06:55.199 align:start position:0%
+limit
+ 
+
+00:06:55.199 --> 00:06:58.309 align:start position:0%
+limit
+to<00:06:55.360><c> calculate</c><00:06:55.919><c> the</c><00:06:56.160><c> y</c><00:06:56.639><c> partial</c><00:06:57.520><c> derivative</c>
+
+00:06:58.309 --> 00:06:58.319 align:start position:0%
+to calculate the y partial derivative
+ 
+
+00:06:58.319 --> 00:07:00.830 align:start position:0%
+to calculate the y partial derivative
+now<00:06:58.479><c> that</c><00:06:58.639><c> we</c><00:06:58.800><c> know</c><00:06:59.039><c> the</c><00:06:59.440><c> formal</c><00:06:59.919><c> mathematical</c>
+
+00:07:00.830 --> 00:07:00.840 align:start position:0%
+now that we know the formal mathematical
+ 
+
+00:07:00.840 --> 00:07:02.309 align:start position:0%
+now that we know the formal mathematical
+definitions
+
+00:07:02.309 --> 00:07:02.319 align:start position:0%
+definitions
+ 
+
+00:07:02.319 --> 00:07:05.830 align:start position:0%
+definitions
+of<00:07:02.479><c> our</c><00:07:02.720><c> partial</c><00:07:03.680><c> x</c><00:07:04.000><c> and</c><00:07:04.160><c> y</c><00:07:04.479><c> derivatives</c>
+
+00:07:05.830 --> 00:07:05.840 align:start position:0%
+of our partial x and y derivatives
+ 
+
+00:07:05.840 --> 00:07:08.230 align:start position:0%
+of our partial x and y derivatives
+let's<00:07:06.240><c> actually</c><00:07:06.720><c> work</c><00:07:06.960><c> through</c><00:07:07.199><c> an</c><00:07:07.360><c> example</c>
+
+00:07:08.230 --> 00:07:08.240 align:start position:0%
+let's actually work through an example
+ 
+
+00:07:08.240 --> 00:07:10.230 align:start position:0%
+let's actually work through an example
+of<00:07:08.400><c> the</c><00:07:08.639><c> function</c><00:07:09.039><c> we</c><00:07:09.199><c> looked</c><00:07:09.440><c> at</c><00:07:09.599><c> earlier</c>
+
+00:07:10.230 --> 00:07:10.240 align:start position:0%
+of the function we looked at earlier
+ 
+
+00:07:10.240 --> 00:07:13.430 align:start position:0%
+of the function we looked at earlier
+f<00:07:10.479><c> of</c><00:07:10.639><c> x</c><00:07:10.880><c> y</c><00:07:11.280><c> is</c><00:07:11.599><c> x</c><00:07:11.840><c> y</c><00:07:12.080><c> squared</c><00:07:12.720><c> plus</c><00:07:13.039><c> y</c>
+
+00:07:13.430 --> 00:07:13.440 align:start position:0%
+f of x y is x y squared plus y
+ 
+
+00:07:13.440 --> 00:07:16.870 align:start position:0%
+f of x y is x y squared plus y
+x<00:07:13.840><c> cubed</c><00:07:14.639><c> so</c><00:07:14.880><c> let's</c><00:07:15.120><c> compute</c><00:07:16.240><c> the</c><00:07:16.479><c> partial</c>
+
+00:07:16.870 --> 00:07:16.880 align:start position:0%
+x cubed so let's compute the partial
+ 
+
+00:07:16.880 --> 00:07:17.990 align:start position:0%
+x cubed so let's compute the partial
+derivatives
+
+00:07:17.990 --> 00:07:18.000 align:start position:0%
+derivatives
+ 
+
+00:07:18.000 --> 00:07:21.029 align:start position:0%
+derivatives
+to<00:07:18.240><c> see</c><00:07:18.639><c> how</c><00:07:18.880><c> this</c><00:07:19.120><c> works</c><00:07:19.520><c> in</c><00:07:19.759><c> practice</c>
+
+00:07:21.029 --> 00:07:21.039 align:start position:0%
+to see how this works in practice
+ 
+
+00:07:21.039 --> 00:07:23.909 align:start position:0%
+to see how this works in practice
+and<00:07:21.199><c> the</c><00:07:21.440><c> key</c><00:07:21.759><c> thing</c><00:07:22.080><c> here</c><00:07:22.479><c> is</c><00:07:22.639><c> to</c><00:07:22.880><c> remember</c>
+
+00:07:23.909 --> 00:07:23.919 align:start position:0%
+and the key thing here is to remember
+ 
+
+00:07:23.919 --> 00:07:25.270 align:start position:0%
+and the key thing here is to remember
+that<00:07:24.160><c> when</c><00:07:24.319><c> you're</c><00:07:24.560><c> doing</c><00:07:24.880><c> your</c>
+
+00:07:25.270 --> 00:07:25.280 align:start position:0%
+that when you're doing your
+ 
+
+00:07:25.280 --> 00:07:28.629 align:start position:0%
+that when you're doing your
+x<00:07:25.599><c> partial</c><00:07:26.080><c> derivative</c><00:07:27.520><c> y</c>
+
+00:07:28.629 --> 00:07:28.639 align:start position:0%
+x partial derivative y
+ 
+
+00:07:28.639 --> 00:07:31.830 align:start position:0%
+x partial derivative y
+doesn't<00:07:29.520><c> change</c><00:07:30.720><c> so</c><00:07:30.960><c> that</c><00:07:31.199><c> means</c><00:07:31.440><c> you</c><00:07:31.599><c> can</c>
+
+00:07:31.830 --> 00:07:31.840 align:start position:0%
+doesn't change so that means you can
+ 
+
+00:07:31.840 --> 00:07:33.029 align:start position:0%
+doesn't change so that means you can
+basically<00:07:32.479><c> treat</c>
+
+00:07:33.029 --> 00:07:33.039 align:start position:0%
+basically treat
+ 
+
+00:07:33.039 --> 00:07:36.629 align:start position:0%
+basically treat
+y<00:07:33.520><c> as</c><00:07:33.759><c> a</c><00:07:34.000><c> constant</c><00:07:35.360><c> and</c><00:07:35.840><c> similarly</c><00:07:36.400><c> when</c><00:07:36.560><c> you</c>
+
+00:07:36.629 --> 00:07:36.639 align:start position:0%
+y as a constant and similarly when you
+ 
+
+00:07:36.639 --> 00:07:37.510 align:start position:0%
+y as a constant and similarly when you
+do<00:07:36.800><c> your</c><00:07:37.120><c> y</c>
+
+00:07:37.510 --> 00:07:37.520 align:start position:0%
+do your y
+ 
+
+00:07:37.520 --> 00:07:41.909 align:start position:0%
+do your y
+partial<00:07:38.080><c> derivative</c><00:07:39.680><c> x</c><00:07:40.240><c> isn't</c><00:07:40.720><c> changing</c>
+
+00:07:41.909 --> 00:07:41.919 align:start position:0%
+partial derivative x isn't changing
+ 
+
+00:07:41.919 --> 00:07:45.830 align:start position:0%
+partial derivative x isn't changing
+so<00:07:42.160><c> therefore</c><00:07:42.560><c> you</c><00:07:42.720><c> treat</c><00:07:43.199><c> x</c><00:07:44.000><c> as</c><00:07:44.240><c> a</c><00:07:44.400><c> constant</c>
+
+00:07:45.830 --> 00:07:45.840 align:start position:0%
+so therefore you treat x as a constant
+ 
+
+00:07:45.840 --> 00:07:49.510 align:start position:0%
+so therefore you treat x as a constant
+so<00:07:46.400><c> if</c><00:07:46.639><c> f</c><00:07:46.879><c> of</c><00:07:47.039><c> x</c><00:07:47.199><c> y</c><00:07:47.599><c> is</c><00:07:47.919><c> x</c><00:07:48.160><c> y</c><00:07:48.479><c> squared</c><00:07:48.879><c> plus</c><00:07:49.120><c> y</c>
+
+00:07:49.510 --> 00:07:49.520 align:start position:0%
+so if f of x y is x y squared plus y
+ 
+
+00:07:49.520 --> 00:07:53.110 align:start position:0%
+so if f of x y is x y squared plus y
+x<00:07:50.000><c> cubed</c><00:07:51.039><c> if</c><00:07:51.280><c> we</c><00:07:51.520><c> calculate</c><00:07:52.240><c> first</c>
+
+00:07:53.110 --> 00:07:53.120 align:start position:0%
+x cubed if we calculate first
+ 
+
+00:07:53.120 --> 00:07:56.390 align:start position:0%
+x cubed if we calculate first
+df<00:07:53.680><c> by</c><00:07:54.080><c> dx</c>
+
+00:07:56.390 --> 00:07:56.400 align:start position:0%
+df by dx
+ 
+
+00:07:56.400 --> 00:07:59.430 align:start position:0%
+df by dx
+so<00:07:56.639><c> our</c><00:07:56.879><c> usual</c><00:07:57.520><c> rules</c><00:07:58.240><c> of</c><00:07:58.479><c> differentiation</c>
+
+00:07:59.430 --> 00:07:59.440 align:start position:0%
+so our usual rules of differentiation
+ 
+
+00:07:59.440 --> 00:08:01.110 align:start position:0%
+so our usual rules of differentiation
+apply
+
+00:08:01.110 --> 00:08:01.120 align:start position:0%
+apply
+ 
+
+00:08:01.120 --> 00:08:04.869 align:start position:0%
+apply
+we<00:08:01.360><c> still</c><00:08:01.759><c> differentiate</c><00:08:03.280><c> any</c><00:08:03.599><c> function</c><00:08:04.000><c> of</c><00:08:04.160><c> x</c>
+
+00:08:04.869 --> 00:08:04.879 align:start position:0%
+we still differentiate any function of x
+ 
+
+00:08:04.879 --> 00:08:07.909 align:start position:0%
+we still differentiate any function of x
+as<00:08:05.280><c> though</c><00:08:06.080><c> it</c><00:08:06.319><c> is</c><00:08:06.479><c> a</c><00:08:06.639><c> full</c><00:08:07.039><c> or</c><00:08:07.360><c> standard</c>
+
+00:08:07.909 --> 00:08:07.919 align:start position:0%
+as though it is a full or standard
+ 
+
+00:08:07.919 --> 00:08:09.270 align:start position:0%
+as though it is a full or standard
+derivative
+
+00:08:09.270 --> 00:08:09.280 align:start position:0%
+derivative
+ 
+
+00:08:09.280 --> 00:08:12.869 align:start position:0%
+derivative
+however<00:08:10.479><c> remember</c><00:08:11.680><c> y</c>
+
+00:08:12.869 --> 00:08:12.879 align:start position:0%
+however remember y
+ 
+
+00:08:12.879 --> 00:08:16.710 align:start position:0%
+however remember y
+is<00:08:13.120><c> constant</c><00:08:14.240><c> in</c><00:08:14.400><c> our</c><00:08:14.639><c> x</c><00:08:14.879><c> partial</c><00:08:15.840><c> so</c><00:08:16.080><c> these</c><00:08:16.400><c> y</c>
+
+00:08:16.710 --> 00:08:16.720 align:start position:0%
+is constant in our x partial so these y
+ 
+
+00:08:16.720 --> 00:08:17.909 align:start position:0%
+is constant in our x partial so these y
+terms
+
+00:08:17.909 --> 00:08:17.919 align:start position:0%
+terms
+ 
+
+00:08:17.919 --> 00:08:20.710 align:start position:0%
+terms
+just<00:08:18.240><c> treat</c><00:08:18.479><c> them</c><00:08:18.720><c> like</c><00:08:19.039><c> any</c><00:08:19.440><c> other</c><00:08:19.840><c> constant</c>
+
+00:08:20.710 --> 00:08:20.720 align:start position:0%
+just treat them like any other constant
+ 
+
+00:08:20.720 --> 00:08:21.430 align:start position:0%
+just treat them like any other constant
+they<00:08:20.879><c> are</c><00:08:21.039><c> just</c>
+
+00:08:21.430 --> 00:08:21.440 align:start position:0%
+they are just
+ 
+
+00:08:21.440 --> 00:08:25.430 align:start position:0%
+they are just
+a<00:08:21.680><c> number</c><00:08:22.560><c> that</c><00:08:22.720><c> we</c><00:08:22.960><c> just</c><00:08:23.280><c> ignore</c><00:08:24.240><c> pretty</c><00:08:24.560><c> much</c>
+
+00:08:25.430 --> 00:08:25.440 align:start position:0%
+a number that we just ignore pretty much
+ 
+
+00:08:25.440 --> 00:08:28.790 align:start position:0%
+a number that we just ignore pretty much
+so<00:08:25.599><c> what</c><00:08:25.840><c> i</c><00:08:26.000><c> mean</c><00:08:26.240><c> by</c><00:08:26.479><c> that</c><00:08:27.199><c> is</c><00:08:27.520><c> if</c><00:08:27.759><c> i</c><00:08:27.919><c> do</c><00:08:28.160><c> df</c><00:08:28.560><c> by</c>
+
+00:08:28.790 --> 00:08:28.800 align:start position:0%
+so what i mean by that is if i do df by
+ 
+
+00:08:28.800 --> 00:08:29.909 align:start position:0%
+so what i mean by that is if i do df by
+dx
+
+00:08:29.909 --> 00:08:29.919 align:start position:0%
+dx
+ 
+
+00:08:29.919 --> 00:08:34.070 align:start position:0%
+dx
+this<00:08:30.319><c> first</c><00:08:30.879><c> term</c><00:08:31.680><c> x</c><00:08:32.000><c> times</c><00:08:32.399><c> y</c><00:08:32.719><c> squared</c>
+
+00:08:34.070 --> 00:08:34.080 align:start position:0%
+this first term x times y squared
+ 
+
+00:08:34.080 --> 00:08:37.829 align:start position:0%
+this first term x times y squared
+when<00:08:34.399><c> y</c><00:08:34.719><c> is</c><00:08:34.880><c> constant</c><00:08:36.000><c> this</c><00:08:36.240><c> is</c><00:08:36.399><c> just</c><00:08:36.640><c> constant</c>
+
+00:08:37.829 --> 00:08:37.839 align:start position:0%
+when y is constant this is just constant
+ 
+
+00:08:37.839 --> 00:08:41.110 align:start position:0%
+when y is constant this is just constant
+times<00:08:38.320><c> x</c><00:08:39.360><c> so</c><00:08:39.519><c> when</c><00:08:39.680><c> i</c><00:08:39.839><c> differentiate</c>
+
+00:08:41.110 --> 00:08:41.120 align:start position:0%
+times x so when i differentiate
+ 
+
+00:08:41.120 --> 00:08:44.630 align:start position:0%
+times x so when i differentiate
+a<00:08:41.360><c> constant</c><00:08:41.919><c> function</c><00:08:42.479><c> times</c><00:08:42.959><c> x</c><00:08:43.839><c> i</c><00:08:44.000><c> just</c><00:08:44.240><c> get</c>
+
+00:08:44.630 --> 00:08:44.640 align:start position:0%
+a constant function times x i just get
+ 
+
+00:08:44.640 --> 00:08:46.470 align:start position:0%
+a constant function times x i just get
+the<00:08:44.880><c> constant</c>
+
+00:08:46.470 --> 00:08:46.480 align:start position:0%
+the constant
+ 
+
+00:08:46.480 --> 00:08:49.990 align:start position:0%
+the constant
+so<00:08:46.880><c> the</c><00:08:47.040><c> derivative</c><00:08:47.839><c> on</c><00:08:48.240><c> x</c><00:08:48.880><c> behaves</c><00:08:49.279><c> as</c><00:08:49.519><c> normal</c>
+
+00:08:49.990 --> 00:08:50.000 align:start position:0%
+so the derivative on x behaves as normal
+ 
+
+00:08:50.000 --> 00:08:52.870 align:start position:0%
+so the derivative on x behaves as normal
+the<00:08:50.160><c> derivative</c><00:08:50.720><c> of</c><00:08:50.959><c> x</c><00:08:51.360><c> is</c><00:08:51.519><c> just</c><00:08:51.839><c> one</c><00:08:52.560><c> and</c><00:08:52.720><c> then</c>
+
+00:08:52.870 --> 00:08:52.880 align:start position:0%
+the derivative of x is just one and then
+ 
+
+00:08:52.880 --> 00:08:53.990 align:start position:0%
+the derivative of x is just one and then
+i'm<00:08:53.040><c> still</c><00:08:53.279><c> multiplying</c><00:08:53.760><c> by</c>
+
+00:08:53.990 --> 00:08:54.000 align:start position:0%
+i'm still multiplying by
+ 
+
+00:08:54.000 --> 00:08:56.710 align:start position:0%
+i'm still multiplying by
+my<00:08:54.240><c> constant</c><00:08:55.360><c> which</c><00:08:55.600><c> here</c><00:08:55.920><c> just</c><00:08:56.160><c> happens</c><00:08:56.560><c> to</c>
+
+00:08:56.710 --> 00:08:56.720 align:start position:0%
+my constant which here just happens to
+ 
+
+00:08:56.720 --> 00:08:57.269 align:start position:0%
+my constant which here just happens to
+be<00:08:56.959><c> y</c>
+
+00:08:57.269 --> 00:08:57.279 align:start position:0%
+be y
+ 
+
+00:08:57.279 --> 00:09:00.710 align:start position:0%
+be y
+squared<00:08:58.959><c> the</c><00:08:59.200><c> next</c><00:08:59.519><c> term</c><00:09:00.080><c> the</c><00:09:00.320><c> y</c>
+
+00:09:00.710 --> 00:09:00.720 align:start position:0%
+squared the next term the y
+ 
+
+00:09:00.720 --> 00:09:03.990 align:start position:0%
+squared the next term the y
+is<00:09:00.880><c> again</c><00:09:01.839><c> constant</c><00:09:03.040><c> so</c><00:09:03.279><c> i</c><00:09:03.440><c> just</c>
+
+00:09:03.990 --> 00:09:04.000 align:start position:0%
+is again constant so i just
+ 
+
+00:09:04.000 --> 00:09:06.470 align:start position:0%
+is again constant so i just
+keep<00:09:04.399><c> that</c><00:09:05.440><c> and</c><00:09:05.600><c> then</c><00:09:05.839><c> what's</c><00:09:06.080><c> going</c><00:09:06.320><c> to</c>
+
+00:09:06.470 --> 00:09:06.480 align:start position:0%
+keep that and then what's going to
+ 
+
+00:09:06.480 --> 00:09:07.350 align:start position:0%
+keep that and then what's going to
+happen<00:09:06.959><c> is</c>
+
+00:09:07.350 --> 00:09:07.360 align:start position:0%
+happen is
+ 
+
+00:09:07.360 --> 00:09:10.870 align:start position:0%
+happen is
+i<00:09:07.600><c> differentiate</c><00:09:08.480><c> x</c><00:09:08.959><c> cubed</c><00:09:10.000><c> exactly</c><00:09:10.560><c> as</c><00:09:10.720><c> i</c>
+
+00:09:10.870 --> 00:09:10.880 align:start position:0%
+i differentiate x cubed exactly as i
+ 
+
+00:09:10.880 --> 00:09:11.269 align:start position:0%
+i differentiate x cubed exactly as i
+would
+
+00:09:11.269 --> 00:09:11.279 align:start position:0%
+would
+ 
+
+00:09:11.279 --> 00:09:14.550 align:start position:0%
+would
+normally<00:09:11.920><c> so</c><00:09:12.080><c> i</c><00:09:12.240><c> bring</c><00:09:12.560><c> the</c><00:09:12.720><c> 3</c><00:09:13.040><c> down</c><00:09:14.240><c> bring</c><00:09:14.480><c> the</c>
+
+00:09:14.550 --> 00:09:14.560 align:start position:0%
+normally so i bring the 3 down bring the
+ 
+
+00:09:14.560 --> 00:09:17.509 align:start position:0%
+normally so i bring the 3 down bring the
+power<00:09:14.880><c> down</c><00:09:15.120><c> reduce</c><00:09:15.440><c> the</c><00:09:15.519><c> power</c><00:09:15.760><c> by</c><00:09:16.000><c> 1</c>
+
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+power down reduce the power by 1
+ 
+
+00:09:17.519 --> 00:09:20.870 align:start position:0%
+power down reduce the power by 1
+x<00:09:17.760><c> squared</c><00:09:18.720><c> so</c><00:09:19.040><c> the</c><00:09:19.440><c> x</c><00:09:19.760><c> partial</c><00:09:20.160><c> derivative</c>
+
+00:09:20.870 --> 00:09:20.880 align:start position:0%
+x squared so the x partial derivative
+ 
+
+00:09:20.880 --> 00:09:23.350 align:start position:0%
+x squared so the x partial derivative
+is<00:09:21.040><c> just</c><00:09:21.360><c> y</c><00:09:21.680><c> squared</c><00:09:22.399><c> because</c><00:09:22.560><c> this</c><00:09:22.800><c> is</c><00:09:22.959><c> linear</c>
+
+00:09:23.350 --> 00:09:23.360 align:start position:0%
+is just y squared because this is linear
+ 
+
+00:09:23.360 --> 00:09:24.389 align:start position:0%
+is just y squared because this is linear
+in<00:09:23.680><c> x</c>
+
+00:09:24.389 --> 00:09:24.399 align:start position:0%
+in x
+ 
+
+00:09:24.399 --> 00:09:27.509 align:start position:0%
+in x
+y<00:09:24.720><c> is</c><00:09:24.880><c> constant</c><00:09:26.000><c> plus</c><00:09:27.200><c> the</c>
+
+00:09:27.509 --> 00:09:27.519 align:start position:0%
+y is constant plus the
+ 
+
+00:09:27.519 --> 00:09:29.670 align:start position:0%
+y is constant plus the
+cube's<00:09:28.000><c> term</c><00:09:28.480><c> becomes</c><00:09:28.800><c> a</c><00:09:28.880><c> squared</c><00:09:29.360><c> bring</c><00:09:29.519><c> the</c>
+
+00:09:29.670 --> 00:09:29.680 align:start position:0%
+cube's term becomes a squared bring the
+ 
+
+00:09:29.680 --> 00:09:31.590 align:start position:0%
+cube's term becomes a squared bring the
+three<00:09:29.920><c> down</c><00:09:30.240><c> and</c><00:09:30.399><c> again</c><00:09:30.720><c> just</c><00:09:30.880><c> leave</c><00:09:31.120><c> the</c><00:09:31.279><c> y</c>
+
+00:09:31.590 --> 00:09:31.600 align:start position:0%
+three down and again just leave the y
+ 
+
+00:09:31.600 --> 00:09:33.590 align:start position:0%
+three down and again just leave the y
+there<00:09:31.839><c> because</c><00:09:32.240><c> it's</c><00:09:32.399><c> a</c><00:09:32.560><c> constant</c><00:09:33.040><c> now</c><00:09:33.200><c> the</c><00:09:33.360><c> y</c>
+
+00:09:33.590 --> 00:09:33.600 align:start position:0%
+there because it's a constant now the y
+ 
+
+00:09:33.600 --> 00:09:35.670 align:start position:0%
+there because it's a constant now the y
+derivative<00:09:34.240><c> is</c><00:09:34.399><c> very</c><00:09:34.720><c> similar</c>
+
+00:09:35.670 --> 00:09:35.680 align:start position:0%
+derivative is very similar
+ 
+
+00:09:35.680 --> 00:09:39.030 align:start position:0%
+derivative is very similar
+but<00:09:35.920><c> this</c><00:09:36.240><c> time</c><00:09:36.800><c> we</c><00:09:36.959><c> just</c><00:09:37.279><c> treat</c><00:09:38.160><c> x</c>
+
+00:09:39.030 --> 00:09:39.040 align:start position:0%
+but this time we just treat x
+ 
+
+00:09:39.040 --> 00:09:43.110 align:start position:0%
+but this time we just treat x
+as<00:09:39.279><c> a</c><00:09:39.440><c> constant</c><00:09:40.880><c> so</c><00:09:41.519><c> the</c><00:09:41.920><c> x</c><00:09:42.240><c> is</c><00:09:42.399><c> constant</c>
+
+00:09:43.110 --> 00:09:43.120 align:start position:0%
+as a constant so the x is constant
+ 
+
+00:09:43.120 --> 00:09:45.350 align:start position:0%
+as a constant so the x is constant
+i've<00:09:43.279><c> got</c><00:09:43.440><c> a</c><00:09:43.600><c> y</c><00:09:44.000><c> squared</c><00:09:44.880><c> so</c><00:09:45.120><c> if</c><00:09:45.279><c> i</c>
+
+00:09:45.350 --> 00:09:45.360 align:start position:0%
+i've got a y squared so if i
+ 
+
+00:09:45.360 --> 00:09:46.310 align:start position:0%
+i've got a y squared so if i
+differentiate<00:09:46.000><c> y</c>
+
+00:09:46.310 --> 00:09:46.320 align:start position:0%
+differentiate y
+ 
+
+00:09:46.320 --> 00:09:49.670 align:start position:0%
+differentiate y
+squared<00:09:47.440><c> i</c><00:09:47.600><c> get</c><00:09:47.839><c> 2y</c><00:09:48.800><c> so</c><00:09:49.040><c> overall</c>
+
+00:09:49.670 --> 00:09:49.680 align:start position:0%
+squared i get 2y so overall
+ 
+
+00:09:49.680 --> 00:09:53.350 align:start position:0%
+squared i get 2y so overall
+the<00:09:49.920><c> x</c><00:09:50.240><c> remains</c><00:09:50.640><c> where</c><00:09:50.800><c> it</c><00:09:51.040><c> is</c><00:09:51.519><c> i</c><00:09:51.680><c> get</c><00:09:51.920><c> 2xy</c>
+
+00:09:53.350 --> 00:09:53.360 align:start position:0%
+the x remains where it is i get 2xy
+ 
+
+00:09:53.360 --> 00:09:56.070 align:start position:0%
+the x remains where it is i get 2xy
+and<00:09:53.519><c> then</c><00:09:53.760><c> the</c><00:09:54.000><c> next</c><00:09:54.320><c> term</c><00:09:54.959><c> so</c><00:09:55.360><c> x</c><00:09:55.600><c> again</c><00:09:55.920><c> is</c>
+
+00:09:56.070 --> 00:09:56.080 align:start position:0%
+and then the next term so x again is
+ 
+
+00:09:56.080 --> 00:09:57.750 align:start position:0%
+and then the next term so x again is
+constant<00:09:56.560><c> this</c><00:09:56.800><c> is</c><00:09:56.880><c> just</c><00:09:57.120><c> constant</c>
+
+00:09:57.750 --> 00:09:57.760 align:start position:0%
+constant this is just constant
+ 
+
+00:09:57.760 --> 00:10:00.949 align:start position:0%
+constant this is just constant
+times<00:09:58.320><c> y</c><00:09:58.959><c> so</c><00:09:59.200><c> a</c><00:09:59.360><c> linear</c><00:09:59.760><c> function</c><00:10:00.240><c> in</c><00:10:00.399><c> y</c>
+
+00:10:00.949 --> 00:10:00.959 align:start position:0%
+times y so a linear function in y
+ 
+
+00:10:00.959 --> 00:10:03.190 align:start position:0%
+times y so a linear function in y
+just<00:10:01.120><c> gives</c><00:10:01.440><c> me</c><00:10:01.600><c> the</c><00:10:01.680><c> constant</c><00:10:02.720><c> which</c><00:10:02.959><c> here</c>
+
+00:10:03.190 --> 00:10:03.200 align:start position:0%
+just gives me the constant which here
+ 
+
+00:10:03.200 --> 00:10:04.630 align:start position:0%
+just gives me the constant which here
+would<00:10:03.360><c> just</c><00:10:03.519><c> be</c><00:10:03.760><c> x</c>
+
+00:10:04.630 --> 00:10:04.640 align:start position:0%
+would just be x
+ 
+
+00:10:04.640 --> 00:10:07.750 align:start position:0%
+would just be x
+cubed<00:10:06.480><c> and</c><00:10:06.800><c> that's</c><00:10:07.120><c> pretty</c><00:10:07.360><c> much</c>
+
+00:10:07.750 --> 00:10:07.760 align:start position:0%
+cubed and that's pretty much
+ 
+
+00:10:07.760 --> 00:10:09.990 align:start position:0%
+cubed and that's pretty much
+it<00:10:08.240><c> this</c><00:10:08.480><c> would</c><00:10:08.640><c> be</c><00:10:08.880><c> our</c><00:10:09.200><c> partial</c><00:10:09.839><c> x</c>
+
+00:10:09.990 --> 00:10:10.000 align:start position:0%
+it this would be our partial x
+ 
+
+00:10:10.000 --> 00:10:11.110 align:start position:0%
+it this would be our partial x
+derivative
+
+00:10:11.110 --> 00:10:11.120 align:start position:0%
+derivative
+ 
+
+00:10:11.120 --> 00:10:13.910 align:start position:0%
+derivative
+and<00:10:11.200><c> this</c><00:10:11.440><c> is</c><00:10:11.519><c> our</c><00:10:11.760><c> partial</c><00:10:12.720><c> y</c><00:10:13.040><c> derivative</c><00:10:13.760><c> now</c>
+
+00:10:13.910 --> 00:10:13.920 align:start position:0%
+and this is our partial y derivative now
+ 
+
+00:10:13.920 --> 00:10:15.509 align:start position:0%
+and this is our partial y derivative now
+we<00:10:14.079><c> can</c><00:10:14.240><c> go</c><00:10:14.399><c> a</c><00:10:14.480><c> little</c><00:10:14.640><c> bit</c><00:10:14.880><c> further</c>
+
+00:10:15.509 --> 00:10:15.519 align:start position:0%
+we can go a little bit further
+ 
+
+00:10:15.519 --> 00:10:18.069 align:start position:0%
+we can go a little bit further
+we<00:10:15.680><c> can</c><00:10:15.839><c> calculate</c><00:10:16.959><c> the</c><00:10:17.200><c> second</c><00:10:17.760><c> order</c>
+
+00:10:18.069 --> 00:10:18.079 align:start position:0%
+we can calculate the second order
+ 
+
+00:10:18.079 --> 00:10:19.430 align:start position:0%
+we can calculate the second order
+derivatives
+
+00:10:19.430 --> 00:10:19.440 align:start position:0%
+derivatives
+ 
+
+00:10:19.440 --> 00:10:22.870 align:start position:0%
+derivatives
+so<00:10:19.760><c> d2f</c><00:10:21.360><c> by</c><00:10:21.680><c> dx</c>
+
+00:10:22.870 --> 00:10:22.880 align:start position:0%
+so d2f by dx
+ 
+
+00:10:22.880 --> 00:10:26.150 align:start position:0%
+so d2f by dx
+squared<00:10:24.320><c> and</c><00:10:24.560><c> so</c><00:10:24.880><c> that</c><00:10:25.120><c> just</c><00:10:25.360><c> means</c>
+
+00:10:26.150 --> 00:10:26.160 align:start position:0%
+squared and so that just means
+ 
+
+00:10:26.160 --> 00:10:30.389 align:start position:0%
+squared and so that just means
+take<00:10:26.880><c> this</c><00:10:27.200><c> derivative</c><00:10:27.920><c> here</c><00:10:28.480><c> df</c><00:10:29.040><c> by</c><00:10:29.279><c> dx</c>
+
+00:10:30.389 --> 00:10:30.399 align:start position:0%
+take this derivative here df by dx
+ 
+
+00:10:30.399 --> 00:10:34.150 align:start position:0%
+take this derivative here df by dx
+and<00:10:30.640><c> differentiate</c><00:10:31.519><c> again</c><00:10:32.320><c> with</c><00:10:32.560><c> respect</c><00:10:33.120><c> to</c>
+
+00:10:34.150 --> 00:10:34.160 align:start position:0%
+and differentiate again with respect to
+ 
+
+00:10:34.160 --> 00:10:37.670 align:start position:0%
+and differentiate again with respect to
+x<00:10:35.120><c> where</c><00:10:35.360><c> we</c><00:10:35.600><c> remember</c><00:10:36.959><c> y</c>
+
+00:10:37.670 --> 00:10:37.680 align:start position:0%
+x where we remember y
+ 
+
+00:10:37.680 --> 00:10:41.590 align:start position:0%
+x where we remember y
+doesn't<00:10:38.240><c> change</c><00:10:39.040><c> so</c><00:10:39.360><c> y</c><00:10:39.680><c> is</c><00:10:39.839><c> a</c><00:10:40.079><c> constant</c>
+
+00:10:41.590 --> 00:10:41.600 align:start position:0%
+doesn't change so y is a constant
+ 
+
+00:10:41.600 --> 00:10:44.470 align:start position:0%
+doesn't change so y is a constant
+so<00:10:41.839><c> this</c><00:10:42.079><c> one</c><00:10:42.640><c> the</c><00:10:42.800><c> first</c><00:10:43.040><c> term</c><00:10:43.279><c> is</c><00:10:43.440><c> a</c><00:10:43.519><c> constant</c>
+
+00:10:44.470 --> 00:10:44.480 align:start position:0%
+so this one the first term is a constant
+ 
+
+00:10:44.480 --> 00:10:46.870 align:start position:0%
+so this one the first term is a constant
+differentiates<00:10:45.279><c> to</c><00:10:45.360><c> give</c><00:10:45.760><c> zero</c>
+
+00:10:46.870 --> 00:10:46.880 align:start position:0%
+differentiates to give zero
+ 
+
+00:10:46.880 --> 00:10:49.910 align:start position:0%
+differentiates to give zero
+and<00:10:47.120><c> then</c><00:10:47.839><c> if</c><00:10:48.079><c> i</c><00:10:48.160><c> do</c><00:10:48.320><c> my</c><00:10:48.640><c> x</c><00:10:48.880><c> derivative</c><00:10:49.440><c> on</c><00:10:49.600><c> x</c>
+
+00:10:49.910 --> 00:10:49.920 align:start position:0%
+and then if i do my x derivative on x
+ 
+
+00:10:49.920 --> 00:10:53.110 align:start position:0%
+and then if i do my x derivative on x
+squared<00:10:50.800><c> the</c><00:10:51.120><c> 2</c><00:10:51.440><c> comes</c><00:10:51.839><c> down</c><00:10:52.399><c> so</c><00:10:52.640><c> i</c><00:10:52.720><c> get</c>
+
+00:10:53.110 --> 00:10:53.120 align:start position:0%
+squared the 2 comes down so i get
+ 
+
+00:10:53.120 --> 00:10:56.710 align:start position:0%
+squared the 2 comes down so i get
+6<00:10:54.480><c> y</c><00:10:55.839><c> x</c>
+
+00:10:56.710 --> 00:10:56.720 align:start position:0%
+6 y x
+ 
+
+00:10:56.720 --> 00:10:59.750 align:start position:0%
+6 y x
+so<00:10:57.040><c> that</c><00:10:57.279><c> is</c><00:10:57.440><c> my</c><00:10:57.760><c> second</c><00:10:58.959><c> x</c><00:10:59.279><c> partial</c>
+
+00:10:59.750 --> 00:10:59.760 align:start position:0%
+so that is my second x partial
+ 
+
+00:10:59.760 --> 00:11:00.949 align:start position:0%
+so that is my second x partial
+derivative
+
+00:11:00.949 --> 00:11:00.959 align:start position:0%
+derivative
+ 
+
+00:11:00.959 --> 00:11:03.910 align:start position:0%
+derivative
+of<00:11:01.200><c> the</c><00:11:01.360><c> function</c><00:11:02.480><c> f</c><00:11:02.800><c> we</c><00:11:02.959><c> can</c><00:11:03.120><c> also</c><00:11:03.360><c> calculate</c>
+
+00:11:03.910 --> 00:11:03.920 align:start position:0%
+of the function f we can also calculate
+ 
+
+00:11:03.920 --> 00:11:05.590 align:start position:0%
+of the function f we can also calculate
+our<00:11:04.160><c> second</c><00:11:04.560><c> y</c><00:11:04.800><c> derivative</c>
+
+00:11:05.590 --> 00:11:05.600 align:start position:0%
+our second y derivative
+ 
+
+00:11:05.600 --> 00:11:08.870 align:start position:0%
+our second y derivative
+in<00:11:05.760><c> the</c><00:11:05.920><c> same</c><00:11:06.240><c> way</c><00:11:07.360><c> so</c><00:11:07.760><c> d</c><00:11:08.000><c> to</c><00:11:08.320><c> f</c>
+
+00:11:08.870 --> 00:11:08.880 align:start position:0%
+in the same way so d to f
+ 
+
+00:11:08.880 --> 00:11:12.230 align:start position:0%
+in the same way so d to f
+by<00:11:09.120><c> d</c><00:11:09.440><c> y</c><00:11:10.640><c> squared</c>
+
+00:11:12.230 --> 00:11:12.240 align:start position:0%
+by d y squared
+ 
+
+00:11:12.240 --> 00:11:15.829 align:start position:0%
+by d y squared
+so<00:11:12.640><c> that</c><00:11:13.120><c> is</c><00:11:13.279><c> going</c><00:11:13.600><c> to</c><00:11:13.760><c> be</c><00:11:14.480><c> the</c><00:11:14.640><c> y</c><00:11:14.959><c> derivative</c>
+
+00:11:15.829 --> 00:11:15.839 align:start position:0%
+so that is going to be the y derivative
+ 
+
+00:11:15.839 --> 00:11:19.509 align:start position:0%
+so that is going to be the y derivative
+of<00:11:16.320><c> d</c><00:11:16.560><c> f</c><00:11:16.720><c> by</c><00:11:16.880><c> d</c><00:11:17.200><c> y</c><00:11:18.160><c> remembering</c><00:11:19.120><c> that</c>
+
+00:11:19.509 --> 00:11:19.519 align:start position:0%
+of d f by d y remembering that
+ 
+
+00:11:19.519 --> 00:11:22.630 align:start position:0%
+of d f by d y remembering that
+x<00:11:19.839><c> is</c><00:11:19.920><c> a</c><00:11:20.160><c> constant</c><00:11:20.800><c> here</c><00:11:21.680><c> so</c><00:11:22.000><c> this</c><00:11:22.399><c> x</c>
+
+00:11:22.630 --> 00:11:22.640 align:start position:0%
+x is a constant here so this x
+ 
+
+00:11:22.640 --> 00:11:24.550 align:start position:0%
+x is a constant here so this x
+cubed<00:11:22.880><c> term</c><00:11:23.200><c> goes</c><00:11:23.440><c> to</c><00:11:23.600><c> zero</c><00:11:24.160><c> because</c><00:11:24.399><c> it's</c>
+
+00:11:24.550 --> 00:11:24.560 align:start position:0%
+cubed term goes to zero because it's
+ 
+
+00:11:24.560 --> 00:11:26.790 align:start position:0%
+cubed term goes to zero because it's
+just<00:11:24.720><c> the</c><00:11:24.800><c> derivative</c><00:11:25.360><c> of</c><00:11:25.519><c> a</c><00:11:25.600><c> constant</c>
+
+00:11:26.790 --> 00:11:26.800 align:start position:0%
+just the derivative of a constant
+ 
+
+00:11:26.800 --> 00:11:29.430 align:start position:0%
+just the derivative of a constant
+and<00:11:27.040><c> here</c><00:11:27.760><c> again</c><00:11:28.160><c> x</c><00:11:28.399><c> is</c><00:11:28.560><c> the</c><00:11:28.640><c> constant</c><00:11:29.279><c> we</c>
+
+00:11:29.430 --> 00:11:29.440 align:start position:0%
+and here again x is the constant we
+ 
+
+00:11:29.440 --> 00:11:32.069 align:start position:0%
+and here again x is the constant we
+differentiate<00:11:30.000><c> the</c><00:11:30.320><c> linear</c><00:11:30.800><c> function</c><00:11:31.200><c> of</c><00:11:31.360><c> y</c>
+
+00:11:32.069 --> 00:11:32.079 align:start position:0%
+differentiate the linear function of y
+ 
+
+00:11:32.079 --> 00:11:35.910 align:start position:0%
+differentiate the linear function of y
+so<00:11:32.240><c> we're</c><00:11:32.399><c> just</c><00:11:32.560><c> going</c><00:11:32.800><c> to</c><00:11:32.959><c> get</c><00:11:33.279><c> 2</c><00:11:34.079><c> x</c>
+
+00:11:35.910 --> 00:11:35.920 align:start position:0%
+so we're just going to get 2 x
+ 
+
+00:11:35.920 --> 00:11:37.750 align:start position:0%
+so we're just going to get 2 x
+and<00:11:36.079><c> we</c><00:11:36.240><c> could</c><00:11:36.480><c> carry</c><00:11:36.800><c> on</c><00:11:36.959><c> we</c><00:11:37.040><c> can</c><00:11:37.200><c> calculate</c>
+
+00:11:37.750 --> 00:11:37.760 align:start position:0%
+and we could carry on we can calculate
+ 
+
+00:11:37.760 --> 00:11:38.949 align:start position:0%
+and we could carry on we can calculate
+higher<00:11:38.079><c> and</c><00:11:38.240><c> higher</c>
+
+00:11:38.949 --> 00:11:38.959 align:start position:0%
+higher and higher
+ 
+
+00:11:38.959 --> 00:11:41.269 align:start position:0%
+higher and higher
+derivatives<00:11:40.160><c> we</c><00:11:40.320><c> can</c><00:11:40.480><c> even</c><00:11:40.880><c> mix</c><00:11:41.120><c> the</c>
+
+00:11:41.269 --> 00:11:41.279 align:start position:0%
+derivatives we can even mix the
+ 
+
+00:11:41.279 --> 00:11:41.990 align:start position:0%
+derivatives we can even mix the
+derivatives
+
+00:11:41.990 --> 00:11:42.000 align:start position:0%
+derivatives
+ 
+
+00:11:42.000 --> 00:11:46.310 align:start position:0%
+derivatives
+so<00:11:42.240><c> we</c><00:11:42.399><c> could</c><00:11:42.640><c> do</c><00:11:42.880><c> d2f</c><00:11:44.160><c> by</c><00:11:44.680><c> dxdy</c>
+
+00:11:46.310 --> 00:11:46.320 align:start position:0%
+so we could do d2f by dxdy
+ 
+
+00:11:46.320 --> 00:11:49.990 align:start position:0%
+so we could do d2f by dxdy
+or<00:11:46.560><c> even</c><00:11:46.959><c> d2f</c><00:11:47.839><c> by</c><00:11:48.079><c> dy</c><00:11:48.959><c> dx</c>
+
+00:11:49.990 --> 00:11:50.000 align:start position:0%
+or even d2f by dy dx
+ 
+
+00:11:50.000 --> 00:11:52.150 align:start position:0%
+or even d2f by dy dx
+where<00:11:50.160><c> you're</c><00:11:50.480><c> changing</c><00:11:50.959><c> the</c><00:11:51.200><c> order</c><00:11:51.760><c> so</c><00:11:51.920><c> one</c>
+
+00:11:52.150 --> 00:11:52.160 align:start position:0%
+where you're changing the order so one
+ 
+
+00:11:52.160 --> 00:11:54.230 align:start position:0%
+where you're changing the order so one
+of<00:11:52.240><c> the</c><00:11:52.399><c> means</c><00:11:52.720><c> do</c><00:11:52.959><c> x</c><00:11:53.120><c> derivative</c><00:11:53.680><c> first</c><00:11:54.000><c> then</c>
+
+00:11:54.230 --> 00:11:54.240 align:start position:0%
+of the means do x derivative first then
+ 
+
+00:11:54.240 --> 00:11:55.750 align:start position:0%
+of the means do x derivative first then
+the<00:11:54.480><c> y</c><00:11:54.720><c> derivative</c>
+
+00:11:55.750 --> 00:11:55.760 align:start position:0%
+the y derivative
+ 
+
+00:11:55.760 --> 00:11:57.350 align:start position:0%
+the y derivative
+and<00:11:55.839><c> the</c><00:11:56.000><c> other</c><00:11:56.160><c> one</c><00:11:56.320><c> would</c><00:11:56.480><c> mean</c><00:11:57.040><c> y</c>
+
+00:11:57.350 --> 00:11:57.360 align:start position:0%
+and the other one would mean y
+ 
+
+00:11:57.360 --> 00:11:59.110 align:start position:0%
+and the other one would mean y
+derivative<00:11:57.839><c> first</c><00:11:58.160><c> then</c><00:11:58.480><c> x</c>
+
+00:11:59.110 --> 00:11:59.120 align:start position:0%
+derivative first then x
+ 
+
+00:11:59.120 --> 00:12:01.030 align:start position:0%
+derivative first then x
+derivative<00:11:59.760><c> and</c><00:11:59.920><c> i</c><00:12:00.079><c> do</c><00:12:00.240><c> recommend</c><00:12:00.720><c> trying</c>
+
+00:12:01.030 --> 00:12:01.040 align:start position:0%
+derivative and i do recommend trying
+ 
+
+00:12:01.040 --> 00:12:02.710 align:start position:0%
+derivative and i do recommend trying
+this<00:12:01.200><c> out</c><00:12:01.360><c> for</c><00:12:01.519><c> yourself</c>
+
+00:12:02.710 --> 00:12:02.720 align:start position:0%
+this out for yourself
+ 
+
+00:12:02.720 --> 00:12:05.269 align:start position:0%
+this out for yourself
+to<00:12:02.880><c> get</c><00:12:03.200><c> practice</c><00:12:04.079><c> with</c><00:12:04.480><c> doing</c><00:12:04.880><c> partial</c>
+
+00:12:05.269 --> 00:12:05.279 align:start position:0%
+to get practice with doing partial
+ 
+
+00:12:05.279 --> 00:12:06.389 align:start position:0%
+to get practice with doing partial
+derivatives
+
+00:12:06.389 --> 00:12:06.399 align:start position:0%
+derivatives
+ 
+
+00:12:06.399 --> 00:12:09.190 align:start position:0%
+derivatives
+of<00:12:06.720><c> higher</c><00:12:07.120><c> orders</c><00:12:08.000><c> maybe</c><00:12:08.320><c> with</c><00:12:08.560><c> mixed</c>
+
+00:12:09.190 --> 00:12:09.200 align:start position:0%
+of higher orders maybe with mixed
+ 
+
+00:12:09.200 --> 00:12:10.389 align:start position:0%
+of higher orders maybe with mixed
+derivatives
+
+00:12:10.389 --> 00:12:10.399 align:start position:0%
+derivatives
+ 
+
+00:12:10.399 --> 00:12:13.829 align:start position:0%
+derivatives
+so<00:12:10.639><c> just</c><00:12:10.880><c> pick</c><00:12:11.360><c> any</c><00:12:11.920><c> function</c><00:12:13.120><c> f</c><00:12:13.279><c> of</c><00:12:13.519><c> x</c>
+
+00:12:13.829 --> 00:12:13.839 align:start position:0%
+so just pick any function f of x
+ 
+
+00:12:13.839 --> 00:12:16.230 align:start position:0%
+so just pick any function f of x
+y<00:12:14.560><c> you</c><00:12:14.720><c> can</c><00:12:14.959><c> plug</c><00:12:15.200><c> it</c><00:12:15.360><c> into</c><00:12:15.600><c> the</c><00:12:15.760><c> maple</c>
+
+00:12:16.230 --> 00:12:16.240 align:start position:0%
+y you can plug it into the maple
+ 
+
+00:12:16.240 --> 00:12:17.910 align:start position:0%
+y you can plug it into the maple
+calculator<00:12:17.120><c> app</c>
+
+00:12:17.910 --> 00:12:17.920 align:start position:0%
+calculator app
+ 
+
+00:12:17.920 --> 00:12:20.949 align:start position:0%
+calculator app
+and<00:12:18.079><c> it</c><00:12:18.160><c> will</c><00:12:18.600><c> automatically</c><00:12:19.680><c> tell</c><00:12:20.000><c> you</c><00:12:20.639><c> the</c>
+
+00:12:20.949 --> 00:12:20.959 align:start position:0%
+and it will automatically tell you the
+ 
+
+00:12:20.959 --> 00:12:23.829 align:start position:0%
+and it will automatically tell you the
+x<00:12:21.200><c> and</c><00:12:21.360><c> y</c><00:12:21.760><c> partial</c><00:12:22.160><c> derivatives</c><00:12:23.360><c> of</c><00:12:23.600><c> the</c>
+
+00:12:23.829 --> 00:12:23.839 align:start position:0%
+x and y partial derivatives of the
+ 
+
+00:12:23.839 --> 00:12:24.710 align:start position:0%
+x and y partial derivatives of the
+function
+
+00:12:24.710 --> 00:12:24.720 align:start position:0%
+function
+ 
+
+00:12:24.720 --> 00:12:27.509 align:start position:0%
+function
+once<00:12:24.959><c> you</c><00:12:25.279><c> enter</c><00:12:25.600><c> it</c><00:12:25.760><c> into</c><00:12:26.079><c> the</c><00:12:26.240><c> app</c><00:12:26.959><c> so</c><00:12:27.360><c> you</c>
+
+00:12:27.509 --> 00:12:27.519 align:start position:0%
+once you enter it into the app so you
+ 
+
+00:12:27.519 --> 00:12:28.550 align:start position:0%
+once you enter it into the app so you
+should<00:12:27.680><c> do</c><00:12:27.839><c> it</c><00:12:28.000><c> yourself</c>
+
+00:12:28.550 --> 00:12:28.560 align:start position:0%
+should do it yourself
+ 
+
+00:12:28.560 --> 00:12:31.110 align:start position:0%
+should do it yourself
+first<00:12:29.360><c> and</c><00:12:29.600><c> then</c><00:12:29.839><c> you</c><00:12:30.000><c> can</c><00:12:30.160><c> use</c><00:12:30.399><c> the</c><00:12:30.639><c> app</c><00:12:30.880><c> to</c>
+
+00:12:31.110 --> 00:12:31.120 align:start position:0%
+first and then you can use the app to
+ 
+
+00:12:31.120 --> 00:12:32.310 align:start position:0%
+first and then you can use the app to
+check<00:12:31.360><c> your</c><00:12:31.600><c> answer</c>
+
+00:12:32.310 --> 00:12:32.320 align:start position:0%
+check your answer
+ 
+
+00:12:32.320 --> 00:12:35.110 align:start position:0%
+check your answer
+and<00:12:32.480><c> sort</c><00:12:32.720><c> of</c><00:12:32.880><c> mark</c><00:12:33.200><c> your</c><00:12:33.440><c> own</c><00:12:33.760><c> work</c><00:12:34.399><c> and</c><00:12:34.720><c> see</c>
+
+00:12:35.110 --> 00:12:35.120 align:start position:0%
+and sort of mark your own work and see
+ 
+
+00:12:35.120 --> 00:12:36.949 align:start position:0%
+and sort of mark your own work and see
+if<00:12:35.200><c> you're</c><00:12:35.440><c> beginning</c><00:12:35.839><c> to</c><00:12:36.079><c> grasp</c>
+
+00:12:36.949 --> 00:12:36.959 align:start position:0%
+if you're beginning to grasp
+ 
+
+00:12:36.959 --> 00:12:39.829 align:start position:0%
+if you're beginning to grasp
+how<00:12:37.200><c> partial</c><00:12:37.680><c> differentiation</c><00:12:38.959><c> works</c><00:12:39.519><c> all</c><00:12:39.760><c> of</c>
+
+00:12:39.829 --> 00:12:39.839 align:start position:0%
+how partial differentiation works all of
+ 
+
+00:12:39.839 --> 00:12:42.150 align:start position:0%
+how partial differentiation works all of
+the<00:12:40.000><c> other</c><00:12:40.240><c> rules</c><00:12:40.639><c> about</c><00:12:41.079><c> differentiation</c>
+
+00:12:42.150 --> 00:12:42.160 align:start position:0%
+the other rules about differentiation
+ 
+
+00:12:42.160 --> 00:12:43.509 align:start position:0%
+the other rules about differentiation
+that<00:12:42.320><c> you</c><00:12:42.480><c> may</c><00:12:42.720><c> have</c><00:12:42.880><c> learned</c>
+
+00:12:43.509 --> 00:12:43.519 align:start position:0%
+that you may have learned
+ 
+
+00:12:43.519 --> 00:12:45.430 align:start position:0%
+that you may have learned
+for<00:12:43.760><c> example</c><00:12:44.240><c> the</c><00:12:44.480><c> product</c><00:12:44.959><c> rule</c><00:12:45.279><c> the</c>
+
+00:12:45.430 --> 00:12:45.440 align:start position:0%
+for example the product rule the
+ 
+
+00:12:45.440 --> 00:12:47.670 align:start position:0%
+for example the product rule the
+quotient<00:12:46.000><c> rule</c><00:12:46.240><c> the</c><00:12:46.480><c> chain</c><00:12:46.880><c> rule</c>
+
+00:12:47.670 --> 00:12:47.680 align:start position:0%
+quotient rule the chain rule
+ 
+
+00:12:47.680 --> 00:12:51.430 align:start position:0%
+quotient rule the chain rule
+these<00:12:48.240><c> all</c><00:12:48.560><c> still</c><00:12:48.959><c> apply</c><00:12:49.760><c> when</c><00:12:50.000><c> doing</c><00:12:50.480><c> partial</c>
+
+00:12:51.430 --> 00:12:51.440 align:start position:0%
+these all still apply when doing partial
+ 
+
+00:12:51.440 --> 00:12:54.150 align:start position:0%
+these all still apply when doing partial
+derivatives<00:12:52.639><c> so</c><00:12:52.800><c> i've</c><00:12:52.959><c> got</c><00:12:53.200><c> another</c><00:12:53.600><c> example</c>
+
+00:12:54.150 --> 00:12:54.160 align:start position:0%
+derivatives so i've got another example
+ 
+
+00:12:54.160 --> 00:12:55.590 align:start position:0%
+derivatives so i've got another example
+here<00:12:54.480><c> which</c><00:12:54.720><c> is</c><00:12:54.880><c> a</c><00:12:54.959><c> little</c><00:12:55.120><c> bit</c><00:12:55.360><c> more</c>
+
+00:12:55.590 --> 00:12:55.600 align:start position:0%
+here which is a little bit more
+ 
+
+00:12:55.600 --> 00:12:56.629 align:start position:0%
+here which is a little bit more
+complicated
+
+00:12:56.629 --> 00:12:56.639 align:start position:0%
+complicated
+ 
+
+00:12:56.639 --> 00:12:58.629 align:start position:0%
+complicated
+but<00:12:56.800><c> we'll</c><00:12:57.040><c> go</c><00:12:57.279><c> through</c><00:12:57.519><c> the</c><00:12:57.680><c> first</c><00:12:58.160><c> partial</c>
+
+00:12:58.629 --> 00:12:58.639 align:start position:0%
+but we'll go through the first partial
+ 
+
+00:12:58.639 --> 00:13:01.030 align:start position:0%
+but we'll go through the first partial
+derivatives<00:12:59.600><c> to</c><00:12:59.760><c> give</c><00:13:00.000><c> you</c><00:13:00.160><c> a</c><00:13:00.399><c> feel</c>
+
+00:13:01.030 --> 00:13:01.040 align:start position:0%
+derivatives to give you a feel
+ 
+
+00:13:01.040 --> 00:13:03.910 align:start position:0%
+derivatives to give you a feel
+for<00:13:01.279><c> how</c><00:13:01.680><c> the</c><00:13:01.839><c> product</c><00:13:02.320><c> quotient</c><00:13:03.360><c> and</c><00:13:03.600><c> chain</c>
+
+00:13:03.910 --> 00:13:03.920 align:start position:0%
+for how the product quotient and chain
+ 
+
+00:13:03.920 --> 00:13:05.110 align:start position:0%
+for how the product quotient and chain
+rules<00:13:04.320><c> work</c>
+
+00:13:05.110 --> 00:13:05.120 align:start position:0%
+rules work
+ 
+
+00:13:05.120 --> 00:13:08.949 align:start position:0%
+rules work
+in<00:13:05.440><c> this</c><00:13:06.160><c> context</c><00:13:07.440><c> so</c><00:13:07.920><c> f</c><00:13:08.160><c> of</c><00:13:08.320><c> x</c><00:13:08.560><c> y</c>
+
+00:13:08.949 --> 00:13:08.959 align:start position:0%
+in this context so f of x y
+ 
+
+00:13:08.959 --> 00:13:12.150 align:start position:0%
+in this context so f of x y
+is<00:13:09.120><c> going</c><00:13:09.279><c> to</c><00:13:09.440><c> be</c><00:13:09.760><c> x</c><00:13:10.079><c> squared</c><00:13:10.480><c> plus</c><00:13:10.800><c> 2x</c><00:13:11.839><c> all</c>
+
+00:13:12.150 --> 00:13:12.160 align:start position:0%
+is going to be x squared plus 2x all
+ 
+
+00:13:12.160 --> 00:13:13.269 align:start position:0%
+is going to be x squared plus 2x all
+multiplied<00:13:12.880><c> by</c>
+
+00:13:13.269 --> 00:13:13.279 align:start position:0%
+multiplied by
+ 
+
+00:13:13.279 --> 00:13:16.949 align:start position:0%
+multiplied by
+sine<00:13:14.079><c> of</c><00:13:14.399><c> x</c><00:13:14.639><c> squared</c><00:13:14.880><c> plus</c><00:13:15.200><c> y</c><00:13:16.079><c> plus</c>
+
+00:13:16.949 --> 00:13:16.959 align:start position:0%
+sine of x squared plus y plus
+ 
+
+00:13:16.959 --> 00:13:20.069 align:start position:0%
+sine of x squared plus y plus
+e<00:13:17.200><c> to</c><00:13:17.360><c> the</c><00:13:17.519><c> y</c><00:13:17.839><c> minus</c><00:13:18.839><c> 2x</c>
+
+00:13:20.069 --> 00:13:20.079 align:start position:0%
+e to the y minus 2x
+ 
+
+00:13:20.079 --> 00:13:23.430 align:start position:0%
+e to the y minus 2x
+so<00:13:20.399><c> first</c><00:13:20.720><c> of</c><00:13:20.880><c> all</c><00:13:21.040><c> let's</c><00:13:21.279><c> calculate</c><00:13:22.639><c> our</c><00:13:23.040><c> x</c>
+
+00:13:23.430 --> 00:13:23.440 align:start position:0%
+so first of all let's calculate our x
+ 
+
+00:13:23.440 --> 00:13:26.790 align:start position:0%
+so first of all let's calculate our x
+partial<00:13:23.920><c> derivative</c><00:13:24.880><c> df</c><00:13:25.440><c> by</c><00:13:25.680><c> dx</c>
+
+00:13:26.790 --> 00:13:26.800 align:start position:0%
+partial derivative df by dx
+ 
+
+00:13:26.800 --> 00:13:31.030 align:start position:0%
+partial derivative df by dx
+we<00:13:27.040><c> remember</c><00:13:27.839><c> that</c><00:13:28.639><c> y</c><00:13:29.760><c> doesn't</c><00:13:30.240><c> change</c>
+
+00:13:31.030 --> 00:13:31.040 align:start position:0%
+we remember that y doesn't change
+ 
+
+00:13:31.040 --> 00:13:34.470 align:start position:0%
+we remember that y doesn't change
+y<00:13:31.360><c> is</c><00:13:31.519><c> now</c><00:13:32.160><c> a</c><00:13:32.399><c> constant</c><00:13:33.680><c> so</c>
+
+00:13:34.470 --> 00:13:34.480 align:start position:0%
+y is now a constant so
+ 
+
+00:13:34.480 --> 00:13:37.670 align:start position:0%
+y is now a constant so
+this<00:13:34.800><c> is</c><00:13:34.880><c> just</c><00:13:35.120><c> now</c><00:13:35.279><c> a</c><00:13:35.440><c> constant</c><00:13:36.480><c> as</c><00:13:36.720><c> is</c><00:13:37.200><c> the</c><00:13:37.440><c> y</c>
+
+00:13:37.670 --> 00:13:37.680 align:start position:0%
+this is just now a constant as is the y
+ 
+
+00:13:37.680 --> 00:13:39.590 align:start position:0%
+this is just now a constant as is the y
+in<00:13:37.760><c> the</c><00:13:37.920><c> exponential</c>
+
+00:13:39.590 --> 00:13:39.600 align:start position:0%
+in the exponential
+ 
+
+00:13:39.600 --> 00:13:43.670 align:start position:0%
+in the exponential
+now<00:13:40.639><c> i</c><00:13:40.880><c> still</c><00:13:41.199><c> need</c><00:13:41.440><c> to</c><00:13:41.600><c> do</c><00:13:41.760><c> the</c><00:13:42.000><c> x</c><00:13:42.240><c> derivative</c>
+
+00:13:43.670 --> 00:13:43.680 align:start position:0%
+now i still need to do the x derivative
+ 
+
+00:13:43.680 --> 00:13:47.350 align:start position:0%
+now i still need to do the x derivative
+using<00:13:44.639><c> product</c><00:13:45.120><c> rule</c><00:13:45.600><c> and</c><00:13:45.760><c> also</c><00:13:46.079><c> a</c><00:13:46.240><c> chain</c><00:13:46.639><c> rule</c>
+
+00:13:47.350 --> 00:13:47.360 align:start position:0%
+using product rule and also a chain rule
+ 
+
+00:13:47.360 --> 00:13:50.949 align:start position:0%
+using product rule and also a chain rule
+as<00:13:47.600><c> well</c><00:13:48.480><c> so</c><00:13:49.440><c> the</c><00:13:49.680><c> first</c><00:13:50.079><c> term</c>
+
+00:13:50.949 --> 00:13:50.959 align:start position:0%
+as well so the first term
+ 
+
+00:13:50.959 --> 00:13:52.949 align:start position:0%
+as well so the first term
+let's<00:13:51.360><c> do</c><00:13:51.600><c> a</c><00:13:51.760><c> product</c><00:13:52.160><c> rule</c><00:13:52.560><c> so</c><00:13:52.720><c> let's</c>
+
+00:13:52.949 --> 00:13:52.959 align:start position:0%
+let's do a product rule so let's
+ 
+
+00:13:52.959 --> 00:13:55.269 align:start position:0%
+let's do a product rule so let's
+differentiate<00:13:53.920><c> the</c><00:13:54.000><c> first</c><00:13:54.399><c> bracket</c>
+
+00:13:55.269 --> 00:13:55.279 align:start position:0%
+differentiate the first bracket
+ 
+
+00:13:55.279 --> 00:13:58.550 align:start position:0%
+differentiate the first bracket
+with<00:13:55.519><c> respect</c><00:13:56.000><c> to</c><00:13:56.320><c> x</c><00:13:57.199><c> so</c><00:13:57.360><c> that's</c><00:13:57.760><c> 2x</c>
+
+00:13:58.550 --> 00:13:58.560 align:start position:0%
+with respect to x so that's 2x
+ 
+
+00:13:58.560 --> 00:14:02.629 align:start position:0%
+with respect to x so that's 2x
+plus<00:13:58.959><c> 2</c><00:14:00.959><c> then</c><00:14:01.360><c> i</c><00:14:01.600><c> have</c>
+
+00:14:02.629 --> 00:14:02.639 align:start position:0%
+plus 2 then i have
+ 
+
+00:14:02.639 --> 00:14:07.350 align:start position:0%
+plus 2 then i have
+the<00:14:02.880><c> second</c><00:14:03.760><c> term</c><00:14:04.079><c> which</c><00:14:04.320><c> is</c><00:14:04.480><c> unchanged</c>
+
+00:14:07.350 --> 00:14:07.360 align:start position:0%
+ 
+ 
+
+00:14:07.360 --> 00:14:10.230 align:start position:0%
+ 
+now<00:14:07.839><c> i</c><00:14:08.000><c> want</c><00:14:08.240><c> to</c><00:14:08.399><c> differentiate</c><00:14:09.600><c> the</c><00:14:09.839><c> second</c>
+
+00:14:10.230 --> 00:14:10.240 align:start position:0%
+now i want to differentiate the second
+ 
+
+00:14:10.240 --> 00:14:11.030 align:start position:0%
+now i want to differentiate the second
+term
+
+00:14:11.030 --> 00:14:11.040 align:start position:0%
+term
+ 
+
+00:14:11.040 --> 00:14:13.750 align:start position:0%
+term
+and<00:14:11.199><c> leave</c><00:14:11.440><c> the</c><00:14:11.519><c> first</c><00:14:11.839><c> term</c><00:14:12.240><c> unchanged</c><00:14:13.360><c> as</c><00:14:13.600><c> i</c>
+
+00:14:13.750 --> 00:14:13.760 align:start position:0%
+and leave the first term unchanged as i
+ 
+
+00:14:13.760 --> 00:14:16.150 align:start position:0%
+and leave the first term unchanged as i
+would<00:14:14.000><c> for</c><00:14:14.240><c> any</c><00:14:14.560><c> normal</c><00:14:14.959><c> product</c>
+
+00:14:16.150 --> 00:14:16.160 align:start position:0%
+would for any normal product
+ 
+
+00:14:16.160 --> 00:14:19.350 align:start position:0%
+would for any normal product
+so<00:14:16.399><c> that</c><00:14:16.560><c> will</c><00:14:16.800><c> give</c><00:14:17.040><c> me</c><00:14:17.760><c> plus</c><00:14:18.880><c> x</c>
+
+00:14:19.350 --> 00:14:19.360 align:start position:0%
+so that will give me plus x
+ 
+
+00:14:19.360 --> 00:14:22.629 align:start position:0%
+so that will give me plus x
+squared<00:14:20.639><c> plus</c><00:14:20.959><c> 2x</c>
+
+00:14:22.629 --> 00:14:22.639 align:start position:0%
+squared plus 2x
+ 
+
+00:14:22.639 --> 00:14:25.910 align:start position:0%
+squared plus 2x
+multiplied<00:14:23.360><c> by</c><00:14:24.160><c> the</c><00:14:24.560><c> x</c><00:14:24.959><c> derivative</c>
+
+00:14:25.910 --> 00:14:25.920 align:start position:0%
+multiplied by the x derivative
+ 
+
+00:14:25.920 --> 00:14:29.430 align:start position:0%
+multiplied by the x derivative
+of<00:14:26.480><c> sine</c><00:14:27.199><c> of</c><00:14:27.440><c> x</c><00:14:27.680><c> squared</c><00:14:28.000><c> plus</c><00:14:28.320><c> y</c>
+
+00:14:29.430 --> 00:14:29.440 align:start position:0%
+of sine of x squared plus y
+ 
+
+00:14:29.440 --> 00:14:30.629 align:start position:0%
+of sine of x squared plus y
+so<00:14:29.600><c> we're</c><00:14:29.680><c> going</c><00:14:29.760><c> to</c><00:14:29.839><c> have</c><00:14:30.000><c> to</c><00:14:30.079><c> do</c><00:14:30.240><c> a</c><00:14:30.320><c> chain</c>
+
+00:14:30.629 --> 00:14:30.639 align:start position:0%
+so we're going to have to do a chain
+ 
+
+00:14:30.639 --> 00:14:32.710 align:start position:0%
+so we're going to have to do a chain
+rule<00:14:30.880><c> as</c><00:14:31.120><c> well</c><00:14:32.000><c> so</c><00:14:32.320><c> we</c>
+
+00:14:32.710 --> 00:14:32.720 align:start position:0%
+rule as well so we
+ 
+
+00:14:32.720 --> 00:14:35.750 align:start position:0%
+rule as well so we
+differentiate<00:14:34.160><c> sine</c><00:14:34.639><c> which</c><00:14:34.880><c> gives</c><00:14:35.279><c> us</c>
+
+00:14:35.750 --> 00:14:35.760 align:start position:0%
+differentiate sine which gives us
+ 
+
+00:14:35.760 --> 00:14:39.829 align:start position:0%
+differentiate sine which gives us
+cos<00:14:37.839><c> of</c><00:14:38.560><c> x</c><00:14:38.880><c> squared</c>
+
+00:14:39.829 --> 00:14:39.839 align:start position:0%
+cos of x squared
+ 
+
+00:14:39.839 --> 00:14:43.110 align:start position:0%
+cos of x squared
+plus<00:14:40.800><c> y</c>
+
+00:14:43.110 --> 00:14:43.120 align:start position:0%
+plus y
+ 
+
+00:14:43.120 --> 00:14:46.310 align:start position:0%
+plus y
+now<00:14:44.399><c> having</c><00:14:44.720><c> differentiated</c><00:14:45.360><c> the</c><00:14:45.600><c> sign</c>
+
+00:14:46.310 --> 00:14:46.320 align:start position:0%
+now having differentiated the sign
+ 
+
+00:14:46.320 --> 00:14:49.189 align:start position:0%
+now having differentiated the sign
+we<00:14:46.560><c> get</c><00:14:46.800><c> cos</c><00:14:47.360><c> but</c><00:14:47.519><c> then</c><00:14:47.760><c> the</c><00:14:47.920><c> chain</c><00:14:48.240><c> rule</c><00:14:48.560><c> says</c>
+
+00:14:49.189 --> 00:14:49.199 align:start position:0%
+we get cos but then the chain rule says
+ 
+
+00:14:49.199 --> 00:14:51.030 align:start position:0%
+we get cos but then the chain rule says
+i<00:14:49.360><c> have</c><00:14:49.519><c> to</c><00:14:49.680><c> multiply</c><00:14:50.320><c> by</c><00:14:50.639><c> the</c>
+
+00:14:51.030 --> 00:14:51.040 align:start position:0%
+i have to multiply by the
+ 
+
+00:14:51.040 --> 00:14:54.790 align:start position:0%
+i have to multiply by the
+x<00:14:51.279><c> derivative</c><00:14:52.639><c> of</c><00:14:53.440><c> the</c><00:14:53.680><c> argument</c>
+
+00:14:54.790 --> 00:14:54.800 align:start position:0%
+x derivative of the argument
+ 
+
+00:14:54.800 --> 00:14:57.990 align:start position:0%
+x derivative of the argument
+of<00:14:55.279><c> sine</c><00:14:56.240><c> so</c><00:14:56.399><c> i've</c><00:14:56.560><c> got</c><00:14:56.880><c> x</c><00:14:57.120><c> squared</c><00:14:57.519><c> plus</c>
+
+00:14:57.990 --> 00:14:58.000 align:start position:0%
+of sine so i've got x squared plus
+ 
+
+00:14:58.000 --> 00:15:01.910 align:start position:0%
+of sine so i've got x squared plus
+y<00:14:59.040><c> y</c><00:14:59.360><c> is</c><00:14:59.519><c> a</c><00:14:59.680><c> constant</c><00:15:00.720><c> in</c><00:15:00.880><c> this</c><00:15:01.120><c> situation</c>
+
+00:15:01.910 --> 00:15:01.920 align:start position:0%
+y y is a constant in this situation
+ 
+
+00:15:01.920 --> 00:15:02.949 align:start position:0%
+y y is a constant in this situation
+because<00:15:02.240><c> i'm</c><00:15:02.399><c> doing</c><00:15:02.639><c> an</c>
+
+00:15:02.949 --> 00:15:02.959 align:start position:0%
+because i'm doing an
+ 
+
+00:15:02.959 --> 00:15:07.030 align:start position:0%
+because i'm doing an
+x<00:15:03.760><c> partial</c><00:15:04.880><c> so</c><00:15:05.360><c> x</c><00:15:05.680><c> squared</c><00:15:06.000><c> plus</c><00:15:06.320><c> constant</c>
+
+00:15:07.030 --> 00:15:07.040 align:start position:0%
+x partial so x squared plus constant
+ 
+
+00:15:07.040 --> 00:15:09.829 align:start position:0%
+x partial so x squared plus constant
+if<00:15:07.199><c> i</c><00:15:07.519><c> differentiate</c><00:15:08.320><c> that</c><00:15:08.800><c> with</c><00:15:09.040><c> respect</c><00:15:09.519><c> to</c>
+
+00:15:09.829 --> 00:15:09.839 align:start position:0%
+if i differentiate that with respect to
+ 
+
+00:15:09.839 --> 00:15:10.389 align:start position:0%
+if i differentiate that with respect to
+x
+
+00:15:10.389 --> 00:15:10.399 align:start position:0%
+x
+ 
+
+00:15:10.399 --> 00:15:14.550 align:start position:0%
+x
+i<00:15:10.560><c> just</c><00:15:10.880><c> get</c><00:15:11.600><c> 2</c><00:15:12.880><c> x</c>
+
+00:15:14.550 --> 00:15:14.560 align:start position:0%
+i just get 2 x
+ 
+
+00:15:14.560 --> 00:15:17.430 align:start position:0%
+i just get 2 x
+and<00:15:14.880><c> that</c><00:15:15.680><c> will</c><00:15:15.920><c> be</c><00:15:16.160><c> the</c><00:15:16.320><c> product</c><00:15:16.800><c> rule</c><00:15:17.199><c> done</c>
+
+00:15:17.430 --> 00:15:17.440 align:start position:0%
+and that will be the product rule done
+ 
+
+00:15:17.440 --> 00:15:18.870 align:start position:0%
+and that will be the product rule done
+on<00:15:17.519><c> that</c><00:15:17.839><c> first</c>
+
+00:15:18.870 --> 00:15:18.880 align:start position:0%
+on that first
+ 
+
+00:15:18.880 --> 00:15:21.750 align:start position:0%
+on that first
+term<00:15:20.320><c> now</c><00:15:20.639><c> we</c><00:15:20.880><c> also</c><00:15:21.040><c> have</c><00:15:21.199><c> to</c><00:15:21.279><c> differentiate</c>
+
+00:15:21.750 --> 00:15:21.760 align:start position:0%
+term now we also have to differentiate
+ 
+
+00:15:21.760 --> 00:15:23.509 align:start position:0%
+term now we also have to differentiate
+the<00:15:21.920><c> exponential</c>
+
+00:15:23.509 --> 00:15:23.519 align:start position:0%
+the exponential
+ 
+
+00:15:23.519 --> 00:15:25.990 align:start position:0%
+the exponential
+so<00:15:23.680><c> what</c><00:15:23.839><c> i'm</c><00:15:24.079><c> going</c><00:15:24.240><c> to</c><00:15:24.399><c> get</c><00:15:24.639><c> here</c><00:15:25.519><c> is</c><00:15:25.839><c> the</c>
+
+00:15:25.990 --> 00:15:26.000 align:start position:0%
+so what i'm going to get here is the
+ 
+
+00:15:26.000 --> 00:15:27.910 align:start position:0%
+so what i'm going to get here is the
+exponential<00:15:26.639><c> is</c><00:15:26.800><c> unchanged</c>
+
+00:15:27.910 --> 00:15:27.920 align:start position:0%
+exponential is unchanged
+ 
+
+00:15:27.920 --> 00:15:30.949 align:start position:0%
+exponential is unchanged
+so<00:15:28.240><c> e</c><00:15:28.399><c> to</c><00:15:28.560><c> the</c><00:15:28.720><c> y</c><00:15:29.040><c> minus</c><00:15:29.519><c> 2x</c>
+
+00:15:30.949 --> 00:15:30.959 align:start position:0%
+so e to the y minus 2x
+ 
+
+00:15:30.959 --> 00:15:33.590 align:start position:0%
+so e to the y minus 2x
+and<00:15:31.120><c> then</c><00:15:31.440><c> from</c><00:15:31.600><c> the</c><00:15:31.839><c> chain</c><00:15:32.160><c> rule</c><00:15:32.959><c> i</c><00:15:33.120><c> have</c><00:15:33.360><c> to</c>
+
+00:15:33.590 --> 00:15:33.600 align:start position:0%
+and then from the chain rule i have to
+ 
+
+00:15:33.600 --> 00:15:35.670 align:start position:0%
+and then from the chain rule i have to
+differentiate<00:15:34.320><c> the</c><00:15:34.639><c> argument</c>
+
+00:15:35.670 --> 00:15:35.680 align:start position:0%
+differentiate the argument
+ 
+
+00:15:35.680 --> 00:15:39.189 align:start position:0%
+differentiate the argument
+so<00:15:35.920><c> i</c><00:15:36.000><c> need</c><00:15:36.160><c> to</c><00:15:36.320><c> do</c><00:15:36.480><c> the</c><00:15:37.120><c> x</c><00:15:37.519><c> partial</c><00:15:38.000><c> derivative</c>
+
+00:15:39.189 --> 00:15:39.199 align:start position:0%
+so i need to do the x partial derivative
+ 
+
+00:15:39.199 --> 00:15:43.110 align:start position:0%
+so i need to do the x partial derivative
+of<00:15:39.519><c> y</c><00:15:39.839><c> minus</c><00:15:40.320><c> 2</c><00:15:40.800><c> x</c><00:15:41.759><c> y</c><00:15:42.000><c> is</c><00:15:42.160><c> a</c><00:15:42.240><c> constant</c>
+
+00:15:43.110 --> 00:15:43.120 align:start position:0%
+of y minus 2 x y is a constant
+ 
+
+00:15:43.120 --> 00:15:46.310 align:start position:0%
+of y minus 2 x y is a constant
+so<00:15:43.279><c> that</c><00:15:43.519><c> disappears</c><00:15:44.560><c> and</c><00:15:44.639><c> we</c><00:15:44.800><c> just</c><00:15:45.040><c> get</c><00:15:45.759><c> minus</c>
+
+00:15:46.310 --> 00:15:46.320 align:start position:0%
+so that disappears and we just get minus
+ 
+
+00:15:46.320 --> 00:15:47.670 align:start position:0%
+so that disappears and we just get minus
+2
+
+00:15:47.670 --> 00:15:47.680 align:start position:0%
+2
+ 
+
+00:15:47.680 --> 00:15:50.389 align:start position:0%
+2
+from<00:15:47.920><c> the</c><00:15:48.160><c> chain</c><00:15:48.480><c> rule</c><00:15:48.959><c> finally</c><00:15:49.680><c> if</c><00:15:49.839><c> we</c><00:15:50.000><c> now</c><00:15:50.240><c> do</c>
+
+00:15:50.389 --> 00:15:50.399 align:start position:0%
+from the chain rule finally if we now do
+ 
+
+00:15:50.399 --> 00:15:51.509 align:start position:0%
+from the chain rule finally if we now do
+the<00:15:50.639><c> partial</c><00:15:51.199><c> y</c>
+
+00:15:51.509 --> 00:15:51.519 align:start position:0%
+the partial y
+ 
+
+00:15:51.519 --> 00:15:55.670 align:start position:0%
+the partial y
+derivative<00:15:52.240><c> in</c><00:15:52.399><c> much</c><00:15:52.720><c> the</c><00:15:52.880><c> same</c><00:15:53.279><c> way</c><00:15:54.480><c> this</c><00:15:54.880><c> one</c>
+
+00:15:55.670 --> 00:15:55.680 align:start position:0%
+derivative in much the same way this one
+ 
+
+00:15:55.680 --> 00:15:59.590 align:start position:0%
+derivative in much the same way this one
+is<00:15:55.839><c> actually</c><00:15:56.240><c> a</c><00:15:56.399><c> lot</c><00:15:57.120><c> easier</c><00:15:58.240><c> because</c>
+
+00:15:59.590 --> 00:15:59.600 align:start position:0%
+is actually a lot easier because
+ 
+
+00:15:59.600 --> 00:16:02.470 align:start position:0%
+is actually a lot easier because
+we<00:15:59.839><c> remember</c><00:16:00.800><c> that</c><00:16:01.040><c> when</c><00:16:01.279><c> we're</c><00:16:01.440><c> doing</c><00:16:01.839><c> a</c><00:16:02.079><c> y</c>
+
+00:16:02.470 --> 00:16:02.480 align:start position:0%
+we remember that when we're doing a y
+ 
+
+00:16:02.480 --> 00:16:04.310 align:start position:0%
+we remember that when we're doing a y
+partial<00:16:02.959><c> derivative</c>
+
+00:16:04.310 --> 00:16:04.320 align:start position:0%
+partial derivative
+ 
+
+00:16:04.320 --> 00:16:07.350 align:start position:0%
+partial derivative
+we've<00:16:04.560><c> got</c><00:16:04.800><c> over</c><00:16:05.120><c> here</c><00:16:05.839><c> that</c><00:16:06.320><c> x</c>
+
+00:16:07.350 --> 00:16:07.360 align:start position:0%
+we've got over here that x
+ 
+
+00:16:07.360 --> 00:16:11.350 align:start position:0%
+we've got over here that x
+isn't<00:16:07.920><c> changing</c><00:16:09.199><c> x</c><00:16:09.600><c> is</c><00:16:10.000><c> constant</c>
+
+00:16:11.350 --> 00:16:11.360 align:start position:0%
+isn't changing x is constant
+ 
+
+00:16:11.360 --> 00:16:14.710 align:start position:0%
+isn't changing x is constant
+so<00:16:11.680><c> this</c><00:16:12.079><c> whole</c><00:16:12.399><c> term</c><00:16:13.120><c> x</c><00:16:13.279><c> squared</c><00:16:13.600><c> plus</c><00:16:13.839><c> 2x</c>
+
+00:16:14.710 --> 00:16:14.720 align:start position:0%
+so this whole term x squared plus 2x
+ 
+
+00:16:14.720 --> 00:16:17.590 align:start position:0%
+so this whole term x squared plus 2x
+is<00:16:14.880><c> just</c><00:16:15.120><c> a</c><00:16:15.279><c> big</c><00:16:15.519><c> old</c><00:16:15.759><c> constant</c><00:16:16.800><c> so</c><00:16:17.040><c> that</c><00:16:17.279><c> just</c>
+
+00:16:17.590 --> 00:16:17.600 align:start position:0%
+is just a big old constant so that just
+ 
+
+00:16:17.600 --> 00:16:21.350 align:start position:0%
+is just a big old constant so that just
+stays<00:16:18.079><c> where</c><00:16:18.320><c> it</c><00:16:18.480><c> is</c>
+
+00:16:21.350 --> 00:16:21.360 align:start position:0%
+ 
+ 
+
+00:16:21.360 --> 00:16:23.990 align:start position:0%
+ 
+and<00:16:21.519><c> now</c><00:16:21.759><c> what</c><00:16:21.920><c> we</c><00:16:22.160><c> actually</c><00:16:22.560><c> differentiate</c>
+
+00:16:23.990 --> 00:16:24.000 align:start position:0%
+and now what we actually differentiate
+ 
+
+00:16:24.000 --> 00:16:24.870 align:start position:0%
+and now what we actually differentiate
+is<00:16:24.160><c> the</c><00:16:24.399><c> sine</c>
+
+00:16:24.870 --> 00:16:24.880 align:start position:0%
+is the sine
+ 
+
+00:16:24.880 --> 00:16:29.110 align:start position:0%
+is the sine
+term<00:16:25.360><c> because</c><00:16:25.680><c> that</c><00:16:25.920><c> has</c><00:16:26.160><c> a</c><00:16:26.399><c> y</c><00:16:27.279><c> dependency</c>
+
+00:16:29.110 --> 00:16:29.120 align:start position:0%
+term because that has a y dependency
+ 
+
+00:16:29.120 --> 00:16:32.710 align:start position:0%
+term because that has a y dependency
+so<00:16:29.360><c> the</c><00:16:29.519><c> derivative</c><00:16:30.079><c> of</c><00:16:30.320><c> sine</c><00:16:30.720><c> gives</c><00:16:30.959><c> me</c><00:16:31.279><c> cos</c>
+
+00:16:32.710 --> 00:16:32.720 align:start position:0%
+so the derivative of sine gives me cos
+ 
+
+00:16:32.720 --> 00:16:36.790 align:start position:0%
+so the derivative of sine gives me cos
+of<00:16:33.440><c> its</c><00:16:33.759><c> argument</c><00:16:35.600><c> and</c><00:16:35.680><c> then</c><00:16:35.920><c> the</c><00:16:36.160><c> chain</c><00:16:36.480><c> rule</c>
+
+00:16:36.790 --> 00:16:36.800 align:start position:0%
+of its argument and then the chain rule
+ 
+
+00:16:36.800 --> 00:16:37.590 align:start position:0%
+of its argument and then the chain rule
+tells<00:16:37.120><c> me</c>
+
+00:16:37.590 --> 00:16:37.600 align:start position:0%
+tells me
+ 
+
+00:16:37.600 --> 00:16:40.710 align:start position:0%
+tells me
+to<00:16:37.759><c> differentiate</c><00:16:39.360><c> the</c><00:16:39.600><c> argument</c>
+
+00:16:40.710 --> 00:16:40.720 align:start position:0%
+to differentiate the argument
+ 
+
+00:16:40.720 --> 00:16:43.350 align:start position:0%
+to differentiate the argument
+but<00:16:41.600><c> when</c><00:16:41.839><c> we're</c><00:16:42.000><c> doing</c><00:16:42.320><c> this</c><00:16:42.560><c> with</c><00:16:42.800><c> respect</c>
+
+00:16:43.350 --> 00:16:43.360 align:start position:0%
+but when we're doing this with respect
+ 
+
+00:16:43.360 --> 00:16:43.910 align:start position:0%
+but when we're doing this with respect
+to
+
+00:16:43.910 --> 00:16:43.920 align:start position:0%
+to
+ 
+
+00:16:43.920 --> 00:16:47.749 align:start position:0%
+to
+y<00:16:45.279><c> x</c><00:16:45.600><c> is</c><00:16:45.759><c> a</c><00:16:45.839><c> constant</c><00:16:46.880><c> so</c><00:16:47.120><c> the</c><00:16:47.360><c> y</c>
+
+00:16:47.749 --> 00:16:47.759 align:start position:0%
+y x is a constant so the y
+ 
+
+00:16:47.759 --> 00:16:49.910 align:start position:0%
+y x is a constant so the y
+partial<00:16:48.399><c> of</c><00:16:48.639><c> x</c><00:16:48.800><c> squared</c><00:16:49.120><c> plus</c><00:16:49.360><c> y</c><00:16:49.600><c> it's</c><00:16:49.680><c> just</c>
+
+00:16:49.910 --> 00:16:49.920 align:start position:0%
+partial of x squared plus y it's just
+ 
+
+00:16:49.920 --> 00:16:52.470 align:start position:0%
+partial of x squared plus y it's just
+one<00:16:50.639><c> so</c><00:16:50.800><c> you</c><00:16:51.040><c> don't</c><00:16:51.279><c> actually</c><00:16:51.759><c> get</c>
+
+00:16:52.470 --> 00:16:52.480 align:start position:0%
+one so you don't actually get
+ 
+
+00:16:52.480 --> 00:16:54.949 align:start position:0%
+one so you don't actually get
+an<00:16:52.639><c> additional</c><00:16:53.199><c> factor</c><00:16:54.399><c> and</c><00:16:54.480><c> you're</c><00:16:54.720><c> going</c><00:16:54.880><c> to</c>
+
+00:16:54.949 --> 00:16:54.959 align:start position:0%
+an additional factor and you're going to
+ 
+
+00:16:54.959 --> 00:16:55.990 align:start position:0%
+an additional factor and you're going to
+get<00:16:55.120><c> the</c><00:16:55.279><c> same</c><00:16:55.519><c> thing</c>
+
+00:16:55.990 --> 00:16:56.000 align:start position:0%
+get the same thing
+ 
+
+00:16:56.000 --> 00:16:58.790 align:start position:0%
+get the same thing
+with<00:16:56.160><c> the</c><00:16:56.320><c> exponential</c><00:16:57.040><c> in</c><00:16:57.199><c> fact</c><00:16:57.839><c> because</c><00:16:58.639><c> the</c>
+
+00:16:58.790 --> 00:16:58.800 align:start position:0%
+with the exponential in fact because the
+ 
+
+00:16:58.800 --> 00:17:00.389 align:start position:0%
+with the exponential in fact because the
+derivative<00:16:59.279><c> of</c><00:16:59.360><c> the</c><00:16:59.440><c> exponential</c>
+
+00:17:00.389 --> 00:17:00.399 align:start position:0%
+derivative of the exponential
+ 
+
+00:17:00.399 --> 00:17:03.110 align:start position:0%
+derivative of the exponential
+gives<00:17:00.639><c> you</c><00:17:00.800><c> back</c><00:17:01.120><c> the</c><00:17:01.279><c> same</c><00:17:01.600><c> exponential</c>
+
+00:17:03.110 --> 00:17:03.120 align:start position:0%
+gives you back the same exponential
+ 
+
+00:17:03.120 --> 00:17:04.549 align:start position:0%
+gives you back the same exponential
+multiplied<00:17:03.759><c> by</c>
+
+00:17:04.549 --> 00:17:04.559 align:start position:0%
+multiplied by
+ 
+
+00:17:04.559 --> 00:17:08.309 align:start position:0%
+multiplied by
+the<00:17:04.799><c> y</c><00:17:05.439><c> partial</c><00:17:06.880><c> of</c><00:17:07.120><c> the</c><00:17:07.360><c> argument</c>
+
+00:17:08.309 --> 00:17:08.319 align:start position:0%
+the y partial of the argument
+ 
+
+00:17:08.319 --> 00:17:10.710 align:start position:0%
+the y partial of the argument
+but<00:17:08.480><c> again</c><00:17:08.959><c> x</c><00:17:09.199><c> is</c><00:17:09.360><c> a</c><00:17:09.439><c> constant</c><00:17:10.160><c> so</c><00:17:10.319><c> that</c><00:17:10.559><c> just</c>
+
+00:17:10.710 --> 00:17:10.720 align:start position:0%
+but again x is a constant so that just
+ 
+
+00:17:10.720 --> 00:17:11.829 align:start position:0%
+but again x is a constant so that just
+disappears
+
+00:17:11.829 --> 00:17:11.839 align:start position:0%
+disappears
+ 
+
+00:17:11.839 --> 00:17:14.150 align:start position:0%
+disappears
+and<00:17:12.000><c> we</c><00:17:12.160><c> just</c><00:17:12.319><c> get</c><00:17:12.559><c> back</c><00:17:12.959><c> the</c><00:17:13.120><c> derivative</c><00:17:13.679><c> of</c><00:17:13.919><c> y</c>
+
+00:17:14.150 --> 00:17:14.160 align:start position:0%
+and we just get back the derivative of y
+ 
+
+00:17:14.160 --> 00:17:15.669 align:start position:0%
+and we just get back the derivative of y
+which<00:17:14.319><c> is</c><00:17:14.480><c> 1.</c>
+
+00:17:15.669 --> 00:17:15.679 align:start position:0%
+which is 1.
+ 
+
+00:17:15.679 --> 00:17:18.789 align:start position:0%
+which is 1.
+so<00:17:16.000><c> this</c><00:17:17.439><c> x</c><00:17:17.679><c> squared</c><00:17:17.919><c> plus</c><00:17:18.160><c> 2x</c>
+
+00:17:18.789 --> 00:17:18.799 align:start position:0%
+so this x squared plus 2x
+ 
+
+00:17:18.799 --> 00:17:21.909 align:start position:0%
+so this x squared plus 2x
+times<00:17:19.120><c> cos</c><00:17:19.360><c> of</c><00:17:19.520><c> x</c><00:17:19.600><c> squared</c><00:17:19.919><c> plus</c><00:17:20.079><c> y</c><00:17:20.720><c> plus</c><00:17:21.600><c> e</c><00:17:21.839><c> to</c>
+
+00:17:21.909 --> 00:17:21.919 align:start position:0%
+times cos of x squared plus y plus e to
+ 
+
+00:17:21.919 --> 00:17:23.510 align:start position:0%
+times cos of x squared plus y plus e to
+the<00:17:22.000><c> y</c><00:17:22.240><c> minus</c><00:17:22.559><c> 2x</c>
+
+00:17:23.510 --> 00:17:23.520 align:start position:0%
+the y minus 2x
+ 
+
+00:17:23.520 --> 00:17:26.789 align:start position:0%
+the y minus 2x
+that<00:17:24.000><c> is</c><00:17:24.160><c> our</c><00:17:24.319><c> much</c><00:17:24.720><c> simpler</c><00:17:25.839><c> y</c><00:17:26.160><c> partial</c>
+
+00:17:26.789 --> 00:17:26.799 align:start position:0%
+that is our much simpler y partial
+ 
+
+00:17:26.799 --> 00:17:29.029 align:start position:0%
+that is our much simpler y partial
+compared<00:17:27.280><c> to</c><00:17:27.439><c> the</c><00:17:28.559><c> slightly</c><00:17:28.880><c> more</c>
+
+00:17:29.029 --> 00:17:29.039 align:start position:0%
+compared to the slightly more
+ 
+
+00:17:29.039 --> 00:17:30.230 align:start position:0%
+compared to the slightly more
+complicated
+
+00:17:30.230 --> 00:17:30.240 align:start position:0%
+complicated
+ 
+
+00:17:30.240 --> 00:17:32.630 align:start position:0%
+complicated
+x<00:17:30.880><c> partial</c><00:17:31.280><c> derivative</c><00:17:32.000><c> if</c><00:17:32.080><c> you</c><00:17:32.240><c> want</c><00:17:32.480><c> some</c>
+
+00:17:32.630 --> 00:17:32.640 align:start position:0%
+x partial derivative if you want some
+ 
+
+00:17:32.640 --> 00:17:33.990 align:start position:0%
+x partial derivative if you want some
+more<00:17:32.880><c> practice</c><00:17:33.360><c> with</c><00:17:33.600><c> partial</c>
+
+00:17:33.990 --> 00:17:34.000 align:start position:0%
+more practice with partial
+ 
+
+00:17:34.000 --> 00:17:35.110 align:start position:0%
+more practice with partial
+differentiation
+
+00:17:35.110 --> 00:17:35.120 align:start position:0%
+differentiation
+ 
+
+00:17:35.120 --> 00:17:37.510 align:start position:0%
+differentiation
+i've<00:17:35.440><c> actually</c><00:17:35.840><c> set</c><00:17:36.080><c> up</c><00:17:36.240><c> a</c><00:17:36.559><c> worksheet</c><00:17:37.280><c> in</c>
+
+00:17:37.510 --> 00:17:37.520 align:start position:0%
+i've actually set up a worksheet in
+ 
+
+00:17:37.520 --> 00:17:38.470 align:start position:0%
+i've actually set up a worksheet in
+maple<00:17:38.000><c> learn</c>
+
+00:17:38.470 --> 00:17:38.480 align:start position:0%
+maple learn
+ 
+
+00:17:38.480 --> 00:17:40.789 align:start position:0%
+maple learn
+which<00:17:38.720><c> you</c><00:17:38.799><c> can</c><00:17:39.039><c> access</c><00:17:39.440><c> completely</c><00:17:40.000><c> for</c><00:17:40.160><c> free</c>
+
+00:17:40.789 --> 00:17:40.799 align:start position:0%
+which you can access completely for free
+ 
+
+00:17:40.799 --> 00:17:41.909 align:start position:0%
+which you can access completely for free
+by<00:17:41.039><c> clicking</c><00:17:41.360><c> the</c><00:17:41.520><c> link</c>
+
+00:17:41.909 --> 00:17:41.919 align:start position:0%
+by clicking the link
+ 
+
+00:17:41.919 --> 00:17:44.470 align:start position:0%
+by clicking the link
+on<00:17:42.240><c> screen</c><00:17:43.039><c> so</c><00:17:43.200><c> there's</c><00:17:43.440><c> plenty</c><00:17:43.760><c> of</c><00:17:44.000><c> questions</c>
+
+00:17:44.470 --> 00:17:44.480 align:start position:0%
+on screen so there's plenty of questions
+ 
+
+00:17:44.480 --> 00:17:45.990 align:start position:0%
+on screen so there's plenty of questions
+for<00:17:44.640><c> you</c><00:17:44.720><c> to</c><00:17:44.880><c> have</c><00:17:45.039><c> a</c><00:17:45.200><c> go</c><00:17:45.440><c> at</c>
+
+00:17:45.990 --> 00:17:46.000 align:start position:0%
+for you to have a go at
+ 
+
+00:17:46.000 --> 00:17:48.070 align:start position:0%
+for you to have a go at
+plenty<00:17:46.480><c> of</c><00:17:46.640><c> partial</c><00:17:47.039><c> derivatives</c><00:17:47.600><c> for</c><00:17:47.760><c> you</c><00:17:47.919><c> to</c>
+
+00:17:48.070 --> 00:17:48.080 align:start position:0%
+plenty of partial derivatives for you to
+ 
+
+00:17:48.080 --> 00:17:49.190 align:start position:0%
+plenty of partial derivatives for you to
+calculate
+
+00:17:49.190 --> 00:17:49.200 align:start position:0%
+calculate
+ 
+
+00:17:49.200 --> 00:17:51.190 align:start position:0%
+calculate
+and<00:17:49.440><c> remember</c><00:17:49.919><c> you</c><00:17:50.080><c> can</c><00:17:50.240><c> always</c><00:17:50.640><c> check</c><00:17:50.960><c> your</c>
+
+00:17:51.190 --> 00:17:51.200 align:start position:0%
+and remember you can always check your
+ 
+
+00:17:51.200 --> 00:17:52.310 align:start position:0%
+and remember you can always check your
+answers<00:17:51.919><c> by</c>
+
+00:17:52.310 --> 00:17:52.320 align:start position:0%
+answers by
+ 
+
+00:17:52.320 --> 00:17:54.310 align:start position:0%
+answers by
+entering<00:17:52.799><c> the</c><00:17:52.960><c> function</c><00:17:53.600><c> in</c><00:17:53.679><c> the</c><00:17:53.840><c> maple</c>
+
+00:17:54.310 --> 00:17:54.320 align:start position:0%
+entering the function in the maple
+ 
+
+00:17:54.320 --> 00:17:56.070 align:start position:0%
+entering the function in the maple
+calculator<00:17:55.200><c> app</c>
+
+00:17:56.070 --> 00:17:56.080 align:start position:0%
+calculator app
+ 
+
+00:17:56.080 --> 00:17:58.549 align:start position:0%
+calculator app
+as<00:17:56.240><c> this</c><00:17:56.400><c> will</c><00:17:56.640><c> automatically</c><00:17:58.000><c> calculate</c>
+
+00:17:58.549 --> 00:17:58.559 align:start position:0%
+as this will automatically calculate
+ 
+
+00:17:58.559 --> 00:18:00.230 align:start position:0%
+as this will automatically calculate
+those<00:17:58.799><c> partial</c><00:17:59.120><c> derivatives</c>
+
+00:18:00.230 --> 00:18:00.240 align:start position:0%
+those partial derivatives
+ 
+
+00:18:00.240 --> 00:18:02.870 align:start position:0%
+those partial derivatives
+for<00:18:00.559><c> you</c><00:18:00.880><c> thank</c><00:18:01.039><c> you</c><00:18:01.200><c> everyone</c><00:18:01.760><c> for</c><00:18:02.160><c> watching</c>
+
+00:18:02.870 --> 00:18:02.880 align:start position:0%
+for you thank you everyone for watching
+ 
+
+00:18:02.880 --> 00:18:04.870 align:start position:0%
+for you thank you everyone for watching
+please<00:18:03.200><c> do</c><00:18:03.360><c> remember</c><00:18:03.840><c> to</c><00:18:04.080><c> subscribe</c><00:18:04.480><c> to</c><00:18:04.640><c> my</c>
+
+00:18:04.870 --> 00:18:04.880 align:start position:0%
+please do remember to subscribe to my
+ 
+
+00:18:04.880 --> 00:18:05.430 align:start position:0%
+please do remember to subscribe to my
+channel
+
+00:18:05.430 --> 00:18:05.440 align:start position:0%
+channel
+ 
+
+00:18:05.440 --> 00:18:07.430 align:start position:0%
+channel
+if<00:18:05.600><c> you've</c><00:18:05.840><c> enjoyed</c><00:18:06.240><c> this</c><00:18:06.400><c> video</c><00:18:07.039><c> and</c><00:18:07.200><c> i'll</c><00:18:07.360><c> be</c>
+
+00:18:07.430 --> 00:18:07.440 align:start position:0%
+if you've enjoyed this video and i'll be
+ 
+
+00:18:07.440 --> 00:18:21.190 align:start position:0%
+if you've enjoyed this video and i'll be
+back<00:18:07.760><c> soon</c><00:18:08.240><c> with</c><00:18:08.400><c> some</c><00:18:08.559><c> more</c><00:18:08.799><c> maths</c><00:18:12.840><c> fun</c>
+
+00:18:21.190 --> 00:18:21.200 align:start position:0%
+ 
+ 
+
+00:18:21.200 --> 00:18:23.280 align:start position:0%
+ 
+you
+

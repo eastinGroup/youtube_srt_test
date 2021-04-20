@@ -1,0 +1,1568 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.210 --> 00:00:04.309 align:start position:0%
+ 
+hi<00:00:00.930><c> this</c><00:00:00.989><c> is</c><00:00:01.319><c> pressure</c><00:00:01.709><c> Locker</c><00:00:03.110><c> there's</c><00:00:04.110><c> an</c>
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+hi this is pressure Locker there's an
+ 
+
+00:00:04.319 --> 00:00:06.200 align:start position:0%
+hi this is pressure Locker there's an
+interesting<00:00:04.890><c> pattern</c><00:00:05.130><c> if</c><00:00:05.460><c> you</c><00:00:05.520><c> multiply</c><00:00:06.180><c> a</c>
+
+00:00:06.200 --> 00:00:06.210 align:start position:0%
+interesting pattern if you multiply a
+ 
+
+00:00:06.210 --> 00:00:09.589 align:start position:0%
+interesting pattern if you multiply a
+number<00:00:06.480><c> that</c><00:00:06.839><c> has</c><00:00:06.990><c> only</c><00:00:07.170><c> ones</c><00:00:07.799><c> by</c><00:00:08.099><c> itself</c><00:00:08.599><c> if</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+number that has only ones by itself if
+ 
+
+00:00:09.599 --> 00:00:12.230 align:start position:0%
+number that has only ones by itself if
+you<00:00:10.200><c> multiply</c><00:00:10.830><c> number</c><00:00:11.190><c> that</c><00:00:11.370><c> has</c><00:00:11.550><c> five</c><00:00:11.910><c> ones</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+you multiply number that has five ones
+ 
+
+00:00:12.240 --> 00:00:14.930 align:start position:0%
+you multiply number that has five ones
+in<00:00:12.480><c> it</c><00:00:12.599><c> by</c><00:00:12.780><c> itself</c><00:00:13.200><c> you'll</c><00:00:14.040><c> count</c><00:00:14.280><c> up</c><00:00:14.519><c> to</c><00:00:14.849><c> the</c>
+
+00:00:14.930 --> 00:00:14.940 align:start position:0%
+in it by itself you'll count up to the
+ 
+
+00:00:14.940 --> 00:00:17.420 align:start position:0%
+in it by itself you'll count up to the
+number<00:00:15.240><c> five</c><00:00:15.540><c> in</c><00:00:15.900><c> order</c><00:00:16.529><c> and</c><00:00:16.680><c> then</c><00:00:17.160><c> you</c><00:00:17.250><c> count</c>
+
+00:00:17.420 --> 00:00:17.430 align:start position:0%
+number five in order and then you count
+ 
+
+00:00:17.430 --> 00:00:19.939 align:start position:0%
+number five in order and then you count
+back<00:00:17.670><c> down</c><00:00:17.910><c> to</c><00:00:18.090><c> one</c><00:00:18.300><c> to</c><00:00:18.840><c> create</c><00:00:19.140><c> a</c><00:00:19.289><c> palindrome</c>
+
+00:00:19.939 --> 00:00:19.949 align:start position:0%
+back down to one to create a palindrome
+ 
+
+00:00:19.949 --> 00:00:21.950 align:start position:0%
+back down to one to create a palindrome
+of<00:00:20.130><c> the</c><00:00:20.310><c> numbers</c><00:00:20.609><c> in</c><00:00:20.850><c> ascending</c><00:00:21.180><c> and</c><00:00:21.779><c> then</c>
+
+00:00:21.950 --> 00:00:21.960 align:start position:0%
+of the numbers in ascending and then
+ 
+
+00:00:21.960 --> 00:00:25.220 align:start position:0%
+of the numbers in ascending and then
+descending<00:00:22.529><c> order</c><00:00:23.630><c> this</c><00:00:24.630><c> pattern</c><00:00:25.050><c> will</c>
+
+00:00:25.220 --> 00:00:25.230 align:start position:0%
+descending order this pattern will
+ 
+
+00:00:25.230 --> 00:00:27.980 align:start position:0%
+descending order this pattern will
+continue<00:00:25.970><c> for</c><00:00:26.970><c> example</c><00:00:27.449><c> if</c><00:00:27.599><c> you</c><00:00:27.750><c> want</c><00:00:27.930><c> to</c>
+
+00:00:27.980 --> 00:00:27.990 align:start position:0%
+continue for example if you want to
+ 
+
+00:00:27.990 --> 00:00:30.380 align:start position:0%
+continue for example if you want to
+multiply<00:00:28.349><c> a</c><00:00:28.710><c> number</c><00:00:28.890><c> which</c><00:00:29.189><c> has</c><00:00:29.369><c> nine</c><00:00:29.730><c> ones</c><00:00:30.119><c> by</c>
+
+00:00:30.380 --> 00:00:30.390 align:start position:0%
+multiply a number which has nine ones by
+ 
+
+00:00:30.390 --> 00:00:32.870 align:start position:0%
+multiply a number which has nine ones by
+itself<00:00:30.750><c> you</c><00:00:31.590><c> would</c><00:00:31.679><c> count</c><00:00:31.949><c> up</c><00:00:32.160><c> one</c><00:00:32.669><c> two</c><00:00:32.850><c> three</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+itself you would count up one two three
+ 
+
+00:00:32.880 --> 00:00:35.180 align:start position:0%
+itself you would count up one two three
+four<00:00:33.270><c> five</c><00:00:33.450><c> six</c><00:00:33.690><c> seven</c><00:00:33.870><c> eight</c><00:00:34.140><c> nine</c><00:00:34.320><c> and</c><00:00:34.590><c> then</c>
+
+00:00:35.180 --> 00:00:35.190 align:start position:0%
+four five six seven eight nine and then
+ 
+
+00:00:35.190 --> 00:00:37.010 align:start position:0%
+four five six seven eight nine and then
+you<00:00:35.280><c> would</c><00:00:35.399><c> count</c><00:00:35.550><c> down</c><00:00:35.820><c> eight</c><00:00:36.149><c> seven</c><00:00:36.840><c> six</c>
+
+00:00:37.010 --> 00:00:37.020 align:start position:0%
+you would count down eight seven six
+ 
+
+00:00:37.020 --> 00:00:41.209 align:start position:0%
+you would count down eight seven six
+five<00:00:37.170><c> four</c><00:00:37.320><c> three</c><00:00:37.590><c> two</c><00:00:38.010><c> one</c><00:00:39.710><c> but</c><00:00:40.710><c> what</c><00:00:40.860><c> happens</c>
+
+00:00:41.209 --> 00:00:41.219 align:start position:0%
+five four three two one but what happens
+ 
+
+00:00:41.219 --> 00:00:42.920 align:start position:0%
+five four three two one but what happens
+when<00:00:41.340><c> you</c><00:00:41.460><c> have</c><00:00:41.640><c> a</c><00:00:41.670><c> number</c><00:00:42.149><c> which</c><00:00:42.300><c> has</c><00:00:42.510><c> ten</c>
+
+00:00:42.920 --> 00:00:42.930 align:start position:0%
+when you have a number which has ten
+ 
+
+00:00:42.930 --> 00:00:43.490 align:start position:0%
+when you have a number which has ten
+ones
+
+00:00:43.490 --> 00:00:43.500 align:start position:0%
+ones
+ 
+
+00:00:43.500 --> 00:00:47.290 align:start position:0%
+ones
+how<00:00:44.190><c> would</c><00:00:44.250><c> you</c><00:00:44.489><c> multiply</c><00:00:44.670><c> that</c><00:00:45.180><c> by</c><00:00:45.239><c> itself</c><00:00:45.780><c> if</c>
+
+00:00:47.290 --> 00:00:47.300 align:start position:0%
+how would you multiply that by itself if
+ 
+
+00:00:47.300 --> 00:00:50.029 align:start position:0%
+how would you multiply that by itself if
+the<00:00:48.300><c> pattern</c><00:00:48.629><c> continues</c><00:00:48.660><c> you</c><00:00:49.469><c> would</c><00:00:49.620><c> count</c><00:00:49.800><c> up</c>
+
+00:00:50.029 --> 00:00:50.039 align:start position:0%
+the pattern continues you would count up
+ 
+
+00:00:50.039 --> 00:00:52.459 align:start position:0%
+the pattern continues you would count up
+to<00:00:50.370><c> ten</c><00:00:50.670><c> and</c><00:00:50.910><c> then</c><00:00:51.000><c> you</c><00:00:51.510><c> count</c><00:00:51.719><c> back</c><00:00:51.989><c> down</c><00:00:52.260><c> to</c>
+
+00:00:52.459 --> 00:00:52.469 align:start position:0%
+to ten and then you count back down to
+ 
+
+00:00:52.469 --> 00:00:56.360 align:start position:0%
+to ten and then you count back down to
+one<00:00:53.690><c> if</c><00:00:54.690><c> you</c><00:00:54.870><c> had</c><00:00:54.960><c> a</c><00:00:54.989><c> number</c><00:00:55.320><c> with</c><00:00:55.469><c> eleven</c><00:00:56.129><c> ones</c>
+
+00:00:56.360 --> 00:00:56.370 align:start position:0%
+one if you had a number with eleven ones
+ 
+
+00:00:56.370 --> 00:00:59.060 align:start position:0%
+one if you had a number with eleven ones
+in<00:00:56.579><c> it</c><00:00:56.760><c> you</c><00:00:57.300><c> would</c><00:00:57.390><c> count</c><00:00:57.629><c> up</c><00:00:57.840><c> to</c><00:00:58.260><c> eleven</c><00:00:58.890><c> and</c>
+
+00:00:59.060 --> 00:00:59.070 align:start position:0%
+in it you would count up to eleven and
+ 
+
+00:00:59.070 --> 00:01:02.180 align:start position:0%
+in it you would count up to eleven and
+then<00:00:59.460><c> you</c><00:00:59.579><c> count</c><00:00:59.820><c> back</c><00:01:00.059><c> down</c><00:01:00.329><c> to</c><00:01:00.539><c> one</c><00:01:00.719><c> in</c><00:01:01.190><c> this</c>
+
+00:01:02.180 --> 00:01:02.190 align:start position:0%
+then you count back down to one in this
+ 
+
+00:01:02.190 --> 00:01:04.219 align:start position:0%
+then you count back down to one in this
+video<00:01:02.520><c> I'm</c><00:01:02.730><c> going</c><00:01:02.910><c> to</c><00:01:03.059><c> show</c><00:01:03.239><c> you</c><00:01:03.300><c> a</c><00:01:03.449><c> very</c><00:01:03.899><c> real</c>
+
+00:01:04.219 --> 00:01:04.229 align:start position:0%
+video I'm going to show you a very real
+ 
+
+00:01:04.229 --> 00:01:06.920 align:start position:0%
+video I'm going to show you a very real
+way<00:01:04.530><c> in</c><00:01:04.830><c> which</c><00:01:05.400><c> this</c><00:01:05.640><c> pattern</c><00:01:06.060><c> does</c><00:01:06.299><c> continue</c>
+
+00:01:06.920 --> 00:01:06.930 align:start position:0%
+way in which this pattern does continue
+ 
+
+00:01:06.930 --> 00:01:09.080 align:start position:0%
+way in which this pattern does continue
+and<00:01:07.140><c> you</c><00:01:07.560><c> could</c><00:01:07.799><c> say</c><00:01:08.010><c> this</c><00:01:08.280><c> is</c><00:01:08.490><c> an</c><00:01:08.640><c> accurate</c>
+
+00:01:09.080 --> 00:01:09.090 align:start position:0%
+and you could say this is an accurate
+ 
+
+00:01:09.090 --> 00:01:12.530 align:start position:0%
+and you could say this is an accurate
+representation<00:01:09.990><c> of</c><00:01:10.110><c> the</c><00:01:10.290><c> multiplication</c><00:01:11.540><c> but</c>
+
+00:01:12.530 --> 00:01:12.540 align:start position:0%
+representation of the multiplication but
+ 
+
+00:01:12.540 --> 00:01:14.330 align:start position:0%
+representation of the multiplication but
+since<00:01:12.750><c> we</c><00:01:12.869><c> write</c><00:01:13.080><c> numbers</c><00:01:13.439><c> in</c><00:01:13.619><c> decimal</c><00:01:13.799><c> form</c>
+
+00:01:14.330 --> 00:01:14.340 align:start position:0%
+since we write numbers in decimal form
+ 
+
+00:01:14.340 --> 00:01:16.010 align:start position:0%
+since we write numbers in decimal form
+we're<00:01:14.939><c> going</c><00:01:15.180><c> to</c><00:01:15.270><c> want</c><00:01:15.390><c> to</c><00:01:15.479><c> carry</c><00:01:15.810><c> over</c>
+
+00:01:16.010 --> 00:01:16.020 align:start position:0%
+we're going to want to carry over
+ 
+
+00:01:16.020 --> 00:01:17.990 align:start position:0%
+we're going to want to carry over
+whenever<00:01:16.590><c> we</c><00:01:16.770><c> have</c><00:01:16.979><c> a</c><00:01:17.130><c> result</c><00:01:17.549><c> that's</c><00:01:17.729><c> more</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+whenever we have a result that's more
+ 
+
+00:01:18.000 --> 00:01:20.780 align:start position:0%
+whenever we have a result that's more
+than<00:01:18.180><c> 10</c><00:01:18.650><c> so</c><00:01:19.650><c> when</c><00:01:19.770><c> we</c><00:01:19.860><c> have</c><00:01:19.979><c> 10</c><00:01:20.220><c> ones</c><00:01:20.460><c> in</c><00:01:20.670><c> the</c>
+
+00:01:20.780 --> 00:01:20.790 align:start position:0%
+than 10 so when we have 10 ones in the
+ 
+
+00:01:20.790 --> 00:01:23.270 align:start position:0%
+than 10 so when we have 10 ones in the
+digit<00:01:21.090><c> our</c><00:01:21.240><c> actual</c><00:01:22.049><c> result</c><00:01:22.439><c> on</c><00:01:22.619><c> a</c><00:01:22.650><c> calculator</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+digit our actual result on a calculator
+ 
+
+00:01:23.280 --> 00:01:25.700 align:start position:0%
+digit our actual result on a calculator
+will<00:01:23.520><c> be</c><00:01:23.640><c> slightly</c><00:01:24.060><c> different</c><00:01:24.270><c> and</c><00:01:24.840><c> the</c><00:01:25.500><c> same</c>
+
+00:01:25.700 --> 00:01:25.710 align:start position:0%
+will be slightly different and the same
+ 
+
+00:01:25.710 --> 00:01:27.200 align:start position:0%
+will be slightly different and the same
+thing<00:01:25.890><c> happens</c><00:01:26.280><c> for</c><00:01:26.369><c> any</c><00:01:26.670><c> number</c><00:01:27.000><c> when</c><00:01:27.180><c> we</c>
+
+00:01:27.200 --> 00:01:27.210 align:start position:0%
+thing happens for any number when we
+ 
+
+00:01:27.210 --> 00:01:29.960 align:start position:0%
+thing happens for any number when we
+have<00:01:27.479><c> more</c><00:01:28.140><c> than</c><00:01:28.200><c> 10</c><00:01:28.590><c> ones</c><00:01:28.829><c> in</c><00:01:29.040><c> the</c><00:01:29.159><c> digit</c><00:01:29.520><c> now</c>
+
+00:01:29.960 --> 00:01:29.970 align:start position:0%
+have more than 10 ones in the digit now
+ 
+
+00:01:29.970 --> 00:01:30.980 align:start position:0%
+have more than 10 ones in the digit now
+I'm<00:01:30.090><c> going</c><00:01:30.270><c> to</c><00:01:30.329><c> show</c><00:01:30.450><c> you</c><00:01:30.479><c> how</c><00:01:30.750><c> you</c><00:01:30.810><c> can</c>
+
+00:01:30.980 --> 00:01:30.990 align:start position:0%
+I'm going to show you how you can
+ 
+
+00:01:30.990 --> 00:01:32.810 align:start position:0%
+I'm going to show you how you can
+actually<00:01:31.140><c> get</c><00:01:31.470><c> to</c><00:01:31.619><c> these</c><00:01:31.740><c> results</c><00:01:31.979><c> even</c>
+
+00:01:32.810 --> 00:01:32.820 align:start position:0%
+actually get to these results even
+ 
+
+00:01:32.820 --> 00:01:37.640 align:start position:0%
+actually get to these results even
+though<00:01:33.090><c> the</c><00:01:33.270><c> pattern</c><00:01:33.600><c> continues</c><00:01:36.049><c> so</c><00:01:37.049><c> to</c><00:01:37.110><c> show</c>
+
+00:01:37.640 --> 00:01:37.650 align:start position:0%
+though the pattern continues so to show
+ 
+
+00:01:37.650 --> 00:01:39.440 align:start position:0%
+though the pattern continues so to show
+you<00:01:37.740><c> how</c><00:01:38.009><c> this</c><00:01:38.159><c> pattern</c><00:01:38.549><c> works</c><00:01:38.790><c> I'm</c><00:01:39.030><c> going</c><00:01:39.299><c> to</c>
+
+00:01:39.440 --> 00:01:39.450 align:start position:0%
+you how this pattern works I'm going to
+ 
+
+00:01:39.450 --> 00:01:41.510 align:start position:0%
+you how this pattern works I'm going to
+use<00:01:39.659><c> a</c><00:01:39.689><c> method</c><00:01:40.200><c> of</c><00:01:40.259><c> multiplying</c><00:01:40.860><c> numbers</c><00:01:41.280><c> by</c>
+
+00:01:41.510 --> 00:01:41.520 align:start position:0%
+use a method of multiplying numbers by
+ 
+
+00:01:41.520 --> 00:01:44.240 align:start position:0%
+use a method of multiplying numbers by
+using<00:01:41.759><c> lines</c><00:01:42.150><c> I</c><00:01:42.649><c> provided</c><00:01:43.649><c> a</c><00:01:43.799><c> link</c><00:01:43.829><c> in</c><00:01:44.159><c> the</c>
+
+00:01:44.240 --> 00:01:44.250 align:start position:0%
+using lines I provided a link in the
+ 
+
+00:01:44.250 --> 00:01:46.310 align:start position:0%
+using lines I provided a link in the
+video<00:01:44.369><c> description</c><00:01:44.520><c> for</c><00:01:45.060><c> that</c><00:01:45.090><c> and</c><00:01:45.479><c> you</c><00:01:46.170><c> can</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+video description for that and you can
+ 
+
+00:01:46.320 --> 00:01:47.450 align:start position:0%
+video description for that and you can
+check<00:01:46.470><c> out</c><00:01:46.590><c> the</c><00:01:46.710><c> method</c><00:01:46.979><c> I'm</c><00:01:47.070><c> going</c><00:01:47.220><c> to</c><00:01:47.310><c> give</c>
+
+00:01:47.450 --> 00:01:47.460 align:start position:0%
+check out the method I'm going to give
+ 
+
+00:01:47.460 --> 00:01:50.030 align:start position:0%
+check out the method I'm going to give
+you<00:01:47.610><c> a</c><00:01:47.640><c> brief</c><00:01:48.060><c> explanation</c><00:01:48.619><c> so</c><00:01:49.619><c> let's</c><00:01:49.829><c> say</c><00:01:49.950><c> you</c>
+
+00:01:50.030 --> 00:01:50.040 align:start position:0%
+you a brief explanation so let's say you
+ 
+
+00:01:50.040 --> 00:01:53.840 align:start position:0%
+you a brief explanation so let's say you
+want<00:01:50.189><c> to</c><00:01:50.280><c> multiply</c><00:01:50.369><c> 11</c><00:01:51.360><c> by</c><00:01:51.509><c> itself</c><00:01:52.759><c> for</c><00:01:53.759><c> the</c>
+
+00:01:53.840 --> 00:01:53.850 align:start position:0%
+want to multiply 11 by itself for the
+ 
+
+00:01:53.850 --> 00:01:55.880 align:start position:0%
+want to multiply 11 by itself for the
+number<00:01:54.090><c> 11</c><00:01:54.570><c> we're</c><00:01:54.780><c> going</c><00:01:55.020><c> to</c><00:01:55.110><c> draw</c><00:01:55.290><c> one</c><00:01:55.590><c> line</c>
+
+00:01:55.880 --> 00:01:55.890 align:start position:0%
+number 11 we're going to draw one line
+ 
+
+00:01:55.890 --> 00:01:58.280 align:start position:0%
+number 11 we're going to draw one line
+for<00:01:56.250><c> each</c><00:01:56.460><c> digit</c><00:01:56.880><c> in</c><00:01:57.000><c> the</c><00:01:57.090><c> number</c><00:01:57.119><c> so</c><00:01:57.960><c> for</c><00:01:58.200><c> the</c>
+
+00:01:58.280 --> 00:01:58.290 align:start position:0%
+for each digit in the number so for the
+ 
+
+00:01:58.290 --> 00:02:00.260 align:start position:0%
+for each digit in the number so for the
+leading<00:01:58.619><c> one</c><00:01:58.770><c> we</c><00:01:58.950><c> draw</c><00:01:59.159><c> one</c><00:01:59.399><c> line</c><00:01:59.430><c> and</c><00:01:59.820><c> then</c>
+
+00:02:00.260 --> 00:02:00.270 align:start position:0%
+leading one we draw one line and then
+ 
+
+00:02:00.270 --> 00:02:01.940 align:start position:0%
+leading one we draw one line and then
+for<00:02:00.509><c> the</c><00:02:00.600><c> one</c><00:02:00.750><c> in</c><00:02:00.899><c> the</c><00:02:00.990><c> unit's</c><00:02:01.320><c> digit</c><00:02:01.380><c> we</c><00:02:01.770><c> draw</c>
+
+00:02:01.940 --> 00:02:01.950 align:start position:0%
+for the one in the unit's digit we draw
+ 
+
+00:02:01.950 --> 00:02:04.760 align:start position:0%
+for the one in the unit's digit we draw
+another<00:02:02.040><c> line</c><00:02:02.840><c> for</c><00:02:03.840><c> the</c><00:02:03.960><c> other</c><00:02:04.110><c> number</c><00:02:04.530><c> that</c>
+
+00:02:04.760 --> 00:02:04.770 align:start position:0%
+another line for the other number that
+ 
+
+00:02:04.770 --> 00:02:07.550 align:start position:0%
+another line for the other number that
+we're<00:02:04.920><c> multiplying</c><00:02:05.189><c> by</c><00:02:05.460><c> we</c><00:02:06.290><c> going</c><00:02:07.290><c> to</c><00:02:07.380><c> draw</c>
+
+00:02:07.550 --> 00:02:07.560 align:start position:0%
+we're multiplying by we going to draw
+ 
+
+00:02:07.560 --> 00:02:10.010 align:start position:0%
+we're multiplying by we going to draw
+lines<00:02:07.770><c> in</c><00:02:08.069><c> the</c><00:02:08.160><c> opposite</c><00:02:08.610><c> direction</c><00:02:08.910><c> so</c><00:02:09.300><c> for</c>
+
+00:02:10.010 --> 00:02:10.020 align:start position:0%
+lines in the opposite direction so for
+ 
+
+00:02:10.020 --> 00:02:11.960 align:start position:0%
+lines in the opposite direction so for
+this<00:02:10.349><c> one</c><00:02:10.590><c> we're</c><00:02:10.739><c> going</c><00:02:10.830><c> to</c><00:02:10.890><c> draw</c><00:02:11.160><c> one</c><00:02:11.610><c> line</c><00:02:11.790><c> in</c>
+
+00:02:11.960 --> 00:02:11.970 align:start position:0%
+this one we're going to draw one line in
+ 
+
+00:02:11.970 --> 00:02:13.460 align:start position:0%
+this one we're going to draw one line in
+the<00:02:12.060><c> opposite</c><00:02:12.450><c> direction</c>
+
+00:02:13.460 --> 00:02:13.470 align:start position:0%
+the opposite direction
+ 
+
+00:02:13.470 --> 00:02:14.690 align:start position:0%
+the opposite direction
+and<00:02:13.560><c> for</c><00:02:13.890><c> the</c><00:02:13.980><c> other</c><00:02:14.010><c> one</c><00:02:14.340><c> we're</c><00:02:14.550><c> going</c><00:02:14.640><c> to</c>
+
+00:02:14.690 --> 00:02:14.700 align:start position:0%
+and for the other one we're going to
+ 
+
+00:02:14.700 --> 00:02:18.620 align:start position:0%
+and for the other one we're going to
+draw<00:02:14.910><c> another</c><00:02:15.180><c> line</c><00:02:17.000><c> to</c><00:02:18.000><c> get</c><00:02:18.150><c> our</c><00:02:18.210><c> result</c>
+
+00:02:18.620 --> 00:02:18.630 align:start position:0%
+draw another line to get our result
+ 
+
+00:02:18.630 --> 00:02:20.210 align:start position:0%
+draw another line to get our result
+we're<00:02:18.960><c> going</c><00:02:19.110><c> to</c><00:02:19.260><c> count</c><00:02:19.560><c> out</c><00:02:19.710><c> the</c><00:02:19.740><c> number</c><00:02:20.190><c> of</c>
+
+00:02:20.210 --> 00:02:20.220 align:start position:0%
+we're going to count out the number of
+ 
+
+00:02:20.220 --> 00:02:23.780 align:start position:0%
+we're going to count out the number of
+intersections<00:02:20.970><c> between</c><00:02:21.300><c> the</c><00:02:21.480><c> lines</c><00:02:21.690><c> on</c><00:02:22.790><c> the</c>
+
+00:02:23.780 --> 00:02:23.790 align:start position:0%
+intersections between the lines on the
+ 
+
+00:02:23.790 --> 00:02:26.390 align:start position:0%
+intersections between the lines on the
+very<00:02:24.120><c> far</c><00:02:24.450><c> right</c><00:02:24.720><c> we</c><00:02:25.410><c> look</c><00:02:25.650><c> at</c><00:02:25.800><c> the</c><00:02:25.920><c> vertically</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+very far right we look at the vertically
+ 
+
+00:02:26.400 --> 00:02:30.130 align:start position:0%
+very far right we look at the vertically
+lined<00:02:26.900><c> intersections</c><00:02:27.900><c> and</c><00:02:28.080><c> we</c><00:02:28.200><c> have</c><00:02:28.410><c> one</c><00:02:28.680><c> in</c>
+
+00:02:30.130 --> 00:02:30.140 align:start position:0%
+lined intersections and we have one in
+ 
+
+00:02:30.140 --> 00:02:33.290 align:start position:0%
+lined intersections and we have one in
+the<00:02:31.140><c> middle</c><00:02:31.170><c> these</c><00:02:32.130><c> two</c><00:02:32.460><c> intersections</c><00:02:33.150><c> are</c>
+
+00:02:33.290 --> 00:02:33.300 align:start position:0%
+the middle these two intersections are
+ 
+
+00:02:33.300 --> 00:02:35.390 align:start position:0%
+the middle these two intersections are
+vertically<00:02:33.750><c> aligned</c><00:02:34.230><c> so</c><00:02:34.770><c> we</c><00:02:34.920><c> have</c><00:02:35.010><c> two</c>
+
+00:02:35.390 --> 00:02:35.400 align:start position:0%
+vertically aligned so we have two
+ 
+
+00:02:35.400 --> 00:02:38.630 align:start position:0%
+vertically aligned so we have two
+intersections<00:02:36.240><c> and</c><00:02:37.310><c> finally</c><00:02:38.310><c> on</c><00:02:38.490><c> the</c><00:02:38.610><c> far</c>
+
+00:02:38.630 --> 00:02:38.640 align:start position:0%
+intersections and finally on the far
+ 
+
+00:02:38.640 --> 00:02:42.770 align:start position:0%
+intersections and finally on the far
+left<00:02:39.090><c> we</c><00:02:39.330><c> have</c><00:02:39.420><c> one</c><00:02:39.690><c> intersection</c><00:02:41.660><c> so</c><00:02:42.660><c> our</c>
+
+00:02:42.770 --> 00:02:42.780 align:start position:0%
+left we have one intersection so our
+ 
+
+00:02:42.780 --> 00:02:48.199 align:start position:0%
+left we have one intersection so our
+result<00:02:43.110><c> of</c><00:02:43.290><c> 11</c><00:02:43.980><c> times</c><00:02:44.190><c> 11</c><00:02:44.730><c> is</c><00:02:44.850><c> 121</c><00:02:47.090><c> so</c><00:02:48.090><c> now</c>
+
+00:02:48.199 --> 00:02:48.209 align:start position:0%
+result of 11 times 11 is 121 so now
+ 
+
+00:02:48.209 --> 00:02:49.760 align:start position:0%
+result of 11 times 11 is 121 so now
+we're<00:02:48.360><c> going</c><00:02:48.510><c> to</c><00:02:48.600><c> try</c><00:02:48.870><c> and</c><00:02:49.140><c> extend</c><00:02:49.530><c> this</c>
+
+00:02:49.760 --> 00:02:49.770 align:start position:0%
+we're going to try and extend this
+ 
+
+00:02:49.770 --> 00:02:52.190 align:start position:0%
+we're going to try and extend this
+pattern<00:02:50.250><c> so</c><00:02:51.150><c> to</c><00:02:51.240><c> do</c><00:02:51.480><c> that</c><00:02:51.510><c> I'm</c><00:02:51.870><c> going</c><00:02:52.170><c> to</c>
+
+00:02:52.190 --> 00:02:52.200 align:start position:0%
+pattern so to do that I'm going to
+ 
+
+00:02:52.200 --> 00:02:54.440 align:start position:0%
+pattern so to do that I'm going to
+redraw<00:02:52.650><c> this</c><00:02:52.830><c> diagram</c><00:02:52.890><c> a</c><00:02:53.340><c> little</c><00:02:53.700><c> bit</c><00:02:53.880><c> I'm</c>
+
+00:02:54.440 --> 00:02:54.450 align:start position:0%
+redraw this diagram a little bit I'm
+ 
+
+00:02:54.450 --> 00:02:58.100 align:start position:0%
+redraw this diagram a little bit I'm
+going<00:02:54.660><c> to</c><00:02:54.750><c> bring</c><00:02:55.080><c> in</c><00:02:55.260><c> these</c><00:02:55.410><c> lines</c><00:02:55.800><c> and</c><00:02:57.110><c> we're</c>
+
+00:02:58.100 --> 00:02:58.110 align:start position:0%
+going to bring in these lines and we're
+ 
+
+00:02:58.110 --> 00:02:59.750 align:start position:0%
+going to bring in these lines and we're
+going<00:02:58.410><c> to</c><00:02:58.440><c> have</c><00:02:58.560><c> exactly</c><00:02:58.740><c> the</c><00:02:59.160><c> same</c><00:02:59.190><c> diagram</c>
+
+00:02:59.750 --> 00:02:59.760 align:start position:0%
+going to have exactly the same diagram
+ 
+
+00:02:59.760 --> 00:03:01.340 align:start position:0%
+going to have exactly the same diagram
+that's<00:03:00.000><c> smooshed</c><00:03:00.360><c> in</c><00:03:00.570><c> just</c><00:03:00.810><c> a</c><00:03:00.930><c> little</c><00:03:00.959><c> bit</c>
+
+00:03:01.340 --> 00:03:01.350 align:start position:0%
+that's smooshed in just a little bit
+ 
+
+00:03:01.350 --> 00:03:03.770 align:start position:0%
+that's smooshed in just a little bit
+we<00:03:01.800><c> still</c><00:03:02.070><c> have</c><00:03:02.280><c> one</c><00:03:02.730><c> two</c><00:03:03.090><c> and</c><00:03:03.120><c> one</c><00:03:03.510><c> as</c><00:03:03.720><c> a</c>
+
+00:03:03.770 --> 00:03:03.780 align:start position:0%
+we still have one two and one as a
+ 
+
+00:03:03.780 --> 00:03:07.130 align:start position:0%
+we still have one two and one as a
+result<00:03:04.410><c> of</c><00:03:04.650><c> 11</c><00:03:05.040><c> times</c><00:03:05.250><c> 11</c><00:03:05.340><c> and</c><00:03:05.880><c> the</c><00:03:06.780><c> reason</c><00:03:07.050><c> I'm</c>
+
+00:03:07.130 --> 00:03:07.140 align:start position:0%
+result of 11 times 11 and the reason I'm
+ 
+
+00:03:07.140 --> 00:03:09.020 align:start position:0%
+result of 11 times 11 and the reason I'm
+doing<00:03:07.320><c> this</c><00:03:07.440><c> is</c><00:03:07.709><c> now</c><00:03:08.100><c> we</c><00:03:08.160><c> want</c><00:03:08.520><c> to</c><00:03:08.640><c> extend</c><00:03:08.700><c> the</c>
+
+00:03:09.020 --> 00:03:09.030 align:start position:0%
+doing this is now we want to extend the
+ 
+
+00:03:09.030 --> 00:03:12.640 align:start position:0%
+doing this is now we want to extend the
+pattern<00:03:09.530><c> let's</c><00:03:10.530><c> say</c><00:03:10.680><c> we</c><00:03:10.830><c> want</c><00:03:11.040><c> to</c><00:03:11.160><c> multiply</c>
+
+00:03:12.640 --> 00:03:12.650 align:start position:0%
+pattern let's say we want to multiply
+ 
+
+00:03:12.650 --> 00:03:17.060 align:start position:0%
+pattern let's say we want to multiply
+111<00:03:14.330><c> we're</c><00:03:15.330><c> going</c><00:03:15.600><c> to</c><00:03:15.690><c> add</c><00:03:15.840><c> one</c><00:03:16.320><c> more</c><00:03:16.350><c> line</c><00:03:16.740><c> and</c>
+
+00:03:17.060 --> 00:03:17.070 align:start position:0%
+111 we're going to add one more line and
+ 
+
+00:03:17.070 --> 00:03:19.670 align:start position:0%
+111 we're going to add one more line and
+if<00:03:17.910><c> we</c><00:03:18.030><c> change</c><00:03:18.239><c> the</c><00:03:18.390><c> second</c><00:03:18.720><c> number</c><00:03:18.959><c> to</c><00:03:19.110><c> 111</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+if we change the second number to 111
+ 
+
+00:03:19.680 --> 00:03:21.890 align:start position:0%
+if we change the second number to 111
+we're<00:03:20.459><c> going</c><00:03:20.670><c> to</c><00:03:20.760><c> add</c><00:03:20.910><c> one</c><00:03:21.180><c> more</c><00:03:21.209><c> line</c><00:03:21.570><c> again</c>
+
+00:03:21.890 --> 00:03:21.900 align:start position:0%
+we're going to add one more line again
+ 
+
+00:03:21.900 --> 00:03:25.160 align:start position:0%
+we're going to add one more line again
+so<00:03:22.640><c> what</c><00:03:23.640><c> have</c><00:03:23.730><c> we</c><00:03:23.790><c> done</c><00:03:23.910><c> in</c><00:03:24.150><c> this</c><00:03:24.540><c> new</c><00:03:24.750><c> figure</c>
+
+00:03:25.160 --> 00:03:25.170 align:start position:0%
+so what have we done in this new figure
+ 
+
+00:03:25.170 --> 00:03:28.660 align:start position:0%
+so what have we done in this new figure
+where<00:03:25.500><c> we're</c><00:03:25.680><c> multiplying</c><00:03:26.840><c> 111</c><00:03:27.840><c> by</c><00:03:27.989><c> itself</c>
+
+00:03:28.660 --> 00:03:28.670 align:start position:0%
+where we're multiplying 111 by itself
+ 
+
+00:03:28.670 --> 00:03:31.040 align:start position:0%
+where we're multiplying 111 by itself
+which<00:03:29.670><c> intersections</c><00:03:30.360><c> have</c><00:03:30.450><c> we</c><00:03:30.630><c> created</c>
+
+00:03:31.040 --> 00:03:31.050 align:start position:0%
+which intersections have we created
+ 
+
+00:03:31.050 --> 00:03:33.440 align:start position:0%
+which intersections have we created
+which<00:03:31.200><c> are</c><00:03:31.350><c> new</c><00:03:31.530><c> well</c><00:03:32.519><c> we</c><00:03:32.640><c> created</c><00:03:32.820><c> one</c>
+
+00:03:33.440 --> 00:03:33.450 align:start position:0%
+which are new well we created one
+ 
+
+00:03:33.450 --> 00:03:37.759 align:start position:0%
+which are new well we created one
+intersection<00:03:34.080><c> on</c><00:03:34.200><c> the</c><00:03:34.350><c> far</c><00:03:34.620><c> left</c><00:03:36.560><c> then</c><00:03:37.560><c> we've</c>
+
+00:03:37.759 --> 00:03:37.769 align:start position:0%
+intersection on the far left then we've
+ 
+
+00:03:37.769 --> 00:03:40.310 align:start position:0%
+intersection on the far left then we've
+added<00:03:38.010><c> one</c><00:03:38.220><c> intersection</c><00:03:39.000><c> to</c><00:03:39.600><c> each</c><00:03:39.840><c> of</c><00:03:40.110><c> the</c>
+
+00:03:40.310 --> 00:03:40.320 align:start position:0%
+added one intersection to each of the
+ 
+
+00:03:40.320 --> 00:03:42.890 align:start position:0%
+added one intersection to each of the
+columns<00:03:40.769><c> that</c><00:03:40.980><c> we've</c><00:03:41.250><c> already</c><00:03:41.489><c> had</c><00:03:41.790><c> and</c><00:03:42.150><c> then</c>
+
+00:03:42.890 --> 00:03:42.900 align:start position:0%
+columns that we've already had and then
+ 
+
+00:03:42.900 --> 00:03:44.210 align:start position:0%
+columns that we've already had and then
+on<00:03:43.019><c> the</c><00:03:43.140><c> far</c><00:03:43.350><c> right</c><00:03:43.590><c> we</c><00:03:43.620><c> have</c><00:03:43.830><c> one</c><00:03:44.190><c> more</c>
+
+00:03:44.210 --> 00:03:44.220 align:start position:0%
+on the far right we have one more
+ 
+
+00:03:44.220 --> 00:03:48.440 align:start position:0%
+on the far right we have one more
+intersection<00:03:46.850><c> so</c><00:03:47.850><c> when</c><00:03:47.970><c> we</c><00:03:48.090><c> count</c><00:03:48.299><c> up</c><00:03:48.390><c> the</c>
+
+00:03:48.440 --> 00:03:48.450 align:start position:0%
+intersection so when we count up the
+ 
+
+00:03:48.450 --> 00:03:50.180 align:start position:0%
+intersection so when we count up the
+vertically<00:03:49.080><c> aligned</c><00:03:49.350><c> intersections</c><00:03:50.010><c> we're</c>
+
+00:03:50.180 --> 00:03:50.190 align:start position:0%
+vertically aligned intersections we're
+ 
+
+00:03:50.190 --> 00:03:51.620 align:start position:0%
+vertically aligned intersections we're
+going<00:03:50.400><c> to</c><00:03:50.489><c> start</c><00:03:50.730><c> out</c><00:03:50.850><c> with</c><00:03:50.880><c> one</c><00:03:51.209><c> on</c><00:03:51.330><c> the</c><00:03:51.450><c> far</c>
+
+00:03:51.620 --> 00:03:51.630 align:start position:0%
+going to start out with one on the far
+ 
+
+00:03:51.630 --> 00:03:55.130 align:start position:0%
+going to start out with one on the far
+right<00:03:51.900><c> then</c><00:03:52.680><c> we</c><00:03:52.890><c> have</c><00:03:53.010><c> two</c><00:03:53.780><c> then</c><00:03:54.780><c> we</c><00:03:55.019><c> have</c>
+
+00:03:55.130 --> 00:03:55.140 align:start position:0%
+right then we have two then we have
+ 
+
+00:03:55.140 --> 00:03:59.449 align:start position:0%
+right then we have two then we have
+three<00:03:56.540><c> we</c><00:03:57.540><c> again</c><00:03:57.810><c> have</c><00:03:58.049><c> two</c><00:03:58.260><c> and</c><00:03:58.560><c> then</c><00:03:59.130><c> we</c><00:03:59.280><c> have</c>
+
+00:03:59.449 --> 00:03:59.459 align:start position:0%
+three we again have two and then we have
+ 
+
+00:03:59.459 --> 00:04:01.729 align:start position:0%
+three we again have two and then we have
+one<00:03:59.730><c> so</c><00:04:00.480><c> you</c><00:04:00.540><c> can</c><00:04:00.690><c> see</c><00:04:00.930><c> why</c><00:04:01.110><c> we</c><00:04:01.290><c> have</c><00:04:01.380><c> a</c><00:04:01.410><c> very</c>
+
+00:04:01.729 --> 00:04:01.739 align:start position:0%
+one so you can see why we have a very
+ 
+
+00:04:01.739 --> 00:04:04.039 align:start position:0%
+one so you can see why we have a very
+symmetrical<00:04:02.430><c> pattern</c><00:04:02.850><c> of</c><00:04:03.060><c> intersections</c><00:04:03.780><c> and</c>
+
+00:04:04.039 --> 00:04:04.049 align:start position:0%
+symmetrical pattern of intersections and
+ 
+
+00:04:04.049 --> 00:04:06.560 align:start position:0%
+symmetrical pattern of intersections and
+you<00:04:05.010><c> can</c><00:04:05.130><c> also</c><00:04:05.280><c> see</c><00:04:05.610><c> that</c><00:04:05.640><c> we're</c><00:04:05.970><c> adding</c><00:04:06.180><c> one</c>
+
+00:04:06.560 --> 00:04:06.570 align:start position:0%
+you can also see that we're adding one
+ 
+
+00:04:06.570 --> 00:04:08.539 align:start position:0%
+you can also see that we're adding one
+intersection<00:04:07.019><c> to</c><00:04:07.350><c> each</c><00:04:07.560><c> of</c><00:04:07.769><c> the</c><00:04:07.860><c> existing</c>
+
+00:04:08.539 --> 00:04:08.549 align:start position:0%
+intersection to each of the existing
+ 
+
+00:04:08.549 --> 00:04:10.759 align:start position:0%
+intersection to each of the existing
+numbers<00:04:08.910><c> and</c><00:04:09.150><c> then</c><00:04:09.600><c> we're</c><00:04:09.750><c> adding</c><00:04:10.110><c> one</c><00:04:10.350><c> on</c><00:04:10.590><c> the</c>
+
+00:04:10.759 --> 00:04:10.769 align:start position:0%
+numbers and then we're adding one on the
+ 
+
+00:04:10.769 --> 00:04:13.970 align:start position:0%
+numbers and then we're adding one on the
+far<00:04:10.980><c> left</c><00:04:11.250><c> and</c><00:04:11.430><c> the</c><00:04:11.489><c> far</c><00:04:11.580><c> right</c><00:04:11.970><c> so</c><00:04:12.959><c> 111</c><00:04:13.769><c> times</c>
+
+00:04:13.970 --> 00:04:13.980 align:start position:0%
+far left and the far right so 111 times
+ 
+
+00:04:13.980 --> 00:04:19.159 align:start position:0%
+far left and the far right so 111 times
+itself<00:04:14.489><c> is</c><00:04:14.730><c> one</c><00:04:15.630><c> two</c><00:04:15.810><c> three</c><00:04:16.140><c> to</c><00:04:16.500><c> one</c><00:04:16.799><c> in</c><00:04:18.169><c> fact</c>
+
+00:04:19.159 --> 00:04:19.169 align:start position:0%
+itself is one two three to one in fact
+ 
+
+00:04:19.169 --> 00:04:21.199 align:start position:0%
+itself is one two three to one in fact
+this<00:04:19.350><c> pattern</c><00:04:19.739><c> continues</c><00:04:19.890><c> I'm</c><00:04:20.489><c> going</c><00:04:21.000><c> to</c><00:04:21.090><c> show</c>
+
+00:04:21.199 --> 00:04:21.209 align:start position:0%
+this pattern continues I'm going to show
+ 
+
+00:04:21.209 --> 00:04:24.529 align:start position:0%
+this pattern continues I'm going to show
+you<00:04:21.239><c> one</c><00:04:21.570><c> more</c><00:04:21.780><c> example</c><00:04:23.030><c> so</c><00:04:24.030><c> let's</c><00:04:24.270><c> say</c><00:04:24.419><c> we</c>
+
+00:04:24.529 --> 00:04:24.539 align:start position:0%
+you one more example so let's say we
+ 
+
+00:04:24.539 --> 00:04:26.500 align:start position:0%
+you one more example so let's say we
+wanted<00:04:24.840><c> to</c><00:04:24.900><c> extend</c><00:04:25.410><c> this</c><00:04:25.710><c> to</c>
+
+00:04:26.500 --> 00:04:26.510 align:start position:0%
+wanted to extend this to
+ 
+
+00:04:26.510 --> 00:04:28.870 align:start position:0%
+wanted to extend this to
+the<00:04:26.960><c> number</c><00:04:27.260><c> one</c><00:04:27.470><c> to</c><00:04:27.710><c> each</c><00:04:27.920><c> of</c><00:04:28.250><c> the</c><00:04:28.430><c> numbers</c><00:04:28.760><c> we</c>
+
+00:04:28.870 --> 00:04:28.880 align:start position:0%
+the number one to each of the numbers we
+ 
+
+00:04:28.880 --> 00:04:33.820 align:start position:0%
+the number one to each of the numbers we
+already<00:04:29.180><c> have</c><00:04:29.950><c> so</c><00:04:30.950><c> we</c><00:04:31.040><c> want</c><00:04:31.900><c> 1111</c><00:04:32.900><c> we're</c><00:04:33.560><c> going</c>
+
+00:04:33.820 --> 00:04:33.830 align:start position:0%
+already have so we want 1111 we're going
+ 
+
+00:04:33.830 --> 00:04:36.250 align:start position:0%
+already have so we want 1111 we're going
+to<00:04:33.920><c> draw</c><00:04:34.160><c> one</c><00:04:34.610><c> more</c><00:04:34.640><c> line</c><00:04:34.880><c> for</c><00:04:35.330><c> that</c><00:04:35.480><c> and</c><00:04:35.690><c> for</c>
+
+00:04:36.250 --> 00:04:36.260 align:start position:0%
+to draw one more line for that and for
+ 
+
+00:04:36.260 --> 00:04:37.510 align:start position:0%
+to draw one more line for that and for
+one<00:04:36.380><c> thousand</c><00:04:36.770><c> hundred</c><00:04:37.010><c> and</c><00:04:37.100><c> eleven</c><00:04:37.130><c> and</c><00:04:37.430><c> the</c>
+
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+one thousand hundred and eleven and the
+ 
+
+00:04:37.520 --> 00:04:39.610 align:start position:0%
+one thousand hundred and eleven and the
+second<00:04:37.850><c> number</c><00:04:37.940><c> we</c><00:04:38.210><c> do</c><00:04:38.330><c> the</c><00:04:38.450><c> same</c><00:04:38.660><c> thing</c><00:04:38.900><c> so</c><00:04:39.560><c> we</c>
+
+00:04:39.610 --> 00:04:39.620 align:start position:0%
+second number we do the same thing so we
+ 
+
+00:04:39.620 --> 00:04:41.020 align:start position:0%
+second number we do the same thing so we
+draw<00:04:39.770><c> our</c><00:04:39.830><c> one</c><00:04:40.040><c> line</c><00:04:40.250><c> for</c><00:04:40.490><c> our</c><00:04:40.580><c> first</c><00:04:40.820><c> number</c>
+
+00:04:41.020 --> 00:04:41.030 align:start position:0%
+draw our one line for our first number
+ 
+
+00:04:41.030 --> 00:04:44.410 align:start position:0%
+draw our one line for our first number
+and<00:04:41.390><c> one</c><00:04:41.810><c> line</c><00:04:42.020><c> for</c><00:04:42.230><c> our</c><00:04:42.320><c> second</c><00:04:42.680><c> number</c><00:04:43.420><c> now</c>
+
+00:04:44.410 --> 00:04:44.420 align:start position:0%
+and one line for our second number now
+ 
+
+00:04:44.420 --> 00:04:45.820 align:start position:0%
+and one line for our second number now
+in<00:04:44.540><c> order</c><00:04:44.690><c> to</c><00:04:44.810><c> use</c><00:04:44.930><c> multiplying</c><00:04:45.440><c> by</c><00:04:45.590><c> lines</c>
+
+00:04:45.820 --> 00:04:45.830 align:start position:0%
+in order to use multiplying by lines
+ 
+
+00:04:45.830 --> 00:04:47.800 align:start position:0%
+in order to use multiplying by lines
+we're<00:04:46.280><c> going</c><00:04:46.580><c> to</c><00:04:46.760><c> extend</c><00:04:47.210><c> the</c><00:04:47.390><c> lines</c><00:04:47.600><c> we</c>
+
+00:04:47.800 --> 00:04:47.810 align:start position:0%
+we're going to extend the lines we
+ 
+
+00:04:47.810 --> 00:04:49.930 align:start position:0%
+we're going to extend the lines we
+already<00:04:48.140><c> have</c><00:04:48.380><c> so</c><00:04:49.250><c> that</c><00:04:49.370><c> we</c><00:04:49.460><c> create</c><00:04:49.640><c> the</c>
+
+00:04:49.930 --> 00:04:49.940 align:start position:0%
+already have so that we create the
+ 
+
+00:04:49.940 --> 00:04:52.450 align:start position:0%
+already have so that we create the
+intersections<00:04:50.630><c> and</c><00:04:50.870><c> we</c><00:04:51.800><c> end</c><00:04:51.920><c> up</c><00:04:52.040><c> with</c><00:04:52.280><c> another</c>
+
+00:04:52.450 --> 00:04:52.460 align:start position:0%
+intersections and we end up with another
+ 
+
+00:04:52.460 --> 00:04:55.480 align:start position:0%
+intersections and we end up with another
+lattice<00:04:53.330><c> grid</c><00:04:53.600><c> so</c><00:04:54.410><c> which</c><00:04:54.770><c> are</c><00:04:55.010><c> the</c><00:04:55.040><c> new</c>
+
+00:04:55.480 --> 00:04:55.490 align:start position:0%
+lattice grid so which are the new
+ 
+
+00:04:55.490 --> 00:04:57.610 align:start position:0%
+lattice grid so which are the new
+intersections<00:04:56.240><c> we've</c><00:04:56.390><c> created</c><00:04:56.690><c> by</c><00:04:57.230><c> adding</c>
+
+00:04:57.610 --> 00:04:57.620 align:start position:0%
+intersections we've created by adding
+ 
+
+00:04:57.620 --> 00:05:00.070 align:start position:0%
+intersections we've created by adding
+one<00:04:57.860><c> to</c><00:04:58.040><c> each</c><00:04:58.220><c> number</c><00:04:58.540><c> well</c><00:04:59.540><c> you</c><00:04:59.660><c> can</c><00:04:59.780><c> see</c><00:04:59.960><c> on</c>
+
+00:05:00.070 --> 00:05:00.080 align:start position:0%
+one to each number well you can see on
+ 
+
+00:05:00.080 --> 00:05:01.960 align:start position:0%
+one to each number well you can see on
+the<00:05:00.200><c> far</c><00:05:00.410><c> left</c><00:05:00.650><c> we</c><00:05:00.770><c> started</c><00:05:01.370><c> out</c><00:05:01.490><c> with</c><00:05:01.700><c> one</c>
+
+00:05:01.960 --> 00:05:01.970 align:start position:0%
+the far left we started out with one
+ 
+
+00:05:01.970 --> 00:05:04.450 align:start position:0%
+the far left we started out with one
+intersection<00:05:02.840><c> so</c><00:05:03.500><c> that's</c><00:05:03.710><c> the</c><00:05:03.920><c> one</c><00:05:04.160><c> which</c>
+
+00:05:04.450 --> 00:05:04.460 align:start position:0%
+intersection so that's the one which
+ 
+
+00:05:04.460 --> 00:05:08.100 align:start position:0%
+intersection so that's the one which
+begins<00:05:04.970><c> our</c><00:05:05.270><c> new</c><00:05:05.690><c> multiplication</c><00:05:06.470><c> product</c>
+
+00:05:08.100 --> 00:05:08.110 align:start position:0%
+begins our new multiplication product
+ 
+
+00:05:08.110 --> 00:05:10.630 align:start position:0%
+begins our new multiplication product
+we're<00:05:09.110><c> going</c><00:05:09.380><c> to</c><00:05:09.500><c> add</c><00:05:09.650><c> one</c><00:05:09.980><c> to</c><00:05:10.130><c> each</c><00:05:10.310><c> of</c><00:05:10.340><c> the</c>
+
+00:05:10.630 --> 00:05:10.640 align:start position:0%
+we're going to add one to each of the
+ 
+
+00:05:10.640 --> 00:05:12.760 align:start position:0%
+we're going to add one to each of the
+columns<00:05:11.120><c> which</c><00:05:11.450><c> we've</c><00:05:11.660><c> already</c><00:05:11.870><c> had</c><00:05:12.410><c> in</c><00:05:12.650><c> our</c>
+
+00:05:12.760 --> 00:05:12.770 align:start position:0%
+columns which we've already had in our
+ 
+
+00:05:12.770 --> 00:05:15.160 align:start position:0%
+columns which we've already had in our
+previous<00:05:13.280><c> result</c><00:05:13.790><c> and</c><00:05:14.060><c> then</c><00:05:14.630><c> finally</c><00:05:15.020><c> on</c><00:05:15.140><c> the</c>
+
+00:05:15.160 --> 00:05:15.170 align:start position:0%
+previous result and then finally on the
+ 
+
+00:05:15.170 --> 00:05:18.520 align:start position:0%
+previous result and then finally on the
+far<00:05:15.260><c> right</c><00:05:15.680><c> we</c><00:05:15.710><c> add</c><00:05:16.010><c> one</c><00:05:16.340><c> more</c><00:05:16.960><c> so</c><00:05:17.960><c> we</c><00:05:17.990><c> count</c><00:05:18.350><c> up</c>
+
+00:05:18.520 --> 00:05:18.530 align:start position:0%
+far right we add one more so we count up
+ 
+
+00:05:18.530 --> 00:05:20.980 align:start position:0%
+far right we add one more so we count up
+the<00:05:18.770><c> vertically</c><00:05:19.160><c> line</c><00:05:19.430><c> intersections</c><00:05:20.150><c> we</c><00:05:20.810><c> end</c>
+
+00:05:20.980 --> 00:05:20.990 align:start position:0%
+the vertically line intersections we end
+ 
+
+00:05:20.990 --> 00:05:23.410 align:start position:0%
+the vertically line intersections we end
+up<00:05:21.140><c> with</c><00:05:21.290><c> one</c><00:05:21.530><c> two</c><00:05:21.710><c> three</c><00:05:22.010><c> four</c><00:05:22.280><c> three</c><00:05:22.550><c> two</c><00:05:23.180><c> one</c>
+
+00:05:23.410 --> 00:05:23.420 align:start position:0%
+up with one two three four three two one
+ 
+
+00:05:23.420 --> 00:05:25.300 align:start position:0%
+up with one two three four three two one
+so<00:05:24.410><c> you</c><00:05:24.500><c> can</c><00:05:24.590><c> see</c><00:05:24.650><c> how</c><00:05:24.950><c> this</c><00:05:25.100><c> pattern</c>
+
+00:05:25.300 --> 00:05:25.310 align:start position:0%
+so you can see how this pattern
+ 
+
+00:05:25.310 --> 00:05:27.310 align:start position:0%
+so you can see how this pattern
+continues<00:05:25.940><c> if</c><00:05:26.090><c> you</c><00:05:26.210><c> wanted</c><00:05:26.450><c> to</c><00:05:26.540><c> add</c><00:05:26.660><c> a</c><00:05:26.870><c> fifth</c>
+
+00:05:27.310 --> 00:05:27.320 align:start position:0%
+continues if you wanted to add a fifth
+ 
+
+00:05:27.320 --> 00:05:29.590 align:start position:0%
+continues if you wanted to add a fifth
+number<00:05:27.890><c> one</c><00:05:28.300><c> multiplying</c><00:05:29.300><c> it</c><00:05:29.450><c> by</c><00:05:29.480><c> itself</c>
+
+00:05:29.590 --> 00:05:29.600 align:start position:0%
+number one multiplying it by itself
+ 
+
+00:05:29.600 --> 00:05:31.390 align:start position:0%
+number one multiplying it by itself
+you're<00:05:30.020><c> going</c><00:05:30.170><c> to</c><00:05:30.230><c> add</c><00:05:30.320><c> one</c><00:05:30.590><c> more</c><00:05:30.800><c> line</c><00:05:31.010><c> on</c><00:05:31.280><c> the</c>
+
+00:05:31.390 --> 00:05:31.400 align:start position:0%
+you're going to add one more line on the
+ 
+
+00:05:31.400 --> 00:05:33.490 align:start position:0%
+you're going to add one more line on the
+left<00:05:31.580><c> one</c><00:05:31.880><c> more</c><00:05:32.000><c> line</c><00:05:32.240><c> on</c><00:05:32.450><c> the</c><00:05:32.540><c> right</c><00:05:32.720><c> and</c><00:05:32.960><c> it's</c>
+
+00:05:33.490 --> 00:05:33.500 align:start position:0%
+left one more line on the right and it's
+ 
+
+00:05:33.500 --> 00:05:35.200 align:start position:0%
+left one more line on the right and it's
+going<00:05:33.650><c> to</c><00:05:33.740><c> increase</c><00:05:34.160><c> each</c><00:05:34.460><c> of</c><00:05:34.700><c> the</c><00:05:34.790><c> existing</c>
+
+00:05:35.200 --> 00:05:35.210 align:start position:0%
+going to increase each of the existing
+ 
+
+00:05:35.210 --> 00:05:36.970 align:start position:0%
+going to increase each of the existing
+columns<00:05:35.540><c> by</c><00:05:35.750><c> one</c><00:05:36.020><c> and</c><00:05:36.290><c> then</c><00:05:36.680><c> we're</c><00:05:36.830><c> going</c><00:05:36.950><c> to</c>
+
+00:05:36.970 --> 00:05:36.980 align:start position:0%
+columns by one and then we're going to
+ 
+
+00:05:36.980 --> 00:05:39.250 align:start position:0%
+columns by one and then we're going to
+add<00:05:37.130><c> one</c><00:05:37.430><c> on</c><00:05:37.670><c> each</c><00:05:37.880><c> end</c><00:05:38.180><c> so</c><00:05:38.420><c> that's</c><00:05:39.050><c> why</c><00:05:39.200><c> this</c>
+
+00:05:39.250 --> 00:05:39.260 align:start position:0%
+add one on each end so that's why this
+ 
+
+00:05:39.260 --> 00:05:41.020 align:start position:0%
+add one on each end so that's why this
+pattern<00:05:39.800><c> continues</c><00:05:39.980><c> where</c><00:05:40.820><c> we</c><00:05:40.910><c> have</c>
+
+00:05:41.020 --> 00:05:41.030 align:start position:0%
+pattern continues where we have
+ 
+
+00:05:41.030 --> 00:05:43.270 align:start position:0%
+pattern continues where we have
+palindromic<00:05:41.540><c> numbers</c><00:05:41.750><c> that</c><00:05:42.740><c> go</c><00:05:42.980><c> up</c><00:05:43.130><c> in</c>
+
+00:05:43.270 --> 00:05:43.280 align:start position:0%
+palindromic numbers that go up in
+ 
+
+00:05:43.280 --> 00:05:45.190 align:start position:0%
+palindromic numbers that go up in
+increasing<00:05:43.850><c> order</c><00:05:44.030><c> counting</c><00:05:44.540><c> up</c><00:05:44.660><c> the</c><00:05:44.870><c> numbers</c>
+
+00:05:45.190 --> 00:05:45.200 align:start position:0%
+increasing order counting up the numbers
+ 
+
+00:05:45.200 --> 00:05:49.060 align:start position:0%
+increasing order counting up the numbers
+and<00:05:45.380><c> then</c><00:05:45.500><c> counting</c><00:05:45.860><c> down</c><00:05:47.650><c> so</c><00:05:48.650><c> that</c><00:05:48.800><c> explains</c>
+
+00:05:49.060 --> 00:05:49.070 align:start position:0%
+and then counting down so that explains
+ 
+
+00:05:49.070 --> 00:05:55.030 align:start position:0%
+and then counting down so that explains
+how<00:05:49.370><c> we</c><00:05:49.430><c> get</c><00:05:49.700><c> up</c><00:05:49.820><c> all</c><00:05:50.060><c> the</c><00:05:50.240><c> way</c><00:05:50.420><c> to</c><00:05:51.200><c> nine</c><00:05:54.040><c> now</c>
+
+00:05:55.030 --> 00:05:55.040 align:start position:0%
+how we get up all the way to nine now
+ 
+
+00:05:55.040 --> 00:05:57.340 align:start position:0%
+how we get up all the way to nine now
+when<00:05:55.160><c> we</c><00:05:55.250><c> get</c><00:05:55.400><c> to</c><00:05:55.460><c> 10</c><00:05:55.820><c> you're</c><00:05:56.810><c> going</c><00:05:56.840><c> to</c><00:05:57.170><c> see</c>
+
+00:05:57.340 --> 00:05:57.350 align:start position:0%
+when we get to 10 you're going to see
+ 
+
+00:05:57.350 --> 00:05:59.380 align:start position:0%
+when we get to 10 you're going to see
+visually<00:05:57.770><c> that</c><00:05:57.920><c> this</c><00:05:58.250><c> pattern</c><00:05:58.640><c> will</c><00:05:58.850><c> continue</c>
+
+00:05:59.380 --> 00:05:59.390 align:start position:0%
+visually that this pattern will continue
+ 
+
+00:05:59.390 --> 00:06:01.030 align:start position:0%
+visually that this pattern will continue
+if<00:05:59.540><c> you</c><00:05:59.750><c> were</c><00:05:59.930><c> to</c><00:06:00.080><c> draw</c><00:06:00.320><c> out</c><00:06:00.350><c> that</c><00:06:00.650><c> lattice</c>
+
+00:06:01.030 --> 00:06:01.040 align:start position:0%
+if you were to draw out that lattice
+ 
+
+00:06:01.040 --> 00:06:03.280 align:start position:0%
+if you were to draw out that lattice
+grid<00:06:01.310><c> multiplying</c><00:06:02.240><c> by</c><00:06:02.360><c> lines</c><00:06:02.600><c> you</c><00:06:02.840><c> would</c><00:06:03.020><c> see</c>
+
+00:06:03.280 --> 00:06:03.290 align:start position:0%
+grid multiplying by lines you would see
+ 
+
+00:06:03.290 --> 00:06:05.230 align:start position:0%
+grid multiplying by lines you would see
+that<00:06:03.800><c> you</c><00:06:03.860><c> would</c><00:06:03.980><c> end</c><00:06:04.280><c> up</c><00:06:04.400><c> with</c><00:06:04.610><c> one</c><00:06:04.820><c> column</c>
+
+00:06:05.230 --> 00:06:05.240 align:start position:0%
+that you would end up with one column
+ 
+
+00:06:05.240 --> 00:06:09.280 align:start position:0%
+that you would end up with one column
+that<00:06:05.360><c> had</c><00:06:05.570><c> ten</c><00:06:05.980><c> intersections</c><00:06:07.780><c> so</c><00:06:08.780><c> if</c><00:06:09.140><c> you</c>
+
+00:06:09.280 --> 00:06:09.290 align:start position:0%
+that had ten intersections so if you
+ 
+
+00:06:09.290 --> 00:06:10.630 align:start position:0%
+that had ten intersections so if you
+represented<00:06:09.860><c> numbers</c><00:06:10.160><c> in</c><00:06:10.280><c> this</c><00:06:10.400><c> way</c><00:06:10.580><c> you</c>
+
+00:06:10.630 --> 00:06:10.640 align:start position:0%
+represented numbers in this way you
+ 
+
+00:06:10.640 --> 00:06:12.220 align:start position:0%
+represented numbers in this way you
+actually<00:06:10.970><c> could</c><00:06:11.330><c> argue</c><00:06:11.600><c> the</c><00:06:11.720><c> pattern</c><00:06:12.080><c> would</c>
+
+00:06:12.220 --> 00:06:12.230 align:start position:0%
+actually could argue the pattern would
+ 
+
+00:06:12.230 --> 00:06:15.430 align:start position:0%
+actually could argue the pattern would
+continue<00:06:12.740><c> but</c><00:06:13.700><c> since</c><00:06:14.030><c> in</c><00:06:14.420><c> decimal</c><00:06:14.990><c> form</c><00:06:15.260><c> we</c>
+
+00:06:15.430 --> 00:06:15.440 align:start position:0%
+continue but since in decimal form we
+ 
+
+00:06:15.440 --> 00:06:17.710 align:start position:0%
+continue but since in decimal form we
+never<00:06:15.620><c> have</c><00:06:15.890><c> a</c><00:06:16.130><c> numerical</c><00:06:16.940><c> digit</c><00:06:17.270><c> that's</c><00:06:17.450><c> more</c>
+
+00:06:17.710 --> 00:06:17.720 align:start position:0%
+never have a numerical digit that's more
+ 
+
+00:06:17.720 --> 00:06:19.660 align:start position:0%
+never have a numerical digit that's more
+than<00:06:17.930><c> nine</c><00:06:18.170><c> we're</c><00:06:18.950><c> going</c><00:06:19.130><c> to</c><00:06:19.220><c> need</c><00:06:19.370><c> to</c><00:06:19.550><c> use</c>
+
+00:06:19.660 --> 00:06:19.670 align:start position:0%
+than nine we're going to need to use
+ 
+
+00:06:19.670 --> 00:06:22.630 align:start position:0%
+than nine we're going to need to use
+carryover<00:06:20.360><c> so</c><00:06:21.020><c> the</c><00:06:21.200><c> column</c><00:06:21.620><c> which</c><00:06:21.770><c> has</c><00:06:21.800><c> ten</c><00:06:22.340><c> is</c>
+
+00:06:22.630 --> 00:06:22.640 align:start position:0%
+carryover so the column which has ten is
+ 
+
+00:06:22.640 --> 00:06:24.970 align:start position:0%
+carryover so the column which has ten is
+actually<00:06:23.300><c> going</c><00:06:23.420><c> to</c><00:06:23.510><c> become</c><00:06:23.780><c> zero</c><00:06:24.200><c> that's</c>
+
+00:06:24.970 --> 00:06:24.980 align:start position:0%
+actually going to become zero that's
+ 
+
+00:06:24.980 --> 00:06:26.860 align:start position:0%
+actually going to become zero that's
+going<00:06:25.160><c> to</c><00:06:25.220><c> carry</c><00:06:25.490><c> over</c><00:06:25.670><c> to</c><00:06:25.820><c> the</c><00:06:25.970><c> left</c><00:06:26.270><c> so</c><00:06:26.840><c> that</c>
+
+00:06:26.860 --> 00:06:26.870 align:start position:0%
+going to carry over to the left so that
+ 
+
+00:06:26.870 --> 00:06:28.720 align:start position:0%
+going to carry over to the left so that
+the<00:06:27.020><c> column</c><00:06:27.380><c> which</c><00:06:27.500><c> has</c><00:06:27.530><c> nine</c><00:06:27.950><c> will</c><00:06:28.580><c> then</c>
+
+00:06:28.720 --> 00:06:28.730 align:start position:0%
+the column which has nine will then
+ 
+
+00:06:28.730 --> 00:06:31.240 align:start position:0%
+the column which has nine will then
+become<00:06:28.910><c> ten</c><00:06:29.620><c> we're</c><00:06:30.620><c> going</c><00:06:30.800><c> to</c><00:06:30.860><c> carry</c><00:06:31.070><c> that</c>
+
+00:06:31.240 --> 00:06:31.250 align:start position:0%
+become ten we're going to carry that
+ 
+
+00:06:31.250 --> 00:06:33.040 align:start position:0%
+become ten we're going to carry that
+over<00:06:31.310><c> once</c><00:06:31.730><c> more</c><00:06:32.000><c> so</c><00:06:32.270><c> that</c><00:06:32.300><c> the</c><00:06:32.570><c> column</c><00:06:32.900><c> which</c>
+
+00:06:33.040 --> 00:06:33.050 align:start position:0%
+over once more so that the column which
+ 
+
+00:06:33.050 --> 00:06:36.580 align:start position:0%
+over once more so that the column which
+has<00:06:33.080><c> eight</c><00:06:33.440><c> becomes</c><00:06:34.250><c> nine</c><00:06:34.930><c> so</c><00:06:35.930><c> we're</c><00:06:36.230><c> going</c><00:06:36.500><c> to</c>
+
+00:06:36.580 --> 00:06:36.590 align:start position:0%
+has eight becomes nine so we're going to
+ 
+
+00:06:36.590 --> 00:06:38.350 align:start position:0%
+has eight becomes nine so we're going to
+end<00:06:36.740><c> up</c><00:06:36.860><c> with</c><00:06:37.040><c> the</c><00:06:37.160><c> result</c><00:06:37.250><c> one</c><00:06:37.940><c> two</c><00:06:38.120><c> three</c>
+
+00:06:38.350 --> 00:06:38.360 align:start position:0%
+end up with the result one two three
+ 
+
+00:06:38.360 --> 00:06:39.810 align:start position:0%
+end up with the result one two three
+four<00:06:38.540><c> five</c><00:06:38.720><c> six</c><00:06:38.930><c> seven</c>
+
+00:06:39.810 --> 00:06:39.820 align:start position:0%
+four five six seven
+ 
+
+00:06:39.820 --> 00:06:42.000 align:start position:0%
+four five six seven
+oh<00:06:39.850><c> that's</c><00:06:40.270><c> none</c><00:06:40.570><c> of</c><00:06:40.600><c> that's</c><00:06:40.810><c> affected</c><00:06:41.440><c> that</c>
+
+00:06:42.000 --> 00:06:42.010 align:start position:0%
+oh that's none of that's affected that
+ 
+
+00:06:42.010 --> 00:06:45.270 align:start position:0%
+oh that's none of that's affected that
+eight<00:06:42.280><c> needs</c><00:06:42.520><c> to</c><00:06:42.700><c> become</c><00:06:42.970><c> a</c><00:06:43.000><c> nine</c><00:06:43.980><c> the</c><00:06:44.980><c> next</c>
+
+00:06:45.270 --> 00:06:45.280 align:start position:0%
+eight needs to become a nine the next
+ 
+
+00:06:45.280 --> 00:06:47.610 align:start position:0%
+eight needs to become a nine the next
+two<00:06:45.400><c> digits</c><00:06:45.790><c> will</c><00:06:45.910><c> become</c><00:06:46.210><c> 0</c><00:06:46.600><c> because</c><00:06:47.260><c> we</c><00:06:47.590><c> have</c>
+
+00:06:47.610 --> 00:06:47.620 align:start position:0%
+two digits will become 0 because we have
+ 
+
+00:06:47.620 --> 00:06:49.950 align:start position:0%
+two digits will become 0 because we have
+carryover<00:06:48.220><c> and</c><00:06:48.550><c> then</c><00:06:49.330><c> on</c><00:06:49.450><c> the</c><00:06:49.570><c> far</c><00:06:49.750><c> right</c>
+
+00:06:49.950 --> 00:06:49.960 align:start position:0%
+carryover and then on the far right
+ 
+
+00:06:49.960 --> 00:06:50.970 align:start position:0%
+carryover and then on the far right
+we're<00:06:50.110><c> still</c><00:06:50.200><c> going</c><00:06:50.380><c> to</c><00:06:50.440><c> have</c><00:06:50.560><c> nine</c><00:06:50.770><c> eight</c>
+
+00:06:50.970 --> 00:06:50.980 align:start position:0%
+we're still going to have nine eight
+ 
+
+00:06:50.980 --> 00:06:52.970 align:start position:0%
+we're still going to have nine eight
+seven<00:06:51.310><c> six</c><00:06:51.460><c> five</c><00:06:51.580><c> four</c><00:06:51.910><c> three</c><00:06:51.970><c> two</c><00:06:52.330><c> one</c>
+
+00:06:52.970 --> 00:06:52.980 align:start position:0%
+seven six five four three two one
+ 
+
+00:06:52.980 --> 00:06:56.640 align:start position:0%
+seven six five four three two one
+that's<00:06:53.980><c> still</c><00:06:54.220><c> the</c><00:06:54.340><c> same</c><00:06:55.020><c> so</c><00:06:56.020><c> similarly</c><00:06:56.440><c> if</c>
+
+00:06:56.640 --> 00:06:56.650 align:start position:0%
+that's still the same so similarly if
+ 
+
+00:06:56.650 --> 00:06:58.260 align:start position:0%
+that's still the same so similarly if
+you<00:06:56.740><c> have</c><00:06:56.770><c> a</c><00:06:56.860><c> number</c><00:06:57.190><c> which</c><00:06:57.310><c> has</c><00:06:57.460><c> eleven</c><00:06:58.000><c> ones</c>
+
+00:06:58.260 --> 00:06:58.270 align:start position:0%
+you have a number which has eleven ones
+ 
+
+00:06:58.270 --> 00:07:00.720 align:start position:0%
+you have a number which has eleven ones
+you<00:06:59.020><c> actually</c><00:06:59.350><c> would</c><00:06:59.560><c> have</c><00:06:59.800><c> multiplying</c><00:07:00.610><c> by</c>
+
+00:07:00.720 --> 00:07:00.730 align:start position:0%
+you actually would have multiplying by
+ 
+
+00:07:00.730 --> 00:07:02.910 align:start position:0%
+you actually would have multiplying by
+lines<00:07:00.970><c> a</c><00:07:01.180><c> diagram</c><00:07:01.600><c> that</c><00:07:01.660><c> goes</c><00:07:02.020><c> up</c><00:07:02.230><c> one</c><00:07:02.740><c> two</c>
+
+00:07:02.910 --> 00:07:02.920 align:start position:0%
+lines a diagram that goes up one two
+ 
+
+00:07:02.920 --> 00:07:04.560 align:start position:0%
+lines a diagram that goes up one two
+three<00:07:02.950><c> four</c><00:07:03.280><c> five</c><00:07:03.430><c> six</c><00:07:03.580><c> seven</c><00:07:03.850><c> eight</c><00:07:03.910><c> nine</c><00:07:04.090><c> ten</c>
+
+00:07:04.560 --> 00:07:04.570 align:start position:0%
+three four five six seven eight nine ten
+ 
+
+00:07:04.570 --> 00:07:06.930 align:start position:0%
+three four five six seven eight nine ten
+eleven<00:07:05.260><c> ten</c><00:07:05.500><c> nine</c><00:07:05.560><c> eight</c><00:07:06.190><c> seven</c><00:07:06.370><c> six</c><00:07:06.700><c> five</c>
+
+00:07:06.930 --> 00:07:06.940 align:start position:0%
+eleven ten nine eight seven six five
+ 
+
+00:07:06.940 --> 00:07:07.800 align:start position:0%
+eleven ten nine eight seven six five
+four<00:07:07.060><c> three</c><00:07:07.270><c> two</c><00:07:07.600><c> one</c>
+
+00:07:07.800 --> 00:07:07.810 align:start position:0%
+four three two one
+ 
+
+00:07:07.810 --> 00:07:10.620 align:start position:0%
+four three two one
+in<00:07:08.470><c> order</c><00:07:09.250><c> to</c><00:07:09.310><c> get</c><00:07:09.520><c> a</c><00:07:09.700><c> number</c><00:07:10.330><c> which</c><00:07:10.480><c> would</c>
+
+00:07:10.620 --> 00:07:10.630 align:start position:0%
+in order to get a number which would
+ 
+
+00:07:10.630 --> 00:07:12.480 align:start position:0%
+in order to get a number which would
+match<00:07:10.870><c> with</c><00:07:11.080><c> the</c><00:07:11.200><c> result</c><00:07:11.530><c> on</c><00:07:11.680><c> your</c><00:07:11.920><c> calculator</c>
+
+00:07:12.480 --> 00:07:12.490 align:start position:0%
+match with the result on your calculator
+ 
+
+00:07:12.490 --> 00:07:14.430 align:start position:0%
+match with the result on your calculator
+we're<00:07:13.030><c> going</c><00:07:13.270><c> to</c><00:07:13.360><c> need</c><00:07:13.510><c> to</c><00:07:13.630><c> use</c><00:07:13.690><c> carryover</c>
+
+00:07:14.430 --> 00:07:14.440 align:start position:0%
+we're going to need to use carryover
+ 
+
+00:07:14.440 --> 00:07:16.620 align:start position:0%
+we're going to need to use carryover
+anytime<00:07:15.250><c> we</c><00:07:15.400><c> have</c><00:07:15.490><c> a</c><00:07:15.550><c> value</c><00:07:15.880><c> more</c><00:07:16.270><c> than</c><00:07:16.450><c> nine</c>
+
+00:07:16.620 --> 00:07:16.630 align:start position:0%
+anytime we have a value more than nine
+ 
+
+00:07:16.630 --> 00:07:18.450 align:start position:0%
+anytime we have a value more than nine
+so<00:07:17.380><c> we're</c><00:07:17.470><c> going</c><00:07:17.560><c> to</c><00:07:17.620><c> need</c><00:07:17.740><c> to</c><00:07:17.890><c> carry</c><00:07:18.130><c> over</c><00:07:18.430><c> the</c>
+
+00:07:18.450 --> 00:07:18.460 align:start position:0%
+so we're going to need to carry over the
+ 
+
+00:07:18.460 --> 00:07:21.810 align:start position:0%
+so we're going to need to carry over the
+10<00:07:18.820><c> the</c><00:07:19.360><c> 11</c><00:07:19.840><c> the</c><00:07:20.170><c> 10</c><00:07:20.410><c> and</c><00:07:20.650><c> we're</c><00:07:21.460><c> going</c><00:07:21.700><c> to</c>
+
+00:07:21.810 --> 00:07:21.820 align:start position:0%
+10 the 11 the 10 and we're going to
+ 
+
+00:07:21.820 --> 00:07:24.330 align:start position:0%
+10 the 11 the 10 and we're going to
+create<00:07:22.090><c> this</c><00:07:23.050><c> is</c><00:07:23.200><c> not</c><00:07:23.350><c> too</c><00:07:23.500><c> difficult</c><00:07:23.530><c> for</c><00:07:24.100><c> you</c>
+
+00:07:24.330 --> 00:07:24.340 align:start position:0%
+create this is not too difficult for you
+ 
+
+00:07:24.340 --> 00:07:26.580 align:start position:0%
+create this is not too difficult for you
+to<00:07:24.490><c> use</c><00:07:24.670><c> carry</c><00:07:24.970><c> over</c><00:07:25.300><c> you</c><00:07:26.170><c> would</c><00:07:26.290><c> end</c><00:07:26.440><c> up</c><00:07:26.530><c> with</c>
+
+00:07:26.580 --> 00:07:26.590 align:start position:0%
+to use carry over you would end up with
+ 
+
+00:07:26.590 --> 00:07:29.790 align:start position:0%
+to use carry over you would end up with
+another<00:07:26.980><c> pattern</c><00:07:27.310><c> we</c><00:07:27.640><c> go</c><00:07:27.790><c> 1</c><00:07:27.970><c> 2</c><00:07:28.090><c> 3</c><00:07:28.210><c> 4</c><00:07:28.420><c> 5</c><00:07:28.480><c> 6</c><00:07:28.750><c> 7</c><00:07:28.900><c> 9</c>
+
+00:07:29.790 --> 00:07:29.800 align:start position:0%
+another pattern we go 1 2 3 4 5 6 7 9
+ 
+
+00:07:29.800 --> 00:07:33.240 align:start position:0%
+another pattern we go 1 2 3 4 5 6 7 9
+and<00:07:30.160><c> then</c><00:07:30.760><c> we</c><00:07:30.880><c> have</c><00:07:30.970><c> 0</c><00:07:31.300><c> 1</c><00:07:31.600><c> 2</c><00:07:31.810><c> 0</c><00:07:31.840><c> and</c><00:07:32.410><c> then</c><00:07:32.980><c> we</c><00:07:33.070><c> go</c>
+
+00:07:33.240 --> 00:07:33.250 align:start position:0%
+and then we have 0 1 2 0 and then we go
+ 
+
+00:07:33.250 --> 00:07:37.230 align:start position:0%
+and then we have 0 1 2 0 and then we go
+9<00:07:33.700><c> 8</c><00:07:33.910><c> 7</c><00:07:34.120><c> 6</c><00:07:34.390><c> 5</c><00:07:34.510><c> 4</c><00:07:34.690><c> 3</c><00:07:35.320><c> 2</c><00:07:35.530><c> 1</c><00:07:35.740><c> so</c><00:07:36.400><c> you</c><00:07:36.490><c> could</c><00:07:36.790><c> use</c><00:07:37.030><c> this</c>
+
+00:07:37.230 --> 00:07:37.240 align:start position:0%
+9 8 7 6 5 4 3 2 1 so you could use this
+ 
+
+00:07:37.240 --> 00:07:39.720 align:start position:0%
+9 8 7 6 5 4 3 2 1 so you could use this
+method<00:07:37.750><c> to</c><00:07:37.930><c> calculate</c><00:07:38.680><c> multiplying</c><00:07:39.490><c> any</c>
+
+00:07:39.720 --> 00:07:39.730 align:start position:0%
+method to calculate multiplying any
+ 
+
+00:07:39.730 --> 00:07:44.460 align:start position:0%
+method to calculate multiplying any
+number<00:07:40.120><c> which</c><00:07:40.750><c> has</c><00:07:40.960><c> just</c><00:07:41.260><c> ones</c><00:07:41.500><c> by</c><00:07:41.740><c> itself</c><00:07:43.470><c> so</c>
+
+00:07:44.460 --> 00:07:44.470 align:start position:0%
+number which has just ones by itself so
+ 
+
+00:07:44.470 --> 00:07:46.380 align:start position:0%
+number which has just ones by itself so
+it's<00:07:44.620><c> a</c><00:07:44.650><c> kind</c><00:07:44.860><c> of</c><00:07:44.920><c> interesting</c><00:07:45.040><c> way</c><00:07:45.400><c> to</c><00:07:45.760><c> see</c>
+
+00:07:46.380 --> 00:07:46.390 align:start position:0%
+it's a kind of interesting way to see
+ 
+
+00:07:46.390 --> 00:07:49.230 align:start position:0%
+it's a kind of interesting way to see
+why<00:07:46.830><c> when</c><00:07:47.830><c> you</c><00:07:47.950><c> multiply</c><00:07:48.370><c> number</c><00:07:48.670><c> just</c><00:07:48.940><c> with</c>
+
+00:07:49.230 --> 00:07:49.240 align:start position:0%
+why when you multiply number just with
+ 
+
+00:07:49.240 --> 00:07:50.820 align:start position:0%
+why when you multiply number just with
+ones<00:07:49.540><c> by</c><00:07:49.750><c> itself</c><00:07:50.050><c> you</c><00:07:50.320><c> end</c><00:07:50.470><c> up</c><00:07:50.590><c> with</c><00:07:50.740><c> this</c>
+
+00:07:50.820 --> 00:07:50.830 align:start position:0%
+ones by itself you end up with this
+ 
+
+00:07:50.830 --> 00:07:53.630 align:start position:0%
+ones by itself you end up with this
+interesting<00:07:51.220><c> pattern</c><00:07:51.580><c> of</c><00:07:51.940><c> palindromes</c>
+
+00:07:53.630 --> 00:07:53.640 align:start position:0%
+interesting pattern of palindromes
+ 
+
+00:07:53.640 --> 00:07:56.250 align:start position:0%
+interesting pattern of palindromes
+thanks<00:07:54.640><c> for</c><00:07:54.790><c> watching</c><00:07:55.090><c> this</c><00:07:55.180><c> video</c><00:07:55.360><c> please</c>
+
+00:07:56.250 --> 00:07:56.260 align:start position:0%
+thanks for watching this video please
+ 
+
+00:07:56.260 --> 00:07:58.170 align:start position:0%
+thanks for watching this video please
+subscribe<00:07:56.290><c> to</c><00:07:56.770><c> my</c><00:07:56.980><c> channel</c><00:07:57.370><c> I</c><00:07:57.520><c> make</c><00:07:57.700><c> videos</c><00:07:58.030><c> on</c>
+
+00:07:58.170 --> 00:07:58.180 align:start position:0%
+subscribe to my channel I make videos on
+ 
+
+00:07:58.180 --> 00:08:00.060 align:start position:0%
+subscribe to my channel I make videos on
+math<00:07:58.420><c> and</c><00:07:58.450><c> game</c><00:07:58.870><c> theory</c><00:07:59.140><c> you</c><00:07:59.680><c> can</c><00:07:59.890><c> catch</c>
+
+00:08:00.060 --> 00:08:00.070 align:start position:0%
+math and game theory you can catch
+ 
+
+00:08:00.070 --> 00:08:02.190 align:start position:0%
+math and game theory you can catch
+around<00:08:00.340><c> my</c><00:08:00.490><c> blog</c><00:08:00.790><c> mind</c><00:08:01.330><c> your</c><00:08:01.540><c> decisions</c><00:08:02.020><c> which</c>
+
+00:08:02.190 --> 00:08:02.200 align:start position:0%
+around my blog mind your decisions which
+ 
+
+00:08:02.200 --> 00:08:04.140 align:start position:0%
+around my blog mind your decisions which
+you<00:08:02.350><c> can</c><00:08:02.530><c> follow</c><00:08:02.710><c> on</c><00:08:03.010><c> Facebook</c><00:08:03.490><c> Google+</c><00:08:04.060><c> and</c>
+
+00:08:04.140 --> 00:08:04.150 align:start position:0%
+you can follow on Facebook Google+ and
+ 
+
+00:08:04.150 --> 00:08:06.510 align:start position:0%
+you can follow on Facebook Google+ and
+patreon<00:08:04.630><c> you</c><00:08:04.810><c> can</c><00:08:05.740><c> catch</c><00:08:05.920><c> me</c><00:08:06.070><c> on</c><00:08:06.100><c> social</c><00:08:06.340><c> media</c>
+
+00:08:06.510 --> 00:08:06.520 align:start position:0%
+patreon you can catch me on social media
+ 
+
+00:08:06.520 --> 00:08:08.580 align:start position:0%
+patreon you can catch me on social media
+at<00:08:06.910><c> presh</c><00:08:07.150><c> tell</c><00:08:07.360><c> Walker</c><00:08:07.540><c> and</c><00:08:08.200><c> you</c><00:08:08.260><c> like</c><00:08:08.440><c> the</c>
+
+00:08:08.580 --> 00:08:08.590 align:start position:0%
+at presh tell Walker and you like the
+ 
+
+00:08:08.590 --> 00:08:09.930 align:start position:0%
+at presh tell Walker and you like the
+video<00:08:08.860><c> please</c><00:08:09.010><c> check</c><00:08:09.160><c> out</c><00:08:09.430><c> my</c><00:08:09.520><c> books</c><00:08:09.760><c> I</c>
+
+00:08:09.930 --> 00:08:09.940 align:start position:0%
+video please check out my books I
+ 
+
+00:08:09.940 --> 00:08:13.350 align:start position:0%
+video please check out my books I
+provided<00:08:10.450><c> links</c><00:08:10.840><c> in</c><00:08:10.960><c> the</c><00:08:11.110><c> video</c><00:08:11.320><c> description</c>
+

@@ -1,0 +1,736 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:04.039 align:start position:0%
+ 
+hi<00:00:00.960><c> this</c><00:00:01.020><c> is</c><00:00:01.319><c> Prussia</c><00:00:01.709><c> talker</c><00:00:02.449><c> what</c><00:00:03.449><c> is</c><00:00:03.720><c> the</c>
+
+00:00:04.039 --> 00:00:04.049 align:start position:0%
+hi this is Prussia talker what is the
+ 
+
+00:00:04.049 --> 00:00:07.789 align:start position:0%
+hi this is Prussia talker what is the
+integral<00:00:04.440><c> of</c><00:00:04.770><c> sine</c><00:00:05.069><c> X</c><00:00:05.430><c> cosine</c><00:00:05.580><c> X</c><00:00:06.529><c> let's</c><00:00:07.529><c> try</c>
+
+00:00:07.789 --> 00:00:07.799 align:start position:0%
+integral of sine X cosine X let's try
+ 
+
+00:00:07.799 --> 00:00:11.540 align:start position:0%
+integral of sine X cosine X let's try
+and<00:00:07.919><c> solve</c><00:00:08.099><c> this</c><00:00:08.370><c> perplexing</c><00:00:09.090><c> integral</c><00:00:10.550><c> one</c>
+
+00:00:11.540 --> 00:00:11.550 align:start position:0%
+and solve this perplexing integral one
+ 
+
+00:00:11.550 --> 00:00:13.160 align:start position:0%
+and solve this perplexing integral one
+method<00:00:11.940><c> of</c><00:00:12.030><c> attack</c><00:00:12.360><c> is</c><00:00:12.599><c> to</c><00:00:12.900><c> do</c><00:00:13.049><c> au</c>
+
+00:00:13.160 --> 00:00:13.170 align:start position:0%
+method of attack is to do au
+ 
+
+00:00:13.170 --> 00:00:18.109 align:start position:0%
+method of attack is to do au
+substitution<00:00:13.880><c> where</c><00:00:14.880><c> u</c><00:00:14.910><c> equals</c><00:00:15.690><c> sine</c><00:00:15.750><c> X</c><00:00:16.880><c> D</c><00:00:17.880><c> u</c>
+
+00:00:18.109 --> 00:00:18.119 align:start position:0%
+substitution where u equals sine X D u
+ 
+
+00:00:18.119 --> 00:00:20.870 align:start position:0%
+substitution where u equals sine X D u
+equals<00:00:18.510><c> cosine</c><00:00:18.570><c> X</c><00:00:19.050><c> and</c><00:00:19.529><c> we</c><00:00:20.250><c> end</c><00:00:20.400><c> up</c><00:00:20.520><c> with</c><00:00:20.580><c> the</c>
+
+00:00:20.870 --> 00:00:20.880 align:start position:0%
+equals cosine X and we end up with the
+ 
+
+00:00:20.880 --> 00:00:26.390 align:start position:0%
+equals cosine X and we end up with the
+integral<00:00:20.910><c> of</c><00:00:21.660><c> u</c><00:00:22.080><c> D</c><00:00:22.439><c> you</c><00:00:24.019><c> this</c><00:00:25.019><c> becomes</c><00:00:25.439><c> 1/2</c><00:00:26.160><c> u</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+integral of u D you this becomes 1/2 u
+ 
+
+00:00:26.400 --> 00:00:29.320 align:start position:0%
+integral of u D you this becomes 1/2 u
+squared<00:00:26.789><c> plus</c><00:00:27.029><c> an</c><00:00:27.510><c> arbitrary</c><00:00:27.720><c> constant</c>
+
+00:00:29.320 --> 00:00:29.330 align:start position:0%
+squared plus an arbitrary constant
+ 
+
+00:00:29.330 --> 00:00:32.359 align:start position:0%
+squared plus an arbitrary constant
+substituting<00:00:30.330><c> back</c><00:00:30.359><c> in</c><00:00:30.720><c> for</c><00:00:30.929><c> u</c><00:00:31.170><c> we</c><00:00:32.070><c> get</c><00:00:32.219><c> the</c>
+
+00:00:32.359 --> 00:00:32.369 align:start position:0%
+substituting back in for u we get the
+ 
+
+00:00:32.369 --> 00:00:36.049 align:start position:0%
+substituting back in for u we get the
+answer<00:00:32.730><c> sine</c><00:00:33.690><c> squared</c><00:00:34.050><c> x</c><00:00:34.290><c> over</c><00:00:34.890><c> 2</c><00:00:35.130><c> plus</c><00:00:35.820><c> an</c>
+
+00:00:36.049 --> 00:00:36.059 align:start position:0%
+answer sine squared x over 2 plus an
+ 
+
+00:00:36.059 --> 00:00:39.200 align:start position:0%
+answer sine squared x over 2 plus an
+arbitrary<00:00:36.540><c> constant</c><00:00:37.730><c> but</c><00:00:38.730><c> that's</c><00:00:38.910><c> not</c><00:00:39.090><c> the</c>
+
+00:00:39.200 --> 00:00:39.210 align:start position:0%
+arbitrary constant but that's not the
+ 
+
+00:00:39.210 --> 00:00:41.930 align:start position:0%
+arbitrary constant but that's not the
+only<00:00:39.239><c> way</c><00:00:39.540><c> we</c><00:00:39.840><c> could</c><00:00:39.989><c> solve</c><00:00:40.260><c> this</c><00:00:40.410><c> problem</c><00:00:40.940><c> we</c>
+
+00:00:41.930 --> 00:00:41.940 align:start position:0%
+only way we could solve this problem we
+ 
+
+00:00:41.940 --> 00:00:44.510 align:start position:0%
+only way we could solve this problem we
+could<00:00:42.180><c> have</c><00:00:42.300><c> also</c><00:00:42.540><c> done</c><00:00:43.020><c> a</c><00:00:43.260><c> u</c><00:00:43.590><c> substitution</c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+could have also done a u substitution
+ 
+
+00:00:44.520 --> 00:00:48.950 align:start position:0%
+could have also done a u substitution
+where<00:00:44.940><c> u</c><00:00:44.969><c> equals</c><00:00:45.719><c> cosine</c><00:00:46.170><c> X</c><00:00:46.230><c> in</c><00:00:46.770><c> that</c><00:00:46.969><c> case</c><00:00:47.969><c> D</c><00:00:48.719><c> u</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+where u equals cosine X in that case D u
+ 
+
+00:00:48.960 --> 00:00:51.920 align:start position:0%
+where u equals cosine X in that case D u
+would<00:00:49.410><c> equal</c><00:00:49.770><c> negative</c><00:00:49.800><c> sine</c><00:00:50.610><c> X</c><00:00:50.640><c> and</c><00:00:51.149><c> we</c><00:00:51.780><c> end</c>
+
+00:00:51.920 --> 00:00:51.930 align:start position:0%
+would equal negative sine X and we end
+ 
+
+00:00:51.930 --> 00:00:57.610 align:start position:0%
+would equal negative sine X and we end
+up<00:00:52.050><c> with</c><00:00:52.110><c> the</c><00:00:52.530><c> integral</c><00:00:53.129><c> of</c><00:00:53.309><c> negative</c><00:00:54.120><c> u</c><00:00:54.510><c> D</c><00:00:55.110><c> u</c>
+
+00:00:57.610 --> 00:00:57.620 align:start position:0%
+ 
+ 
+
+00:00:57.620 --> 00:01:00.170 align:start position:0%
+ 
+simplifying<00:00:58.620><c> this</c><00:00:58.859><c> answer</c><00:00:59.250><c> we</c><00:00:59.699><c> end</c><00:00:59.879><c> up</c><00:01:00.030><c> with</c>
+
+00:01:00.170 --> 00:01:00.180 align:start position:0%
+simplifying this answer we end up with
+ 
+
+00:01:00.180 --> 00:01:02.590 align:start position:0%
+simplifying this answer we end up with
+the<00:01:00.300><c> result</c><00:01:00.660><c> of</c><00:01:00.870><c> negative</c><00:01:01.410><c> cosine</c><00:01:01.859><c> squared</c>
+
+00:01:02.590 --> 00:01:02.600 align:start position:0%
+the result of negative cosine squared
+ 
+
+00:01:02.600 --> 00:01:06.910 align:start position:0%
+the result of negative cosine squared
+divided<00:01:03.600><c> by</c><00:01:03.629><c> 2</c><00:01:03.750><c> plus</c><00:01:04.530><c> an</c><00:01:04.739><c> arbitrary</c><00:01:04.890><c> constant</c>
+
+00:01:06.910 --> 00:01:06.920 align:start position:0%
+divided by 2 plus an arbitrary constant
+ 
+
+00:01:06.920 --> 00:01:09.920 align:start position:0%
+divided by 2 plus an arbitrary constant
+this<00:01:07.920><c> answer</c><00:01:08.340><c> is</c><00:01:08.430><c> different</c><00:01:08.610><c> but</c><00:01:09.540><c> we</c><00:01:09.659><c> can</c><00:01:09.810><c> even</c>
+
+00:01:09.920 --> 00:01:09.930 align:start position:0%
+this answer is different but we can even
+ 
+
+00:01:09.930 --> 00:01:15.260 align:start position:0%
+this answer is different but we can even
+solve<00:01:10.260><c> the</c><00:01:10.409><c> integral</c><00:01:10.560><c> in</c><00:01:11.010><c> a</c><00:01:11.100><c> third</c><00:01:11.430><c> way</c><00:01:14.270><c> there</c>
+
+00:01:15.260 --> 00:01:15.270 align:start position:0%
+solve the integral in a third way there
+ 
+
+00:01:15.270 --> 00:01:17.960 align:start position:0%
+solve the integral in a third way there
+is<00:01:15.390><c> a</c><00:01:15.420><c> double</c><00:01:15.810><c> angle</c><00:01:16.049><c> identity</c><00:01:16.770><c> that</c><00:01:17.009><c> sine</c><00:01:17.400><c> 2x</c>
+
+00:01:17.960 --> 00:01:17.970 align:start position:0%
+is a double angle identity that sine 2x
+ 
+
+00:01:17.970 --> 00:01:23.840 align:start position:0%
+is a double angle identity that sine 2x
+equals<00:01:18.840><c> 2</c><00:01:19.200><c> sine</c><00:01:19.920><c> X</c><00:01:20.220><c> cosine</c><00:01:20.400><c> X</c><00:01:22.400><c> this</c><00:01:23.400><c> means</c><00:01:23.700><c> our</c>
+
+00:01:23.840 --> 00:01:23.850 align:start position:0%
+equals 2 sine X cosine X this means our
+ 
+
+00:01:23.850 --> 00:01:29.710 align:start position:0%
+equals 2 sine X cosine X this means our
+integral<00:01:24.390><c> is</c><00:01:24.570><c> equivalent</c><00:01:25.229><c> to</c><00:01:25.350><c> 1/2</c><00:01:25.860><c> sine</c><00:01:26.520><c> 2x</c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+ 
+ 
+
+00:01:29.720 --> 00:01:32.780 align:start position:0%
+ 
+simplifying<00:01:30.720><c> we</c><00:01:30.990><c> get</c><00:01:31.140><c> a</c><00:01:31.350><c> result</c><00:01:31.799><c> of</c><00:01:32.009><c> negative</c>
+
+00:01:32.780 --> 00:01:32.790 align:start position:0%
+simplifying we get a result of negative
+ 
+
+00:01:32.790 --> 00:01:36.310 align:start position:0%
+simplifying we get a result of negative
+1/4<00:01:33.390><c> cosine</c><00:01:34.110><c> 2x</c><00:01:34.439><c> plus</c><00:01:35.130><c> an</c><00:01:35.310><c> arbitrary</c><00:01:35.460><c> constant</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+1/4 cosine 2x plus an arbitrary constant
+ 
+
+00:01:36.320 --> 00:01:38.840 align:start position:0%
+1/4 cosine 2x plus an arbitrary constant
+so<00:01:37.320><c> now</c><00:01:37.470><c> we</c><00:01:37.530><c> have</c><00:01:37.740><c> a</c><00:01:37.770><c> very</c><00:01:38.070><c> interesting</c><00:01:38.460><c> result</c>
+
+00:01:38.840 --> 00:01:38.850 align:start position:0%
+so now we have a very interesting result
+ 
+
+00:01:38.850 --> 00:01:42.889 align:start position:0%
+so now we have a very interesting result
+we<00:01:39.720><c> have</c><00:01:39.869><c> three</c><00:01:40.409><c> different</c><00:01:41.400><c> ways</c><00:01:41.720><c> that</c><00:01:42.720><c> we've</c>
+
+00:01:42.889 --> 00:01:42.899 align:start position:0%
+we have three different ways that we've
+ 
+
+00:01:42.899 --> 00:01:45.590 align:start position:0%
+we have three different ways that we've
+written<00:01:43.140><c> the</c><00:01:43.380><c> answer</c><00:01:43.829><c> of</c><00:01:44.040><c> the</c><00:01:44.250><c> integral</c><00:01:44.820><c> sine</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+written the answer of the integral sine
+ 
+
+00:01:45.600 --> 00:01:48.649 align:start position:0%
+written the answer of the integral sine
+X<00:01:45.930><c> cosine</c><00:01:46.470><c> X</c><00:01:46.530><c> and</c><00:01:47.009><c> they</c><00:01:47.909><c> don't</c><00:01:48.060><c> look</c><00:01:48.240><c> anything</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+X cosine X and they don't look anything
+ 
+
+00:01:48.659 --> 00:01:51.139 align:start position:0%
+X cosine X and they don't look anything
+like<00:01:48.869><c> each</c><00:01:49.200><c> other</c><00:01:49.409><c> so</c><00:01:49.710><c> how</c><00:01:50.310><c> is</c><00:01:50.490><c> this</c><00:01:50.610><c> possible</c>
+
+00:01:51.139 --> 00:01:51.149 align:start position:0%
+like each other so how is this possible
+ 
+
+00:01:51.149 --> 00:01:52.550 align:start position:0%
+like each other so how is this possible
+how<00:01:51.329><c> do</c><00:01:51.390><c> we</c><00:01:51.570><c> have</c><00:01:51.659><c> three</c><00:01:51.990><c> different</c><00:01:52.200><c> answers</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+how do we have three different answers
+ 
+
+00:01:52.560 --> 00:01:55.370 align:start position:0%
+how do we have three different answers
+when<00:01:53.430><c> we</c><00:01:53.579><c> solve</c><00:01:53.850><c> this</c><00:01:53.939><c> problem</c><00:01:54.090><c> in</c><00:01:54.689><c> seemingly</c>
+
+00:01:55.370 --> 00:01:55.380 align:start position:0%
+when we solve this problem in seemingly
+ 
+
+00:01:55.380 --> 00:02:01.490 align:start position:0%
+when we solve this problem in seemingly
+valid<00:01:55.890><c> ways</c><00:01:56.960><c> there</c><00:01:57.960><c> is</c><00:01:57.990><c> a</c><00:01:58.110><c> reason</c><00:01:58.469><c> for</c><00:01:58.619><c> this</c><00:02:00.500><c> we</c>
+
+00:02:01.490 --> 00:02:01.500 align:start position:0%
+valid ways there is a reason for this we
+ 
+
+00:02:01.500 --> 00:02:03.770 align:start position:0%
+valid ways there is a reason for this we
+can<00:02:01.710><c> look</c><00:02:01.950><c> at</c><00:02:02.159><c> the</c><00:02:02.399><c> graph</c><00:02:02.759><c> of</c><00:02:03.119><c> our</c><00:02:03.390><c> three</c>
+
+00:02:03.770 --> 00:02:03.780 align:start position:0%
+can look at the graph of our three
+ 
+
+00:02:03.780 --> 00:02:07.010 align:start position:0%
+can look at the graph of our three
+results<00:02:04.439><c> and</c><00:02:04.619><c> we</c><00:02:05.490><c> can</c><00:02:05.670><c> notice</c><00:02:05.880><c> that</c><00:02:06.420><c> the</c><00:02:06.630><c> three</c>
+
+00:02:07.010 --> 00:02:07.020 align:start position:0%
+results and we can notice that the three
+ 
+
+00:02:07.020 --> 00:02:09.499 align:start position:0%
+results and we can notice that the three
+graphs<00:02:07.290><c> the</c><00:02:07.649><c> functions</c><00:02:08.129><c> of</c><00:02:08.250><c> these</c><00:02:08.369><c> graph</c><00:02:08.670><c> only</c>
+
+00:02:09.499 --> 00:02:09.509 align:start position:0%
+graphs the functions of these graph only
+ 
+
+00:02:09.509 --> 00:02:12.430 align:start position:0%
+graphs the functions of these graph only
+differ<00:02:09.780><c> by</c><00:02:09.989><c> a</c><00:02:10.200><c> constant</c><00:02:10.349><c> amount</c><00:02:11.099><c> vertically</c>
+
+00:02:12.430 --> 00:02:12.440 align:start position:0%
+differ by a constant amount vertically
+ 
+
+00:02:12.440 --> 00:02:13.670 align:start position:0%
+differ by a constant amount vertically
+since
+
+00:02:13.670 --> 00:02:13.680 align:start position:0%
+since
+ 
+
+00:02:13.680 --> 00:02:16.250 align:start position:0%
+since
+derivatives<00:02:14.519><c> are</c><00:02:14.700><c> defined</c><00:02:15.359><c> only</c><00:02:15.810><c> up</c><00:02:15.959><c> to</c><00:02:16.230><c> a</c>
+
+00:02:16.250 --> 00:02:16.260 align:start position:0%
+derivatives are defined only up to a
+ 
+
+00:02:16.260 --> 00:02:19.520 align:start position:0%
+derivatives are defined only up to a
+constant<00:02:17.150><c> this</c><00:02:18.150><c> demonstrates</c><00:02:18.930><c> that</c><00:02:19.140><c> these</c>
+
+00:02:19.520 --> 00:02:19.530 align:start position:0%
+constant this demonstrates that these
+ 
+
+00:02:19.530 --> 00:02:22.250 align:start position:0%
+constant this demonstrates that these
+graphs<00:02:19.920><c> are</c><00:02:20.219><c> all</c><00:02:20.670><c> corresponding</c><00:02:21.629><c> to</c><00:02:21.780><c> the</c><00:02:21.900><c> same</c>
+
+00:02:22.250 --> 00:02:22.260 align:start position:0%
+graphs are all corresponding to the same
+ 
+
+00:02:22.260 --> 00:02:24.830 align:start position:0%
+graphs are all corresponding to the same
+antiderivative<00:02:23.150><c> because</c><00:02:24.150><c> they</c><00:02:24.329><c> only</c><00:02:24.510><c> differ</c>
+
+00:02:24.830 --> 00:02:24.840 align:start position:0%
+antiderivative because they only differ
+ 
+
+00:02:24.840 --> 00:02:26.839 align:start position:0%
+antiderivative because they only differ
+by<00:02:25.109><c> a</c><00:02:25.140><c> constant</c><00:02:25.799><c> and</c><00:02:25.890><c> each</c><00:02:26.250><c> antiderivative</c>
+
+00:02:26.839 --> 00:02:26.849 align:start position:0%
+by a constant and each antiderivative
+ 
+
+00:02:26.849 --> 00:02:29.899 align:start position:0%
+by a constant and each antiderivative
+you<00:02:27.599><c> add</c><00:02:27.810><c> an</c><00:02:28.019><c> arbitrary</c><00:02:28.500><c> constant</c><00:02:28.680><c> this</c><00:02:29.579><c> shows</c>
+
+00:02:29.899 --> 00:02:29.909 align:start position:0%
+you add an arbitrary constant this shows
+ 
+
+00:02:29.909 --> 00:02:32.539 align:start position:0%
+you add an arbitrary constant this shows
+that<00:02:30.180><c> each</c><00:02:30.420><c> of</c><00:02:30.629><c> our</c><00:02:30.750><c> solution</c><00:02:31.469><c> all</c><00:02:31.980><c> of</c><00:02:32.400><c> these</c>
+
+00:02:32.539 --> 00:02:32.549 align:start position:0%
+that each of our solution all of these
+ 
+
+00:02:32.549 --> 00:02:34.160 align:start position:0%
+that each of our solution all of these
+three<00:02:32.849><c> solutions</c><00:02:33.269><c> are</c><00:02:33.420><c> equivalent</c><00:02:33.959><c> to</c><00:02:34.049><c> each</c>
+
+00:02:34.160 --> 00:02:34.170 align:start position:0%
+three solutions are equivalent to each
+ 
+
+00:02:34.170 --> 00:02:38.720 align:start position:0%
+three solutions are equivalent to each
+other<00:02:34.379><c> as</c><00:02:34.620><c> anti</c><00:02:35.069><c> derivatives</c><00:02:37.519><c> but</c><00:02:38.519><c> we</c><00:02:38.579><c> can</c>
+
+00:02:38.720 --> 00:02:38.730 align:start position:0%
+other as anti derivatives but we can
+ 
+
+00:02:38.730 --> 00:02:40.910 align:start position:0%
+other as anti derivatives but we can
+also<00:02:38.849><c> prove</c><00:02:39.180><c> this</c><00:02:39.359><c> directly</c><00:02:39.810><c> so</c><00:02:40.500><c> let's</c><00:02:40.739><c> show</c>
+
+00:02:40.910 --> 00:02:40.920 align:start position:0%
+also prove this directly so let's show
+ 
+
+00:02:40.920 --> 00:02:44.300 align:start position:0%
+also prove this directly so let's show
+that<00:02:41.189><c> these</c><00:02:41.459><c> two</c><00:02:42.230><c> solutions</c><00:02:43.230><c> are</c><00:02:43.409><c> equivalent</c>
+
+00:02:44.300 --> 00:02:44.310 align:start position:0%
+that these two solutions are equivalent
+ 
+
+00:02:44.310 --> 00:02:46.099 align:start position:0%
+that these two solutions are equivalent
+that<00:02:44.459><c> they</c><00:02:44.579><c> only</c><00:02:44.730><c> differ</c><00:02:45.030><c> by</c><00:02:45.150><c> a</c><00:02:45.299><c> constant</c>
+
+00:02:46.099 --> 00:02:46.109 align:start position:0%
+that they only differ by a constant
+ 
+
+00:02:46.109 --> 00:02:48.530 align:start position:0%
+that they only differ by a constant
+we'll<00:02:46.950><c> use</c><00:02:46.980><c> the</c><00:02:47.310><c> trigonometric</c><00:02:47.669><c> identity</c>
+
+00:02:48.530 --> 00:02:48.540 align:start position:0%
+we'll use the trigonometric identity
+ 
+
+00:02:48.540 --> 00:02:51.319 align:start position:0%
+we'll use the trigonometric identity
+that<00:02:48.840><c> sine</c><00:02:49.230><c> squared</c><00:02:49.769><c> X</c><00:02:50.099><c> plus</c><00:02:50.579><c> cosine</c><00:02:50.639><c> squared</c>
+
+00:02:51.319 --> 00:02:51.329 align:start position:0%
+that sine squared X plus cosine squared
+ 
+
+00:02:51.329 --> 00:02:54.530 align:start position:0%
+that sine squared X plus cosine squared
+X<00:02:51.450><c> equals</c><00:02:51.930><c> 1</c><00:02:52.370><c> we'll</c><00:02:53.370><c> solve</c><00:02:53.639><c> for</c><00:02:53.939><c> sine</c><00:02:54.150><c> squared</c>
+
+00:02:54.530 --> 00:02:54.540 align:start position:0%
+X equals 1 we'll solve for sine squared
+ 
+
+00:02:54.540 --> 00:02:57.020 align:start position:0%
+X equals 1 we'll solve for sine squared
+X<00:02:54.780><c> and</c><00:02:55.049><c> then</c><00:02:55.079><c> we'll</c><00:02:55.439><c> substitute</c><00:02:56.099><c> into</c><00:02:56.370><c> the</c>
+
+00:02:57.020 --> 00:02:57.030 align:start position:0%
+X and then we'll substitute into the
+ 
+
+00:02:57.030 --> 00:03:00.259 align:start position:0%
+X and then we'll substitute into the
+first<00:02:57.269><c> solution</c><00:02:58.370><c> we</c><00:02:59.370><c> end</c><00:02:59.519><c> up</c><00:02:59.639><c> with</c><00:02:59.790><c> the</c><00:02:59.909><c> result</c>
+
+00:03:00.259 --> 00:03:00.269 align:start position:0%
+first solution we end up with the result
+ 
+
+00:03:00.269 --> 00:03:03.199 align:start position:0%
+first solution we end up with the result
+of<00:03:00.480><c> 1</c><00:03:00.750><c> minus</c><00:03:01.079><c> cosine</c><00:03:01.139><c> squared</c><00:03:01.530><c> X</c><00:03:01.980><c> over</c><00:03:02.489><c> 2</c><00:03:02.700><c> plus</c>
+
+00:03:03.199 --> 00:03:03.209 align:start position:0%
+of 1 minus cosine squared X over 2 plus
+ 
+
+00:03:03.209 --> 00:03:05.959 align:start position:0%
+of 1 minus cosine squared X over 2 plus
+an<00:03:03.389><c> arbitrary</c><00:03:03.540><c> constant</c><00:03:03.959><c> and</c><00:03:04.969><c> this</c>
+
+00:03:05.959 --> 00:03:05.969 align:start position:0%
+an arbitrary constant and this
+ 
+
+00:03:05.969 --> 00:03:07.940 align:start position:0%
+an arbitrary constant and this
+simplifies<00:03:06.299><c> to</c><00:03:06.480><c> negative</c><00:03:06.870><c> cosine</c><00:03:07.469><c> squared</c><00:03:07.769><c> X</c>
+
+00:03:07.940 --> 00:03:07.950 align:start position:0%
+simplifies to negative cosine squared X
+ 
+
+00:03:07.950 --> 00:03:10.280 align:start position:0%
+simplifies to negative cosine squared X
+over<00:03:08.069><c> 2</c><00:03:08.370><c> plus</c><00:03:09.000><c> 1/2</c><00:03:09.299><c> plus</c><00:03:09.780><c> an</c><00:03:10.169><c> arbitrary</c>
+
+00:03:10.280 --> 00:03:10.290 align:start position:0%
+over 2 plus 1/2 plus an arbitrary
+ 
+
+00:03:10.290 --> 00:03:14.390 align:start position:0%
+over 2 plus 1/2 plus an arbitrary
+constant<00:03:11.120><c> here's</c><00:03:12.120><c> what</c><00:03:12.329><c> we</c><00:03:12.450><c> can</c><00:03:12.629><c> simplify</c><00:03:13.400><c> 1/2</c>
+
+00:03:14.390 --> 00:03:14.400 align:start position:0%
+constant here's what we can simplify 1/2
+ 
+
+00:03:14.400 --> 00:03:16.970 align:start position:0%
+constant here's what we can simplify 1/2
+plus<00:03:14.879><c> an</c><00:03:15.090><c> arbitrary</c><00:03:15.599><c> constant</c><00:03:15.780><c> is</c><00:03:16.260><c> still</c><00:03:16.709><c> an</c>
+
+00:03:16.970 --> 00:03:16.980 align:start position:0%
+plus an arbitrary constant is still an
+ 
+
+00:03:16.980 --> 00:03:20.119 align:start position:0%
+plus an arbitrary constant is still an
+arbitrary<00:03:17.489><c> constant</c><00:03:18.229><c> so</c><00:03:19.229><c> we</c><00:03:19.349><c> can</c><00:03:19.379><c> lump</c><00:03:19.859><c> these</c>
+
+00:03:20.119 --> 00:03:20.129 align:start position:0%
+arbitrary constant so we can lump these
+ 
+
+00:03:20.129 --> 00:03:22.219 align:start position:0%
+arbitrary constant so we can lump these
+terms<00:03:20.430><c> together</c><00:03:20.669><c> to</c><00:03:21.419><c> an</c><00:03:21.569><c> arbitrary</c><00:03:22.049><c> constant</c>
+
+00:03:22.219 --> 00:03:22.229 align:start position:0%
+terms together to an arbitrary constant
+ 
+
+00:03:22.229 --> 00:03:25.129 align:start position:0%
+terms together to an arbitrary constant
+and<00:03:22.709><c> thus</c><00:03:23.430><c> we</c><00:03:23.699><c> found</c><00:03:23.970><c> out</c><00:03:24.180><c> that</c><00:03:24.690><c> these</c><00:03:24.900><c> two</c>
+
+00:03:25.129 --> 00:03:25.139 align:start position:0%
+and thus we found out that these two
+ 
+
+00:03:25.139 --> 00:03:27.710 align:start position:0%
+and thus we found out that these two
+solutions<00:03:25.379><c> differ</c><00:03:26.010><c> only</c><00:03:26.340><c> by</c><00:03:26.519><c> 1/2</c><00:03:27.180><c> they</c><00:03:27.510><c> differ</c>
+
+00:03:27.710 --> 00:03:27.720 align:start position:0%
+solutions differ only by 1/2 they differ
+ 
+
+00:03:27.720 --> 00:03:29.599 align:start position:0%
+solutions differ only by 1/2 they differ
+by<00:03:27.840><c> the</c><00:03:27.989><c> constant</c><00:03:28.440><c> of</c><00:03:28.530><c> 1/2</c><00:03:28.889><c> and</c><00:03:29.069><c> therefore</c>
+
+00:03:29.599 --> 00:03:29.609 align:start position:0%
+by the constant of 1/2 and therefore
+ 
+
+00:03:29.609 --> 00:03:32.119 align:start position:0%
+by the constant of 1/2 and therefore
+they<00:03:30.419><c> are</c><00:03:30.449><c> the</c><00:03:30.569><c> same</c><00:03:30.959><c> equivalent</c><00:03:31.829><c> anti</c>
+
+00:03:32.119 --> 00:03:32.129 align:start position:0%
+they are the same equivalent anti
+ 
+
+00:03:32.129 --> 00:03:35.000 align:start position:0%
+they are the same equivalent anti
+derivatives<00:03:33.500><c> let's</c><00:03:34.500><c> do</c><00:03:34.620><c> the</c><00:03:34.769><c> same</c><00:03:34.949><c> thing</c>
+
+00:03:35.000 --> 00:03:35.010 align:start position:0%
+derivatives let's do the same thing
+ 
+
+00:03:35.010 --> 00:03:37.099 align:start position:0%
+derivatives let's do the same thing
+let's<00:03:35.370><c> show</c><00:03:35.579><c> this</c><00:03:35.760><c> third</c><00:03:36.150><c> solution</c><00:03:36.659><c> is</c>
+
+00:03:37.099 --> 00:03:37.109 align:start position:0%
+let's show this third solution is
+ 
+
+00:03:37.109 --> 00:03:40.119 align:start position:0%
+let's show this third solution is
+equivalent<00:03:38.099><c> to</c><00:03:38.159><c> the</c><00:03:38.310><c> second</c><00:03:38.729><c> solution</c>
+
+00:03:40.119 --> 00:03:40.129 align:start position:0%
+equivalent to the second solution
+ 
+
+00:03:40.129 --> 00:03:42.530 align:start position:0%
+equivalent to the second solution
+we'll<00:03:41.129><c> use</c><00:03:41.159><c> the</c><00:03:41.459><c> cosine</c><00:03:41.879><c> double</c><00:03:42.269><c> angle</c>
+
+00:03:42.530 --> 00:03:42.540 align:start position:0%
+we'll use the cosine double angle
+ 
+
+00:03:42.540 --> 00:03:45.860 align:start position:0%
+we'll use the cosine double angle
+identity<00:03:43.019><c> that</c><00:03:43.229><c> cosine</c><00:03:43.709><c> 2x</c><00:03:44.009><c> equals</c><00:03:44.759><c> 2</c><00:03:45.239><c> cosine</c>
+
+00:03:45.860 --> 00:03:45.870 align:start position:0%
+identity that cosine 2x equals 2 cosine
+ 
+
+00:03:45.870 --> 00:03:49.759 align:start position:0%
+identity that cosine 2x equals 2 cosine
+squared<00:03:45.930><c> X</c><00:03:46.439><c> minus</c><00:03:47.129><c> 1</c><00:03:47.930><c> well</c><00:03:48.930><c> substitute</c><00:03:48.959><c> that</c>
+
+00:03:49.759 --> 00:03:49.769 align:start position:0%
+squared X minus 1 well substitute that
+ 
+
+00:03:49.769 --> 00:03:52.789 align:start position:0%
+squared X minus 1 well substitute that
+into<00:03:49.979><c> our</c><00:03:50.220><c> third</c><00:03:50.459><c> solution</c><00:03:50.879><c> and</c><00:03:51.650><c> then</c><00:03:52.650><c> we'll</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+into our third solution and then we'll
+ 
+
+00:03:52.799 --> 00:03:55.640 align:start position:0%
+into our third solution and then we'll
+simplify<00:03:53.370><c> to</c><00:03:53.430><c> get</c><00:03:53.790><c> again</c><00:03:54.509><c> negative</c><00:03:54.930><c> cosine</c>
+
+00:03:55.640 --> 00:03:55.650 align:start position:0%
+simplify to get again negative cosine
+ 
+
+00:03:55.650 --> 00:03:58.610 align:start position:0%
+simplify to get again negative cosine
+squared<00:03:56.009><c> X</c><00:03:56.250><c> over</c><00:03:56.489><c> 2</c><00:03:57.000><c> plus</c><00:03:57.720><c> 1/4</c><00:03:58.229><c> plus</c><00:03:58.319><c> an</c>
+
+00:03:58.610 --> 00:03:58.620 align:start position:0%
+squared X over 2 plus 1/4 plus an
+ 
+
+00:03:58.620 --> 00:04:01.039 align:start position:0%
+squared X over 2 plus 1/4 plus an
+arbitrary<00:03:58.739><c> constant</c><00:03:59.419><c> so</c><00:04:00.419><c> this</c><00:04:00.569><c> shows</c><00:04:00.840><c> the</c>
+
+00:04:01.039 --> 00:04:01.049 align:start position:0%
+arbitrary constant so this shows the
+ 
+
+00:04:01.049 --> 00:04:03.439 align:start position:0%
+arbitrary constant so this shows the
+third<00:04:01.470><c> second</c><00:04:02.340><c> and</c><00:04:02.400><c> third</c><00:04:02.609><c> solutions</c><00:04:03.180><c> differ</c>
+
+00:04:03.439 --> 00:04:03.449 align:start position:0%
+third second and third solutions differ
+ 
+
+00:04:03.449 --> 00:04:07.339 align:start position:0%
+third second and third solutions differ
+only<00:04:03.810><c> by</c><00:04:03.989><c> the</c><00:04:04.169><c> constant</c><00:04:04.739><c> of</c><00:04:04.829><c> 1/4</c><00:04:06.349><c> therefore</c>
+
+00:04:07.339 --> 00:04:07.349 align:start position:0%
+only by the constant of 1/4 therefore
+ 
+
+00:04:07.349 --> 00:04:08.899 align:start position:0%
+only by the constant of 1/4 therefore
+they're<00:04:07.709><c> equivalent</c><00:04:08.159><c> to</c><00:04:08.280><c> each</c><00:04:08.400><c> other</c><00:04:08.579><c> because</c>
+
+00:04:08.899 --> 00:04:08.909 align:start position:0%
+they're equivalent to each other because
+ 
+
+00:04:08.909 --> 00:04:10.550 align:start position:0%
+they're equivalent to each other because
+we<00:04:09.060><c> can</c><00:04:09.269><c> group</c><00:04:09.479><c> the</c><00:04:09.629><c> arbitrary</c><00:04:10.079><c> constants</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+we can group the arbitrary constants
+ 
+
+00:04:10.560 --> 00:04:15.319 align:start position:0%
+we can group the arbitrary constants
+together<00:04:13.370><c> thanks</c><00:04:14.370><c> for</c><00:04:14.519><c> watching</c><00:04:14.879><c> this</c><00:04:15.000><c> video</c>
+
+00:04:15.319 --> 00:04:15.329 align:start position:0%
+together thanks for watching this video
+ 
+
+00:04:15.329 --> 00:04:17.539 align:start position:0%
+together thanks for watching this video
+please<00:04:16.139><c> subscribe</c><00:04:16.289><c> to</c><00:04:16.859><c> my</c><00:04:16.979><c> channel</c><00:04:17.370><c> I</c><00:04:17.519><c> make</c>
+
+00:04:17.539 --> 00:04:17.549 align:start position:0%
+please subscribe to my channel I make
+ 
+
+00:04:17.549 --> 00:04:20.120 align:start position:0%
+please subscribe to my channel I make
+videos<00:04:18.060><c> on</c><00:04:18.269><c> math</c><00:04:18.539><c> and</c><00:04:18.750><c> game</c><00:04:19.109><c> theory</c><00:04:19.409><c> you</c><00:04:19.919><c> can</c>
+
+00:04:20.120 --> 00:04:20.130 align:start position:0%
+videos on math and game theory you can
+ 
+
+00:04:20.130 --> 00:04:22.250 align:start position:0%
+videos on math and game theory you can
+catch<00:04:20.340><c> me</c><00:04:20.519><c> on</c><00:04:20.549><c> my</c><00:04:20.820><c> blog</c><00:04:21.060><c> mind</c><00:04:21.570><c> your</c><00:04:21.750><c> decisions</c>
+
+00:04:22.250 --> 00:04:22.260 align:start position:0%
+catch me on my blog mind your decisions
+ 
+
+00:04:22.260 --> 00:04:24.620 align:start position:0%
+catch me on my blog mind your decisions
+which<00:04:22.740><c> you</c><00:04:22.860><c> can</c><00:04:23.039><c> follow</c><00:04:23.250><c> on</c><00:04:23.520><c> Facebook</c><00:04:24.029><c> Google+</c>
+
+00:04:24.620 --> 00:04:24.630 align:start position:0%
+which you can follow on Facebook Google+
+ 
+
+00:04:24.630 --> 00:04:27.020 align:start position:0%
+which you can follow on Facebook Google+
+and<00:04:24.750><c> patreon</c><00:04:25.380><c> you</c><00:04:25.590><c> can</c><00:04:26.190><c> catch</c><00:04:26.490><c> me</c><00:04:26.669><c> on</c><00:04:26.700><c> so</c>
+
+00:04:27.020 --> 00:04:27.030 align:start position:0%
+and patreon you can catch me on so
+ 
+
+00:04:27.030 --> 00:04:29.180 align:start position:0%
+and patreon you can catch me on so
+to<00:04:27.120><c> media</c><00:04:27.420><c> at</c><00:04:27.630><c> pressure</c><00:04:27.960><c> saw</c><00:04:28.110><c> Walker</c><00:04:28.470><c> and</c><00:04:28.740><c> if</c>
+
+00:04:29.180 --> 00:04:29.190 align:start position:0%
+to media at pressure saw Walker and if
+ 
+
+00:04:29.190 --> 00:04:30.440 align:start position:0%
+to media at pressure saw Walker and if
+you<00:04:29.280><c> liked</c><00:04:29.430><c> the</c><00:04:29.550><c> video</c><00:04:29.639><c> please</c><00:04:29.970><c> check</c><00:04:30.000><c> out</c><00:04:30.330><c> my</c>
+
+00:04:30.440 --> 00:04:30.450 align:start position:0%
+you liked the video please check out my
+ 
+
+00:04:30.450 --> 00:04:32.090 align:start position:0%
+you liked the video please check out my
+books<00:04:30.690><c> there's</c><00:04:31.139><c> links</c><00:04:31.620><c> in</c><00:04:31.770><c> the</c><00:04:31.860><c> video</c>
+
+00:04:32.090 --> 00:04:32.100 align:start position:0%
+books there's links in the video
+ 
+
+00:04:32.100 --> 00:04:34.160 align:start position:0%
+books there's links in the video
+description
+

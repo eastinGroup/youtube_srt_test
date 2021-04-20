@@ -1,0 +1,464 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.230 align:start position:0%
+ 
+i've<00:00:00.240><c> been</c><00:00:00.399><c> doing</c><00:00:00.640><c> fluid</c><00:00:00.799><c> mechanics</c><00:00:01.439><c> for</c><00:00:02.080><c> you</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+i've been doing fluid mechanics for you
+ 
+
+00:00:02.240 --> 00:00:03.030 align:start position:0%
+i've been doing fluid mechanics for you
+know
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+know
+ 
+
+00:00:03.040 --> 00:00:06.550 align:start position:0%
+know
+longer<00:00:03.360><c> than</c><00:00:03.520><c> i</c><00:00:03.679><c> care</c><00:00:03.919><c> to</c><00:00:04.799><c> to</c><00:00:04.960><c> tell</c><00:00:05.200><c> you</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+longer than i care to to tell you
+ 
+
+00:00:06.560 --> 00:00:08.150 align:start position:0%
+longer than i care to to tell you
+and<00:00:06.879><c> i'm</c><00:00:07.200><c> really</c><00:00:07.440><c> interested</c><00:00:07.919><c> in</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+and i'm really interested in
+ 
+
+00:00:08.160 --> 00:00:10.150 align:start position:0%
+and i'm really interested in
+understanding<00:00:08.639><c> the</c><00:00:08.800><c> behavior</c><00:00:09.200><c> of</c><00:00:09.360><c> interfaces</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+understanding the behavior of interfaces
+ 
+
+00:00:10.160 --> 00:00:12.549 align:start position:0%
+understanding the behavior of interfaces
+and<00:00:10.480><c> in</c><00:00:10.639><c> particular</c><00:00:11.120><c> in</c><00:00:11.280><c> situations</c><00:00:12.000><c> where</c>
+
+00:00:12.549 --> 00:00:12.559 align:start position:0%
+and in particular in situations where
+ 
+
+00:00:12.559 --> 00:00:14.629 align:start position:0%
+and in particular in situations where
+you've<00:00:12.799><c> got</c><00:00:12.960><c> a</c><00:00:13.040><c> high</c><00:00:13.280><c> speed</c><00:00:13.679><c> flow</c>
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+you've got a high speed flow
+ 
+
+00:00:14.639 --> 00:00:17.269 align:start position:0%
+you've got a high speed flow
+going<00:00:14.960><c> past</c><00:00:15.599><c> an</c><00:00:15.759><c> interface</c><00:00:16.720><c> and</c><00:00:16.880><c> we</c><00:00:17.039><c> want</c><00:00:17.199><c> to</c>
+
+00:00:17.269 --> 00:00:17.279 align:start position:0%
+going past an interface and we want to
+ 
+
+00:00:17.279 --> 00:00:18.790 align:start position:0%
+going past an interface and we want to
+understand<00:00:17.680><c> what</c><00:00:17.840><c> happens</c><00:00:18.240><c> if</c><00:00:18.480><c> that</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+understand what happens if that
+ 
+
+00:00:18.800 --> 00:00:21.269 align:start position:0%
+understand what happens if that
+uh<00:00:19.439><c> flow</c><00:00:19.840><c> is</c><00:00:20.000><c> turbulent</c><00:00:20.480><c> that</c><00:00:20.720><c> it</c><00:00:20.880><c> interacts</c>
+
+00:00:21.269 --> 00:00:21.279 align:start position:0%
+uh flow is turbulent that it interacts
+ 
+
+00:00:21.279 --> 00:00:22.390 align:start position:0%
+uh flow is turbulent that it interacts
+with<00:00:21.439><c> the</c><00:00:21.520><c> interface</c>
+
+00:00:22.390 --> 00:00:22.400 align:start position:0%
+with the interface
+ 
+
+00:00:22.400 --> 00:00:24.390 align:start position:0%
+with the interface
+what<00:00:22.560><c> happens</c><00:00:22.960><c> next</c><00:00:23.359><c> how</c><00:00:23.600><c> do</c><00:00:23.760><c> you</c><00:00:23.840><c> model</c><00:00:24.160><c> that</c>
+
+00:00:24.390 --> 00:00:24.400 align:start position:0%
+what happens next how do you model that
+ 
+
+00:00:24.400 --> 00:00:25.830 align:start position:0%
+what happens next how do you model that
+how<00:00:24.560><c> do</c><00:00:24.640><c> you</c><00:00:24.720><c> put</c><00:00:24.880><c> that</c><00:00:25.039><c> on</c><00:00:25.119><c> the</c><00:00:25.199><c> computer</c><00:00:25.599><c> in</c><00:00:25.760><c> a</c>
+
+00:00:25.830 --> 00:00:25.840 align:start position:0%
+how do you put that on the computer in a
+ 
+
+00:00:25.840 --> 00:00:26.310 align:start position:0%
+how do you put that on the computer in a
+way
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+way
+ 
+
+00:00:26.320 --> 00:00:27.750 align:start position:0%
+way
+where<00:00:26.480><c> you</c><00:00:26.640><c> can</c><00:00:26.800><c> actually</c><00:00:27.199><c> capture</c><00:00:27.519><c> what</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+where you can actually capture what
+ 
+
+00:00:27.760 --> 00:00:29.509 align:start position:0%
+where you can actually capture what
+happens<00:00:28.240><c> in</c><00:00:28.480><c> in</c><00:00:28.640><c> real</c><00:00:28.880><c> life</c>
+
+00:00:29.509 --> 00:00:29.519 align:start position:0%
+happens in in real life
+ 
+
+00:00:29.519 --> 00:00:32.150 align:start position:0%
+happens in in real life
+for<00:00:29.679><c> example</c><00:00:30.080><c> like</c><00:00:30.320><c> mixing</c><00:00:30.800><c> in</c><00:00:31.279><c> stir</c><00:00:31.760><c> tanks</c>
+
+00:00:32.150 --> 00:00:32.160 align:start position:0%
+for example like mixing in stir tanks
+ 
+
+00:00:32.160 --> 00:00:33.350 align:start position:0%
+for example like mixing in stir tanks
+like<00:00:32.399><c> we</c><00:00:32.559><c> know</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+like we know
+ 
+
+00:00:33.360 --> 00:00:35.750 align:start position:0%
+like we know
+we<00:00:33.520><c> need</c><00:00:33.840><c> power</c><00:00:34.320><c> to</c><00:00:34.559><c> actually</c><00:00:35.200><c> mix</c><00:00:35.520><c> these</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+we need power to actually mix these
+ 
+
+00:00:35.760 --> 00:00:36.790 align:start position:0%
+we need power to actually mix these
+fluids<00:00:36.320><c> and</c>
+
+00:00:36.790 --> 00:00:36.800 align:start position:0%
+fluids and
+ 
+
+00:00:36.800 --> 00:00:38.950 align:start position:0%
+fluids and
+the<00:00:37.040><c> amount</c><00:00:37.360><c> of</c><00:00:37.600><c> work</c><00:00:37.920><c> you</c><00:00:38.079><c> need</c><00:00:38.239><c> to</c><00:00:38.399><c> do</c><00:00:38.640><c> or</c><00:00:38.800><c> the</c>
+
+00:00:38.950 --> 00:00:38.960 align:start position:0%
+the amount of work you need to do or the
+ 
+
+00:00:38.960 --> 00:00:40.630 align:start position:0%
+the amount of work you need to do or the
+power<00:00:39.280><c> or</c><00:00:39.440><c> the</c><00:00:39.600><c> torque</c><00:00:40.000><c> actually</c><00:00:40.399><c> is</c><00:00:40.559><c> a</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+power or the torque actually is a
+ 
+
+00:00:40.640 --> 00:00:41.510 align:start position:0%
+power or the torque actually is a
+function
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+function
+ 
+
+00:00:41.520 --> 00:00:43.990 align:start position:0%
+function
+of<00:00:41.760><c> the</c><00:00:41.920><c> shear</c><00:00:42.239><c> stress</c><00:00:42.640><c> or</c><00:00:42.719><c> the</c><00:00:43.520><c> it's</c><00:00:43.760><c> again</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+of the shear stress or the it's again
+ 
+
+00:00:44.000 --> 00:00:45.270 align:start position:0%
+of the shear stress or the it's again
+the<00:00:44.160><c> boundaries</c><00:00:44.640><c> that</c><00:00:44.879><c> are</c><00:00:44.960><c> playing</c><00:00:45.200><c> the</c>
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+the boundaries that are playing the
+ 
+
+00:00:45.280 --> 00:00:47.110 align:start position:0%
+the boundaries that are playing the
+crucial<00:00:45.680><c> role</c><00:00:46.000><c> you</c><00:00:46.160><c> have</c><00:00:46.239><c> an</c><00:00:46.399><c> impeller</c><00:00:46.960><c> you</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+crucial role you have an impeller you
+ 
+
+00:00:47.120 --> 00:00:48.470 align:start position:0%
+crucial role you have an impeller you
+have<00:00:47.360><c> water</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+have water
+ 
+
+00:00:48.480 --> 00:00:50.229 align:start position:0%
+have water
+with<00:00:48.719><c> the</c><00:00:48.879><c> air</c><00:00:49.039><c> in</c><00:00:49.200><c> the</c><00:00:49.280><c> top</c><00:00:49.600><c> you</c><00:00:49.680><c> rotate</c><00:00:50.079><c> the</c>
+
+00:00:50.229 --> 00:00:50.239 align:start position:0%
+with the air in the top you rotate the
+ 
+
+00:00:50.239 --> 00:00:52.229 align:start position:0%
+with the air in the top you rotate the
+impeller<00:00:51.039><c> you</c><00:00:51.199><c> have</c><00:00:51.360><c> the</c><00:00:51.520><c> interface</c><00:00:52.000><c> that</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+impeller you have the interface that
+ 
+
+00:00:52.239 --> 00:00:53.510 align:start position:0%
+impeller you have the interface that
+deforms
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+deforms
+ 
+
+00:00:53.520 --> 00:00:55.430 align:start position:0%
+deforms
+and<00:00:53.600><c> then</c><00:00:53.840><c> when</c><00:00:54.000><c> you</c><00:00:54.239><c> increase</c><00:00:54.879><c> the</c><00:00:55.039><c> frequency</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+and then when you increase the frequency
+ 
+
+00:00:55.440 --> 00:00:57.830 align:start position:0%
+and then when you increase the frequency
+of<00:00:55.520><c> the</c><00:00:55.680><c> impeller</c><00:00:56.320><c> it</c><00:00:56.480><c> deforms</c><00:00:57.120><c> more</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+of the impeller it deforms more
+ 
+
+00:00:57.840 --> 00:01:00.069 align:start position:0%
+of the impeller it deforms more
+until<00:00:58.239><c> you</c><00:00:58.480><c> reach</c><00:00:58.719><c> the</c><00:00:58.879><c> blade</c><00:00:59.600><c> and</c><00:00:59.760><c> then</c><00:00:59.920><c> you</c>
+
+00:01:00.069 --> 00:01:00.079 align:start position:0%
+until you reach the blade and then you
+ 
+
+00:01:00.079 --> 00:01:02.709 align:start position:0%
+until you reach the blade and then you
+have<00:01:00.480><c> a</c><00:01:00.640><c> multiple</c><00:01:01.199><c> of</c><00:01:01.359><c> bubbles</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+have a multiple of bubbles
+ 
+
+00:01:02.719 --> 00:01:04.869 align:start position:0%
+have a multiple of bubbles
+so<00:01:03.199><c> it's</c><00:01:03.440><c> process</c><00:01:03.920><c> of</c><00:01:04.000><c> mixing</c><00:01:04.559><c> and</c><00:01:04.640><c> that's</c>
+
+00:01:04.869 --> 00:01:04.879 align:start position:0%
+so it's process of mixing and that's
+ 
+
+00:01:04.879 --> 00:01:06.070 align:start position:0%
+so it's process of mixing and that's
+what<00:01:05.040><c> i'm</c><00:01:05.119><c> doing</c><00:01:05.360><c> at</c><00:01:05.439><c> this</c><00:01:05.600><c> moment</c>
+
+00:01:06.070 --> 00:01:06.080 align:start position:0%
+what i'm doing at this moment
+ 
+
+00:01:06.080 --> 00:01:07.670 align:start position:0%
+what i'm doing at this moment
+these<00:01:06.240><c> simulations</c><00:01:06.720><c> are</c><00:01:06.799><c> useful</c><00:01:07.119><c> in</c><00:01:07.360><c> in</c><00:01:07.439><c> many</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+these simulations are useful in in many
+ 
+
+00:01:07.680 --> 00:01:09.830 align:start position:0%
+these simulations are useful in in many
+different<00:01:07.920><c> areas</c><00:01:08.400><c> um</c><00:01:08.640><c> in</c><00:01:09.040><c> say</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+different areas um in say
+ 
+
+00:01:09.840 --> 00:01:12.070 align:start position:0%
+different areas um in say
+pharmaceuticals<00:01:10.720><c> and</c><00:01:10.960><c> mineral</c><00:01:11.280><c> processing</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+pharmaceuticals and mineral processing
+ 
+
+00:01:12.080 --> 00:01:13.190 align:start position:0%
+pharmaceuticals and mineral processing
+because<00:01:12.320><c> a</c><00:01:12.400><c> lot</c><00:01:12.560><c> of</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+because a lot of
+ 
+
+00:01:13.200 --> 00:01:16.230 align:start position:0%
+because a lot of
+industrial<00:01:13.680><c> applications</c><00:01:14.799><c> depend</c><00:01:15.200><c> on</c><00:01:16.080><c> the</c>
+
+00:01:16.230 --> 00:01:16.240 align:start position:0%
+industrial applications depend on the
+ 
+
+00:01:16.240 --> 00:01:18.230 align:start position:0%
+industrial applications depend on the
+size<00:01:16.720><c> and</c><00:01:16.799><c> the</c><00:01:16.960><c> interactions</c><00:01:17.439><c> of</c><00:01:17.520><c> droplets</c>
+
+00:01:18.230 --> 00:01:18.240 align:start position:0%
+size and the interactions of droplets
+ 
+
+00:01:18.240 --> 00:01:20.230 align:start position:0%
+size and the interactions of droplets
+basically<00:01:18.799><c> multiphase</c><00:01:19.280><c> flows</c><00:01:19.680><c> this</c><00:01:20.000><c> area</c>
+
+00:01:20.230 --> 00:01:20.240 align:start position:0%
+basically multiphase flows this area
+ 
+
+00:01:20.240 --> 00:01:22.070 align:start position:0%
+basically multiphase flows this area
+that<00:01:20.320><c> we're</c><00:01:21.200><c> working</c><00:01:21.600><c> in</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+that we're working in
+ 
+
+00:01:22.080 --> 00:01:24.230 align:start position:0%
+that we're working in
+which<00:01:22.320><c> involves</c><00:01:22.720><c> this</c><00:01:23.040><c> this</c><00:01:23.280><c> issue</c><00:01:23.600><c> of</c><00:01:23.840><c> a</c>
+
+00:01:24.230 --> 00:01:24.240 align:start position:0%
+which involves this this issue of a
+ 
+
+00:01:24.240 --> 00:01:25.429 align:start position:0%
+which involves this this issue of a
+turbulent<00:01:24.799><c> phase</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+turbulent phase
+ 
+
+00:01:25.439 --> 00:01:28.630 align:start position:0%
+turbulent phase
+flowing<00:01:25.840><c> past</c><00:01:26.479><c> an</c><00:01:26.640><c> interface</c><00:01:27.600><c> is</c><00:01:28.000><c> central</c><00:01:28.479><c> to</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+flowing past an interface is central to
+ 
+
+00:01:28.640 --> 00:01:30.710 align:start position:0%
+flowing past an interface is central to
+just<00:01:28.960><c> about</c><00:01:29.360><c> every</c><00:01:29.680><c> processing</c><00:01:30.240><c> equipment</c><00:01:30.640><c> in</c>
+
+00:01:30.710 --> 00:01:30.720 align:start position:0%
+just about every processing equipment in
+ 
+
+00:01:30.720 --> 00:01:31.910 align:start position:0%
+just about every processing equipment in
+manufacturing<00:01:31.439><c> so</c>
+
+00:01:31.910 --> 00:01:31.920 align:start position:0%
+manufacturing so
+ 
+
+00:01:31.920 --> 00:01:33.749 align:start position:0%
+manufacturing so
+if<00:01:32.159><c> you</c><00:01:32.400><c> if</c><00:01:32.560><c> you</c><00:01:32.720><c> get</c><00:01:32.880><c> that</c><00:01:33.040><c> bit</c><00:01:33.200><c> of</c><00:01:33.360><c> physics</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+if you if you get that bit of physics
+ 
+
+00:01:33.759 --> 00:01:35.510 align:start position:0%
+if you if you get that bit of physics
+wrong<00:01:34.240><c> then</c><00:01:34.479><c> you're</c><00:01:34.640><c> making</c><00:01:34.960><c> all</c><00:01:35.119><c> kinds</c><00:01:35.360><c> of</c>
+
+00:01:35.510 --> 00:01:35.520 align:start position:0%
+wrong then you're making all kinds of
+ 
+
+00:01:35.520 --> 00:01:36.550 align:start position:0%
+wrong then you're making all kinds of
+wrong<00:01:35.680><c> predictions</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+wrong predictions
+ 
+
+00:01:36.560 --> 00:01:38.149 align:start position:0%
+wrong predictions
+in<00:01:36.720><c> designing</c><00:01:37.360><c> lots</c><00:01:37.520><c> of</c><00:01:37.600><c> things</c><00:01:37.840><c> which</c><00:01:38.000><c> are</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+in designing lots of things which are
+ 
+
+00:01:38.159 --> 00:01:39.910 align:start position:0%
+in designing lots of things which are
+important<00:01:38.720><c> from</c><00:01:38.880><c> an</c><00:01:38.960><c> industrial</c><00:01:39.439><c> perspective</c>
+
+00:01:39.910 --> 00:01:39.920 align:start position:0%
+important from an industrial perspective
+ 
+
+00:01:39.920 --> 00:01:40.789 align:start position:0%
+important from an industrial perspective
+and<00:01:40.079><c> we</c><00:01:40.320><c> think</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+and we think
+ 
+
+00:01:40.799 --> 00:01:42.389 align:start position:0%
+and we think
+that<00:01:40.960><c> that's</c><00:01:41.200><c> one</c><00:01:41.360><c> of</c><00:01:41.439><c> the</c><00:01:41.600><c> main</c><00:01:41.840><c> reasons</c><00:01:42.240><c> why</c>
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+that that's one of the main reasons why
+ 
+
+00:01:42.399 --> 00:01:54.230 align:start position:0%
+that that's one of the main reasons why
+there<00:01:42.560><c> is</c><00:01:42.720><c> a</c><00:01:42.799><c> lot</c><00:01:42.960><c> of</c><00:01:43.119><c> inefficiency</c><00:01:43.840><c> in</c><00:01:52.840><c> design</c>
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+there is a lot of inefficiency in design
+ 
+
+00:01:54.240 --> 00:01:56.320 align:start position:0%
+there is a lot of inefficiency in design
+you
+

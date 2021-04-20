@@ -1,0 +1,2168 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.690 align:start position:0%
+ 
+hello<00:00:00.480><c> mass</c><00:00:00.780><c> fans</c><00:00:01.079><c> continuing</c><00:00:01.979><c> the</c><00:00:02.129><c> series</c><00:00:02.370><c> on</c>
+
+00:00:02.690 --> 00:00:02.700 align:start position:0%
+hello mass fans continuing the series on
+ 
+
+00:00:02.700 --> 00:00:05.030 align:start position:0%
+hello mass fans continuing the series on
+disease<00:00:03.090><c> modeling</c><00:00:03.659><c> today</c><00:00:04.200><c> we're</c><00:00:04.680><c> looking</c><00:00:04.920><c> at</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+disease modeling today we're looking at
+ 
+
+00:00:05.040 --> 00:00:08.450 align:start position:0%
+disease modeling today we're looking at
+another<00:00:05.160><c> extension</c><00:00:05.910><c> of</c><00:00:06.270><c> the</c><00:00:06.420><c> si</c><00:00:06.990><c> our</c><00:00:07.290><c> model</c><00:00:07.890><c> to</c>
+
+00:00:08.450 --> 00:00:08.460 align:start position:0%
+another extension of the si our model to
+ 
+
+00:00:08.460 --> 00:00:10.910 align:start position:0%
+another extension of the si our model to
+include<00:00:08.730><c> an</c><00:00:08.970><c> incubation</c><00:00:09.660><c> time</c><00:00:10.080><c> for</c><00:00:10.740><c> the</c>
+
+00:00:10.910 --> 00:00:10.920 align:start position:0%
+include an incubation time for the
+ 
+
+00:00:10.920 --> 00:00:12.950 align:start position:0%
+include an incubation time for the
+disease<00:00:11.309><c> once</c><00:00:11.820><c> again</c><00:00:12.179><c> we</c><00:00:12.360><c> start</c><00:00:12.420><c> with</c><00:00:12.870><c> the</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+disease once again we start with the
+ 
+
+00:00:12.960 --> 00:00:16.070 align:start position:0%
+disease once again we start with the
+same<00:00:13.200><c> three</c><00:00:13.280><c> variables</c><00:00:14.280><c> s</c><00:00:14.639><c> for</c><00:00:15.330><c> susceptibles</c>
+
+00:00:16.070 --> 00:00:16.080 align:start position:0%
+same three variables s for susceptibles
+ 
+
+00:00:16.080 --> 00:00:19.880 align:start position:0%
+same three variables s for susceptibles
+I<00:00:16.320><c> for</c><00:00:16.980><c> infective</c><00:00:17.580><c> and</c><00:00:17.880><c> R</c><00:00:18.359><c> for</c><00:00:18.630><c> recovered</c><00:00:19.260><c> so</c>
+
+00:00:19.880 --> 00:00:19.890 align:start position:0%
+I for infective and R for recovered so
+ 
+
+00:00:19.890 --> 00:00:24.859 align:start position:0%
+I for infective and R for recovered so
+our<00:00:20.039><c> first</c><00:00:20.250><c> equation</c><00:00:20.550><c> will</c><00:00:21.510><c> be</c><00:00:21.689><c> d</c><00:00:22.380><c> s</c><00:00:22.680><c> by</c><00:00:23.160><c> DT</c><00:00:23.869><c> the</c>
+
+00:00:24.859 --> 00:00:24.869 align:start position:0%
+our first equation will be d s by DT the
+ 
+
+00:00:24.869 --> 00:00:26.509 align:start position:0%
+our first equation will be d s by DT the
+rate<00:00:24.900><c> of</c><00:00:25.380><c> change</c><00:00:25.410><c> of</c><00:00:25.920><c> the</c><00:00:26.039><c> number</c><00:00:26.070><c> of</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+rate of change of the number of
+ 
+
+00:00:26.519 --> 00:00:30.529 align:start position:0%
+rate of change of the number of
+susceptibles<00:00:27.240><c> over</c><00:00:27.630><c> time</c><00:00:27.990><c> and</c><00:00:28.680><c> this</c><00:00:29.400><c> is</c><00:00:29.730><c> going</c>
+
+00:00:30.529 --> 00:00:30.539 align:start position:0%
+susceptibles over time and this is going
+ 
+
+00:00:30.539 --> 00:00:33.290 align:start position:0%
+susceptibles over time and this is going
+to<00:00:30.750><c> decrease</c><00:00:31.410><c> when</c><00:00:32.279><c> there</c><00:00:32.550><c> is</c><00:00:32.669><c> transmission</c>
+
+00:00:33.290 --> 00:00:33.300 align:start position:0%
+to decrease when there is transmission
+ 
+
+00:00:33.300 --> 00:00:36.889 align:start position:0%
+to decrease when there is transmission
+of<00:00:33.450><c> the</c><00:00:33.570><c> disease</c><00:00:33.860><c> so</c><00:00:34.860><c> that</c><00:00:34.890><c> is</c><00:00:35.190><c> minus</c><00:00:35.670><c> R</c><00:00:35.880><c> R</c><00:00:36.420><c> is</c>
+
+00:00:36.889 --> 00:00:36.899 align:start position:0%
+of the disease so that is minus R R is
+ 
+
+00:00:36.899 --> 00:00:40.060 align:start position:0%
+of the disease so that is minus R R is
+the<00:00:37.020><c> transmission</c><00:00:37.500><c> rate</c><00:00:38.040><c> remember</c><00:00:38.730><c> times</c><00:00:39.570><c> I</c>
+
+00:00:40.060 --> 00:00:40.070 align:start position:0%
+the transmission rate remember times I
+ 
+
+00:00:40.070 --> 00:00:44.180 align:start position:0%
+the transmission rate remember times I
+times<00:00:41.070><c> s</c><00:00:41.370><c> then</c><00:00:42.149><c> our</c><00:00:42.270><c> second</c><00:00:42.750><c> equation</c><00:00:42.930><c> di</c><00:00:43.649><c> by</c>
+
+00:00:44.180 --> 00:00:44.190 align:start position:0%
+times s then our second equation di by
+ 
+
+00:00:44.190 --> 00:00:48.410 align:start position:0%
+times s then our second equation di by
+DT<00:00:45.350><c> this</c><00:00:46.579><c> represents</c><00:00:47.579><c> the</c><00:00:47.700><c> rate</c><00:00:47.879><c> of</c><00:00:48.030><c> change</c><00:00:48.059><c> of</c>
+
+00:00:48.410 --> 00:00:48.420 align:start position:0%
+DT this represents the rate of change of
+ 
+
+00:00:48.420 --> 00:00:50.810 align:start position:0%
+DT this represents the rate of change of
+our<00:00:48.510><c> infective</c><00:00:49.140><c> population</c><00:00:49.829><c> so</c><00:00:50.579><c> if</c><00:00:50.700><c> the</c>
+
+00:00:50.810 --> 00:00:50.820 align:start position:0%
+our infective population so if the
+ 
+
+00:00:50.820 --> 00:00:52.729 align:start position:0%
+our infective population so if the
+susceptible<00:00:51.360><c> population</c><00:00:51.989><c> decreases</c>
+
+00:00:52.729 --> 00:00:52.739 align:start position:0%
+susceptible population decreases
+ 
+
+00:00:52.739 --> 00:00:54.889 align:start position:0%
+susceptible population decreases
+somebody<00:00:53.520><c> is</c><00:00:53.640><c> moving</c><00:00:54.059><c> from</c><00:00:54.180><c> susceptible</c><00:00:54.870><c> to</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+somebody is moving from susceptible to
+ 
+
+00:00:54.899 --> 00:00:58.130 align:start position:0%
+somebody is moving from susceptible to
+infective<00:00:55.620><c> so</c><00:00:56.219><c> this</c><00:00:56.399><c> will</c><00:00:56.610><c> increase</c><00:00:57.390><c> at</c><00:00:57.809><c> the</c>
+
+00:00:58.130 --> 00:00:58.140 align:start position:0%
+infective so this will increase at the
+ 
+
+00:00:58.140 --> 00:01:01.610 align:start position:0%
+infective so this will increase at the
+same<00:00:58.170><c> rate</c><00:00:59.239><c> but</c><00:01:00.239><c> then</c><00:01:00.570><c> people</c><00:01:01.379><c> who</c><00:01:01.500><c> are</c>
+
+00:01:01.610 --> 00:01:01.620 align:start position:0%
+same rate but then people who are
+ 
+
+00:01:01.620 --> 00:01:03.740 align:start position:0%
+same rate but then people who are
+infected<00:01:01.739><c> with</c><00:01:02.309><c> the</c><00:01:02.399><c> disease</c><00:01:02.670><c> might</c><00:01:03.300><c> recover</c>
+
+00:01:03.740 --> 00:01:03.750 align:start position:0%
+infected with the disease might recover
+ 
+
+00:01:03.750 --> 00:01:05.960 align:start position:0%
+infected with the disease might recover
+and<00:01:04.049><c> this</c><00:01:04.409><c> we</c><00:01:04.650><c> say</c><00:01:04.830><c> happens</c><00:01:05.280><c> at</c><00:01:05.460><c> a</c><00:01:05.489><c> constant</c>
+
+00:01:05.960 --> 00:01:05.970 align:start position:0%
+and this we say happens at a constant
+ 
+
+00:01:05.970 --> 00:01:09.440 align:start position:0%
+and this we say happens at a constant
+rate<00:01:06.180><c> a</c><00:01:07.430><c> and</c><00:01:08.430><c> it's</c><00:01:08.670><c> proportional</c><00:01:08.970><c> to</c><00:01:09.360><c> the</c>
+
+00:01:09.440 --> 00:01:09.450 align:start position:0%
+rate a and it's proportional to the
+ 
+
+00:01:09.450 --> 00:01:12.140 align:start position:0%
+rate a and it's proportional to the
+number<00:01:09.689><c> of</c><00:01:09.900><c> infective</c><00:01:10.619><c> 's</c><00:01:10.650><c> and</c><00:01:10.860><c> then</c><00:01:11.610><c> finally</c>
+
+00:01:12.140 --> 00:01:12.150 align:start position:0%
+number of infective 's and then finally
+ 
+
+00:01:12.150 --> 00:01:14.270 align:start position:0%
+number of infective 's and then finally
+our<00:01:12.420><c> rate</c><00:01:12.659><c> of</c><00:01:12.840><c> change</c><00:01:13.140><c> of</c><00:01:13.350><c> the</c><00:01:13.530><c> removed</c>
+
+00:01:14.270 --> 00:01:14.280 align:start position:0%
+our rate of change of the removed
+ 
+
+00:01:14.280 --> 00:01:18.950 align:start position:0%
+our rate of change of the removed
+population<00:01:15.119><c> r</c><00:01:15.689><c> dr</c><00:01:16.619><c> by</c><00:01:16.950><c> dt</c><00:01:17.150><c> this</c><00:01:18.150><c> one</c><00:01:18.420><c> is</c><00:01:18.570><c> equal</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+population r dr by dt this one is equal
+ 
+
+00:01:18.960 --> 00:01:22.190 align:start position:0%
+population r dr by dt this one is equal
+to<00:01:19.020><c> the</c><00:01:20.009><c> growth</c><00:01:20.310><c> here</c><00:01:20.820><c> because</c><00:01:21.330><c> the</c><00:01:21.540><c> infective</c>
+
+00:01:22.190 --> 00:01:22.200 align:start position:0%
+to the growth here because the infective
+ 
+
+00:01:22.200 --> 00:01:24.830 align:start position:0%
+to the growth here because the infective
+'s<00:01:22.229><c> are</c><00:01:22.439><c> moving</c><00:01:23.100><c> into</c><00:01:23.310><c> the</c><00:01:23.939><c> removed</c><00:01:24.330><c> part</c><00:01:24.659><c> of</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+'s are moving into the removed part of
+ 
+
+00:01:24.840 --> 00:01:29.539 align:start position:0%
+'s are moving into the removed part of
+our<00:01:24.960><c> population</c><00:01:25.409><c> at</c><00:01:26.310><c> this</c><00:01:26.790><c> rate</c><00:01:27.090><c> a</c><00:01:27.420><c> i</c><00:01:28.430><c> so</c><00:01:29.430><c> this</c>
+
+00:01:29.539 --> 00:01:29.549 align:start position:0%
+our population at this rate a i so this
+ 
+
+00:01:29.549 --> 00:01:32.270 align:start position:0%
+our population at this rate a i so this
+is<00:01:29.729><c> just</c><00:01:29.850><c> the</c><00:01:30.030><c> same</c><00:01:30.270><c> basic</c><00:01:30.840><c> SI</c><00:01:31.320><c> r</c><00:01:31.470><c> model</c><00:01:31.890><c> that</c>
+
+00:01:32.270 --> 00:01:32.280 align:start position:0%
+is just the same basic SI r model that
+ 
+
+00:01:32.280 --> 00:01:33.140 align:start position:0%
+is just the same basic SI r model that
+we've<00:01:32.460><c> seen</c><00:01:32.729><c> before</c>
+
+00:01:33.140 --> 00:01:33.150 align:start position:0%
+we've seen before
+ 
+
+00:01:33.150 --> 00:01:35.390 align:start position:0%
+we've seen before
+now<00:01:33.509><c> we</c><00:01:33.570><c> make</c><00:01:34.140><c> the</c><00:01:34.170><c> additional</c><00:01:34.799><c> assumption</c>
+
+00:01:35.390 --> 00:01:35.400 align:start position:0%
+now we make the additional assumption
+ 
+
+00:01:35.400 --> 00:01:37.130 align:start position:0%
+now we make the additional assumption
+that<00:01:35.430><c> the</c><00:01:35.700><c> disease</c><00:01:36.119><c> has</c><00:01:36.479><c> an</c><00:01:36.600><c> incubation</c>
+
+00:01:37.130 --> 00:01:37.140 align:start position:0%
+that the disease has an incubation
+ 
+
+00:01:37.140 --> 00:01:41.179 align:start position:0%
+that the disease has an incubation
+period<00:01:37.350><c> equal</c><00:01:38.070><c> to</c><00:01:38.909><c> tau</c><00:01:39.479><c> and</c><00:01:39.930><c> what</c><00:01:40.650><c> this</c><00:01:40.829><c> means</c>
+
+00:01:41.179 --> 00:01:41.189 align:start position:0%
+period equal to tau and what this means
+ 
+
+00:01:41.189 --> 00:01:43.999 align:start position:0%
+period equal to tau and what this means
+is<00:01:41.520><c> that</c><00:01:42.000><c> a</c><00:01:42.180><c> susceptible</c><00:01:43.049><c> that</c><00:01:43.500><c> comes</c><00:01:43.829><c> into</c>
+
+00:01:43.999 --> 00:01:44.009 align:start position:0%
+is that a susceptible that comes into
+ 
+
+00:01:44.009 --> 00:01:46.609 align:start position:0%
+is that a susceptible that comes into
+contact<00:01:44.310><c> with</c><00:01:44.670><c> an</c><00:01:45.090><c> infective</c><00:01:45.780><c> and</c><00:01:46.020><c> catches</c>
+
+00:01:46.609 --> 00:01:46.619 align:start position:0%
+contact with an infective and catches
+ 
+
+00:01:46.619 --> 00:01:49.819 align:start position:0%
+contact with an infective and catches
+the<00:01:46.649><c> disease</c><00:01:47.159><c> will</c><00:01:47.939><c> not</c><00:01:48.180><c> actually</c><00:01:48.810><c> move</c><00:01:49.170><c> to</c>
+
+00:01:49.819 --> 00:01:49.829 align:start position:0%
+the disease will not actually move to
+ 
+
+00:01:49.829 --> 00:01:52.969 align:start position:0%
+the disease will not actually move to
+being<00:01:50.070><c> in</c><00:01:50.369><c> the</c><00:01:50.790><c> infectious</c><00:01:51.509><c> category</c><00:01:52.259><c> for</c><00:01:52.950><c> a</c>
+
+00:01:52.969 --> 00:01:52.979 align:start position:0%
+being in the infectious category for a
+ 
+
+00:01:52.979 --> 00:01:55.609 align:start position:0%
+being in the infectious category for a
+certain<00:01:53.520><c> period</c><00:01:53.759><c> of</c><00:01:54.090><c> time</c><00:01:54.149><c> which</c><00:01:55.020><c> we</c><00:01:55.200><c> label</c>
+
+00:01:55.609 --> 00:01:55.619 align:start position:0%
+certain period of time which we label
+ 
+
+00:01:55.619 --> 00:01:58.730 align:start position:0%
+certain period of time which we label
+tau<00:01:56.250><c> so</c><00:01:57.210><c> you</c><00:01:57.270><c> can</c><00:01:57.509><c> think</c><00:01:57.780><c> of</c><00:01:57.960><c> this</c><00:01:58.140><c> as</c><00:01:58.350><c> somebody</c>
+
+00:01:58.730 --> 00:01:58.740 align:start position:0%
+tau so you can think of this as somebody
+ 
+
+00:01:58.740 --> 00:02:01.910 align:start position:0%
+tau so you can think of this as somebody
+catching<00:01:59.490><c> the</c><00:01:59.610><c> disease</c><00:01:59.810><c> from</c><00:02:00.810><c> an</c><00:02:01.110><c> infectious</c>
+
+00:02:01.910 --> 00:02:01.920 align:start position:0%
+catching the disease from an infectious
+ 
+
+00:02:01.920 --> 00:02:04.340 align:start position:0%
+catching the disease from an infectious
+person<00:02:02.430><c> but</c><00:02:02.909><c> then</c><00:02:03.060><c> taking</c><00:02:03.390><c> some</c><00:02:03.630><c> amount</c><00:02:04.200><c> of</c>
+
+00:02:04.340 --> 00:02:04.350 align:start position:0%
+person but then taking some amount of
+ 
+
+00:02:04.350 --> 00:02:06.950 align:start position:0%
+person but then taking some amount of
+time<00:02:04.649><c> before</c><00:02:04.979><c> they</c><00:02:05.310><c> themselves</c><00:02:05.960><c> display</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+time before they themselves display
+ 
+
+00:02:06.960 --> 00:02:09.080 align:start position:0%
+time before they themselves display
+symptoms<00:02:07.380><c> and</c><00:02:07.799><c> therefore</c><00:02:08.429><c> become</c><00:02:08.700><c> infectious</c>
+
+00:02:09.080 --> 00:02:09.090 align:start position:0%
+symptoms and therefore become infectious
+ 
+
+00:02:09.090 --> 00:02:11.869 align:start position:0%
+symptoms and therefore become infectious
+to<00:02:09.899><c> others</c><00:02:09.929><c> what</c><00:02:10.679><c> this</c><00:02:10.860><c> means</c><00:02:11.129><c> for</c><00:02:11.280><c> our</c><00:02:11.340><c> model</c>
+
+00:02:11.869 --> 00:02:11.879 align:start position:0%
+to others what this means for our model
+ 
+
+00:02:11.879 --> 00:02:13.890 align:start position:0%
+to others what this means for our model
+is<00:02:12.060><c> that</c><00:02:12.510><c> our</c><00:02:12.599><c> variables</c><00:02:13.230><c> i</c>
+
+00:02:13.890 --> 00:02:13.900 align:start position:0%
+is that our variables i
+ 
+
+00:02:13.900 --> 00:02:16.229 align:start position:0%
+is that our variables i
+s<00:02:14.140><c> which</c><00:02:14.830><c> originally</c><00:02:15.489><c> were</c><00:02:15.580><c> just</c><00:02:15.790><c> functions</c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+s which originally were just functions
+ 
+
+00:02:16.239 --> 00:02:19.380 align:start position:0%
+s which originally were just functions
+of<00:02:16.390><c> time</c><00:02:16.660><c> T</c><00:02:17.140><c> will</c><00:02:17.890><c> now</c><00:02:18.160><c> be</c><00:02:18.519><c> functions</c><00:02:19.000><c> of</c><00:02:19.180><c> time</c>
+
+00:02:19.380 --> 00:02:19.390 align:start position:0%
+of time T will now be functions of time
+ 
+
+00:02:19.390 --> 00:02:23.490 align:start position:0%
+of time T will now be functions of time
+t<00:02:19.810><c> minus</c><00:02:20.620><c> tau</c><00:02:21.310><c> so</c><00:02:22.239><c> here</c><00:02:22.629><c> we're</c><00:02:23.170><c> going</c><00:02:23.200><c> to</c>
+
+00:02:23.490 --> 00:02:23.500 align:start position:0%
+t minus tau so here we're going to
+ 
+
+00:02:23.500 --> 00:02:26.280 align:start position:0%
+t minus tau so here we're going to
+replace<00:02:23.890><c> the</c><00:02:24.849><c> I</c><00:02:24.879><c> and</c><00:02:25.330><c> s</c><00:02:25.660><c> which</c><00:02:26.080><c> were</c>
+
+00:02:26.280 --> 00:02:26.290 align:start position:0%
+replace the I and s which were
+ 
+
+00:02:26.290 --> 00:02:31.440 align:start position:0%
+replace the I and s which were
+implicitly<00:02:27.069><c> functions</c><00:02:27.670><c> of</c><00:02:27.819><c> T</c><00:02:28.290><c> with</c><00:02:29.290><c> I</c><00:02:29.680><c> of</c><00:02:30.489><c> T</c>
+
+00:02:31.440 --> 00:02:31.450 align:start position:0%
+implicitly functions of T with I of T
+ 
+
+00:02:31.450 --> 00:02:37.729 align:start position:0%
+implicitly functions of T with I of T
+minus<00:02:32.349><c> the</c><00:02:33.099><c> delay</c><00:02:33.400><c> period</c><00:02:34.000><c> tau</c><00:02:34.500><c> times</c><00:02:35.500><c> s</c><00:02:35.830><c> of</c><00:02:36.580><c> t</c>
+
+00:02:37.729 --> 00:02:37.739 align:start position:0%
+minus the delay period tau times s of t
+ 
+
+00:02:37.739 --> 00:02:40.800 align:start position:0%
+minus the delay period tau times s of t
+minus<00:02:38.739><c> tau</c><00:02:39.040><c> and</c><00:02:39.879><c> we're</c><00:02:40.060><c> going</c><00:02:40.209><c> to</c><00:02:40.299><c> do</c><00:02:40.390><c> the</c><00:02:40.540><c> same</c>
+
+00:02:40.800 --> 00:02:40.810 align:start position:0%
+minus tau and we're going to do the same
+ 
+
+00:02:40.810 --> 00:02:44.309 align:start position:0%
+minus tau and we're going to do the same
+in<00:02:41.230><c> the</c><00:02:41.890><c> di</c><00:02:42.099><c> by</c><00:02:42.430><c> DT</c><00:02:42.819><c> equation</c><00:02:43.450><c> because</c><00:02:44.049><c> this</c>
+
+00:02:44.309 --> 00:02:44.319 align:start position:0%
+in the di by DT equation because this
+ 
+
+00:02:44.319 --> 00:02:46.800 align:start position:0%
+in the di by DT equation because this
+term<00:02:44.590><c> here</c><00:02:44.890><c> remember</c><00:02:45.400><c> is</c><00:02:45.549><c> the</c><00:02:45.940><c> contact</c><00:02:46.450><c> the</c>
+
+00:02:46.800 --> 00:02:46.810 align:start position:0%
+term here remember is the contact the
+ 
+
+00:02:46.810 --> 00:02:49.830 align:start position:0%
+term here remember is the contact the
+transmission<00:02:47.620><c> of</c><00:02:47.860><c> the</c><00:02:48.069><c> disease</c><00:02:48.099><c> but</c><00:02:49.000><c> then</c><00:02:49.299><c> the</c>
+
+00:02:49.830 --> 00:02:49.840 align:start position:0%
+transmission of the disease but then the
+ 
+
+00:02:49.840 --> 00:02:53.250 align:start position:0%
+transmission of the disease but then the
+final<00:02:50.319><c> term</c><00:02:50.560><c> the</c><00:02:50.950><c> minus</c><00:02:51.340><c> a</c><00:02:51.519><c> times</c><00:02:51.849><c> I</c><00:02:52.030><c> that</c><00:02:53.019><c> will</c>
+
+00:02:53.250 --> 00:02:53.260 align:start position:0%
+final term the minus a times I that will
+ 
+
+00:02:53.260 --> 00:02:56.509 align:start position:0%
+final term the minus a times I that will
+just<00:02:53.500><c> remain</c><00:02:53.799><c> as</c><00:02:54.099><c> a</c><00:02:54.160><c> function</c><00:02:55.000><c> of</c><00:02:55.120><c> time</c><00:02:55.480><c> T</c>
+
+00:02:56.509 --> 00:02:56.519 align:start position:0%
+just remain as a function of time T
+ 
+
+00:02:56.519 --> 00:02:59.100 align:start position:0%
+just remain as a function of time T
+because<00:02:57.519><c> we</c><00:02:57.549><c> are</c><00:02:57.819><c> only</c><00:02:58.030><c> assuming</c><00:02:58.810><c> there's</c><00:02:59.049><c> a</c>
+
+00:02:59.100 --> 00:02:59.110 align:start position:0%
+because we are only assuming there's a
+ 
+
+00:02:59.110 --> 00:03:01.920 align:start position:0%
+because we are only assuming there's a
+delay<00:02:59.560><c> there's</c><00:02:59.950><c> an</c><00:03:00.040><c> incubation</c><00:03:00.370><c> period</c><00:03:00.930><c> when</c>
+
+00:03:01.920 --> 00:03:01.930 align:start position:0%
+delay there's an incubation period when
+ 
+
+00:03:01.930 --> 00:03:05.640 align:start position:0%
+delay there's an incubation period when
+moving<00:03:02.170><c> from</c><00:03:02.470><c> s</c><00:03:02.680><c> to</c><00:03:03.370><c> AI</c><00:03:03.640><c> which</c><00:03:04.480><c> is</c><00:03:04.660><c> represented</c>
+
+00:03:05.640 --> 00:03:05.650 align:start position:0%
+moving from s to AI which is represented
+ 
+
+00:03:05.650 --> 00:03:09.270 align:start position:0%
+moving from s to AI which is represented
+by<00:03:05.680><c> this</c><00:03:06.250><c> term</c><00:03:07.030><c> here</c><00:03:07.540><c> the</c><00:03:08.230><c> movement</c><00:03:08.769><c> from</c><00:03:08.980><c> I</c><00:03:09.250><c> to</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+by this term here the movement from I to
+ 
+
+00:03:09.280 --> 00:03:12.360 align:start position:0%
+by this term here the movement from I to
+R<00:03:09.730><c> the</c><00:03:10.299><c> recovery</c><00:03:10.780><c> of</c><00:03:10.870><c> the</c><00:03:11.049><c> disease</c><00:03:11.379><c> we</c><00:03:11.920><c> are</c><00:03:11.950><c> not</c>
+
+00:03:12.360 --> 00:03:12.370 align:start position:0%
+R the recovery of the disease we are not
+ 
+
+00:03:12.370 --> 00:03:14.759 align:start position:0%
+R the recovery of the disease we are not
+at<00:03:12.700><c> this</c><00:03:12.970><c> point</c><00:03:13.379><c> incorporating</c><00:03:14.379><c> a</c><00:03:14.470><c> delay</c>
+
+00:03:14.759 --> 00:03:14.769 align:start position:0%
+at this point incorporating a delay
+ 
+
+00:03:14.769 --> 00:03:18.210 align:start position:0%
+at this point incorporating a delay
+period<00:03:15.069><c> so</c><00:03:15.940><c> this</c><00:03:16.090><c> is</c><00:03:16.299><c> also</c><00:03:16.510><c> just</c><00:03:16.959><c> a</c><00:03:17.319><c> function</c>
+
+00:03:18.210 --> 00:03:18.220 align:start position:0%
+period so this is also just a function
+ 
+
+00:03:18.220 --> 00:03:21.629 align:start position:0%
+period so this is also just a function
+of<00:03:18.340><c> time</c><00:03:18.609><c> T</c><00:03:19.139><c> so</c><00:03:20.139><c> this</c><00:03:20.440><c> is</c><00:03:20.799><c> our</c><00:03:21.010><c> full</c><00:03:21.280><c> set</c><00:03:21.609><c> of</c>
+
+00:03:21.629 --> 00:03:21.639 align:start position:0%
+of time T so this is our full set of
+ 
+
+00:03:21.639 --> 00:03:24.500 align:start position:0%
+of time T so this is our full set of
+equations<00:03:22.389><c> for</c><00:03:22.900><c> the</c><00:03:23.049><c> SI</c><00:03:23.500><c> R</c><00:03:23.680><c> model</c>
+
+00:03:24.500 --> 00:03:24.510 align:start position:0%
+equations for the SI R model
+ 
+
+00:03:24.510 --> 00:03:27.330 align:start position:0%
+equations for the SI R model
+incorporating<00:03:25.510><c> an</c><00:03:25.720><c> incubation</c><00:03:26.230><c> time</c><00:03:26.650><c> equal</c>
+
+00:03:27.330 --> 00:03:27.340 align:start position:0%
+incorporating an incubation time equal
+ 
+
+00:03:27.340 --> 00:03:30.990 align:start position:0%
+incorporating an incubation time equal
+to<00:03:27.370><c> tau</c><00:03:28.269><c> in</c><00:03:28.569><c> the</c><00:03:28.930><c> context</c><00:03:29.440><c> of</c><00:03:29.530><c> kovat</c><00:03:29.920><c> 19</c><00:03:30.430><c> this</c>
+
+00:03:30.990 --> 00:03:31.000 align:start position:0%
+to tau in the context of kovat 19 this
+ 
+
+00:03:31.000 --> 00:03:32.879 align:start position:0%
+to tau in the context of kovat 19 this
+incubation<00:03:31.510><c> period</c><00:03:32.109><c> is</c><00:03:32.260><c> believed</c><00:03:32.590><c> to</c><00:03:32.739><c> be</c>
+
+00:03:32.879 --> 00:03:32.889 align:start position:0%
+incubation period is believed to be
+ 
+
+00:03:32.889 --> 00:03:35.759 align:start position:0%
+incubation period is believed to be
+around<00:03:33.130><c> five</c><00:03:33.430><c> days</c><00:03:33.940><c> so</c><00:03:34.810><c> in</c><00:03:34.959><c> the</c><00:03:35.079><c> context</c><00:03:35.709><c> of</c>
+
+00:03:35.759 --> 00:03:35.769 align:start position:0%
+around five days so in the context of
+ 
+
+00:03:35.769 --> 00:03:38.729 align:start position:0%
+around five days so in the context of
+the<00:03:36.190><c> entire</c><00:03:36.720><c> pandemic</c><00:03:37.720><c> which</c><00:03:38.049><c> is</c><00:03:38.200><c> believed</c><00:03:38.530><c> to</c>
+
+00:03:38.729 --> 00:03:38.739 align:start position:0%
+the entire pandemic which is believed to
+ 
+
+00:03:38.739 --> 00:03:41.520 align:start position:0%
+the entire pandemic which is believed to
+last<00:03:38.889><c> several</c><00:03:39.280><c> months</c><00:03:39.670><c> possibly</c><00:03:40.569><c> even</c><00:03:41.079><c> over</c><00:03:41.500><c> a</c>
+
+00:03:41.520 --> 00:03:41.530 align:start position:0%
+last several months possibly even over a
+ 
+
+00:03:41.530 --> 00:03:45.120 align:start position:0%
+last several months possibly even over a
+year<00:03:42.069><c> the</c><00:03:42.700><c> incubation</c><00:03:43.269><c> period</c><00:03:43.510><c> is</c><00:03:44.049><c> very</c><00:03:44.130><c> small</c>
+
+00:03:45.120 --> 00:03:45.130 align:start position:0%
+year the incubation period is very small
+ 
+
+00:03:45.130 --> 00:03:47.400 align:start position:0%
+year the incubation period is very small
+you<00:03:45.700><c> can</c><00:03:45.849><c> actually</c><00:03:46.209><c> explore</c><00:03:46.630><c> this</c><00:03:46.810><c> model</c><00:03:47.200><c> for</c>
+
+00:03:47.400 --> 00:03:47.410 align:start position:0%
+you can actually explore this model for
+ 
+
+00:03:47.410 --> 00:03:49.979 align:start position:0%
+you can actually explore this model for
+yourself<00:03:48.010><c> and</c><00:03:48.370><c> adjust</c><00:03:49.090><c> the</c><00:03:49.359><c> incubation</c>
+
+00:03:49.979 --> 00:03:49.989 align:start position:0%
+yourself and adjust the incubation
+ 
+
+00:03:49.989 --> 00:03:52.890 align:start position:0%
+yourself and adjust the incubation
+period<00:03:50.230><c> tau</c><00:03:50.950><c> using</c><00:03:51.730><c> this</c><00:03:51.819><c> fantastic</c><00:03:52.569><c> online</c>
+
+00:03:52.890 --> 00:03:52.900 align:start position:0%
+period tau using this fantastic online
+ 
+
+00:03:52.900 --> 00:03:56.250 align:start position:0%
+period tau using this fantastic online
+resource<00:03:53.260><c> courtesy</c><00:03:54.160><c> of</c><00:03:54.190><c> math</c><00:03:54.790><c> agon</c><00:03:55.120><c> so</c><00:03:56.049><c> what</c>
+
+00:03:56.250 --> 00:03:56.260 align:start position:0%
+resource courtesy of math agon so what
+ 
+
+00:03:56.260 --> 00:03:58.589 align:start position:0%
+resource courtesy of math agon so what
+you<00:03:56.380><c> will</c><00:03:56.530><c> see</c><00:03:56.799><c> is</c><00:03:57.099><c> that</c><00:03:57.160><c> as</c><00:03:57.669><c> we</c><00:03:57.849><c> increase</c><00:03:57.970><c> tau</c>
+
+00:03:58.589 --> 00:03:58.599 align:start position:0%
+you will see is that as we increase tau
+ 
+
+00:03:58.599 --> 00:04:01.220 align:start position:0%
+you will see is that as we increase tau
+away<00:03:59.109><c> from</c><00:03:59.380><c> zero</c><00:03:59.769><c> and</c><00:04:00.160><c> begin</c><00:04:00.579><c> to</c><00:04:00.760><c> incorporate</c>
+
+00:04:01.220 --> 00:04:01.230 align:start position:0%
+away from zero and begin to incorporate
+ 
+
+00:04:01.230 --> 00:04:04.620 align:start position:0%
+away from zero and begin to incorporate
+the<00:04:02.230><c> incubation</c><00:04:02.799><c> period</c><00:04:03.040><c> into</c><00:04:03.790><c> our</c><00:04:04.269><c> original</c>
+
+00:04:04.620 --> 00:04:04.630 align:start position:0%
+the incubation period into our original
+ 
+
+00:04:04.630 --> 00:04:09.059 align:start position:0%
+the incubation period into our original
+si<00:04:05.440><c> our</c><00:04:05.680><c> model</c><00:04:06.370><c> the</c><00:04:07.150><c> curves</c><00:04:07.510><c> for</c><00:04:08.109><c> SI</c><00:04:08.650><c> and</c><00:04:08.859><c> R</c>
+
+00:04:09.059 --> 00:04:09.069 align:start position:0%
+si our model the curves for SI and R
+ 
+
+00:04:09.069 --> 00:04:11.580 align:start position:0%
+si our model the curves for SI and R
+begin<00:04:10.030><c> to</c><00:04:10.180><c> shift</c><00:04:10.419><c> further</c><00:04:10.780><c> and</c><00:04:11.049><c> further</c><00:04:11.230><c> to</c>
+
+00:04:11.580 --> 00:04:11.590 align:start position:0%
+begin to shift further and further to
+ 
+
+00:04:11.590 --> 00:04:12.360 align:start position:0%
+begin to shift further and further to
+the<00:04:11.620><c> right</c>
+
+00:04:12.360 --> 00:04:12.370 align:start position:0%
+the right
+ 
+
+00:04:12.370 --> 00:04:15.050 align:start position:0%
+the right
+they<00:04:12.639><c> are</c><00:04:12.760><c> moving</c><00:04:12.970><c> further</c><00:04:13.540><c> forwards</c><00:04:14.290><c> in</c><00:04:14.500><c> time</c>
+
+00:04:15.050 --> 00:04:15.060 align:start position:0%
+they are moving further forwards in time
+ 
+
+00:04:15.060 --> 00:04:18.330 align:start position:0%
+they are moving further forwards in time
+now<00:04:16.060><c> interestingly</c><00:04:16.570><c> you</c><00:04:17.349><c> may</c><00:04:17.799><c> notice</c><00:04:18.310><c> that</c>
+
+00:04:18.330 --> 00:04:18.340 align:start position:0%
+now interestingly you may notice that
+ 
+
+00:04:18.340 --> 00:04:20.819 align:start position:0%
+now interestingly you may notice that
+the<00:04:18.729><c> curves</c><00:04:19.060><c> have</c><00:04:19.750><c> approximately</c><00:04:20.560><c> the</c><00:04:20.680><c> same</c>
+
+00:04:20.819 --> 00:04:20.829 align:start position:0%
+the curves have approximately the same
+ 
+
+00:04:20.829 --> 00:04:23.730 align:start position:0%
+the curves have approximately the same
+shape<00:04:21.729><c> so</c><00:04:22.599><c> whilst</c><00:04:22.780><c> everything</c><00:04:23.409><c> is</c><00:04:23.530><c> being</c>
+
+00:04:23.730 --> 00:04:23.740 align:start position:0%
+shape so whilst everything is being
+ 
+
+00:04:23.740 --> 00:04:27.240 align:start position:0%
+shape so whilst everything is being
+shifted<00:04:24.190><c> into</c><00:04:24.610><c> the</c><00:04:24.729><c> future</c><00:04:25.419><c> it</c><00:04:25.630><c> might</c><00:04:26.440><c> suggest</c>
+
+00:04:27.240 --> 00:04:27.250 align:start position:0%
+shifted into the future it might suggest
+ 
+
+00:04:27.250 --> 00:04:30.150 align:start position:0%
+shifted into the future it might suggest
+that<00:04:27.430><c> the</c><00:04:27.520><c> dynamics</c><00:04:28.150><c> are</c><00:04:28.710><c> fundamentally</c><00:04:29.710><c> the</c>
+
+00:04:30.150 --> 00:04:30.160 align:start position:0%
+that the dynamics are fundamentally the
+ 
+
+00:04:30.160 --> 00:04:32.340 align:start position:0%
+that the dynamics are fundamentally the
+same<00:04:30.190><c> and</c><00:04:30.910><c> this</c><00:04:31.450><c> is</c><00:04:31.630><c> something</c><00:04:32.050><c> that</c><00:04:32.080><c> we're</c>
+
+00:04:32.340 --> 00:04:32.350 align:start position:0%
+same and this is something that we're
+ 
+
+00:04:32.350 --> 00:04:34.950 align:start position:0%
+same and this is something that we're
+now<00:04:32.470><c> going</c><00:04:32.770><c> to</c><00:04:32.980><c> investigate</c><00:04:33.490><c> now</c><00:04:34.210><c> remember</c><00:04:34.810><c> in</c>
+
+00:04:34.950 --> 00:04:34.960 align:start position:0%
+now going to investigate now remember in
+ 
+
+00:04:34.960 --> 00:04:37.920 align:start position:0%
+now going to investigate now remember in
+the<00:04:35.080><c> context</c><00:04:35.650><c> of</c><00:04:35.710><c> kovat</c><00:04:36.160><c> 19</c><00:04:36.700><c> we</c><00:04:37.420><c> mentioned</c>
+
+00:04:37.920 --> 00:04:37.930 align:start position:0%
+the context of kovat 19 we mentioned
+ 
+
+00:04:37.930 --> 00:04:41.130 align:start position:0%
+the context of kovat 19 we mentioned
+that<00:04:37.960><c> the</c><00:04:38.410><c> incubation</c><00:04:39.010><c> period</c><00:04:39.220><c> tau</c><00:04:39.910><c> is</c><00:04:40.300><c> small</c>
+
+00:04:41.130 --> 00:04:41.140 align:start position:0%
+that the incubation period tau is small
+ 
+
+00:04:41.140 --> 00:04:42.900 align:start position:0%
+that the incubation period tau is small
+compared<00:04:41.830><c> to</c><00:04:41.920><c> the</c><00:04:42.100><c> time</c><00:04:42.370><c> scale</c><00:04:42.700><c> of</c><00:04:42.730><c> the</c>
+
+00:04:42.900 --> 00:04:42.910 align:start position:0%
+compared to the time scale of the
+ 
+
+00:04:42.910 --> 00:04:45.480 align:start position:0%
+compared to the time scale of the
+disease<00:04:43.480><c> and</c><00:04:43.840><c> this</c><00:04:44.410><c> is</c><00:04:44.560><c> actually</c><00:04:44.980><c> generally</c>
+
+00:04:45.480 --> 00:04:45.490 align:start position:0%
+disease and this is actually generally
+ 
+
+00:04:45.490 --> 00:04:48.480 align:start position:0%
+disease and this is actually generally
+true<00:04:46.000><c> for</c><00:04:46.300><c> any</c><00:04:46.780><c> disease</c><00:04:47.230><c> that</c><00:04:47.440><c> we</c><00:04:47.590><c> model</c><00:04:48.040><c> using</c>
+
+00:04:48.480 --> 00:04:48.490 align:start position:0%
+true for any disease that we model using
+ 
+
+00:04:48.490 --> 00:04:51.030 align:start position:0%
+true for any disease that we model using
+this<00:04:48.610><c> method</c><00:04:49.180><c> so</c><00:04:49.600><c> we</c><00:04:50.050><c> have</c><00:04:50.290><c> a</c><00:04:50.320><c> system</c><00:04:50.920><c> of</c>
+
+00:04:51.030 --> 00:04:51.040 align:start position:0%
+this method so we have a system of
+ 
+
+00:04:51.040 --> 00:04:53.570 align:start position:0%
+this method so we have a system of
+equations<00:04:51.510><c> containing</c><00:04:52.510><c> a</c><00:04:52.750><c> small</c><00:04:52.810><c> parameter</c>
+
+00:04:53.570 --> 00:04:53.580 align:start position:0%
+equations containing a small parameter
+ 
+
+00:04:53.580 --> 00:04:56.040 align:start position:0%
+equations containing a small parameter
+which<00:04:54.580><c> is</c><00:04:54.790><c> suggesting</c><00:04:54.970><c> to</c><00:04:55.810><c> the</c>
+
+00:04:56.040 --> 00:04:56.050 align:start position:0%
+which is suggesting to the
+ 
+
+00:04:56.050 --> 00:04:58.320 align:start position:0%
+which is suggesting to the
+mathematically<00:04:56.770><c> minded</c><00:04:56.980><c> among</c><00:04:57.460><c> us</c><00:04:57.670><c> that</c><00:04:58.180><c> we</c>
+
+00:04:58.320 --> 00:04:58.330 align:start position:0%
+mathematically minded among us that we
+ 
+
+00:04:58.330 --> 00:05:01.170 align:start position:0%
+mathematically minded among us that we
+want<00:04:58.570><c> to</c><00:04:58.690><c> do</c><00:04:58.840><c> a</c><00:04:58.870><c> Taylor</c><00:04:59.440><c> expansion</c><00:04:59.790><c> we</c><00:05:00.790><c> want</c><00:05:01.030><c> to</c>
+
+00:05:01.170 --> 00:05:01.180 align:start position:0%
+want to do a Taylor expansion we want to
+ 
+
+00:05:01.180 --> 00:05:03.900 align:start position:0%
+want to do a Taylor expansion we want to
+make<00:05:01.330><c> an</c><00:05:01.480><c> approximation</c><00:05:01.890><c> to</c><00:05:02.890><c> try</c><00:05:03.070><c> to</c><00:05:03.130><c> simplify</c>
+
+00:05:03.900 --> 00:05:03.910 align:start position:0%
+make an approximation to try to simplify
+ 
+
+00:05:03.910 --> 00:05:06.570 align:start position:0%
+make an approximation to try to simplify
+this<00:05:04.080><c> pretty</c><00:05:05.080><c> complicated</c><00:05:05.590><c> looking</c><00:05:05.950><c> term</c>
+
+00:05:06.570 --> 00:05:06.580 align:start position:0%
+this pretty complicated looking term
+ 
+
+00:05:06.580 --> 00:05:09.180 align:start position:0%
+this pretty complicated looking term
+into<00:05:07.330><c> something</c><00:05:07.810><c> we</c><00:05:07.960><c> can</c><00:05:08.169><c> deal</c><00:05:08.470><c> with</c><00:05:08.500><c> so</c><00:05:08.980><c> what</c>
+
+00:05:09.180 --> 00:05:09.190 align:start position:0%
+into something we can deal with so what
+ 
+
+00:05:09.190 --> 00:05:12.540 align:start position:0%
+into something we can deal with so what
+we're<00:05:09.340><c> going</c><00:05:09.460><c> to</c><00:05:09.580><c> do</c><00:05:09.850><c> is</c><00:05:10.120><c> take</c><00:05:10.630><c> this</c><00:05:11.230><c> our</c><00:05:11.560><c> I</c><00:05:12.130><c> s</c>
+
+00:05:12.540 --> 00:05:12.550 align:start position:0%
+we're going to do is take this our I s
+ 
+
+00:05:12.550 --> 00:05:16.409 align:start position:0%
+we're going to do is take this our I s
+term<00:05:13.540><c> and</c><00:05:13.960><c> we're</c><00:05:14.140><c> going</c><00:05:14.320><c> to</c><00:05:14.380><c> expand</c><00:05:15.070><c> around</c><00:05:15.730><c> T</c>
+
+00:05:16.409 --> 00:05:16.419 align:start position:0%
+term and we're going to expand around T
+ 
+
+00:05:16.419 --> 00:05:18.510 align:start position:0%
+term and we're going to expand around T
+where<00:05:17.140><c> we're</c><00:05:17.290><c> assuming</c><00:05:17.530><c> that</c><00:05:17.740><c> tau</c><00:05:18.100><c> is</c><00:05:18.370><c> our</c>
+
+00:05:18.510 --> 00:05:18.520 align:start position:0%
+where we're assuming that tau is our
+ 
+
+00:05:18.520 --> 00:05:21.780 align:start position:0%
+where we're assuming that tau is our
+small<00:05:18.880><c> parameter</c><00:05:19.290><c> so</c><00:05:20.290><c> doing</c><00:05:20.770><c> this</c><00:05:20.950><c> we</c><00:05:21.250><c> have</c><00:05:21.490><c> R</c>
+
+00:05:21.780 --> 00:05:21.790 align:start position:0%
+small parameter so doing this we have R
+ 
+
+00:05:21.790 --> 00:05:28.740 align:start position:0%
+small parameter so doing this we have R
+of<00:05:22.330><c> I</c><00:05:23.100><c> T</c><00:05:24.100><c> minus</c><00:05:24.730><c> tau</c><00:05:25.180><c> times</c><00:05:25.600><c> s</c><00:05:26.530><c> of</c><00:05:27.280><c> t</c><00:05:27.850><c> minus</c><00:05:28.210><c> tau</c>
+
+00:05:28.740 --> 00:05:28.750 align:start position:0%
+of I T minus tau times s of t minus tau
+ 
+
+00:05:28.750 --> 00:05:30.810 align:start position:0%
+of I T minus tau times s of t minus tau
+and<00:05:29.110><c> we</c><00:05:29.800><c> can</c><00:05:29.980><c> say</c><00:05:30.190><c> that</c><00:05:30.430><c> this</c><00:05:30.610><c> is</c>
+
+00:05:30.810 --> 00:05:30.820 align:start position:0%
+and we can say that this is
+ 
+
+00:05:30.820 --> 00:05:36.080 align:start position:0%
+and we can say that this is
+approximately<00:05:32.070><c> equal</c><00:05:33.070><c> to</c><00:05:33.340><c> RI</c><00:05:34.120><c> of</c><00:05:34.990><c> T</c><00:05:35.229><c> s</c><00:05:35.500><c> of</c><00:05:35.740><c> T</c>
+
+00:05:36.080 --> 00:05:36.090 align:start position:0%
+approximately equal to RI of T s of T
+ 
+
+00:05:36.090 --> 00:05:44.690 align:start position:0%
+approximately equal to RI of T s of T
+plus<00:05:37.090><c> R</c><00:05:38.040><c> tau</c><00:05:39.040><c> I</c><00:05:40.470><c> times</c><00:05:41.470><c> s</c><00:05:42.390><c> derivative</c><00:05:43.390><c> plus</c>
+
+00:05:44.690 --> 00:05:44.700 align:start position:0%
+plus R tau I times s derivative plus
+ 
+
+00:05:44.700 --> 00:05:49.230 align:start position:0%
+plus R tau I times s derivative plus
+order<00:05:45.700><c> tau</c><00:05:46.710><c> squared</c><00:05:47.710><c> what</c><00:05:48.100><c> we</c><00:05:48.250><c> do</c><00:05:48.400><c> next</c><00:05:48.610><c> is</c><00:05:49.090><c> to</c>
+
+00:05:49.230 --> 00:05:49.240 align:start position:0%
+order tau squared what we do next is to
+ 
+
+00:05:49.240 --> 00:05:51.719 align:start position:0%
+order tau squared what we do next is to
+take<00:05:49.510><c> our</c><00:05:49.810><c> approximation</c><00:05:50.800><c> over</c><00:05:51.190><c> here</c><00:05:51.460><c> and</c>
+
+00:05:51.719 --> 00:05:51.729 align:start position:0%
+take our approximation over here and
+ 
+
+00:05:51.729 --> 00:05:54.000 align:start position:0%
+take our approximation over here and
+substitute<00:05:52.300><c> it</c><00:05:52.840><c> into</c><00:05:53.020><c> our</c><00:05:53.320><c> differential</c>
+
+00:05:54.000 --> 00:05:54.010 align:start position:0%
+substitute it into our differential
+ 
+
+00:05:54.010 --> 00:05:56.400 align:start position:0%
+substitute it into our differential
+equations<00:05:54.669><c> now</c><00:05:55.300><c> at</c><00:05:55.479><c> first</c><00:05:55.780><c> this</c><00:05:56.080><c> might</c><00:05:56.380><c> not</c>
+
+00:05:56.400 --> 00:05:56.410 align:start position:0%
+equations now at first this might not
+ 
+
+00:05:56.410 --> 00:05:58.380 align:start position:0%
+equations now at first this might not
+look<00:05:56.620><c> any</c><00:05:57.160><c> simpler</c><00:05:57.850><c> than</c><00:05:57.880><c> what</c><00:05:58.150><c> we</c><00:05:58.330><c> started</c>
+
+00:05:58.380 --> 00:05:58.390 align:start position:0%
+look any simpler than what we started
+ 
+
+00:05:58.390 --> 00:06:01.050 align:start position:0%
+look any simpler than what we started
+with<00:05:58.990><c> but</c><00:05:59.560><c> the</c><00:05:59.710><c> key</c><00:05:59.890><c> thing</c><00:05:59.919><c> to</c><00:06:00.310><c> remember</c><00:06:00.640><c> is</c>
+
+00:06:01.050 --> 00:06:01.060 align:start position:0%
+with but the key thing to remember is
+ 
+
+00:06:01.060 --> 00:06:03.480 align:start position:0%
+with but the key thing to remember is
+that<00:06:01.660><c> the</c><00:06:01.810><c> Tau</c><00:06:02.110><c> term</c><00:06:02.530><c> which</c><00:06:03.130><c> was</c><00:06:03.250><c> originally</c>
+
+00:06:03.480 --> 00:06:03.490 align:start position:0%
+that the Tau term which was originally
+ 
+
+00:06:03.490 --> 00:06:07.200 align:start position:0%
+that the Tau term which was originally
+inside<00:06:04.390><c> our</c><00:06:04.720><c> unknown</c><00:06:05.320><c> variables</c><00:06:06.040><c> through</c><00:06:06.970><c> our</c>
+
+00:06:07.200 --> 00:06:07.210 align:start position:0%
+inside our unknown variables through our
+ 
+
+00:06:07.210 --> 00:06:10.140 align:start position:0%
+inside our unknown variables through our
+Taylor<00:06:07.750><c> expansion</c><00:06:08.410><c> approximation</c><00:06:09.280><c> for</c><00:06:09.790><c> small</c>
+
+00:06:10.140 --> 00:06:10.150 align:start position:0%
+Taylor expansion approximation for small
+ 
+
+00:06:10.150 --> 00:06:13.440 align:start position:0%
+Taylor expansion approximation for small
+tau<00:06:10.720><c> we've</c><00:06:11.650><c> been</c><00:06:11.800><c> able</c><00:06:11.919><c> to</c><00:06:12.100><c> write</c><00:06:12.430><c> it</c><00:06:12.700><c> in</c><00:06:12.940><c> front</c>
+
+00:06:13.440 --> 00:06:13.450 align:start position:0%
+tau we've been able to write it in front
+ 
+
+00:06:13.450 --> 00:06:16.500 align:start position:0%
+tau we've been able to write it in front
+of<00:06:14.100><c> something</c><00:06:15.100><c> which</c><00:06:15.340><c> we</c><00:06:15.490><c> can</c><00:06:15.700><c> now</c><00:06:15.850><c> try</c><00:06:16.180><c> to</c>
+
+00:06:16.500 --> 00:06:16.510 align:start position:0%
+of something which we can now try to
+ 
+
+00:06:16.510 --> 00:06:18.810 align:start position:0%
+of something which we can now try to
+work<00:06:16.990><c> out</c><00:06:17.290><c> the</c><00:06:17.800><c> next</c><00:06:18.130><c> step</c><00:06:18.280><c> involves</c><00:06:18.669><c> some</c>
+
+00:06:18.810 --> 00:06:18.820 align:start position:0%
+work out the next step involves some
+ 
+
+00:06:18.820 --> 00:06:21.360 align:start position:0%
+work out the next step involves some
+pretty<00:06:19.120><c> heavy</c><00:06:19.600><c> algebra</c><00:06:20.410><c> because</c><00:06:21.070><c> what</c><00:06:21.250><c> we</c>
+
+00:06:21.360 --> 00:06:21.370 align:start position:0%
+pretty heavy algebra because what we
+ 
+
+00:06:21.370 --> 00:06:24.719 align:start position:0%
+pretty heavy algebra because what we
+want<00:06:21.580><c> to</c><00:06:21.700><c> do</c><00:06:21.940><c> is</c><00:06:22.300><c> take</c><00:06:22.900><c> this</c><00:06:23.290><c> term</c><00:06:23.710><c> the</c><00:06:24.130><c> is</c>
+
+00:06:24.719 --> 00:06:24.729 align:start position:0%
+want to do is take this term the is
+ 
+
+00:06:24.729 --> 00:06:27.120 align:start position:0%
+want to do is take this term the is
+prime<00:06:25.270><c> term</c><00:06:25.720><c> which</c><00:06:26.260><c> is</c><00:06:26.380><c> in</c><00:06:26.500><c> both</c><00:06:26.770><c> equations</c>
+
+00:06:27.120 --> 00:06:27.130 align:start position:0%
+prime term which is in both equations
+ 
+
+00:06:27.130 --> 00:06:30.240 align:start position:0%
+prime term which is in both equations
+and<00:06:27.790><c> try</c><00:06:28.300><c> to</c><00:06:28.360><c> simplify</c><00:06:28.810><c> this</c><00:06:29.020><c> into</c><00:06:29.830><c> something</c>
+
+00:06:30.240 --> 00:06:30.250 align:start position:0%
+and try to simplify this into something
+ 
+
+00:06:30.250 --> 00:06:33.150 align:start position:0%
+and try to simplify this into something
+more<00:06:30.460><c> manageable</c><00:06:30.820><c> and</c><00:06:31.390><c> we</c><00:06:32.020><c> do</c><00:06:32.229><c> this</c><00:06:32.470><c> by</c><00:06:33.130><c> using</c>
+
+00:06:33.150 --> 00:06:33.160 align:start position:0%
+more manageable and we do this by using
+ 
+
+00:06:33.160 --> 00:06:36.540 align:start position:0%
+more manageable and we do this by using
+the<00:06:33.640><c> fact</c><00:06:34.030><c> that</c><00:06:34.270><c> these</c><00:06:34.630><c> equations</c><00:06:35.070><c> this</c><00:06:36.070><c> is</c><00:06:36.370><c> s</c>
+
+00:06:36.540 --> 00:06:36.550 align:start position:0%
+the fact that these equations this is s
+ 
+
+00:06:36.550 --> 00:06:39.750 align:start position:0%
+the fact that these equations this is s
+Prime<00:06:36.940><c> and</c><00:06:37.240><c> this</c><00:06:37.539><c> is</c><00:06:37.599><c> I</c><00:06:37.900><c> prime</c><00:06:38.380><c> so</c><00:06:39.099><c> this</c><00:06:39.520><c> is</c><00:06:39.729><c> a</c>
+
+00:06:39.750 --> 00:06:39.760 align:start position:0%
+Prime and this is I prime so this is a
+ 
+
+00:06:39.760 --> 00:06:40.830 align:start position:0%
+Prime and this is I prime so this is a
+product<00:06:40.240><c> of</c><00:06:40.450><c> the</c>
+
+00:06:40.830 --> 00:06:40.840 align:start position:0%
+product of the
+ 
+
+00:06:40.840 --> 00:06:43.080 align:start position:0%
+product of the
+two<00:06:40.960><c> derivatives</c><00:06:41.800><c> and</c><00:06:42.400><c> then</c><00:06:42.820><c> we</c><00:06:42.910><c> can</c>
+
+00:06:43.080 --> 00:06:43.090 align:start position:0%
+two derivatives and then we can
+ 
+
+00:06:43.090 --> 00:06:45.659 align:start position:0%
+two derivatives and then we can
+substitute<00:06:43.300><c> for</c><00:06:44.230><c> s</c><00:06:44.380><c> Prime</c><00:06:44.680><c> and</c><00:06:44.710><c> I</c><00:06:44.980><c> prime</c><00:06:45.370><c> and</c>
+
+00:06:45.659 --> 00:06:45.669 align:start position:0%
+substitute for s Prime and I prime and
+ 
+
+00:06:45.669 --> 00:06:48.689 align:start position:0%
+substitute for s Prime and I prime and
+rearrange<00:06:46.600><c> to</c><00:06:46.930><c> get</c><00:06:47.169><c> a</c><00:06:47.350><c> simplified</c><00:06:47.949><c> expression</c>
+
+00:06:48.689 --> 00:06:48.699 align:start position:0%
+rearrange to get a simplified expression
+ 
+
+00:06:48.699 --> 00:06:51.659 align:start position:0%
+rearrange to get a simplified expression
+for<00:06:48.910><c> is</c><00:06:49.479><c> prime</c><00:06:50.410><c> so</c><00:06:51.130><c> I'm</c><00:06:51.190><c> going</c><00:06:51.340><c> to</c><00:06:51.370><c> leave</c><00:06:51.550><c> out</c>
+
+00:06:51.659 --> 00:06:51.669 align:start position:0%
+for is prime so I'm going to leave out
+ 
+
+00:06:51.669 --> 00:06:54.270 align:start position:0%
+for is prime so I'm going to leave out
+the<00:06:51.880><c> steps</c><00:06:52.240><c> leave</c><00:06:53.169><c> it</c><00:06:53.290><c> as</c><00:06:53.410><c> an</c><00:06:53.500><c> exercise</c><00:06:53.680><c> to</c><00:06:54.250><c> the</c>
+
+00:06:54.270 --> 00:06:54.280 align:start position:0%
+the steps leave it as an exercise to the
+ 
+
+00:06:54.280 --> 00:06:57.000 align:start position:0%
+the steps leave it as an exercise to the
+viewer<00:06:54.400><c> and</c><00:06:54.910><c> what</c><00:06:55.900><c> you</c><00:06:56.050><c> will</c><00:06:56.199><c> end</c><00:06:56.229><c> up</c><00:06:56.470><c> with</c><00:06:56.530><c> is</c>
+
+00:06:57.000 --> 00:06:57.010 align:start position:0%
+viewer and what you will end up with is
+ 
+
+00:06:57.010 --> 00:07:04.969 align:start position:0%
+viewer and what you will end up with is
+the<00:06:57.760><c> following</c><00:06:58.229><c> is</c><00:06:59.229><c> prime</c><00:07:00.130><c> is</c><00:07:00.570><c> equal</c><00:07:01.570><c> to</c><00:07:01.900><c> I</c><00:07:03.000><c> s</c>
+
+00:07:04.969 --> 00:07:04.979 align:start position:0%
+the following is prime is equal to I s
+ 
+
+00:07:04.979 --> 00:07:11.070 align:start position:0%
+the following is prime is equal to I s
+multiplied<00:07:05.979><c> by</c><00:07:06.340><c> Oh</c><00:07:07.050><c> s</c><00:07:08.050><c> minus</c><00:07:08.830><c> I</c><00:07:09.210><c> minus</c><00:07:10.210><c> a</c><00:07:10.690><c> on</c>
+
+00:07:11.070 --> 00:07:11.080 align:start position:0%
+multiplied by Oh s minus I minus a on
+ 
+
+00:07:11.080 --> 00:07:14.070 align:start position:0%
+multiplied by Oh s minus I minus a on
+the<00:07:11.560><c> numerator</c><00:07:12.070><c> and</c><00:07:12.550><c> then</c><00:07:13.240><c> the</c><00:07:13.419><c> whole</c><00:07:13.630><c> thing</c>
+
+00:07:14.070 --> 00:07:14.080 align:start position:0%
+the numerator and then the whole thing
+ 
+
+00:07:14.080 --> 00:07:22.620 align:start position:0%
+the numerator and then the whole thing
+is<00:07:14.880><c> divided</c><00:07:15.880><c> by</c><00:07:16.240><c> 1</c><00:07:16.750><c> minus</c><00:07:17.130><c> R</c><00:07:18.130><c> tau</c><00:07:19.470><c> PI</c><00:07:20.610><c> minus</c><00:07:21.630><c> s</c>
+
+00:07:22.620 --> 00:07:22.630 align:start position:0%
+is divided by 1 minus R tau PI minus s
+ 
+
+00:07:22.630 --> 00:07:27.629 align:start position:0%
+is divided by 1 minus R tau PI minus s
+we<00:07:23.229><c> call</c><00:07:23.500><c> this</c><00:07:24.389><c> is</c><00:07:26.250><c> because</c><00:07:27.250><c> we</c><00:07:27.370><c> have</c><00:07:27.490><c> this</c>
+
+00:07:27.629 --> 00:07:27.639 align:start position:0%
+we call this is because we have this
+ 
+
+00:07:27.639 --> 00:07:30.030 align:start position:0%
+we call this is because we have this
+common<00:07:28.060><c> factor</c><00:07:28.270><c> and</c><00:07:28.720><c> in</c><00:07:29.229><c> this</c><00:07:29.350><c> complicated</c>
+
+00:07:30.030 --> 00:07:30.040 align:start position:0%
+common factor and in this complicated
+ 
+
+00:07:30.040 --> 00:07:37.520 align:start position:0%
+common factor and in this complicated
+expression<00:07:30.450><c> we</c><00:07:31.450><c> just</c><00:07:31.660><c> write</c><00:07:31.900><c> as</c><00:07:32.139><c> F</c><00:07:32.650><c> of</c><00:07:33.340><c> a</c><00:07:35.039><c> so</c>
+
+00:07:37.520 --> 00:07:37.530 align:start position:0%
+expression we just write as F of a so
+ 
+
+00:07:37.530 --> 00:07:40.529 align:start position:0%
+expression we just write as F of a so
+this<00:07:38.530><c> just</c><00:07:38.860><c> shows</c><00:07:39.250><c> that</c><00:07:39.310><c> it's</c><00:07:39.669><c> a</c><00:07:39.820><c> function</c><00:07:40.330><c> of</c>
+
+00:07:40.529 --> 00:07:40.539 align:start position:0%
+this just shows that it's a function of
+ 
+
+00:07:40.539 --> 00:07:43.290 align:start position:0%
+this just shows that it's a function of
+several<00:07:40.960><c> variables</c><00:07:41.520><c> several</c><00:07:42.520><c> constants</c><00:07:43.180><c> and</c>
+
+00:07:43.290 --> 00:07:43.300 align:start position:0%
+several variables several constants and
+ 
+
+00:07:43.300 --> 00:07:46.409 align:start position:0%
+several variables several constants and
+functions<00:07:44.610><c> which</c><00:07:45.610><c> is</c><00:07:45.789><c> given</c><00:07:46.210><c> by</c><00:07:46.360><c> this</c>
+
+00:07:46.409 --> 00:07:46.419 align:start position:0%
+functions which is given by this
+ 
+
+00:07:46.419 --> 00:07:48.330 align:start position:0%
+functions which is given by this
+expression<00:07:46.810><c> but</c><00:07:47.410><c> writing</c><00:07:47.650><c> it</c><00:07:47.919><c> like</c><00:07:48.070><c> this</c>
+
+00:07:48.330 --> 00:07:48.340 align:start position:0%
+expression but writing it like this
+ 
+
+00:07:48.340 --> 00:07:50.520 align:start position:0%
+expression but writing it like this
+allows<00:07:48.850><c> us</c><00:07:48.880><c> to</c><00:07:49.090><c> substitute</c><00:07:49.389><c> it</c><00:07:49.870><c> into</c><00:07:50.110><c> our</c><00:07:50.260><c> full</c>
+
+00:07:50.520 --> 00:07:50.530 align:start position:0%
+allows us to substitute it into our full
+ 
+
+00:07:50.530 --> 00:07:53.640 align:start position:0%
+allows us to substitute it into our full
+system<00:07:51.190><c> as</c><00:07:51.389><c> follows</c><00:07:52.389><c> so</c><00:07:53.169><c> we're</c><00:07:53.289><c> going</c><00:07:53.440><c> to</c>
+
+00:07:53.640 --> 00:07:53.650 align:start position:0%
+system as follows so we're going to
+ 
+
+00:07:53.650 --> 00:07:56.550 align:start position:0%
+system as follows so we're going to
+neglect<00:07:53.950><c> the</c><00:07:54.669><c> order</c><00:07:55.090><c> tau</c><00:07:55.330><c> squared</c><00:07:55.900><c> terms</c><00:07:56.289><c> I'm</c>
+
+00:07:56.550 --> 00:07:56.560 align:start position:0%
+neglect the order tau squared terms I'm
+ 
+
+00:07:56.560 --> 00:07:58.529 align:start position:0%
+neglect the order tau squared terms I'm
+going<00:07:56.770><c> to</c><00:07:56.860><c> remember</c><00:07:57.190><c> that</c><00:07:57.669><c> we've</c><00:07:58.270><c> neglected</c>
+
+00:07:58.529 --> 00:07:58.539 align:start position:0%
+going to remember that we've neglected
+ 
+
+00:07:58.539 --> 00:08:00.540 align:start position:0%
+going to remember that we've neglected
+them<00:07:59.050><c> but</c><00:07:59.320><c> for</c><00:07:59.500><c> now</c><00:07:59.620><c> we</c><00:07:59.680><c> don't</c><00:07:59.950><c> need</c><00:08:00.130><c> to</c><00:08:00.280><c> write</c>
+
+00:08:00.540 --> 00:08:00.550 align:start position:0%
+them but for now we don't need to write
+ 
+
+00:08:00.550 --> 00:08:02.940 align:start position:0%
+them but for now we don't need to write
+them<00:08:00.700><c> in</c><00:08:00.820><c> our</c><00:08:00.940><c> equations</c><00:08:01.479><c> anymore</c><00:08:01.990><c> and</c><00:08:02.740><c> we're</c>
+
+00:08:02.940 --> 00:08:02.950 align:start position:0%
+them in our equations anymore and we're
+ 
+
+00:08:02.950 --> 00:08:06.060 align:start position:0%
+them in our equations anymore and we're
+going<00:08:03.070><c> to</c><00:08:03.160><c> substitute</c><00:08:03.660><c> the</c><00:08:04.660><c> is</c><00:08:05.260><c> prime</c><00:08:05.740><c> term</c>
+
+00:08:06.060 --> 00:08:06.070 align:start position:0%
+going to substitute the is prime term
+ 
+
+00:08:06.070 --> 00:08:15.000 align:start position:0%
+going to substitute the is prime term
+here<00:08:06.700><c> for</c><00:08:07.630><c> is</c><00:08:08.039><c> F</c><00:08:09.120><c> so</c><00:08:10.120><c> this</c><00:08:10.360><c> is</c><00:08:10.630><c> now</c><00:08:10.870><c> I</c><00:08:12.210><c> s</c><00:08:13.650><c> and</c><00:08:14.650><c> I'm</c>
+
+00:08:15.000 --> 00:08:15.010 align:start position:0%
+here for is F so this is now I s and I'm
+ 
+
+00:08:15.010 --> 00:08:16.680 align:start position:0%
+here for is F so this is now I s and I'm
+going<00:08:15.190><c> to</c><00:08:15.310><c> leave</c><00:08:15.490><c> out</c><00:08:15.729><c> all</c><00:08:16.090><c> of</c><00:08:16.330><c> the</c><00:08:16.450><c> things</c>
+
+00:08:16.680 --> 00:08:16.690 align:start position:0%
+going to leave out all of the things
+ 
+
+00:08:16.690 --> 00:08:18.900 align:start position:0%
+going to leave out all of the things
+that<00:08:16.810><c> F</c><00:08:17.050><c> is</c><00:08:17.200><c> a</c><00:08:17.229><c> function</c><00:08:17.680><c> of</c><00:08:17.800><c> again</c><00:08:18.310><c> we're</c>
+
+00:08:18.900 --> 00:08:18.910 align:start position:0%
+that F is a function of again we're
+ 
+
+00:08:18.910 --> 00:08:21.450 align:start position:0%
+that F is a function of again we're
+going<00:08:19.120><c> to</c><00:08:19.240><c> just</c><00:08:19.510><c> have</c><00:08:20.289><c> this</c><00:08:20.560><c> expression</c><00:08:21.190><c> here</c>
+
+00:08:21.450 --> 00:08:21.460 align:start position:0%
+going to just have this expression here
+ 
+
+00:08:21.460 --> 00:08:25.140 align:start position:0%
+going to just have this expression here
+to<00:08:21.520><c> remind</c><00:08:22.150><c> us</c><00:08:22.479><c> what</c><00:08:22.660><c> F</c><00:08:22.900><c> represents</c><00:08:23.639><c> so</c><00:08:24.639><c> we're</c>
+
+00:08:25.140 --> 00:08:25.150 align:start position:0%
+to remind us what F represents so we're
+ 
+
+00:08:25.150 --> 00:08:26.790 align:start position:0%
+to remind us what F represents so we're
+going<00:08:25.300><c> to</c><00:08:25.450><c> do</c><00:08:25.539><c> the</c><00:08:25.660><c> same</c><00:08:25.930><c> for</c><00:08:26.229><c> the</c><00:08:26.289><c> bottom</c><00:08:26.770><c> one</c>
+
+00:08:26.790 --> 00:08:26.800 align:start position:0%
+going to do the same for the bottom one
+ 
+
+00:08:26.800 --> 00:08:33.930 align:start position:0%
+going to do the same for the bottom one
+here<00:08:27.729><c> as</c><00:08:27.940><c> well</c><00:08:28.440><c> so</c><00:08:29.440><c> we</c><00:08:29.560><c> now</c><00:08:29.710><c> get</c><00:08:29.950><c> an</c><00:08:30.099><c> is</c><00:08:31.800><c> x</c><00:08:32.940><c> off</c>
+
+00:08:33.930 --> 00:08:33.940 align:start position:0%
+here as well so we now get an is x off
+ 
+
+00:08:33.940 --> 00:08:36.690 align:start position:0%
+here as well so we now get an is x off
+function<00:08:34.450><c> you</c><00:08:35.260><c> may</c><00:08:35.409><c> also</c><00:08:35.620><c> have</c><00:08:35.950><c> noticed</c><00:08:35.979><c> that</c>
+
+00:08:36.690 --> 00:08:36.700 align:start position:0%
+function you may also have noticed that
+ 
+
+00:08:36.700 --> 00:08:39.570 align:start position:0%
+function you may also have noticed that
+I've<00:08:37.060><c> rubbed</c><00:08:37.390><c> off</c><00:08:37.659><c> the</c><00:08:37.959><c> dr</c><00:08:38.349><c> by</c><00:08:38.589><c> dt</c><00:08:38.620><c> equation</c>
+
+00:08:39.570 --> 00:08:39.580 align:start position:0%
+I've rubbed off the dr by dt equation
+ 
+
+00:08:39.580 --> 00:08:42.510 align:start position:0%
+I've rubbed off the dr by dt equation
+because<00:08:40.209><c> that</c><00:08:40.390><c> is</c><00:08:40.570><c> now</c><00:08:40.719><c> decoupled</c><00:08:41.469><c> from</c><00:08:41.800><c> the</c><00:08:42.219><c> s</c>
+
+00:08:42.510 --> 00:08:42.520 align:start position:0%
+because that is now decoupled from the s
+ 
+
+00:08:42.520 --> 00:08:45.090 align:start position:0%
+because that is now decoupled from the s
+and<00:08:42.849><c> i</c><00:08:42.969><c> equations</c><00:08:43.930><c> and</c><00:08:44.440><c> what</c><00:08:44.650><c> that</c><00:08:44.800><c> simply</c>
+
+00:08:45.090 --> 00:08:45.100 align:start position:0%
+and i equations and what that simply
+ 
+
+00:08:45.100 --> 00:08:48.090 align:start position:0%
+and i equations and what that simply
+means<00:08:45.279><c> is</c><00:08:45.820><c> it</c><00:08:46.060><c> was</c><00:08:46.180><c> only</c><00:08:46.390><c> in</c><00:08:46.630><c> terms</c><00:08:46.900><c> of</c><00:08:47.140><c> i</c><00:08:47.260><c> so</c><00:08:48.040><c> if</c>
+
+00:08:48.090 --> 00:08:48.100 align:start position:0%
+means is it was only in terms of i so if
+ 
+
+00:08:48.100 --> 00:08:51.120 align:start position:0%
+means is it was only in terms of i so if
+we<00:08:48.220><c> can</c><00:08:48.339><c> solve</c><00:08:48.550><c> these</c><00:08:48.910><c> two</c><00:08:49.270><c> for</c><00:08:49.870><c> i</c><00:08:49.900><c> and</c><00:08:50.170><c> s</c><00:08:50.500><c> then</c>
+
+00:08:51.120 --> 00:08:51.130 align:start position:0%
+we can solve these two for i and s then
+ 
+
+00:08:51.130 --> 00:08:54.210 align:start position:0%
+we can solve these two for i and s then
+we<00:08:51.760><c> can</c><00:08:51.940><c> solve</c><00:08:52.209><c> for</c><00:08:52.720><c> R</c><00:08:52.959><c> so</c><00:08:53.680><c> we're</c><00:08:53.950><c> just</c><00:08:53.980><c> going</c>
+
+00:08:54.210 --> 00:08:54.220 align:start position:0%
+we can solve for R so we're just going
+ 
+
+00:08:54.220 --> 00:08:54.820 align:start position:0%
+we can solve for R so we're just going
+to<00:08:54.339><c> ignore</c><00:08:54.459><c> that</c>
+
+00:08:54.820 --> 00:08:54.830 align:start position:0%
+to ignore that
+ 
+
+00:08:54.830 --> 00:08:57.550 align:start position:0%
+to ignore that
+equation<00:08:55.160><c> for</c><00:08:55.310><c> now</c><00:08:55.460><c> and</c><00:08:55.790><c> proceed</c><00:08:56.300><c> with</c><00:08:56.630><c> these</c>
+
+00:08:57.550 --> 00:08:57.560 align:start position:0%
+equation for now and proceed with these
+ 
+
+00:08:57.560 --> 00:08:59.890 align:start position:0%
+equation for now and proceed with these
+first<00:08:57.890><c> two</c><00:08:58.580><c> following</c><00:08:59.240><c> what</c><00:08:59.420><c> we've</c><00:08:59.570><c> done</c><00:08:59.750><c> in</c>
+
+00:08:59.890 --> 00:08:59.900 align:start position:0%
+first two following what we've done in
+ 
+
+00:08:59.900 --> 00:09:02.470 align:start position:0%
+first two following what we've done in
+previous<00:08:59.930><c> videos</c><00:09:00.830><c> when</c><00:09:01.670><c> analyzing</c><00:09:02.360><c> these</c>
+
+00:09:02.470 --> 00:09:02.480 align:start position:0%
+previous videos when analyzing these
+ 
+
+00:09:02.480 --> 00:09:04.960 align:start position:0%
+previous videos when analyzing these
+equations<00:09:03.140><c> we</c><00:09:03.440><c> combine</c><00:09:03.980><c> them</c><00:09:04.280><c> to</c><00:09:04.700><c> get</c><00:09:04.820><c> an</c>
+
+00:09:04.960 --> 00:09:04.970 align:start position:0%
+equations we combine them to get an
+ 
+
+00:09:04.970 --> 00:09:08.500 align:start position:0%
+equations we combine them to get an
+equation<00:09:05.210><c> for</c><00:09:05.450><c> di</c><00:09:05.690><c> by</c><00:09:06.560><c> D</c><00:09:06.620><c> s</c><00:09:07.040><c> and</c><00:09:07.550><c> you</c><00:09:08.090><c> do</c><00:09:08.300><c> this</c>
+
+00:09:08.500 --> 00:09:08.510 align:start position:0%
+equation for di by D s and you do this
+ 
+
+00:09:08.510 --> 00:09:10.990 align:start position:0%
+equation for di by D s and you do this
+by<00:09:08.810><c> taking</c><00:09:09.020><c> the</c><00:09:09.260><c> DI</c><00:09:09.470><c> by</c><00:09:09.620><c> DT</c><00:09:10.280><c> equation</c><00:09:10.820><c> and</c>
+
+00:09:10.990 --> 00:09:11.000 align:start position:0%
+by taking the DI by DT equation and
+ 
+
+00:09:11.000 --> 00:09:15.310 align:start position:0%
+by taking the DI by DT equation and
+dividing<00:09:11.660><c> by</c><00:09:12.290><c> the</c><00:09:12.350><c> d</c><00:09:12.650><c> s</c><00:09:12.830><c> by</c><00:09:13.190><c> DT</c><00:09:13.720><c> equation</c><00:09:14.720><c> again</c>
+
+00:09:15.310 --> 00:09:15.320 align:start position:0%
+dividing by the d s by DT equation again
+ 
+
+00:09:15.320 --> 00:09:17.310 align:start position:0%
+dividing by the d s by DT equation again
+this<00:09:15.590><c> might</c><00:09:15.830><c> not</c><00:09:15.860><c> look</c><00:09:16.100><c> like</c><00:09:16.400><c> a</c>
+
+00:09:17.310 --> 00:09:17.320 align:start position:0%
+this might not look like a
+ 
+
+00:09:17.320 --> 00:09:20.050 align:start position:0%
+this might not look like a
+simplification<00:09:18.320><c> of</c><00:09:18.500><c> the</c><00:09:19.070><c> original</c><00:09:19.550><c> system</c><00:09:19.970><c> of</c>
+
+00:09:20.050 --> 00:09:20.060 align:start position:0%
+simplification of the original system of
+ 
+
+00:09:20.060 --> 00:09:23.500 align:start position:0%
+simplification of the original system of
+equations<00:09:20.410><c> but</c><00:09:21.410><c> bear</c><00:09:22.040><c> with</c><00:09:22.340><c> me</c><00:09:22.580><c> we've</c><00:09:23.210><c> got</c><00:09:23.450><c> a</c>
+
+00:09:23.500 --> 00:09:23.510 align:start position:0%
+equations but bear with me we've got a
+ 
+
+00:09:23.510 --> 00:09:26.740 align:start position:0%
+equations but bear with me we've got a
+towel<00:09:23.900><c> term</c><00:09:24.260><c> here</c><00:09:24.920><c> and</c><00:09:25.130><c> also</c><00:09:25.880><c> on</c><00:09:26.030><c> the</c><00:09:26.120><c> top</c><00:09:26.420><c> and</c>
+
+00:09:26.740 --> 00:09:26.750 align:start position:0%
+towel term here and also on the top and
+ 
+
+00:09:26.750 --> 00:09:29.140 align:start position:0%
+towel term here and also on the top and
+remember<00:09:27.350><c> tau</c><00:09:27.710><c> is</c><00:09:27.890><c> a</c><00:09:27.920><c> small</c><00:09:28.280><c> parameter</c><00:09:28.520><c> and</c>
+
+00:09:29.140 --> 00:09:29.150 align:start position:0%
+remember tau is a small parameter and
+ 
+
+00:09:29.150 --> 00:09:31.470 align:start position:0%
+remember tau is a small parameter and
+we're<00:09:29.600><c> ignoring</c><00:09:29.960><c> terms</c><00:09:30.500><c> of</c><00:09:30.770><c> order</c><00:09:31.130><c> tau</c>
+
+00:09:31.470 --> 00:09:31.480 align:start position:0%
+we're ignoring terms of order tau
+ 
+
+00:09:31.480 --> 00:09:35.410 align:start position:0%
+we're ignoring terms of order tau
+squared<00:09:32.480><c> so</c><00:09:33.440><c> what</c><00:09:34.310><c> we</c><00:09:34.460><c> can</c><00:09:34.670><c> do</c><00:09:34.820><c> with</c><00:09:34.970><c> this</c><00:09:35.150><c> term</c>
+
+00:09:35.410 --> 00:09:35.420 align:start position:0%
+squared so what we can do with this term
+ 
+
+00:09:35.420 --> 00:09:38.920 align:start position:0%
+squared so what we can do with this term
+on<00:09:35.600><c> the</c><00:09:35.690><c> bottom</c><00:09:36.170><c> is</c><00:09:36.410><c> another</c><00:09:37.040><c> expansion</c><00:09:37.930><c> now</c>
+
+00:09:38.920 --> 00:09:38.930 align:start position:0%
+on the bottom is another expansion now
+ 
+
+00:09:38.930 --> 00:09:42.960 align:start position:0%
+on the bottom is another expansion now
+you<00:09:39.620><c> may</c><00:09:39.860><c> be</c><00:09:39.890><c> familiar</c><00:09:40.510><c> with</c><00:09:41.510><c> the</c><00:09:41.990><c> binomial</c>
+
+00:09:42.960 --> 00:09:42.970 align:start position:0%
+you may be familiar with the binomial
+ 
+
+00:09:42.970 --> 00:09:45.520 align:start position:0%
+you may be familiar with the binomial
+expansion<00:09:43.970><c> also</c><00:09:44.330><c> sometimes</c><00:09:44.990><c> known</c><00:09:45.260><c> as</c><00:09:45.290><c> the</c>
+
+00:09:45.520 --> 00:09:45.530 align:start position:0%
+expansion also sometimes known as the
+ 
+
+00:09:45.530 --> 00:09:48.250 align:start position:0%
+expansion also sometimes known as the
+geometric<00:09:45.980><c> series</c><00:09:46.580><c> or</c><00:09:47.030><c> even</c><00:09:47.090><c> just</c><00:09:47.810><c> a</c><00:09:47.900><c> standard</c>
+
+00:09:48.250 --> 00:09:48.260 align:start position:0%
+geometric series or even just a standard
+ 
+
+00:09:48.260 --> 00:09:51.250 align:start position:0%
+geometric series or even just a standard
+Taylor<00:09:48.650><c> expansion</c><00:09:49.250><c> but</c><00:09:49.910><c> it</c><00:09:50.030><c> says</c><00:09:50.300><c> that</c><00:09:50.630><c> 1</c><00:09:50.900><c> plus</c>
+
+00:09:51.250 --> 00:09:51.260 align:start position:0%
+Taylor expansion but it says that 1 plus
+ 
+
+00:09:51.260 --> 00:09:54.880 align:start position:0%
+Taylor expansion but it says that 1 plus
+something<00:09:51.980><c> where</c><00:09:52.970><c> something</c><00:09:53.630><c> is</c><00:09:53.780><c> small</c><00:09:54.320><c> which</c>
+
+00:09:54.880 --> 00:09:54.890 align:start position:0%
+something where something is small which
+ 
+
+00:09:54.890 --> 00:09:57.430 align:start position:0%
+something where something is small which
+is<00:09:55.070><c> true</c><00:09:55.430><c> here</c><00:09:55.790><c> for</c><00:09:56.150><c> tau</c><00:09:56.420><c> the</c><00:09:57.020><c> incubation</c>
+
+00:09:57.430 --> 00:09:57.440 align:start position:0%
+is true here for tau the incubation
+ 
+
+00:09:57.440 --> 00:10:00.730 align:start position:0%
+is true here for tau the incubation
+period<00:09:57.680><c> remember</c><00:09:58.580><c> is</c><00:09:59.410><c> approximately</c><00:10:00.410><c> equal</c>
+
+00:10:00.730 --> 00:10:00.740 align:start position:0%
+period remember is approximately equal
+ 
+
+00:10:00.740 --> 00:10:05.980 align:start position:0%
+period remember is approximately equal
+to<00:10:00.980><c> 1</c><00:10:01.850><c> minus</c><00:10:02.690><c> tau</c><00:10:03.410><c> F</c><00:10:03.820><c> so</c><00:10:04.820><c> the</c><00:10:04.940><c> -</c><00:10:05.330><c> here</c><00:10:05.600><c> comes</c>
+
+00:10:05.980 --> 00:10:05.990 align:start position:0%
+to 1 minus tau F so the - here comes
+ 
+
+00:10:05.990 --> 00:10:08.590 align:start position:0%
+to 1 minus tau F so the - here comes
+down<00:10:06.290><c> when</c><00:10:06.740><c> you</c><00:10:06.830><c> do</c><00:10:06.980><c> this</c><00:10:07.100><c> expansion</c><00:10:07.600><c> plus</c>
+
+00:10:08.590 --> 00:10:08.600 align:start position:0%
+down when you do this expansion plus
+ 
+
+00:10:08.600 --> 00:10:12.490 align:start position:0%
+down when you do this expansion plus
+order<00:10:09.260><c> tau</c><00:10:09.470><c> squared</c><00:10:10.690><c> so</c><00:10:11.690><c> what</c><00:10:11.870><c> this</c><00:10:12.050><c> means</c><00:10:12.350><c> for</c>
+
+00:10:12.490 --> 00:10:12.500 align:start position:0%
+order tau squared so what this means for
+ 
+
+00:10:12.500 --> 00:10:14.860 align:start position:0%
+order tau squared so what this means for
+our<00:10:12.560><c> expression</c><00:10:13.160><c> up</c><00:10:13.280><c> here</c><00:10:13.610><c> is</c><00:10:13.880><c> we</c><00:10:14.420><c> can</c><00:10:14.630><c> take</c>
+
+00:10:14.860 --> 00:10:14.870 align:start position:0%
+our expression up here is we can take
+ 
+
+00:10:14.870 --> 00:10:17.620 align:start position:0%
+our expression up here is we can take
+this<00:10:15.140><c> term</c><00:10:15.500><c> from</c><00:10:16.010><c> the</c><00:10:16.310><c> denominator</c><00:10:16.630><c> because</c>
+
+00:10:17.620 --> 00:10:17.630 align:start position:0%
+this term from the denominator because
+ 
+
+00:10:17.630 --> 00:10:19.900 align:start position:0%
+this term from the denominator because
+the<00:10:17.720><c> power</c><00:10:17.930><c> is</c><00:10:18.050><c> minus</c><00:10:18.500><c> 1</c><00:10:18.740><c> you</c><00:10:19.520><c> use</c><00:10:19.670><c> this</c>
+
+00:10:19.900 --> 00:10:19.910 align:start position:0%
+the power is minus 1 you use this
+ 
+
+00:10:19.910 --> 00:10:22.420 align:start position:0%
+the power is minus 1 you use this
+expansion<00:10:20.420><c> and</c><00:10:20.870><c> this</c><00:10:21.410><c> gives</c><00:10:21.650><c> us</c><00:10:21.800><c> something</c><00:10:22.040><c> on</c>
+
+00:10:22.420 --> 00:10:22.430 align:start position:0%
+expansion and this gives us something on
+ 
+
+00:10:22.430 --> 00:10:27.610 align:start position:0%
+expansion and this gives us something on
+the<00:10:23.000><c> numerator</c><00:10:23.620><c> now</c><00:10:24.620><c> if</c><00:10:25.010><c> we</c><00:10:25.610><c> do</c><00:10:25.880><c> that</c><00:10:26.440><c> we</c><00:10:27.440><c> end</c>
+
+00:10:27.610 --> 00:10:27.620 align:start position:0%
+the numerator now if we do that we end
+ 
+
+00:10:27.620 --> 00:10:31.450 align:start position:0%
+the numerator now if we do that we end
+up<00:10:27.770><c> with</c><00:10:27.830><c> the</c><00:10:28.220><c> following</c><00:10:28.540><c> di</c><00:10:29.540><c> by</c><00:10:29.990><c> D</c><00:10:30.050><c> s</c><00:10:30.460><c> we've</c>
+
+00:10:31.450 --> 00:10:31.460 align:start position:0%
+up with the following di by D s we've
+ 
+
+00:10:31.460 --> 00:10:35.710 align:start position:0%
+up with the following di by D s we've
+got<00:10:31.760><c> our</c><00:10:32.030><c> 1</c><00:10:32.990><c> over</c><00:10:33.470><c> that</c><00:10:34.160><c> so</c><00:10:34.580><c> minus</c><00:10:35.090><c> 1</c><00:10:35.300><c> in</c><00:10:35.450><c> our</c><00:10:35.690><c> I</c>
+
+00:10:35.710 --> 00:10:35.720 align:start position:0%
+got our 1 over that so minus 1 in our I
+ 
+
+00:10:35.720 --> 00:10:40.240 align:start position:0%
+got our 1 over that so minus 1 in our I
+guess<00:10:36.940><c> but</c><00:10:37.940><c> now</c><00:10:38.270><c> we've</c><00:10:39.110><c> got</c><00:10:39.380><c> the</c><00:10:39.590><c> numerator</c>
+
+00:10:40.240 --> 00:10:40.250 align:start position:0%
+guess but now we've got the numerator
+ 
+
+00:10:40.250 --> 00:10:45.370 align:start position:0%
+guess but now we've got the numerator
+the<00:10:41.180><c> top</c><00:10:41.510><c> multiplied</c><00:10:42.500><c> by</c><00:10:42.820><c> this</c><00:10:43.820><c> term</c><00:10:44.240><c> here</c><00:10:45.020><c> 1</c>
+
+00:10:45.370 --> 00:10:45.380 align:start position:0%
+the top multiplied by this term here 1
+ 
+
+00:10:45.380 --> 00:10:48.550 align:start position:0%
+the top multiplied by this term here 1
+minus<00:10:45.680><c> tau</c><00:10:46.190><c> F</c><00:10:46.520><c> so</c><00:10:47.330><c> the</c><00:10:47.510><c> 1</c><00:10:47.750><c> will</c><00:10:48.110><c> just</c><00:10:48.260><c> give</c><00:10:48.410><c> us</c>
+
+00:10:48.550 --> 00:10:48.560 align:start position:0%
+minus tau F so the 1 will just give us
+ 
+
+00:10:48.560 --> 00:10:52.000 align:start position:0%
+minus tau F so the 1 will just give us
+one<00:10:49.220><c> of</c><00:10:49.250><c> these</c><00:10:49.520><c> three</c><00:10:49.850><c> terms</c><00:10:50.180><c> but</c><00:10:51.020><c> now</c><00:10:51.290><c> we've</c>
+
+00:10:52.000 --> 00:10:52.010 align:start position:0%
+one of these three terms but now we've
+ 
+
+00:10:52.010 --> 00:10:56.890 align:start position:0%
+one of these three terms but now we've
+got<00:10:52.040><c> minus</c><00:10:52.880><c> tau</c><00:10:53.150><c> F</c><00:10:53.500><c> times</c><00:10:54.520><c> the</c><00:10:55.520><c> three</c><00:10:55.850><c> terms</c><00:10:56.150><c> so</c>
+
+00:10:56.890 --> 00:10:56.900 align:start position:0%
+got minus tau F times the three terms so
+ 
+
+00:10:56.900 --> 00:11:03.720 align:start position:0%
+got minus tau F times the three terms so
+the<00:10:57.020><c> first</c><00:10:57.290><c> term</c><00:10:57.560><c> gives</c><00:10:58.340><c> us</c><00:10:58.640><c> minus</c><00:10:59.560><c> tau</c><00:11:00.560><c> F</c><00:11:01.150><c> RI</c><00:11:02.150><c> s</c>
+
+00:11:03.720 --> 00:11:03.730 align:start position:0%
+the first term gives us minus tau F RI s
+ 
+
+00:11:03.730 --> 00:11:08.079 align:start position:0%
+the first term gives us minus tau F RI s
+then<00:11:04.730><c> we</c><00:11:04.970><c> have</c><00:11:05.180><c> minus</c><00:11:05.950><c> comes</c><00:11:06.950><c> a</c><00:11:07.070><c> plus</c>
+
+00:11:08.079 --> 00:11:08.089 align:start position:0%
+then we have minus comes a plus
+ 
+
+00:11:08.089 --> 00:11:13.900 align:start position:0%
+then we have minus comes a plus
+a<00:11:08.120><c> towel</c><00:11:08.749><c> a</c><00:11:09.610><c> towel</c><00:11:10.610><c> i</c><00:11:10.819><c> F</c><00:11:11.269><c> and</c><00:11:12.399><c> then</c><00:11:13.399><c> the</c><00:11:13.639><c> last</c>
+
+00:11:13.900 --> 00:11:13.910 align:start position:0%
+a towel a towel i F and then the last
+ 
+
+00:11:13.910 --> 00:11:17.069 align:start position:0%
+a towel a towel i F and then the last
+term<00:11:14.209><c> would</c><00:11:14.749><c> give</c><00:11:15.050><c> us</c><00:11:15.259><c> a</c><00:11:15.499><c> tau</c><00:11:16.009><c> squared</c><00:11:16.579><c> term</c>
+
+00:11:17.069 --> 00:11:17.079 align:start position:0%
+term would give us a tau squared term
+ 
+
+00:11:17.079 --> 00:11:20.980 align:start position:0%
+term would give us a tau squared term
+multiplying<00:11:18.079><c> tau</c><00:11:18.319><c> F</c><00:11:18.559><c> by</c><00:11:18.829><c> tau</c><00:11:18.889><c> R</c><00:11:19.459><c> is</c><00:11:19.490><c> f</c><00:11:20.089><c> but</c>
+
+00:11:20.980 --> 00:11:20.990 align:start position:0%
+multiplying tau F by tau R is f but
+ 
+
+00:11:20.990 --> 00:11:23.590 align:start position:0%
+multiplying tau F by tau R is f but
+we're<00:11:21.170><c> neglecting</c><00:11:21.379><c> order</c><00:11:22.009><c> tau</c><00:11:22.160><c> squared</c><00:11:22.610><c> so</c><00:11:23.269><c> we</c>
+
+00:11:23.590 --> 00:11:23.600 align:start position:0%
+we're neglecting order tau squared so we
+ 
+
+00:11:23.600 --> 00:11:28.090 align:start position:0%
+we're neglecting order tau squared so we
+just<00:11:23.749><c> have</c><00:11:23.899><c> that</c><00:11:24.199><c> plus</c><00:11:25.360><c> order</c><00:11:26.360><c> tau</c><00:11:27.100><c> squared</c>
+
+00:11:28.090 --> 00:11:28.100 align:start position:0%
+just have that plus order tau squared
+ 
+
+00:11:28.100 --> 00:11:29.949 align:start position:0%
+just have that plus order tau squared
+we're<00:11:29.029><c> almost</c><00:11:29.209><c> there</c>
+
+00:11:29.949 --> 00:11:29.959 align:start position:0%
+we're almost there
+ 
+
+00:11:29.959 --> 00:11:33.009 align:start position:0%
+we're almost there
+the<00:11:30.230><c> very</c><00:11:30.529><c> final</c><00:11:31.100><c> step</c><00:11:31.459><c> is</c><00:11:31.790><c> just</c><00:11:32.180><c> to</c><00:11:32.449><c> look</c><00:11:32.839><c> at</c>
+
+00:11:33.009 --> 00:11:33.019 align:start position:0%
+the very final step is just to look at
+ 
+
+00:11:33.019 --> 00:11:35.319 align:start position:0%
+the very final step is just to look at
+this<00:11:33.139><c> expression</c><00:11:33.589><c> and</c><00:11:34.129><c> try</c><00:11:34.730><c> and</c><00:11:34.879><c> figure</c><00:11:35.089><c> out</c>
+
+00:11:35.319 --> 00:11:35.329 align:start position:0%
+this expression and try and figure out
+ 
+
+00:11:35.329 --> 00:11:39.160 align:start position:0%
+this expression and try and figure out
+what's<00:11:35.660><c> going</c><00:11:36.199><c> on</c><00:11:36.319><c> so</c><00:11:37.180><c> we</c><00:11:38.180><c> have</c><00:11:38.389><c> a</c><00:11:38.629><c> minus</c><00:11:38.990><c> 1</c>
+
+00:11:39.160 --> 00:11:39.170 align:start position:0%
+what's going on so we have a minus 1
+ 
+
+00:11:39.170 --> 00:11:42.040 align:start position:0%
+what's going on so we have a minus 1
+over<00:11:39.319><c> R</c><00:11:39.499><c> is</c><00:11:39.680><c> that's</c><00:11:40.519><c> fine</c><00:11:40.850><c> we've</c><00:11:41.480><c> got</c><00:11:41.660><c> R</c><00:11:41.870><c> is</c>
+
+00:11:42.040 --> 00:11:42.050 align:start position:0%
+over R is that's fine we've got R is
+ 
+
+00:11:42.050 --> 00:11:47.650 align:start position:0%
+over R is that's fine we've got R is
+minus<00:11:42.709><c> AI</c><00:11:43.240><c> plus</c><00:11:44.240><c> tau</c><00:11:44.689><c> R</c><00:11:45.050><c> is</c><00:11:45.079><c> F</c><00:11:45.910><c> minus</c><00:11:46.910><c> tau</c><00:11:47.300><c> R</c><00:11:47.629><c> is</c>
+
+00:11:47.650 --> 00:11:47.660 align:start position:0%
+minus AI plus tau R is F minus tau R is
+ 
+
+00:11:47.660 --> 00:11:52.179 align:start position:0%
+minus AI plus tau R is F minus tau R is
+F<00:11:48.379><c> so</c><00:11:49.100><c> these</c><00:11:49.370><c> two</c><00:11:49.819><c> now</c><00:11:50.660><c> perfectly</c><00:11:51.379><c> cancel</c><00:11:51.980><c> out</c>
+
+00:11:52.179 --> 00:11:52.189 align:start position:0%
+F so these two now perfectly cancel out
+ 
+
+00:11:52.189 --> 00:11:56.049 align:start position:0%
+F so these two now perfectly cancel out
+and<00:11:52.699><c> then</c><00:11:52.999><c> we've</c><00:11:53.180><c> got</c><00:11:53.420><c> a</c><00:11:53.660><c> plus</c><00:11:53.959><c> a</c><00:11:54.110><c> tau</c><00:11:54.589><c> I</c><00:11:54.860><c> F</c><00:11:55.519><c> and</c>
+
+00:11:56.049 --> 00:11:56.059 align:start position:0%
+and then we've got a plus a tau I F and
+ 
+
+00:11:56.059 --> 00:11:59.530 align:start position:0%
+and then we've got a plus a tau I F and
+then<00:11:56.569><c> order</c><00:11:57.050><c> tau</c><00:11:57.290><c> squared</c><00:11:58.279><c> so</c><00:11:59.059><c> what</c><00:11:59.269><c> we</c><00:11:59.389><c> can</c>
+
+00:11:59.530 --> 00:11:59.540 align:start position:0%
+then order tau squared so what we can
+ 
+
+00:11:59.540 --> 00:12:04.379 align:start position:0%
+then order tau squared so what we can
+write<00:11:59.600><c> this</c><00:11:59.930><c> as</c><00:12:00.139><c> in</c><00:12:00.410><c> fact</c><00:12:00.649><c> is</c><00:12:01.720><c> di</c><00:12:02.720><c> by</c><00:12:03.290><c> DX</c><00:12:03.680><c> is</c>
+
+00:12:04.379 --> 00:12:04.389 align:start position:0%
+write this as in fact is di by DX is
+ 
+
+00:12:04.389 --> 00:12:13.239 align:start position:0%
+write this as in fact is di by DX is
+equal<00:12:05.389><c> to</c><00:12:06.519><c> minus</c><00:12:07.519><c> R</c><00:12:08.089><c> is</c><00:12:09.249><c> minus</c><00:12:10.249><c> AI</c><00:12:11.860><c> divided</c><00:12:12.860><c> by</c>
+
+00:12:13.239 --> 00:12:13.249 align:start position:0%
+equal to minus R is minus AI divided by
+ 
+
+00:12:13.249 --> 00:12:22.530 align:start position:0%
+equal to minus R is minus AI divided by
+r<00:12:13.660><c> is</c><00:12:16.120><c> plus</c><00:12:17.889><c> order</c><00:12:19.540><c> so</c><00:12:20.540><c> this</c><00:12:20.749><c> term</c><00:12:21.110><c> is</c><00:12:21.139><c> a</c><00:12:21.499><c> towel</c>
+
+00:12:22.530 --> 00:12:22.540 align:start position:0%
+r is plus order so this term is a towel
+ 
+
+00:12:22.540 --> 00:12:30.090 align:start position:0%
+r is plus order so this term is a towel
+and<00:12:24.519><c> we</c><00:12:25.519><c> also</c><00:12:25.639><c> had</c><00:12:25.970><c> tau</c><00:12:26.240><c> squared</c><00:12:27.639><c> now</c><00:12:28.639><c> this</c>
+
+00:12:30.090 --> 00:12:30.100 align:start position:0%
+and we also had tau squared now this
+ 
+
+00:12:30.100 --> 00:12:33.009 align:start position:0%
+and we also had tau squared now this
+potentially<00:12:31.100><c> looks</c><00:12:31.939><c> like</c><00:12:32.209><c> something</c><00:12:32.779><c> you've</c>
+
+00:12:33.009 --> 00:12:33.019 align:start position:0%
+potentially looks like something you've
+ 
+
+00:12:33.019 --> 00:12:37.600 align:start position:0%
+potentially looks like something you've
+seen<00:12:33.259><c> before</c><00:12:33.920><c> I</c><00:12:34.249><c> hope</c><00:12:34.819><c> so</c><00:12:35.809><c> this</c><00:12:36.139><c> is</c><00:12:36.559><c> the</c><00:12:37.100><c> exact</c>
+
+00:12:37.600 --> 00:12:37.610 align:start position:0%
+seen before I hope so this is the exact
+ 
+
+00:12:37.610 --> 00:12:40.960 align:start position:0%
+seen before I hope so this is the exact
+same<00:12:37.999><c> equation</c><00:12:38.509><c> up</c><00:12:39.019><c> to</c><00:12:39.410><c> this</c><00:12:39.559><c> point</c><00:12:39.920><c> if</c><00:12:40.309><c> we</c>
+
+00:12:40.960 --> 00:12:40.970 align:start position:0%
+same equation up to this point if we
+ 
+
+00:12:40.970 --> 00:12:44.199 align:start position:0%
+same equation up to this point if we
+ignore<00:12:41.689><c> order</c><00:12:42.559><c> a</c><00:12:42.589><c> tau</c><00:12:43.009><c> and</c><00:12:43.279><c> order</c><00:12:43.610><c> tau</c><00:12:43.790><c> squared</c>
+
+00:12:44.199 --> 00:12:44.209 align:start position:0%
+ignore order a tau and order tau squared
+ 
+
+00:12:44.209 --> 00:12:48.160 align:start position:0%
+ignore order a tau and order tau squared
+terms<00:12:44.800><c> this</c><00:12:45.800><c> equation</c><00:12:46.490><c> is</c><00:12:46.759><c> the</c><00:12:47.179><c> exact</c><00:12:47.839><c> same</c>
+
+00:12:48.160 --> 00:12:48.170 align:start position:0%
+terms this equation is the exact same
+ 
+
+00:12:48.170 --> 00:12:52.059 align:start position:0%
+terms this equation is the exact same
+equation<00:12:48.829><c> that</c><00:12:48.860><c> we</c><00:12:49.100><c> got</c><00:12:49.399><c> for</c><00:12:50.059><c> the</c><00:12:50.149><c> standard</c><00:12:51.069><c> SI</c>
+
+00:12:52.059 --> 00:12:52.069 align:start position:0%
+equation that we got for the standard SI
+ 
+
+00:12:52.069 --> 00:12:55.809 align:start position:0%
+equation that we got for the standard SI
+r<00:12:52.339><c> model</c><00:12:52.939><c> with</c><00:12:53.449><c> no</c><00:12:54.129><c> incubation</c><00:12:55.129><c> time</c><00:12:55.370><c> or</c><00:12:55.639><c> with</c>
+
+00:12:55.809 --> 00:12:55.819 align:start position:0%
+r model with no incubation time or with
+ 
+
+00:12:55.819 --> 00:12:59.049 align:start position:0%
+r model with no incubation time or with
+an<00:12:55.939><c> incubation</c><00:12:56.329><c> time</c><00:12:56.720><c> tau</c><00:12:57.050><c> of</c><00:12:57.350><c> 0</c><00:12:58.279><c> so</c><00:12:58.730><c> the</c><00:12:58.879><c> big</c>
+
+00:12:59.049 --> 00:12:59.059 align:start position:0%
+an incubation time tau of 0 so the big
+ 
+
+00:12:59.059 --> 00:13:01.360 align:start position:0%
+an incubation time tau of 0 so the big
+result<00:12:59.449><c> here</c><00:12:59.720><c> is</c><00:12:59.929><c> that</c><00:13:00.319><c> the</c><00:13:00.499><c> dynamics</c><00:13:01.100><c> of</c><00:13:01.279><c> our</c>
+
+00:13:01.360 --> 00:13:01.370 align:start position:0%
+result here is that the dynamics of our
+ 
+
+00:13:01.370 --> 00:13:04.780 align:start position:0%
+result here is that the dynamics of our
+model<00:13:01.879><c> are</c><00:13:02.149><c> actually</c><00:13:02.860><c> unchanged</c><00:13:03.860><c> as</c><00:13:04.069><c> long</c><00:13:04.610><c> as</c>
+
+00:13:04.780 --> 00:13:04.790 align:start position:0%
+model are actually unchanged as long as
+ 
+
+00:13:04.790 --> 00:13:07.329 align:start position:0%
+model are actually unchanged as long as
+we<00:13:04.910><c> can</c><00:13:05.089><c> neglect</c><00:13:05.300><c> terms</c><00:13:05.809><c> of</c><00:13:06.019><c> order</c><00:13:06.350><c> a</c><00:13:06.529><c> tau</c><00:13:07.129><c> and</c>
+
+00:13:07.329 --> 00:13:07.339 align:start position:0%
+we can neglect terms of order a tau and
+ 
+
+00:13:07.339 --> 00:13:10.299 align:start position:0%
+we can neglect terms of order a tau and
+tau<00:13:07.550><c> squared</c><00:13:08.059><c> which</c><00:13:08.779><c> is</c><00:13:08.990><c> why</c><00:13:09.290><c> we</c><00:13:09.529><c> saw</c><00:13:09.740><c> the</c><00:13:09.800><c> same</c>
+
+00:13:10.299 --> 00:13:10.309 align:start position:0%
+tau squared which is why we saw the same
+ 
+
+00:13:10.309 --> 00:13:12.970 align:start position:0%
+tau squared which is why we saw the same
+shape<00:13:10.819><c> to</c><00:13:11.089><c> our</c><00:13:11.120><c> curves</c><00:13:11.600><c> when</c><00:13:12.319><c> we</c><00:13:12.439><c> plotted</c><00:13:12.709><c> them</c>
+
+00:13:12.970 --> 00:13:12.980 align:start position:0%
+shape to our curves when we plotted them
+ 
+
+00:13:12.980 --> 00:13:15.100 align:start position:0%
+shape to our curves when we plotted them
+earlier<00:13:13.309><c> using</c><00:13:14.059><c> math</c><00:13:14.269><c> ago</c><00:13:14.540><c> and</c><00:13:14.779><c> what</c><00:13:14.990><c> this</c>
+
+00:13:15.100 --> 00:13:15.110 align:start position:0%
+earlier using math ago and what this
+ 
+
+00:13:15.110 --> 00:13:17.740 align:start position:0%
+earlier using math ago and what this
+means<00:13:15.379><c> in</c><00:13:15.559><c> practice</c><00:13:15.589><c> is</c><00:13:16.490><c> that</c><00:13:16.850><c> even</c><00:13:17.540><c> when</c><00:13:17.720><c> we</c>
+
+00:13:17.740 --> 00:13:17.750 align:start position:0%
+means in practice is that even when we
+ 
+
+00:13:17.750 --> 00:13:21.369 align:start position:0%
+means in practice is that even when we
+include<00:13:18.199><c> the</c><00:13:18.620><c> incubation</c><00:13:19.160><c> period</c><00:13:19.399><c> tau</c><00:13:20.089><c> NR</c><00:13:21.019><c> si</c>
+
+00:13:21.369 --> 00:13:21.379 align:start position:0%
+include the incubation period tau NR si
+ 
+
+00:13:21.379 --> 00:13:22.299 align:start position:0%
+include the incubation period tau NR si
+R
+
+00:13:22.299 --> 00:13:22.309 align:start position:0%
+R
+ 
+
+00:13:22.309 --> 00:13:25.299 align:start position:0%
+R
+the<00:13:22.639><c> actual</c><00:13:23.149><c> results</c><00:13:23.839><c> the</c><00:13:24.259><c> structure</c><00:13:25.040><c> and</c><00:13:25.189><c> the</c>
+
+00:13:25.299 --> 00:13:25.309 align:start position:0%
+the actual results the structure and the
+ 
+
+00:13:25.309 --> 00:13:27.849 align:start position:0%
+the actual results the structure and the
+behavior<00:13:25.879><c> of</c><00:13:25.999><c> the</c><00:13:26.119><c> system</c><00:13:26.389><c> will</c><00:13:27.259><c> actually</c><00:13:27.470><c> be</c>
+
+00:13:27.849 --> 00:13:27.859 align:start position:0%
+behavior of the system will actually be
+ 
+
+00:13:27.859 --> 00:13:31.059 align:start position:0%
+behavior of the system will actually be
+the<00:13:27.980><c> same</c><00:13:28.309><c> as</c><00:13:28.639><c> the</c><00:13:28.819><c> basic</c><00:13:29.420><c> SAR</c><00:13:30.019><c> model</c><00:13:30.559><c> that</c><00:13:31.040><c> I</c>
+
+00:13:31.059 --> 00:13:31.069 align:start position:0%
+the same as the basic SAR model that I
+ 
+
+00:13:31.069 --> 00:13:34.090 align:start position:0%
+the same as the basic SAR model that I
+looked<00:13:31.339><c> at</c><00:13:31.459><c> in</c><00:13:31.609><c> the</c><00:13:31.699><c> very</c><00:13:31.939><c> first</c><00:13:32.329><c> video</c><00:13:32.920><c> so</c><00:13:33.920><c> for</c>
+
+00:13:34.090 --> 00:13:34.100 align:start position:0%
+looked at in the very first video so for
+ 
+
+00:13:34.100 --> 00:13:36.400 align:start position:0%
+looked at in the very first video so for
+a<00:13:34.189><c> disease</c><00:13:34.519><c> like</c><00:13:34.790><c> Cove</c><00:13:35.059><c> in</c><00:13:35.239><c> nineteen</c><00:13:35.779><c> where</c>
+
+00:13:36.400 --> 00:13:36.410 align:start position:0%
+a disease like Cove in nineteen where
+ 
+
+00:13:36.410 --> 00:13:39.699 align:start position:0%
+a disease like Cove in nineteen where
+tau<00:13:36.739><c> is</c><00:13:37.069><c> indeed</c><00:13:37.579><c> small</c><00:13:38.179><c> then</c><00:13:39.109><c> it's</c><00:13:39.410><c> very</c>
+
+00:13:39.699 --> 00:13:39.709 align:start position:0%
+tau is indeed small then it's very
+ 
+
+00:13:39.709 --> 00:13:43.150 align:start position:0%
+tau is indeed small then it's very
+reasonable<00:13:40.519><c> to</c><00:13:40.730><c> ignore</c><00:13:41.660><c> terms</c><00:13:42.470><c> of</c><00:13:42.709><c> order</c><00:13:43.009><c> a</c>
+
+00:13:43.150 --> 00:13:43.160 align:start position:0%
+reasonable to ignore terms of order a
+ 
+
+00:13:43.160 --> 00:13:45.909 align:start position:0%
+reasonable to ignore terms of order a
+tau<00:13:43.459><c> and</c><00:13:43.639><c> tau</c><00:13:43.850><c> squared</c><00:13:44.329><c> so</c><00:13:44.989><c> this</c><00:13:45.199><c> tells</c><00:13:45.589><c> us</c>
+
+00:13:45.909 --> 00:13:45.919 align:start position:0%
+tau and tau squared so this tells us
+ 
+
+00:13:45.919 --> 00:13:48.309 align:start position:0%
+tau and tau squared so this tells us
+when<00:13:46.279><c> trying</c><00:13:46.579><c> to</c><00:13:46.669><c> model</c><00:13:47.269><c> the</c><00:13:47.449><c> pandemic</c><00:13:47.959><c> and</c>
+
+00:13:48.309 --> 00:13:48.319 align:start position:0%
+when trying to model the pandemic and
+ 
+
+00:13:48.319 --> 00:13:50.650 align:start position:0%
+when trying to model the pandemic and
+trying<00:13:48.649><c> to</c><00:13:48.739><c> understand</c><00:13:49.549><c> the</c><00:13:49.910><c> spread</c><00:13:50.419><c> of</c><00:13:50.449><c> the</c>
+
+00:13:50.650 --> 00:13:50.660 align:start position:0%
+trying to understand the spread of the
+ 
+
+00:13:50.660 --> 00:13:51.429 align:start position:0%
+trying to understand the spread of the
+disease
+
+00:13:51.429 --> 00:13:51.439 align:start position:0%
+disease
+ 
+
+00:13:51.439 --> 00:13:53.650 align:start position:0%
+disease
+we<00:13:51.799><c> can</c><00:13:51.980><c> actually</c><00:13:52.100><c> simplify</c><00:13:52.850><c> our</c><00:13:52.999><c> models</c><00:13:53.389><c> and</c>
+
+00:13:53.650 --> 00:13:53.660 align:start position:0%
+we can actually simplify our models and
+ 
+
+00:13:53.660 --> 00:13:55.359 align:start position:0%
+we can actually simplify our models and
+we<00:13:54.019><c> don't</c><00:13:54.290><c> need</c><00:13:54.439><c> to</c><00:13:54.499><c> worry</c><00:13:54.889><c> about</c><00:13:55.040><c> the</c>
+
+00:13:55.359 --> 00:13:55.369 align:start position:0%
+we don't need to worry about the
+ 
+
+00:13:55.369 --> 00:13:57.970 align:start position:0%
+we don't need to worry about the
+incubation<00:13:55.879><c> period</c><00:13:56.259><c> because</c><00:13:57.259><c> to</c><00:13:57.470><c> leading</c>
+
+00:13:57.970 --> 00:13:57.980 align:start position:0%
+incubation period because to leading
+ 
+
+00:13:57.980 --> 00:14:00.669 align:start position:0%
+incubation period because to leading
+order<00:13:58.249><c> the</c><00:13:59.119><c> dynamics</c><00:13:59.749><c> will</c><00:13:59.899><c> be</c><00:13:59.989><c> exactly</c><00:14:00.470><c> the</c>
+
+00:14:00.669 --> 00:14:00.679 align:start position:0%
+order the dynamics will be exactly the
+ 
+
+00:14:00.679 --> 00:14:02.979 align:start position:0%
+order the dynamics will be exactly the
+same<00:14:00.709><c> this</c><00:14:01.519><c> means</c><00:14:01.759><c> that</c><00:14:01.939><c> the</c><00:14:02.089><c> mass</c><00:14:02.359><c> is</c><00:14:02.569><c> exactly</c>
+
+00:14:02.979 --> 00:14:02.989 align:start position:0%
+same this means that the mass is exactly
+ 
+
+00:14:02.989 --> 00:14:05.409 align:start position:0%
+same this means that the mass is exactly
+the<00:14:03.169><c> same</c><00:14:03.350><c> and</c><00:14:03.619><c> so</c><00:14:03.679><c> our</c><00:14:04.220><c> response</c><00:14:04.759><c> is</c><00:14:05.089><c> going</c><00:14:05.299><c> to</c>
+
+00:14:05.409 --> 00:14:05.419 align:start position:0%
+the same and so our response is going to
+ 
+
+00:14:05.419 --> 00:14:07.479 align:start position:0%
+the same and so our response is going to
+be<00:14:05.629><c> the</c><00:14:05.779><c> same</c><00:14:06.049><c> thing</c><00:14:06.319><c> I've</c><00:14:06.470><c> said</c><00:14:06.709><c> many</c><00:14:07.369><c> times</c>
+
+00:14:07.479 --> 00:14:07.489 align:start position:0%
+be the same thing I've said many times
+ 
+
+00:14:07.489 --> 00:14:10.840 align:start position:0%
+be the same thing I've said many times
+before<00:14:08.059><c> you</c><00:14:08.899><c> need</c><00:14:09.290><c> to</c><00:14:09.350><c> wash</c><00:14:09.679><c> your</c><00:14:09.889><c> hands</c><00:14:10.309><c> stay</c>
+
+00:14:10.840 --> 00:14:10.850 align:start position:0%
+before you need to wash your hands stay
+ 
+
+00:14:10.850 --> 00:14:13.359 align:start position:0%
+before you need to wash your hands stay
+at<00:14:10.999><c> home</c><00:14:11.209><c> and</c><00:14:11.480><c> practice</c><00:14:12.230><c> social</c><00:14:12.679><c> distancing</c>
+
+00:14:13.359 --> 00:14:13.369 align:start position:0%
+at home and practice social distancing
+ 
+
+00:14:13.369 --> 00:14:15.639 align:start position:0%
+at home and practice social distancing
+thank<00:14:13.910><c> you</c><00:14:14.029><c> everybody</c><00:14:14.269><c> for</c><00:14:14.540><c> watching</c><00:14:14.839><c> if</c>
+
+00:14:15.639 --> 00:14:15.649 align:start position:0%
+thank you everybody for watching if
+ 
+
+00:14:15.649 --> 00:14:17.590 align:start position:0%
+thank you everybody for watching if
+you've<00:14:16.069><c> enjoyed</c><00:14:16.220><c> this</c><00:14:16.579><c> video</c><00:14:16.759><c> please</c><00:14:17.329><c> do</c>
+
+00:14:17.590 --> 00:14:17.600 align:start position:0%
+you've enjoyed this video please do
+ 
+
+00:14:17.600 --> 00:14:19.629 align:start position:0%
+you've enjoyed this video please do
+subscribe<00:14:17.839><c> to</c><00:14:18.079><c> my</c><00:14:18.259><c> channel</c><00:14:18.739><c> and</c><00:14:18.919><c> I'll</c><00:14:19.309><c> be</c><00:14:19.339><c> back</c>
+
+00:14:19.629 --> 00:14:19.639 align:start position:0%
+subscribe to my channel and I'll be back
+ 
+
+00:14:19.639 --> 00:14:30.519 align:start position:0%
+subscribe to my channel and I'll be back
+soon<00:14:19.879><c> with</c><00:14:20.509><c> some</c><00:14:20.689><c> more</c><00:14:20.749><c> maths</c><00:14:21.109><c> take</c><00:14:21.769><c> care</c>
+
+00:14:30.519 --> 00:14:30.529 align:start position:0%
+ 
+ 
+
+00:14:30.529 --> 00:14:32.589 align:start position:0%
+ 
+you
+

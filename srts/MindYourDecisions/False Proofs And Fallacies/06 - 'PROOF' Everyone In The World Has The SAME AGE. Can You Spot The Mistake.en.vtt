@@ -1,0 +1,888 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:03.200 align:start position:0%
+ 
+hey<00:00:00.480><c> this</c><00:00:00.690><c> is</c><00:00:00.840><c> pressure</c><00:00:01.110><c> Locker</c><00:00:02.210><c> mathematical</c>
+
+00:00:03.200 --> 00:00:03.210 align:start position:0%
+hey this is pressure Locker mathematical
+ 
+
+00:00:03.210 --> 00:00:05.210 align:start position:0%
+hey this is pressure Locker mathematical
+induction<00:00:03.360><c> is</c><00:00:03.899><c> a</c><00:00:03.959><c> powerful</c><00:00:04.410><c> proof</c><00:00:04.740><c> technique</c>
+
+00:00:05.210 --> 00:00:05.220 align:start position:0%
+induction is a powerful proof technique
+ 
+
+00:00:05.220 --> 00:00:08.839 align:start position:0%
+induction is a powerful proof technique
+involving<00:00:05.850><c> two</c><00:00:06.060><c> steps</c><00:00:06.710><c> step</c><00:00:07.710><c> one</c><00:00:07.950><c> prove</c><00:00:08.610><c> a</c>
+
+00:00:08.839 --> 00:00:08.849 align:start position:0%
+involving two steps step one prove a
+ 
+
+00:00:08.849 --> 00:00:10.520 align:start position:0%
+involving two steps step one prove a
+statement<00:00:09.150><c> is</c><00:00:09.420><c> true</c><00:00:09.599><c> for</c><00:00:09.929><c> the</c><00:00:10.019><c> base</c><00:00:10.200><c> case</c>
+
+00:00:10.520 --> 00:00:10.530 align:start position:0%
+statement is true for the base case
+ 
+
+00:00:10.530 --> 00:00:15.320 align:start position:0%
+statement is true for the base case
+usually<00:00:11.250><c> N</c><00:00:11.730><c> equals</c><00:00:12.269><c> zero</c><00:00:12.540><c> or</c><00:00:12.780><c> N</c><00:00:13.080><c> equals</c><00:00:13.110><c> 1</c><00:00:14.330><c> step</c>
+
+00:00:15.320 --> 00:00:15.330 align:start position:0%
+usually N equals zero or N equals 1 step
+ 
+
+00:00:15.330 --> 00:00:18.740 align:start position:0%
+usually N equals zero or N equals 1 step
+2<00:00:15.630><c> prove</c><00:00:16.379><c> that</c><00:00:16.650><c> if</c><00:00:17.400><c> the</c><00:00:17.789><c> statement</c><00:00:18.240><c> holds</c><00:00:18.539><c> for</c>
+
+00:00:18.740 --> 00:00:18.750 align:start position:0%
+2 prove that if the statement holds for
+ 
+
+00:00:18.750 --> 00:00:21.500 align:start position:0%
+2 prove that if the statement holds for
+some<00:00:18.779><c> natural</c><00:00:19.289><c> number</c><00:00:19.830><c> n</c><00:00:19.980><c> then</c><00:00:20.880><c> the</c><00:00:21.060><c> statement</c>
+
+00:00:21.500 --> 00:00:21.510 align:start position:0%
+some natural number n then the statement
+ 
+
+00:00:21.510 --> 00:00:23.710 align:start position:0%
+some natural number n then the statement
+also<00:00:21.660><c> holds</c><00:00:22.289><c> for</c><00:00:22.500><c> n</c><00:00:22.650><c> plus</c><00:00:22.859><c> 1</c>
+
+00:00:23.710 --> 00:00:23.720 align:start position:0%
+also holds for n plus 1
+ 
+
+00:00:23.720 --> 00:00:27.710 align:start position:0%
+also holds for n plus 1
+this<00:00:24.720><c> creates</c><00:00:25.170><c> a</c><00:00:25.350><c> logical</c><00:00:26.189><c> domino</c><00:00:26.789><c> which</c><00:00:27.420><c> then</c>
+
+00:00:27.710 --> 00:00:27.720 align:start position:0%
+this creates a logical domino which then
+ 
+
+00:00:27.720 --> 00:00:29.589 align:start position:0%
+this creates a logical domino which then
+proves<00:00:28.140><c> that</c><00:00:28.410><c> the</c><00:00:28.560><c> same</c><00:00:28.800><c> and</c><00:00:28.980><c> holds</c><00:00:29.250><c> for</c><00:00:29.550><c> all</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+proves that the same and holds for all
+ 
+
+00:00:29.599 --> 00:00:34.850 align:start position:0%
+proves that the same and holds for all
+natural<00:00:30.599><c> numbers</c><00:00:32.690><c> let's</c><00:00:33.690><c> do</c><00:00:33.870><c> an</c><00:00:34.020><c> example</c><00:00:34.110><c> to</c>
+
+00:00:34.850 --> 00:00:34.860 align:start position:0%
+natural numbers let's do an example to
+ 
+
+00:00:34.860 --> 00:00:37.520 align:start position:0%
+natural numbers let's do an example to
+prove<00:00:35.190><c> that</c><00:00:35.640><c> the</c><00:00:35.820><c> sum</c><00:00:36.090><c> of</c><00:00:36.270><c> the</c><00:00:36.540><c> first</c><00:00:36.840><c> n</c><00:00:37.050><c> odd</c>
+
+00:00:37.520 --> 00:00:37.530 align:start position:0%
+prove that the sum of the first n odd
+ 
+
+00:00:37.530 --> 00:00:41.510 align:start position:0%
+prove that the sum of the first n odd
+numbers<00:00:38.100><c> is</c><00:00:38.340><c> equal</c><00:00:38.850><c> to</c><00:00:39.030><c> M</c><00:00:39.149><c> Squared</c><00:00:40.160><c> we</c><00:00:41.160><c> start</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+numbers is equal to M Squared we start
+ 
+
+00:00:41.520 --> 00:00:43.760 align:start position:0%
+numbers is equal to M Squared we start
+with<00:00:41.760><c> the</c><00:00:41.879><c> base</c><00:00:42.149><c> case</c><00:00:42.510><c> of</c><00:00:42.690><c> the</c><00:00:43.020><c> first</c><00:00:43.469><c> odd</c>
+
+00:00:43.760 --> 00:00:43.770 align:start position:0%
+with the base case of the first odd
+ 
+
+00:00:43.770 --> 00:00:48.170 align:start position:0%
+with the base case of the first odd
+number<00:00:44.340><c> it</c><00:00:44.550><c> is</c><00:00:45.510><c> true</c><00:00:46.140><c> that</c><00:00:46.379><c> 1</c><00:00:46.920><c> is</c><00:00:47.190><c> equal</c><00:00:47.760><c> to</c><00:00:47.789><c> 1</c>
+
+00:00:48.170 --> 00:00:48.180 align:start position:0%
+number it is true that 1 is equal to 1
+ 
+
+00:00:48.180 --> 00:00:52.189 align:start position:0%
+number it is true that 1 is equal to 1
+squared<00:00:49.520><c> we</c><00:00:50.520><c> now</c><00:00:50.730><c> assume</c><00:00:51.210><c> the</c><00:00:51.480><c> formula</c><00:00:52.020><c> is</c>
+
+00:00:52.189 --> 00:00:52.199 align:start position:0%
+squared we now assume the formula is
+ 
+
+00:00:52.199 --> 00:00:55.130 align:start position:0%
+squared we now assume the formula is
+true<00:00:52.530><c> for</c><00:00:52.800><c> N</c><00:00:53.039><c> and</c><00:00:53.280><c> then</c><00:00:54.030><c> we</c><00:00:54.210><c> want</c><00:00:54.449><c> to</c><00:00:54.510><c> show</c><00:00:54.840><c> that</c>
+
+00:00:55.130 --> 00:00:55.140 align:start position:0%
+true for N and then we want to show that
+ 
+
+00:00:55.140 --> 00:00:58.819 align:start position:0%
+true for N and then we want to show that
+it<00:00:55.469><c> is</c><00:00:55.590><c> also</c><00:00:55.829><c> true</c><00:00:56.039><c> for</c><00:00:56.489><c> n</c><00:00:57.000><c> plus</c><00:00:57.600><c> 1</c><00:00:57.930><c> the</c><00:00:58.440><c> next</c>
+
+00:00:58.819 --> 00:00:58.829 align:start position:0%
+it is also true for n plus 1 the next
+ 
+
+00:00:58.829 --> 00:01:01.939 align:start position:0%
+it is also true for n plus 1 the next
+odd<00:00:58.980><c> number</c><00:00:59.489><c> which</c><00:00:59.910><c> will</c><00:01:00.120><c> be</c><00:01:00.239><c> 2</c><00:01:00.480><c> larger</c><00:01:01.109><c> which</c>
+
+00:01:01.939 --> 00:01:01.949 align:start position:0%
+odd number which will be 2 larger which
+ 
+
+00:01:01.949 --> 00:01:05.929 align:start position:0%
+odd number which will be 2 larger which
+will<00:01:02.129><c> then</c><00:01:02.340><c> be</c><00:01:02.520><c> 2</c><00:01:02.910><c> n</c><00:01:03.059><c> plus</c><00:01:03.300><c> 1</c><00:01:04.339><c> how</c><00:01:05.339><c> can</c><00:01:05.580><c> we</c><00:01:05.700><c> prove</c>
+
+00:01:05.929 --> 00:01:05.939 align:start position:0%
+will then be 2 n plus 1 how can we prove
+ 
+
+00:01:05.939 --> 00:01:08.120 align:start position:0%
+will then be 2 n plus 1 how can we prove
+this<00:01:06.240><c> formula</c><00:01:06.840><c> will</c><00:01:07.320><c> also</c><00:01:07.740><c> have</c><00:01:07.920><c> the</c><00:01:08.100><c> same</c>
+
+00:01:08.120 --> 00:01:08.130 align:start position:0%
+this formula will also have the same
+ 
+
+00:01:08.130 --> 00:01:11.750 align:start position:0%
+this formula will also have the same
+form<00:01:09.290><c> we</c><00:01:10.290><c> start</c><00:01:10.350><c> out</c><00:01:10.799><c> with</c><00:01:10.950><c> the</c><00:01:11.100><c> sum</c><00:01:11.369><c> of</c><00:01:11.520><c> the</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+form we start out with the sum of the
+ 
+
+00:01:11.760 --> 00:01:14.960 align:start position:0%
+form we start out with the sum of the
+first<00:01:12.000><c> n</c><00:01:12.270><c> odd</c><00:01:12.840><c> numbers</c><00:01:13.409><c> and</c><00:01:13.590><c> we</c><00:01:14.130><c> know</c><00:01:14.340><c> that</c><00:01:14.820><c> is</c>
+
+00:01:14.960 --> 00:01:14.970 align:start position:0%
+first n odd numbers and we know that is
+ 
+
+00:01:14.970 --> 00:01:18.020 align:start position:0%
+first n odd numbers and we know that is
+equal<00:01:15.360><c> to</c><00:01:15.509><c> N</c><00:01:15.659><c> squared</c><00:01:15.890><c> by</c><00:01:16.890><c> the</c><00:01:17.400><c> inductive</c>
+
+00:01:18.020 --> 00:01:18.030 align:start position:0%
+equal to N squared by the inductive
+ 
+
+00:01:18.030 --> 00:01:22.609 align:start position:0%
+equal to N squared by the inductive
+hypothesis<00:01:20.390><c> we</c><00:01:21.390><c> have</c><00:01:21.420><c> the</c><00:01:21.780><c> sum</c><00:01:22.020><c> of</c><00:01:22.170><c> the</c><00:01:22.380><c> first</c>
+
+00:01:22.609 --> 00:01:22.619 align:start position:0%
+hypothesis we have the sum of the first
+ 
+
+00:01:22.619 --> 00:01:25.190 align:start position:0%
+hypothesis we have the sum of the first
+n<00:01:22.770><c> plus</c><00:01:22.860><c> 1</c><00:01:23.189><c> odd</c><00:01:23.580><c> numbers</c><00:01:24.000><c> is</c><00:01:24.210><c> therefore</c><00:01:24.990><c> equal</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+n plus 1 odd numbers is therefore equal
+ 
+
+00:01:25.200 --> 00:01:29.420 align:start position:0%
+n plus 1 odd numbers is therefore equal
+to<00:01:25.590><c> n</c><00:01:25.740><c> queered</c><00:01:26.159><c> plus</c><00:01:26.580><c> 2</c><00:01:26.909><c> n</c><00:01:27.119><c> plus</c><00:01:27.600><c> 1</c><00:01:28.070><c> we</c><00:01:29.070><c> can</c><00:01:29.280><c> now</c>
+
+00:01:29.420 --> 00:01:29.430 align:start position:0%
+to n queered plus 2 n plus 1 we can now
+ 
+
+00:01:29.430 --> 00:01:32.990 align:start position:0%
+to n queered plus 2 n plus 1 we can now
+factor<00:01:29.759><c> n</c><00:01:30.210><c> squared</c><00:01:30.750><c> plus</c><00:01:30.990><c> 2</c><00:01:31.259><c> n</c><00:01:31.439><c> plus</c><00:01:31.740><c> 1</c><00:01:31.829><c> to</c><00:01:32.790><c> get</c>
+
+00:01:32.990 --> 00:01:33.000 align:start position:0%
+factor n squared plus 2 n plus 1 to get
+ 
+
+00:01:33.000 --> 00:01:36.950 align:start position:0%
+factor n squared plus 2 n plus 1 to get
+n<00:01:33.329><c> plus</c><00:01:34.259><c> 1</c><00:01:34.560><c> the</c><00:01:34.890><c> quantity</c><00:01:35.130><c> squared</c><00:01:35.490><c> and</c><00:01:36.150><c> this</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+n plus 1 the quantity squared and this
+ 
+
+00:01:36.960 --> 00:01:39.859 align:start position:0%
+n plus 1 the quantity squared and this
+shows<00:01:37.259><c> the</c><00:01:37.530><c> formula</c><00:01:38.189><c> also</c><00:01:38.430><c> hold</c><00:01:38.939><c> for</c><00:01:39.479><c> the</c><00:01:39.630><c> next</c>
+
+00:01:39.859 --> 00:01:39.869 align:start position:0%
+shows the formula also hold for the next
+ 
+
+00:01:39.869 --> 00:01:43.039 align:start position:0%
+shows the formula also hold for the next
+odd<00:01:40.259><c> number</c><00:01:41.060><c> therefore</c><00:01:42.060><c> we</c><00:01:42.360><c> have</c><00:01:42.479><c> proven</c><00:01:42.780><c> the</c>
+
+00:01:43.039 --> 00:01:43.049 align:start position:0%
+odd number therefore we have proven the
+ 
+
+00:01:43.049 --> 00:01:49.639 align:start position:0%
+odd number therefore we have proven the
+statement<00:01:43.530><c> by</c><00:01:43.799><c> induction</c><00:01:47.509><c> will</c><00:01:48.509><c> now</c><00:01:48.750><c> get</c><00:01:49.020><c> to</c>
+
+00:01:49.639 --> 00:01:49.649 align:start position:0%
+statement by induction will now get to
+ 
+
+00:01:49.649 --> 00:01:51.350 align:start position:0%
+statement by induction will now get to
+the<00:01:50.159><c> thing</c><00:01:50.430><c> I</c><00:01:50.579><c> want</c><00:01:50.759><c> to</c><00:01:50.850><c> show</c><00:01:51.000><c> you</c><00:01:51.060><c> in</c><00:01:51.270><c> this</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+the thing I want to show you in this
+ 
+
+00:01:51.360 --> 00:01:53.630 align:start position:0%
+the thing I want to show you in this
+video<00:01:51.540><c> which</c><00:01:52.290><c> is</c><00:01:52.320><c> we</c><00:01:52.619><c> will</c><00:01:52.770><c> prove</c><00:01:53.070><c> that</c><00:01:53.399><c> in</c>
+
+00:01:53.630 --> 00:01:53.640 align:start position:0%
+video which is we will prove that in
+ 
+
+00:01:53.640 --> 00:01:56.810 align:start position:0%
+video which is we will prove that in
+every<00:01:54.299><c> group</c><00:01:54.630><c> size</c><00:01:54.899><c> n</c><00:01:55.250><c> everyone</c><00:01:56.250><c> has</c><00:01:56.549><c> the</c><00:01:56.790><c> same</c>
+
+00:01:56.810 --> 00:01:56.820 align:start position:0%
+every group size n everyone has the same
+ 
+
+00:01:56.820 --> 00:02:00.289 align:start position:0%
+every group size n everyone has the same
+age<00:01:57.360><c> this</c><00:01:58.350><c> will</c><00:01:58.590><c> be</c><00:01:58.680><c> a</c><00:01:58.710><c> false</c><00:01:59.130><c> proof</c><00:01:59.520><c> but</c><00:02:00.180><c> we're</c>
+
+00:02:00.289 --> 00:02:00.299 align:start position:0%
+age this will be a false proof but we're
+ 
+
+00:02:00.299 --> 00:02:02.480 align:start position:0%
+age this will be a false proof but we're
+going<00:02:00.509><c> to</c><00:02:00.600><c> proceed</c><00:02:00.990><c> by</c><00:02:01.229><c> induction</c><00:02:01.619><c> and</c><00:02:01.979><c> the</c>
+
+00:02:02.480 --> 00:02:02.490 align:start position:0%
+going to proceed by induction and the
+ 
+
+00:02:02.490 --> 00:02:04.700 align:start position:0%
+going to proceed by induction and the
+challenge<00:02:02.939><c> for</c><00:02:03.149><c> you</c><00:02:03.270><c> is</c><00:02:03.479><c> to</c><00:02:03.570><c> figure</c><00:02:04.110><c> out</c><00:02:04.229><c> where</c>
+
+00:02:04.700 --> 00:02:04.710 align:start position:0%
+challenge for you is to figure out where
+ 
+
+00:02:04.710 --> 00:02:10.339 align:start position:0%
+challenge for you is to figure out where
+the<00:02:04.920><c> mistake</c><00:02:05.280><c> in</c><00:02:05.490><c> this</c><00:02:05.610><c> proof</c><00:02:05.939><c> is</c><00:02:07.879><c> step</c><00:02:08.879><c> 1</c><00:02:09.149><c> in</c><00:02:09.450><c> a</c>
+
+00:02:10.339 --> 00:02:10.349 align:start position:0%
+the mistake in this proof is step 1 in a
+ 
+
+00:02:10.349 --> 00:02:13.130 align:start position:0%
+the mistake in this proof is step 1 in a
+group<00:02:10.560><c> of</c><00:02:10.800><c> size</c><00:02:11.069><c> N</c><00:02:11.340><c> equals</c><00:02:11.910><c> 1</c><00:02:12.150><c> there</c><00:02:12.720><c> is</c><00:02:12.840><c> only</c>
+
+00:02:13.130 --> 00:02:13.140 align:start position:0%
+group of size N equals 1 there is only
+ 
+
+00:02:13.140 --> 00:02:14.619 align:start position:0%
+group of size N equals 1 there is only
+one
+
+00:02:14.619 --> 00:02:14.629 align:start position:0%
+one
+ 
+
+00:02:14.629 --> 00:02:17.449 align:start position:0%
+one
+everyone<00:02:15.629><c> in</c><00:02:15.750><c> this</c><00:02:15.870><c> group</c><00:02:16.110><c> trivially</c><00:02:16.890><c> has</c><00:02:17.189><c> the</c>
+
+00:02:17.449 --> 00:02:17.459 align:start position:0%
+everyone in this group trivially has the
+ 
+
+00:02:17.459 --> 00:02:20.660 align:start position:0%
+everyone in this group trivially has the
+same<00:02:17.730><c> age</c><00:02:18.739><c> therefore</c><00:02:19.739><c> we</c><00:02:19.859><c> have</c><00:02:20.010><c> checked</c><00:02:20.340><c> the</c>
+
+00:02:20.660 --> 00:02:20.670 align:start position:0%
+same age therefore we have checked the
+ 
+
+00:02:20.670 --> 00:02:25.610 align:start position:0%
+same age therefore we have checked the
+base<00:02:20.879><c> case</c><00:02:21.209><c> of</c><00:02:21.420><c> N</c><00:02:21.689><c> equals</c><00:02:21.719><c> one</c><00:02:24.230><c> now</c><00:02:25.230><c> we</c><00:02:25.290><c> will</c>
+
+00:02:25.610 --> 00:02:25.620 align:start position:0%
+base case of N equals one now we will
+ 
+
+00:02:25.620 --> 00:02:27.920 align:start position:0%
+base case of N equals one now we will
+show<00:02:25.890><c> whenever</c><00:02:26.370><c> the</c><00:02:26.730><c> statement</c><00:02:27.209><c> is</c><00:02:27.299><c> true</c><00:02:27.329><c> for</c>
+
+00:02:27.920 --> 00:02:27.930 align:start position:0%
+show whenever the statement is true for
+ 
+
+00:02:27.930 --> 00:02:30.440 align:start position:0%
+show whenever the statement is true for
+a<00:02:27.959><c> group</c><00:02:28.200><c> of</c><00:02:28.379><c> size</c><00:02:28.590><c> n</c><00:02:28.950><c> it</c><00:02:29.459><c> will</c><00:02:29.609><c> also</c><00:02:29.879><c> be</c><00:02:30.180><c> true</c>
+
+00:02:30.440 --> 00:02:30.450 align:start position:0%
+a group of size n it will also be true
+ 
+
+00:02:30.450 --> 00:02:35.509 align:start position:0%
+a group of size n it will also be true
+for<00:02:30.629><c> a</c><00:02:30.989><c> group</c><00:02:31.170><c> of</c><00:02:31.349><c> size</c><00:02:31.560><c> n</c><00:02:31.799><c> plus</c><00:02:32.099><c> one</c><00:02:34.519><c> consider</c>
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+for a group of size n plus one consider
+ 
+
+00:02:35.519 --> 00:02:38.660 align:start position:0%
+for a group of size n plus one consider
+a<00:02:35.609><c> group</c><00:02:36.120><c> with</c><00:02:36.599><c> n</c><00:02:36.780><c> plus</c><00:02:37.079><c> one</c><00:02:37.409><c> people</c><00:02:37.709><c> that</c><00:02:38.489><c> we</c>
+
+00:02:38.660 --> 00:02:38.670 align:start position:0%
+a group with n plus one people that we
+ 
+
+00:02:38.670 --> 00:02:43.849 align:start position:0%
+a group with n plus one people that we
+will<00:02:38.849><c> number</c><00:02:39.120><c> from</c><00:02:39.629><c> one</c><00:02:39.959><c> to</c><00:02:39.989><c> n</c><00:02:40.530><c> plus</c><00:02:40.829><c> one</c><00:02:41.099><c> if</c><00:02:42.859><c> we</c>
+
+00:02:43.849 --> 00:02:43.859 align:start position:0%
+will number from one to n plus one if we
+ 
+
+00:02:43.859 --> 00:02:46.460 align:start position:0%
+will number from one to n plus one if we
+remove<00:02:44.400><c> person</c><00:02:45.239><c> n</c><00:02:45.420><c> plus</c><00:02:45.659><c> one</c><00:02:45.930><c> from</c><00:02:46.139><c> the</c><00:02:46.260><c> group</c>
+
+00:02:46.460 --> 00:02:46.470 align:start position:0%
+remove person n plus one from the group
+ 
+
+00:02:46.470 --> 00:02:49.429 align:start position:0%
+remove person n plus one from the group
+then<00:02:47.040><c> the</c><00:02:47.280><c> remaining</c><00:02:47.730><c> set</c><00:02:48.180><c> of</c><00:02:48.329><c> people</c><00:02:48.540><c> from</c><00:02:49.230><c> 1</c>
+
+00:02:49.429 --> 00:02:49.439 align:start position:0%
+then the remaining set of people from 1
+ 
+
+00:02:49.439 --> 00:02:53.000 align:start position:0%
+then the remaining set of people from 1
+to<00:02:49.590><c> n</c><00:02:49.769><c> is</c><00:02:50.099><c> a</c><00:02:50.430><c> group</c><00:02:50.879><c> of</c><00:02:51.120><c> n</c><00:02:51.420><c> people</c><00:02:51.950><c> by</c><00:02:52.950><c> the</c>
+
+00:02:53.000 --> 00:02:53.010 align:start position:0%
+to n is a group of n people by the
+ 
+
+00:02:53.010 --> 00:02:56.030 align:start position:0%
+to n is a group of n people by the
+induction<00:02:53.659><c> hypothesis</c><00:02:54.709><c> everyone</c><00:02:55.709><c> in</c><00:02:55.919><c> this</c>
+
+00:02:56.030 --> 00:02:56.040 align:start position:0%
+induction hypothesis everyone in this
+ 
+
+00:02:56.040 --> 00:03:01.339 align:start position:0%
+induction hypothesis everyone in this
+group<00:02:56.310><c> has</c><00:02:56.730><c> the</c><00:02:57.090><c> same</c><00:02:57.359><c> age</c><00:02:59.299><c> similarly</c><00:03:00.299><c> if</c><00:03:00.510><c> we</c>
+
+00:03:01.339 --> 00:03:01.349 align:start position:0%
+group has the same age similarly if we
+ 
+
+00:03:01.349 --> 00:03:04.460 align:start position:0%
+group has the same age similarly if we
+remove<00:03:01.709><c> person</c><00:03:02.340><c> one</c><00:03:02.639><c> then</c><00:03:03.419><c> the</c><00:03:03.659><c> remaining</c><00:03:04.079><c> set</c>
+
+00:03:04.460 --> 00:03:04.470 align:start position:0%
+remove person one then the remaining set
+ 
+
+00:03:04.470 --> 00:03:08.149 align:start position:0%
+remove person one then the remaining set
+of<00:03:04.590><c> people</c><00:03:05.010><c> from</c><00:03:05.459><c> 2</c><00:03:05.909><c> to</c><00:03:06.150><c> n</c><00:03:06.180><c> plus</c><00:03:06.599><c> one</c><00:03:06.870><c> is</c><00:03:07.129><c> also</c><00:03:08.129><c> a</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+of people from 2 to n plus one is also a
+ 
+
+00:03:08.159 --> 00:03:11.809 align:start position:0%
+of people from 2 to n plus one is also a
+group<00:03:08.609><c> of</c><00:03:08.849><c> n</c><00:03:09.030><c> people</c><00:03:09.799><c> once</c><00:03:10.799><c> again</c><00:03:11.340><c> by</c><00:03:11.790><c> the</c>
+
+00:03:11.809 --> 00:03:11.819 align:start position:0%
+group of n people once again by the
+ 
+
+00:03:11.819 --> 00:03:15.020 align:start position:0%
+group of n people once again by the
+induction<00:03:12.689><c> hypothesis</c><00:03:13.530><c> everyone</c><00:03:14.519><c> in</c><00:03:14.730><c> this</c>
+
+00:03:15.020 --> 00:03:15.030 align:start position:0%
+induction hypothesis everyone in this
+ 
+
+00:03:15.030 --> 00:03:20.629 align:start position:0%
+induction hypothesis everyone in this
+group<00:03:15.389><c> has</c><00:03:15.689><c> the</c><00:03:15.959><c> same</c><00:03:16.230><c> age</c><00:03:18.319><c> by</c><00:03:19.319><c> steps</c><00:03:19.739><c> four</c><00:03:20.310><c> and</c>
+
+00:03:20.629 --> 00:03:20.639 align:start position:0%
+group has the same age by steps four and
+ 
+
+00:03:20.639 --> 00:03:24.920 align:start position:0%
+group has the same age by steps four and
+five<00:03:21.349><c> persons</c><00:03:22.349><c> n</c><00:03:22.530><c> and</c><00:03:23.159><c> n</c><00:03:23.609><c> plus</c><00:03:23.790><c> one</c><00:03:24.150><c> have</c><00:03:24.750><c> the</c>
+
+00:03:24.920 --> 00:03:24.930 align:start position:0%
+five persons n and n plus one have the
+ 
+
+00:03:24.930 --> 00:03:27.500 align:start position:0%
+five persons n and n plus one have the
+same<00:03:25.229><c> age</c><00:03:25.560><c> as</c><00:03:25.949><c> everyone</c><00:03:26.879><c> else</c><00:03:27.120><c> in</c><00:03:27.359><c> the</c><00:03:27.479><c> group</c>
+
+00:03:27.500 --> 00:03:27.510 align:start position:0%
+same age as everyone else in the group
+ 
+
+00:03:27.510 --> 00:03:30.309 align:start position:0%
+same age as everyone else in the group
+numbered<00:03:28.379><c> from</c><00:03:28.560><c> 1</c><00:03:28.859><c> to</c><00:03:28.889><c> n</c><00:03:29.250><c> minus</c><00:03:29.669><c> one</c><00:03:29.909><c> and</c>
+
+00:03:30.309 --> 00:03:30.319 align:start position:0%
+numbered from 1 to n minus one and
+ 
+
+00:03:30.319 --> 00:03:33.979 align:start position:0%
+numbered from 1 to n minus one and
+therefore<00:03:31.319><c> they</c><00:03:32.190><c> have</c><00:03:32.370><c> the</c><00:03:32.400><c> same</c><00:03:32.849><c> age</c><00:03:33.209><c> as</c><00:03:33.540><c> each</c>
+
+00:03:33.979 --> 00:03:33.989 align:start position:0%
+therefore they have the same age as each
+ 
+
+00:03:33.989 --> 00:03:37.610 align:start position:0%
+therefore they have the same age as each
+other<00:03:35.180><c> this</c><00:03:36.180><c> means</c><00:03:36.510><c> everyone</c><00:03:37.169><c> in</c><00:03:37.349><c> the</c><00:03:37.470><c> group</c>
+
+00:03:37.610 --> 00:03:37.620 align:start position:0%
+other this means everyone in the group
+ 
+
+00:03:37.620 --> 00:03:42.649 align:start position:0%
+other this means everyone in the group
+has<00:03:38.190><c> the</c><00:03:38.579><c> same</c><00:03:38.849><c> age</c><00:03:40.879><c> by</c><00:03:41.879><c> induction</c><00:03:42.299><c> we</c>
+
+00:03:42.649 --> 00:03:42.659 align:start position:0%
+has the same age by induction we
+ 
+
+00:03:42.659 --> 00:03:45.589 align:start position:0%
+has the same age by induction we
+approved<00:03:43.079><c> everyone</c><00:03:43.949><c> has</c><00:03:44.250><c> the</c><00:03:44.400><c> same</c><00:03:44.430><c> age</c><00:03:44.970><c> for</c>
+
+00:03:45.589 --> 00:03:45.599 align:start position:0%
+approved everyone has the same age for
+ 
+
+00:03:45.599 --> 00:03:49.280 align:start position:0%
+approved everyone has the same age for
+groups<00:03:45.870><c> of</c><00:03:46.049><c> any</c><00:03:46.470><c> size</c><00:03:47.329><c> therefore</c><00:03:48.329><c> everyone</c><00:03:48.930><c> in</c>
+
+00:03:49.280 --> 00:03:49.290 align:start position:0%
+groups of any size therefore everyone in
+ 
+
+00:03:49.290 --> 00:03:53.899 align:start position:0%
+groups of any size therefore everyone in
+the<00:03:49.409><c> world</c><00:03:49.650><c> has</c><00:03:50.069><c> the</c><00:03:50.310><c> same</c><00:03:50.340><c> age</c><00:03:52.909><c> naturally</c>
+
+00:03:53.899 --> 00:03:53.909 align:start position:0%
+the world has the same age naturally
+ 
+
+00:03:53.909 --> 00:03:57.080 align:start position:0%
+the world has the same age naturally
+this<00:03:54.419><c> is</c><00:03:54.479><c> an</c><00:03:54.810><c> absurd</c><00:03:55.260><c> conclusion</c><00:03:55.970><c> so</c><00:03:56.970><c> the</c>
+
+00:03:57.080 --> 00:03:57.090 align:start position:0%
+this is an absurd conclusion so the
+ 
+
+00:03:57.090 --> 00:04:00.129 align:start position:0%
+this is an absurd conclusion so the
+question<00:03:57.510><c> is</c><00:03:57.720><c> which</c><00:03:58.470><c> step</c><00:03:58.769><c> has</c><00:03:59.069><c> the</c><00:03:59.280><c> mistake</c>
+
+00:04:00.129 --> 00:04:00.139 align:start position:0%
+question is which step has the mistake
+ 
+
+00:04:00.139 --> 00:04:04.309 align:start position:0%
+question is which step has the mistake
+can<00:04:01.139><c> you</c><00:04:01.319><c> figure</c><00:04:01.590><c> it</c><00:04:01.739><c> out</c><00:04:02.780><c> give</c><00:04:03.780><c> it</c><00:04:03.900><c> a</c><00:04:03.959><c> moment</c>
+
+00:04:04.309 --> 00:04:04.319 align:start position:0%
+can you figure it out give it a moment
+ 
+
+00:04:04.319 --> 00:04:06.229 align:start position:0%
+can you figure it out give it a moment
+of<00:04:04.439><c> thought</c><00:04:04.590><c> before</c><00:04:04.889><c> watching</c><00:04:05.549><c> the</c><00:04:05.819><c> rest</c><00:04:06.000><c> of</c>
+
+00:04:06.229 --> 00:04:06.239 align:start position:0%
+of thought before watching the rest of
+ 
+
+00:04:06.239 --> 00:04:14.280 align:start position:0%
+of thought before watching the rest of
+the<00:04:06.329><c> video</c>
+
+00:04:14.280 --> 00:04:14.290 align:start position:0%
+ 
+ 
+
+00:04:14.290 --> 00:04:17.560 align:start position:0%
+ 
+so<00:04:15.290><c> each</c><00:04:15.560><c> step</c><00:04:16.010><c> in</c><00:04:16.310><c> this</c><00:04:16.489><c> proof</c><00:04:16.760><c> is</c><00:04:16.910><c> valid</c>
+
+00:04:17.560 --> 00:04:17.570 align:start position:0%
+so each step in this proof is valid
+ 
+
+00:04:17.570 --> 00:04:24.370 align:start position:0%
+so each step in this proof is valid
+except<00:04:18.380><c> for</c><00:04:19.100><c> set</c><00:04:19.400><c> six</c><00:04:20.920><c> it</c><00:04:22.270><c> is</c><00:04:23.270><c> not</c><00:04:23.690><c> true</c><00:04:24.110><c> that</c>
+
+00:04:24.370 --> 00:04:24.380 align:start position:0%
+except for set six it is not true that
+ 
+
+00:04:24.380 --> 00:04:27.160 align:start position:0%
+except for set six it is not true that
+person's<00:04:25.130><c> n</c><00:04:25.340><c> and</c><00:04:25.970><c> n</c><00:04:26.120><c> plus</c><00:04:26.300><c> one</c><00:04:26.630><c> will</c><00:04:26.840><c> have</c><00:04:26.990><c> the</c>
+
+00:04:27.160 --> 00:04:27.170 align:start position:0%
+person's n and n plus one will have the
+ 
+
+00:04:27.170 --> 00:04:30.280 align:start position:0%
+person's n and n plus one will have the
+same<00:04:27.440><c> age</c><00:04:27.740><c> even</c><00:04:28.640><c> though</c><00:04:28.850><c> they</c><00:04:29.660><c> could</c><00:04:29.930><c> have</c><00:04:30.140><c> the</c>
+
+00:04:30.280 --> 00:04:30.290 align:start position:0%
+same age even though they could have the
+ 
+
+00:04:30.290 --> 00:04:32.790 align:start position:0%
+same age even though they could have the
+same<00:04:30.320><c> age</c><00:04:30.710><c> as</c><00:04:30.920><c> everyone</c><00:04:31.640><c> else</c><00:04:31.820><c> in</c><00:04:32.030><c> the</c><00:04:32.120><c> group</c>
+
+00:04:32.790 --> 00:04:32.800 align:start position:0%
+same age as everyone else in the group
+ 
+
+00:04:32.800 --> 00:04:36.850 align:start position:0%
+same age as everyone else in the group
+why<00:04:33.800><c> is</c><00:04:33.860><c> that</c><00:04:34.690><c> the</c><00:04:35.690><c> statement</c><00:04:36.170><c> is</c><00:04:36.260><c> not</c><00:04:36.290><c> always</c>
+
+00:04:36.850 --> 00:04:36.860 align:start position:0%
+why is that the statement is not always
+ 
+
+00:04:36.860 --> 00:04:39.360 align:start position:0%
+why is that the statement is not always
+true<00:04:37.130><c> with</c><00:04:37.280><c> the</c><00:04:37.400><c> group</c><00:04:37.640><c> of</c><00:04:37.850><c> just</c><00:04:38.270><c> two</c><00:04:38.720><c> people</c>
+
+00:04:39.360 --> 00:04:39.370 align:start position:0%
+true with the group of just two people
+ 
+
+00:04:39.370 --> 00:04:44.530 align:start position:0%
+true with the group of just two people
+consider<00:04:40.370><c> a</c><00:04:40.430><c> group</c><00:04:40.820><c> with</c><00:04:41.210><c> one</c><00:04:41.570><c> and</c><00:04:41.840><c> two</c><00:04:42.230><c> if</c><00:04:43.540><c> we</c>
+
+00:04:44.530 --> 00:04:44.540 align:start position:0%
+consider a group with one and two if we
+ 
+
+00:04:44.540 --> 00:04:46.870 align:start position:0%
+consider a group with one and two if we
+remove<00:04:44.840><c> person</c><00:04:45.350><c> one</c><00:04:45.560><c> from</c><00:04:45.830><c> the</c><00:04:45.950><c> group</c><00:04:46.160><c> then</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+remove person one from the group then
+ 
+
+00:04:46.880 --> 00:04:49.060 align:start position:0%
+remove person one from the group then
+everyone<00:04:47.480><c> remaining</c><00:04:47.990><c> which</c><00:04:48.230><c> is</c><00:04:48.380><c> just</c><00:04:48.650><c> person</c>
+
+00:04:49.060 --> 00:04:49.070 align:start position:0%
+everyone remaining which is just person
+ 
+
+00:04:49.070 --> 00:04:51.760 align:start position:0%
+everyone remaining which is just person
+to<00:04:49.250><c> that</c><00:04:50.180><c> person</c><00:04:50.210><c> does</c><00:04:50.960><c> have</c><00:04:50.990><c> the</c><00:04:51.290><c> same</c><00:04:51.530><c> age</c>
+
+00:04:51.760 --> 00:04:51.770 align:start position:0%
+to that person does have the same age
+ 
+
+00:04:51.770 --> 00:04:54.700 align:start position:0%
+to that person does have the same age
+and<00:04:52.070><c> if</c><00:04:52.640><c> you</c><00:04:52.790><c> remove</c><00:04:53.000><c> person</c><00:04:53.540><c> too</c><00:04:53.780><c> then</c><00:04:54.290><c> every</c>
+
+00:04:54.700 --> 00:04:54.710 align:start position:0%
+and if you remove person too then every
+ 
+
+00:04:54.710 --> 00:04:57.340 align:start position:0%
+and if you remove person too then every
+one<00:04:54.860><c> remaining</c><00:04:55.220><c> which</c><00:04:55.550><c> is</c><00:04:55.700><c> just</c><00:04:55.970><c> one</c><00:04:56.180><c> also</c><00:04:56.690><c> has</c>
+
+00:04:57.340 --> 00:04:57.350 align:start position:0%
+one remaining which is just one also has
+ 
+
+00:04:57.350 --> 00:05:00.520 align:start position:0%
+one remaining which is just one also has
+with<00:04:57.530><c> same</c><00:04:57.740><c> age</c><00:04:58.480><c> however</c><00:04:59.480><c> just</c><00:05:00.410><c> because</c>
+
+00:05:00.520 --> 00:05:00.530 align:start position:0%
+with same age however just because
+ 
+
+00:05:00.530 --> 00:05:03.010 align:start position:0%
+with same age however just because
+everyone<00:05:01.280><c> else</c><00:05:01.370><c> remaining</c><00:05:01.970><c> has</c><00:05:02.240><c> the</c><00:05:02.480><c> same</c><00:05:02.780><c> age</c>
+
+00:05:03.010 --> 00:05:03.020 align:start position:0%
+everyone else remaining has the same age
+ 
+
+00:05:03.020 --> 00:05:06.430 align:start position:0%
+everyone else remaining has the same age
+does<00:05:03.980><c> not</c><00:05:04.310><c> mean</c><00:05:04.790><c> that</c><00:05:05.030><c> one</c><00:05:05.420><c> in</c><00:05:05.600><c> two</c><00:05:05.840><c> will</c><00:05:06.230><c> have</c>
+
+00:05:06.430 --> 00:05:06.440 align:start position:0%
+does not mean that one in two will have
+ 
+
+00:05:06.440 --> 00:05:09.490 align:start position:0%
+does not mean that one in two will have
+the<00:05:06.590><c> same</c><00:05:06.860><c> age</c><00:05:07.070><c> as</c><00:05:07.280><c> each</c><00:05:07.580><c> other</c><00:05:08.320><c> person</c><00:05:09.320><c> one</c>
+
+00:05:09.490 --> 00:05:09.500 align:start position:0%
+the same age as each other person one
+ 
+
+00:05:09.500 --> 00:05:11.350 align:start position:0%
+the same age as each other person one
+may<00:05:09.710><c> have</c><00:05:09.860><c> the</c><00:05:09.980><c> age</c><00:05:10.130><c> of</c><00:05:10.310><c> one</c><00:05:10.520><c> and</c><00:05:10.670><c> person</c><00:05:11.210><c> two</c>
+
+00:05:11.350 --> 00:05:11.360 align:start position:0%
+may have the age of one and person two
+ 
+
+00:05:11.360 --> 00:05:14.830 align:start position:0%
+may have the age of one and person two
+may<00:05:11.660><c> have</c><00:05:11.810><c> the</c><00:05:11.960><c> age</c><00:05:12.110><c> of</c><00:05:12.140><c> two</c><00:05:13.090><c> so</c><00:05:14.090><c> this</c><00:05:14.390><c> is</c><00:05:14.630><c> the</c>
+
+00:05:14.830 --> 00:05:14.840 align:start position:0%
+may have the age of two so this is the
+ 
+
+00:05:14.840 --> 00:05:17.590 align:start position:0%
+may have the age of two so this is the
+law<00:05:15.230><c> in</c><00:05:15.530><c> this</c><00:05:15.800><c> proof</c><00:05:16.160><c> that</c><00:05:16.400><c> it</c><00:05:16.940><c> will</c><00:05:17.150><c> not</c><00:05:17.330><c> work</c>
+
+00:05:17.590 --> 00:05:17.600 align:start position:0%
+law in this proof that it will not work
+ 
+
+00:05:17.600 --> 00:05:20.230 align:start position:0%
+law in this proof that it will not work
+when<00:05:17.870><c> N</c><00:05:18.050><c> equals</c><00:05:18.290><c> two</c><00:05:18.770><c> and</c><00:05:19.040><c> therefore</c><00:05:19.940><c> the</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+when N equals two and therefore the
+ 
+
+00:05:20.240 --> 00:05:22.870 align:start position:0%
+when N equals two and therefore the
+induction<00:05:20.890><c> domino</c><00:05:21.890><c> effect</c><00:05:22.220><c> doesn't</c><00:05:22.580><c> happen</c>
+
+00:05:22.870 --> 00:05:22.880 align:start position:0%
+induction domino effect doesn't happen
+ 
+
+00:05:22.880 --> 00:05:25.060 align:start position:0%
+induction domino effect doesn't happen
+we<00:05:23.270><c> can't</c><00:05:23.570><c> they</c><00:05:23.780><c> therefore</c><00:05:24.470><c> then</c><00:05:24.620><c> true</c><00:05:24.860><c> for</c>
+
+00:05:25.060 --> 00:05:25.070 align:start position:0%
+we can't they therefore then true for
+ 
+
+00:05:25.070 --> 00:05:27.940 align:start position:0%
+we can't they therefore then true for
+three<00:05:25.340><c> and</c><00:05:25.550><c> four</c><00:05:25.850><c> and</c><00:05:26.060><c> so</c><00:05:26.150><c> on</c><00:05:26.330><c> so</c><00:05:27.170><c> clearly</c><00:05:27.470><c> not</c>
+
+00:05:27.940 --> 00:05:27.950 align:start position:0%
+three and four and so on so clearly not
+ 
+
+00:05:27.950 --> 00:05:31.620 align:start position:0%
+three and four and so on so clearly not
+everyone<00:05:28.340><c> in</c><00:05:28.490><c> the</c><00:05:28.580><c> world</c><00:05:28.700><c> has</c><00:05:29.090><c> the</c><00:05:29.330><c> same</c><00:05:29.360><c> age</c>
+
+00:05:31.620 --> 00:05:31.630 align:start position:0%
+everyone in the world has the same age
+ 
+
+00:05:31.630 --> 00:05:34.000 align:start position:0%
+everyone in the world has the same age
+induction<00:05:32.630><c> is</c><00:05:32.780><c> a</c><00:05:32.810><c> powerful</c><00:05:33.350><c> proof</c><00:05:33.560><c> technique</c>
+
+00:05:34.000 --> 00:05:34.010 align:start position:0%
+induction is a powerful proof technique
+ 
+
+00:05:34.010 --> 00:05:36.730 align:start position:0%
+induction is a powerful proof technique
+but<00:05:34.460><c> each</c><00:05:34.670><c> step</c><00:05:34.940><c> has</c><00:05:35.210><c> to</c><00:05:35.360><c> be</c><00:05:35.480><c> valid</c><00:05:35.900><c> or</c><00:05:36.050><c> you</c><00:05:36.590><c> may</c>
+
+00:05:36.730 --> 00:05:36.740 align:start position:0%
+but each step has to be valid or you may
+ 
+
+00:05:36.740 --> 00:05:40.600 align:start position:0%
+but each step has to be valid or you may
+end<00:05:36.920><c> up</c><00:05:37.040><c> with</c><00:05:37.310><c> an</c><00:05:37.490><c> absurd</c><00:05:37.940><c> conclusion</c><00:05:39.550><c> did</c><00:05:40.550><c> you</c>
+
+00:05:40.600 --> 00:05:40.610 align:start position:0%
+end up with an absurd conclusion did you
+ 
+
+00:05:40.610 --> 00:05:43.660 align:start position:0%
+end up with an absurd conclusion did you
+figure<00:05:41.150><c> it</c><00:05:41.240><c> out</c><00:05:42.160><c> thanks</c><00:05:43.160><c> for</c><00:05:43.280><c> watching</c><00:05:43.550><c> this</c>
+
+00:05:43.660 --> 00:05:43.670 align:start position:0%
+figure it out thanks for watching this
+ 
+
+00:05:43.670 --> 00:05:45.370 align:start position:0%
+figure it out thanks for watching this
+video<00:05:43.820><c> please</c><00:05:44.180><c> subscribe</c><00:05:44.330><c> to</c><00:05:44.780><c> my</c><00:05:44.900><c> channel</c><00:05:45.290><c> I</c>
+
+00:05:45.370 --> 00:05:45.380 align:start position:0%
+video please subscribe to my channel I
+ 
+
+00:05:45.380 --> 00:05:47.440 align:start position:0%
+video please subscribe to my channel I
+make<00:05:45.410><c> videos</c><00:05:45.890><c> on</c><00:05:46.010><c> math</c><00:05:46.280><c> and</c><00:05:46.520><c> game</c><00:05:46.670><c> theory</c><00:05:47.030><c> you</c>
+
+00:05:47.440 --> 00:05:47.450 align:start position:0%
+make videos on math and game theory you
+ 
+
+00:05:47.450 --> 00:05:48.850 align:start position:0%
+make videos on math and game theory you
+can<00:05:47.660><c> catch</c><00:05:47.840><c> you</c><00:05:47.960><c> on</c><00:05:48.050><c> my</c><00:05:48.140><c> blog</c><00:05:48.380><c> my</c><00:05:48.650><c> ear</c>
+
+00:05:48.850 --> 00:05:48.860 align:start position:0%
+can catch you on my blog my ear
+ 
+
+00:05:48.860 --> 00:05:50.140 align:start position:0%
+can catch you on my blog my ear
+decisions<00:05:49.340><c> that</c><00:05:49.490><c> you</c><00:05:49.610><c> can</c><00:05:49.760><c> follow</c><00:05:49.910><c> on</c>
+
+00:05:50.140 --> 00:05:50.150 align:start position:0%
+decisions that you can follow on
+ 
+
+00:05:50.150 --> 00:05:52.450 align:start position:0%
+decisions that you can follow on
+Facebook<00:05:50.600><c> Google+</c><00:05:51.320><c> and</c><00:05:51.410><c> patreon</c><00:05:51.920><c> you</c><00:05:52.100><c> can</c>
+
+00:05:52.450 --> 00:05:52.460 align:start position:0%
+Facebook Google+ and patreon you can
+ 
+
+00:05:52.460 --> 00:05:53.980 align:start position:0%
+Facebook Google+ and patreon you can
+catch<00:05:52.820><c> me</c><00:05:52.940><c> on</c><00:05:52.970><c> social</c><00:05:53.180><c> media</c><00:05:53.570><c> at</c><00:05:53.720><c> pressure</c>
+
+00:05:53.980 --> 00:05:53.990 align:start position:0%
+catch me on social media at pressure
+ 
+
+00:05:53.990 --> 00:05:55.540 align:start position:0%
+catch me on social media at pressure
+Locker<00:05:54.290><c> and</c><00:05:54.530><c> if</c><00:05:54.980><c> you</c><00:05:55.100><c> liked</c><00:05:55.220><c> this</c><00:05:55.250><c> video</c>
+
+00:05:55.540 --> 00:05:55.550 align:start position:0%
+Locker and if you liked this video
+ 
+
+00:05:55.550 --> 00:05:57.130 align:start position:0%
+Locker and if you liked this video
+please<00:05:55.970><c> check</c><00:05:56.000><c> out</c><00:05:56.300><c> my</c><00:05:56.390><c> books</c><00:05:56.600><c> there</c><00:05:57.020><c> are</c>
+
+00:05:57.130 --> 00:05:57.140 align:start position:0%
+please check out my books there are
+ 
+
+00:05:57.140 --> 00:06:00.010 align:start position:0%
+please check out my books there are
+links<00:05:57.440><c> in</c><00:05:57.560><c> the</c><00:05:57.710><c> video</c><00:05:57.890><c> description</c>
+

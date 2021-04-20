@@ -1,0 +1,544 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.899 align:start position:0%
+ 
+this<00:00:00.810><c> is</c><00:00:00.989><c> pressure</c><00:00:01.230><c> Locker</c><00:00:01.589><c> can</c><00:00:02.490><c> you</c><00:00:02.669><c> figure</c>
+
+00:00:02.899 --> 00:00:02.909 align:start position:0%
+this is pressure Locker can you figure
+ 
+
+00:00:02.909 --> 00:00:05.059 align:start position:0%
+this is pressure Locker can you figure
+out<00:00:03.090><c> this</c><00:00:03.240><c> problem</c><00:00:03.600><c> that</c><00:00:03.929><c> Google</c><00:00:04.319><c> used</c><00:00:04.650><c> as</c><00:00:04.830><c> an</c>
+
+00:00:05.059 --> 00:00:05.069 align:start position:0%
+out this problem that Google used as an
+ 
+
+00:00:05.069 --> 00:00:08.330 align:start position:0%
+out this problem that Google used as an
+interview<00:00:05.549><c> question</c><00:00:06.000><c> if</c><00:00:06.740><c> the</c><00:00:07.740><c> probability</c><00:00:08.309><c> of</c>
+
+00:00:08.330 --> 00:00:08.340 align:start position:0%
+interview question if the probability of
+ 
+
+00:00:08.340 --> 00:00:10.430 align:start position:0%
+interview question if the probability of
+seeing<00:00:08.700><c> a</c><00:00:08.880><c> car</c><00:00:09.090><c> on</c><00:00:09.300><c> the</c><00:00:09.330><c> highway</c><00:00:09.480><c> in</c><00:00:10.080><c> 30</c>
+
+00:00:10.430 --> 00:00:10.440 align:start position:0%
+seeing a car on the highway in 30
+ 
+
+00:00:10.440 --> 00:00:13.850 align:start position:0%
+seeing a car on the highway in 30
+minutes<00:00:10.830><c> is</c><00:00:10.980><c> 0.95</c><00:00:12.139><c> what</c><00:00:13.139><c> is</c><00:00:13.349><c> the</c><00:00:13.500><c> probability</c>
+
+00:00:13.850 --> 00:00:13.860 align:start position:0%
+minutes is 0.95 what is the probability
+ 
+
+00:00:13.860 --> 00:00:16.099 align:start position:0%
+minutes is 0.95 what is the probability
+of<00:00:14.040><c> seeing</c><00:00:14.370><c> a</c><00:00:14.549><c> car</c><00:00:14.759><c> on</c><00:00:14.969><c> the</c><00:00:15.089><c> highway</c><00:00:15.269><c> in</c><00:00:15.719><c> 10</c>
+
+00:00:16.099 --> 00:00:16.109 align:start position:0%
+of seeing a car on the highway in 10
+ 
+
+00:00:16.109 --> 00:00:16.990 align:start position:0%
+of seeing a car on the highway in 10
+minutes
+
+00:00:16.990 --> 00:00:17.000 align:start position:0%
+minutes
+ 
+
+00:00:17.000 --> 00:00:24.410 align:start position:0%
+minutes
+assume<00:00:18.000><c> a</c><00:00:18.270><c> constant</c><00:00:18.810><c> default</c><00:00:19.590><c> probability</c><00:00:23.420><c> to</c>
+
+00:00:24.410 --> 00:00:24.420 align:start position:0%
+assume a constant default probability to
+ 
+
+00:00:24.420 --> 00:00:28.310 align:start position:0%
+assume a constant default probability to
+be<00:00:24.449><c> more</c><00:00:24.900><c> precise</c><00:00:26.510><c> when</c><00:00:27.510><c> the</c><00:00:27.660><c> problem</c><00:00:28.050><c> says</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+be more precise when the problem says
+ 
+
+00:00:28.320 --> 00:00:32.240 align:start position:0%
+be more precise when the problem says
+seeing<00:00:28.740><c> a</c><00:00:29.039><c> car</c><00:00:29.510><c> that</c><00:00:30.510><c> means</c><00:00:30.810><c> seeing</c><00:00:31.439><c> at</c><00:00:31.769><c> least</c>
+
+00:00:32.240 --> 00:00:32.250 align:start position:0%
+seeing a car that means seeing at least
+ 
+
+00:00:32.250 --> 00:00:37.190 align:start position:0%
+seeing a car that means seeing at least
+one<00:00:32.700><c> car</c><00:00:34.640><c> the</c><00:00:35.640><c> assumption</c><00:00:36.270><c> of</c><00:00:36.480><c> a</c><00:00:36.570><c> constant</c>
+
+00:00:37.190 --> 00:00:37.200 align:start position:0%
+one car the assumption of a constant
+ 
+
+00:00:37.200 --> 00:00:39.709 align:start position:0%
+one car the assumption of a constant
+default<00:00:37.649><c> probability</c><00:00:38.390><c> means</c><00:00:39.390><c> there</c><00:00:39.600><c> is</c><00:00:39.690><c> a</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+default probability means there is a
+ 
+
+00:00:39.719 --> 00:00:42.110 align:start position:0%
+default probability means there is a
+constant<00:00:40.410><c> probability</c><00:00:41.010><c> rate</c><00:00:41.280><c> of</c><00:00:41.460><c> seeing</c><00:00:41.910><c> a</c>
+
+00:00:42.110 --> 00:00:42.120 align:start position:0%
+constant probability rate of seeing a
+ 
+
+00:00:42.120 --> 00:00:44.869 align:start position:0%
+constant probability rate of seeing a
+car<00:00:42.500><c> for</c><00:00:43.500><c> example</c><00:00:43.559><c> there's</c><00:00:44.100><c> no</c><00:00:44.340><c> rush</c><00:00:44.670><c> hour</c>
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+car for example there's no rush hour
+ 
+
+00:00:44.879 --> 00:00:47.450 align:start position:0%
+car for example there's no rush hour
+traffic<00:00:45.120><c> during</c><00:00:45.660><c> one</c><00:00:45.840><c> of</c><00:00:45.870><c> the</c><00:00:46.020><c> intervals</c><00:00:46.460><c> this</c>
+
+00:00:47.450 --> 00:00:47.460 align:start position:0%
+traffic during one of the intervals this
+ 
+
+00:00:47.460 --> 00:00:49.369 align:start position:0%
+traffic during one of the intervals this
+means<00:00:47.760><c> the</c><00:00:47.940><c> probability</c><00:00:48.180><c> of</c><00:00:48.600><c> seeing</c><00:00:48.960><c> a</c><00:00:49.170><c> car</c>
+
+00:00:49.369 --> 00:00:49.379 align:start position:0%
+means the probability of seeing a car
+ 
+
+00:00:49.379 --> 00:00:51.560 align:start position:0%
+means the probability of seeing a car
+during<00:00:49.620><c> a</c><00:00:49.860><c> time</c><00:00:50.100><c> interval</c><00:00:50.370><c> can</c><00:00:51.000><c> be</c><00:00:51.030><c> treated</c>
+
+00:00:51.560 --> 00:00:51.570 align:start position:0%
+during a time interval can be treated
+ 
+
+00:00:51.570 --> 00:00:55.299 align:start position:0%
+during a time interval can be treated
+like<00:00:51.930><c> a</c><00:00:51.960><c> coin</c><00:00:52.350><c> flip</c><00:00:53.300><c> can</c><00:00:54.300><c> you</c><00:00:54.449><c> figure</c><00:00:54.690><c> this</c><00:00:54.930><c> out</c>
+
+00:00:55.299 --> 00:00:55.309 align:start position:0%
+like a coin flip can you figure this out
+ 
+
+00:00:55.309 --> 00:00:58.010 align:start position:0%
+like a coin flip can you figure this out
+give<00:00:56.309><c> this</c><00:00:56.489><c> prom</c><00:00:56.760><c> a</c><00:00:56.789><c> try</c><00:00:57.120><c> and</c><00:00:57.329><c> when</c><00:00:57.809><c> you're</c>
+
+00:00:58.010 --> 00:00:58.020 align:start position:0%
+give this prom a try and when you're
+ 
+
+00:00:58.020 --> 00:00:59.660 align:start position:0%
+give this prom a try and when you're
+ready<00:00:58.260><c> keep</c><00:00:58.530><c> watching</c><00:00:58.890><c> the</c><00:00:59.010><c> video</c><00:00:59.280><c> for</c><00:00:59.550><c> the</c>
+
+00:00:59.660 --> 00:00:59.670 align:start position:0%
+ready keep watching the video for the
+ 
+
+00:00:59.670 --> 00:01:07.580 align:start position:0%
+ready keep watching the video for the
+solution<00:01:04.760><c> we'll</c><00:01:05.760><c> get</c><00:01:05.970><c> started</c><00:01:06.240><c> by</c><00:01:06.750><c> writing</c><00:01:07.049><c> P</c>
+
+00:01:07.580 --> 00:01:07.590 align:start position:0%
+solution we'll get started by writing P
+ 
+
+00:01:07.590 --> 00:01:10.670 align:start position:0%
+solution we'll get started by writing P
+as<00:01:08.180><c> equaling</c><00:01:09.180><c> the</c><00:01:09.330><c> probability</c><00:01:09.869><c> of</c><00:01:09.900><c> seeing</c><00:01:10.290><c> no</c>
+
+00:01:10.670 --> 00:01:10.680 align:start position:0%
+as equaling the probability of seeing no
+ 
+
+00:01:10.680 --> 00:01:14.740 align:start position:0%
+as equaling the probability of seeing no
+cars<00:01:11.070><c> in</c><00:01:11.310><c> 10</c><00:01:11.729><c> minutes</c>
+
+00:01:14.740 --> 00:01:14.750 align:start position:0%
+ 
+ 
+
+00:01:14.750 --> 00:01:17.030 align:start position:0%
+ 
+what<00:01:15.750><c> is</c><00:01:15.869><c> the</c><00:01:16.020><c> probability</c><00:01:16.500><c> of</c><00:01:16.530><c> seeing</c><00:01:16.830><c> no</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+what is the probability of seeing no
+ 
+
+00:01:17.040 --> 00:01:19.280 align:start position:0%
+what is the probability of seeing no
+cars<00:01:17.310><c> in</c><00:01:17.400><c> 20</c><00:01:17.970><c> minutes</c><00:01:18.299><c> this</c><00:01:19.049><c> is</c><00:01:19.110><c> the</c>
+
+00:01:19.280 --> 00:01:19.290 align:start position:0%
+cars in 20 minutes this is the
+ 
+
+00:01:19.290 --> 00:01:21.410 align:start position:0%
+cars in 20 minutes this is the
+probability<00:01:19.770><c> of</c><00:01:19.950><c> seeing</c><00:01:20.250><c> no</c><00:01:20.460><c> cars</c><00:01:20.790><c> in</c><00:01:20.970><c> 10</c>
+
+00:01:21.410 --> 00:01:21.420 align:start position:0%
+probability of seeing no cars in 10
+ 
+
+00:01:21.420 --> 00:01:24.020 align:start position:0%
+probability of seeing no cars in 10
+minutes<00:01:21.869><c> followed</c><00:01:22.830><c> by</c><00:01:22.979><c> another</c><00:01:23.430><c> event</c><00:01:23.850><c> of</c>
+
+00:01:24.020 --> 00:01:24.030 align:start position:0%
+minutes followed by another event of
+ 
+
+00:01:24.030 --> 00:01:27.020 align:start position:0%
+minutes followed by another event of
+seeing<00:01:24.299><c> no</c><00:01:24.450><c> cars</c><00:01:24.720><c> in</c><00:01:24.990><c> 10</c><00:01:25.229><c> minutes</c><00:01:26.030><c> we're</c>
+
+00:01:27.020 --> 00:01:27.030 align:start position:0%
+seeing no cars in 10 minutes we're
+ 
+
+00:01:27.030 --> 00:01:29.240 align:start position:0%
+seeing no cars in 10 minutes we're
+treating<00:01:27.420><c> each</c><00:01:27.630><c> of</c><00:01:27.960><c> these</c><00:01:28.140><c> like</c><00:01:28.619><c> a</c><00:01:28.650><c> coin</c><00:01:29.040><c> flip</c>
+
+00:01:29.240 --> 00:01:29.250 align:start position:0%
+treating each of these like a coin flip
+ 
+
+00:01:29.250 --> 00:01:31.609 align:start position:0%
+treating each of these like a coin flip
+so<00:01:30.000><c> the</c><00:01:30.119><c> probability</c><00:01:30.630><c> of</c><00:01:30.659><c> seeing</c><00:01:30.869><c> no</c><00:01:31.110><c> cars</c><00:01:31.380><c> in</c>
+
+00:01:31.609 --> 00:01:31.619 align:start position:0%
+so the probability of seeing no cars in
+ 
+
+00:01:31.619 --> 00:01:33.740 align:start position:0%
+so the probability of seeing no cars in
+each<00:01:31.890><c> 10-minute</c><00:01:32.460><c> interval</c><00:01:32.820><c> is</c><00:01:33.000><c> equal</c><00:01:33.390><c> to</c><00:01:33.479><c> P</c>
+
+00:01:33.740 --> 00:01:33.750 align:start position:0%
+each 10-minute interval is equal to P
+ 
+
+00:01:33.750 --> 00:01:35.780 align:start position:0%
+each 10-minute interval is equal to P
+which<00:01:34.470><c> means</c><00:01:34.740><c> the</c><00:01:34.829><c> probability</c><00:01:35.070><c> of</c><00:01:35.340><c> seeing</c><00:01:35.549><c> no</c>
+
+00:01:35.780 --> 00:01:35.790 align:start position:0%
+which means the probability of seeing no
+ 
+
+00:01:35.790 --> 00:01:39.700 align:start position:0%
+which means the probability of seeing no
+cars<00:01:36.060><c> in</c><00:01:36.119><c> 20</c><00:01:36.570><c> minutes</c><00:01:36.869><c> is</c><00:01:36.990><c> equal</c><00:01:37.350><c> to</c><00:01:37.439><c> P</c><00:01:37.619><c> squared</c>
+
+00:01:39.700 --> 00:01:39.710 align:start position:0%
+cars in 20 minutes is equal to P squared
+ 
+
+00:01:39.710 --> 00:01:41.990 align:start position:0%
+cars in 20 minutes is equal to P squared
+we<00:01:40.710><c> then</c><00:01:40.920><c> have</c><00:01:41.130><c> the</c><00:01:41.280><c> probability</c><00:01:41.610><c> of</c><00:01:41.820><c> seeing</c>
+
+00:01:41.990 --> 00:01:42.000 align:start position:0%
+we then have the probability of seeing
+ 
+
+00:01:42.000 --> 00:01:44.179 align:start position:0%
+we then have the probability of seeing
+no<00:01:42.240><c> cars</c><00:01:42.540><c> in</c><00:01:42.659><c> 30</c><00:01:43.079><c> minutes</c><00:01:43.439><c> is</c><00:01:43.590><c> equal</c><00:01:44.009><c> to</c><00:01:44.100><c> the</c>
+
+00:01:44.179 --> 00:01:44.189 align:start position:0%
+no cars in 30 minutes is equal to the
+ 
+
+00:01:44.189 --> 00:01:45.620 align:start position:0%
+no cars in 30 minutes is equal to the
+probability<00:01:44.399><c> of</c><00:01:44.700><c> seeing</c><00:01:44.880><c> no</c><00:01:45.060><c> cars</c><00:01:45.299><c> in</c><00:01:45.540><c> the</c>
+
+00:01:45.620 --> 00:01:45.630 align:start position:0%
+probability of seeing no cars in the
+ 
+
+00:01:45.630 --> 00:01:47.359 align:start position:0%
+probability of seeing no cars in the
+first<00:01:45.869><c> 20</c><00:01:46.170><c> minutes</c><00:01:46.200><c> times</c><00:01:47.009><c> the</c><00:01:47.130><c> probability</c>
+
+00:01:47.359 --> 00:01:47.369 align:start position:0%
+first 20 minutes times the probability
+ 
+
+00:01:47.369 --> 00:01:49.670 align:start position:0%
+first 20 minutes times the probability
+of<00:01:47.610><c> seeing</c><00:01:47.790><c> no</c><00:01:47.939><c> cars</c><00:01:48.240><c> in</c><00:01:48.479><c> the</c><00:01:48.899><c> next</c><00:01:49.170><c> 10</c><00:01:49.350><c> minutes</c>
+
+00:01:49.670 --> 00:01:49.680 align:start position:0%
+of seeing no cars in the next 10 minutes
+ 
+
+00:01:49.680 --> 00:01:52.039 align:start position:0%
+of seeing no cars in the next 10 minutes
+which<00:01:50.280><c> is</c><00:01:50.310><c> equal</c><00:01:50.700><c> to</c><00:01:50.729><c> P</c><00:01:50.939><c> squared</c><00:01:51.270><c> times</c><00:01:51.540><c> P</c><00:01:51.810><c> or</c>
+
+00:01:52.039 --> 00:01:52.049 align:start position:0%
+which is equal to P squared times P or
+ 
+
+00:01:52.049 --> 00:01:57.499 align:start position:0%
+which is equal to P squared times P or
+equal<00:01:52.740><c> to</c><00:01:52.829><c> P</c><00:01:52.979><c> cubed</c><00:01:55.310><c> so</c><00:01:56.310><c> now</c><00:01:56.520><c> what</c><00:01:57.180><c> is</c><00:01:57.360><c> the</c>
+
+00:01:57.499 --> 00:01:57.509 align:start position:0%
+equal to P cubed so now what is the
+ 
+
+00:01:57.509 --> 00:01:59.899 align:start position:0%
+equal to P cubed so now what is the
+probability<00:01:57.840><c> of</c><00:01:58.020><c> seeing</c><00:01:58.500><c> some</c><00:01:59.040><c> car</c><00:01:59.399><c> in</c><00:01:59.640><c> 30</c>
+
+00:01:59.899 --> 00:01:59.909 align:start position:0%
+probability of seeing some car in 30
+ 
+
+00:01:59.909 --> 00:02:01.910 align:start position:0%
+probability of seeing some car in 30
+minutes<00:02:00.299><c> this</c><00:02:00.840><c> is</c><00:02:01.079><c> 1</c><00:02:01.409><c> minus</c><00:02:01.590><c> the</c><00:02:01.799><c> probability</c>
+
+00:02:01.910 --> 00:02:01.920 align:start position:0%
+minutes this is 1 minus the probability
+ 
+
+00:02:01.920 --> 00:02:05.450 align:start position:0%
+minutes this is 1 minus the probability
+of<00:02:02.399><c> seeing</c><00:02:02.790><c> no</c><00:02:03.210><c> cars</c><00:02:03.540><c> in</c><00:02:03.659><c> 30</c><00:02:04.079><c> minutes</c><00:02:04.460><c> this</c>
+
+00:02:05.450 --> 00:02:05.460 align:start position:0%
+of seeing no cars in 30 minutes this
+ 
+
+00:02:05.460 --> 00:02:09.740 align:start position:0%
+of seeing no cars in 30 minutes this
+will<00:02:05.670><c> be</c><00:02:05.790><c> equal</c><00:02:06.149><c> to</c><00:02:06.329><c> 1</c><00:02:06.719><c> minus</c><00:02:07.290><c> P</c><00:02:07.320><c> cubed</c><00:02:08.750><c> we're</c>
+
+00:02:09.740 --> 00:02:09.750 align:start position:0%
+will be equal to 1 minus P cubed we're
+ 
+
+00:02:09.750 --> 00:02:11.720 align:start position:0%
+will be equal to 1 minus P cubed we're
+given<00:02:10.170><c> in</c><00:02:10.319><c> the</c><00:02:10.410><c> problem</c><00:02:10.619><c> this</c><00:02:11.009><c> is</c><00:02:11.069><c> equal</c><00:02:11.580><c> to</c>
+
+00:02:11.720 --> 00:02:11.730 align:start position:0%
+given in the problem this is equal to
+ 
+
+00:02:11.730 --> 00:02:14.180 align:start position:0%
+given in the problem this is equal to
+0.95
+
+00:02:14.180 --> 00:02:14.190 align:start position:0%
+0.95
+ 
+
+00:02:14.190 --> 00:02:16.710 align:start position:0%
+0.95
+we<00:02:15.190><c> can</c><00:02:15.340><c> then</c><00:02:15.460><c> rearrange</c><00:02:15.850><c> this</c><00:02:16.180><c> equation</c><00:02:16.450><c> to</c>
+
+00:02:16.710 --> 00:02:16.720 align:start position:0%
+we can then rearrange this equation to
+ 
+
+00:02:16.720 --> 00:02:19.980 align:start position:0%
+we can then rearrange this equation to
+get<00:02:16.930><c> that</c><00:02:17.110><c> P</c><00:02:17.319><c> cubed</c><00:02:17.709><c> is</c><00:02:17.860><c> equal</c><00:02:17.890><c> to</c><00:02:18.280><c> 0.05</c><00:02:19.240><c> which</c>
+
+00:02:19.980 --> 00:02:19.990 align:start position:0%
+get that P cubed is equal to 0.05 which
+ 
+
+00:02:19.990 --> 00:02:22.710 align:start position:0%
+get that P cubed is equal to 0.05 which
+means<00:02:20.290><c> P</c><00:02:20.650><c> is</c><00:02:20.860><c> equal</c><00:02:21.550><c> to</c><00:02:21.760><c> the</c><00:02:21.880><c> cube</c><00:02:22.209><c> root</c><00:02:22.360><c> of</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+means P is equal to the cube root of
+ 
+
+00:02:22.720 --> 00:02:28.940 align:start position:0%
+means P is equal to the cube root of
+point<00:02:23.230><c> O</c><00:02:23.410><c> 5</c><00:02:23.680><c> which</c><00:02:24.280><c> is</c><00:02:24.310><c> approximately</c><00:02:26.280><c> 0.368</c>
+
+00:02:28.940 --> 00:02:28.950 align:start position:0%
+point O 5 which is approximately 0.368
+ 
+
+00:02:28.950 --> 00:02:31.590 align:start position:0%
+point O 5 which is approximately 0.368
+we<00:02:29.950><c> now</c><00:02:30.190><c> need</c><00:02:30.430><c> to</c><00:02:30.550><c> calculate</c><00:02:30.790><c> the</c><00:02:31.360><c> probability</c>
+
+00:02:31.590 --> 00:02:31.600 align:start position:0%
+we now need to calculate the probability
+ 
+
+00:02:31.600 --> 00:02:34.580 align:start position:0%
+we now need to calculate the probability
+of<00:02:31.930><c> seeing</c><00:02:32.320><c> at</c><00:02:32.560><c> least</c><00:02:32.590><c> one</c><00:02:33.220><c> car</c><00:02:33.490><c> in</c><00:02:33.730><c> 10</c><00:02:34.120><c> minutes</c>
+
+00:02:34.580 --> 00:02:34.590 align:start position:0%
+of seeing at least one car in 10 minutes
+ 
+
+00:02:34.590 --> 00:02:37.530 align:start position:0%
+of seeing at least one car in 10 minutes
+this<00:02:35.590><c> is</c><00:02:35.650><c> equal</c><00:02:36.130><c> to</c><00:02:36.160><c> 1</c><00:02:36.700><c> minus</c><00:02:37.180><c> the</c><00:02:37.209><c> probability</c>
+
+00:02:37.530 --> 00:02:37.540 align:start position:0%
+this is equal to 1 minus the probability
+ 
+
+00:02:37.540 --> 00:02:40.290 align:start position:0%
+this is equal to 1 minus the probability
+of<00:02:37.810><c> seeing</c><00:02:38.140><c> no</c><00:02:38.500><c> cars</c><00:02:38.830><c> in</c><00:02:38.980><c> 10</c><00:02:39.370><c> minutes</c><00:02:39.670><c> which</c><00:02:40.270><c> is</c>
+
+00:02:40.290 --> 00:02:40.300 align:start position:0%
+of seeing no cars in 10 minutes which is
+ 
+
+00:02:40.300 --> 00:02:42.870 align:start position:0%
+of seeing no cars in 10 minutes which is
+equal<00:02:40.690><c> to</c><00:02:40.870><c> 1</c><00:02:41.080><c> minus</c><00:02:41.470><c> P</c><00:02:41.739><c> which</c><00:02:42.370><c> is</c><00:02:42.400><c> equal</c><00:02:42.520><c> to</c>
+
+00:02:42.870 --> 00:02:42.880 align:start position:0%
+equal to 1 minus P which is equal to
+ 
+
+00:02:42.880 --> 00:02:47.430 align:start position:0%
+equal to 1 minus P which is equal to
+approximately<00:02:44.880><c> 0.632</c><00:02:46.200><c> so</c><00:02:47.200><c> it's</c><00:02:47.320><c> an</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+approximately 0.632 so it's an
+ 
+
+00:02:47.440 --> 00:02:50.490 align:start position:0%
+approximately 0.632 so it's an
+approximately<00:02:48.090><c> 63%</c><00:02:49.090><c> chance</c><00:02:49.450><c> that</c><00:02:50.170><c> you'll</c><00:02:50.290><c> see</c>
+
+00:02:50.490 --> 00:02:50.500 align:start position:0%
+approximately 63% chance that you'll see
+ 
+
+00:02:50.500 --> 00:02:54.240 align:start position:0%
+approximately 63% chance that you'll see
+at<00:02:50.709><c> least</c><00:02:50.860><c> one</c><00:02:51.160><c> car</c><00:02:51.400><c> in</c><00:02:51.610><c> 10</c><00:02:51.970><c> minutes</c><00:02:53.130><c> did</c><00:02:54.130><c> you</c>
+
+00:02:54.240 --> 00:02:54.250 align:start position:0%
+at least one car in 10 minutes did you
+ 
+
+00:02:54.250 --> 00:02:57.030 align:start position:0%
+at least one car in 10 minutes did you
+figure<00:02:54.489><c> this</c><00:02:54.610><c> out</c><00:02:55.560><c> thanks</c><00:02:56.560><c> for</c><00:02:56.590><c> watching</c><00:02:56.950><c> this</c>
+
+00:02:57.030 --> 00:02:57.040 align:start position:0%
+figure this out thanks for watching this
+ 
+
+00:02:57.040 --> 00:02:58.710 align:start position:0%
+figure this out thanks for watching this
+video<00:02:57.310><c> please</c><00:02:57.519><c> subscribe</c><00:02:57.640><c> to</c><00:02:58.060><c> my</c><00:02:58.180><c> channel</c><00:02:58.269><c> I</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+video please subscribe to my channel I
+ 
+
+00:02:58.720 --> 00:03:00.660 align:start position:0%
+video please subscribe to my channel I
+make<00:02:58.900><c> videos</c><00:02:59.200><c> on</c><00:02:59.320><c> math</c><00:02:59.590><c> and</c><00:02:59.830><c> game</c><00:02:59.980><c> theory</c><00:03:00.220><c> you</c>
+
+00:03:00.660 --> 00:03:00.670 align:start position:0%
+make videos on math and game theory you
+ 
+
+00:03:00.670 --> 00:03:02.640 align:start position:0%
+make videos on math and game theory you
+can<00:03:00.880><c> catch</c><00:03:01.120><c> me</c><00:03:01.330><c> on</c><00:03:01.360><c> my</c><00:03:01.660><c> blog</c><00:03:01.930><c> mind</c><00:03:02.440><c> your</c>
+
+00:03:02.640 --> 00:03:02.650 align:start position:0%
+can catch me on my blog mind your
+ 
+
+00:03:02.650 --> 00:03:03.990 align:start position:0%
+can catch me on my blog mind your
+decisions<00:03:03.130><c> which</c><00:03:03.280><c> you</c><00:03:03.400><c> can</c><00:03:03.550><c> follow</c><00:03:03.790><c> on</c>
+
+00:03:03.990 --> 00:03:04.000 align:start position:0%
+decisions which you can follow on
+ 
+
+00:03:04.000 --> 00:03:06.479 align:start position:0%
+decisions which you can follow on
+Facebook<00:03:04.510><c> Google+</c><00:03:05.230><c> and</c><00:03:05.320><c> patreon</c><00:03:05.830><c> you</c><00:03:06.310><c> can</c>
+
+00:03:06.479 --> 00:03:06.489 align:start position:0%
+Facebook Google+ and patreon you can
+ 
+
+00:03:06.489 --> 00:03:07.979 align:start position:0%
+Facebook Google+ and patreon you can
+catch<00:03:06.670><c> me</c><00:03:06.850><c> on</c><00:03:06.880><c> social</c><00:03:07.090><c> media</c><00:03:07.300><c> at</c><00:03:07.660><c> pressure</c>
+
+00:03:07.979 --> 00:03:07.989 align:start position:0%
+catch me on social media at pressure
+ 
+
+00:03:07.989 --> 00:03:09.810 align:start position:0%
+catch me on social media at pressure
+Locker<00:03:08.290><c> and</c><00:03:08.590><c> if</c><00:03:09.070><c> you</c><00:03:09.160><c> like</c><00:03:09.310><c> this</c><00:03:09.400><c> video</c><00:03:09.519><c> please</c>
+
+00:03:09.810 --> 00:03:09.820 align:start position:0%
+Locker and if you like this video please
+ 
+
+00:03:09.820 --> 00:03:11.280 align:start position:0%
+Locker and if you like this video please
+check<00:03:09.940><c> out</c><00:03:10.209><c> my</c><00:03:10.300><c> books</c><00:03:10.540><c> there</c><00:03:10.870><c> are</c><00:03:10.900><c> links</c><00:03:11.200><c> in</c>
+
+00:03:11.280 --> 00:03:11.290 align:start position:0%
+check out my books there are links in
+ 
+
+00:03:11.290 --> 00:03:13.709 align:start position:0%
+check out my books there are links in
+the<00:03:11.410><c> video</c><00:03:11.620><c> description</c>
+
