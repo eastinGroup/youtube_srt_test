@@ -1,0 +1,1 @@
+youtube-dl --write-auto-sub --sub-lang 'zh-Hans,en'  -o '%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s' 'https://www.youtube.com/c/ElenaHandtrack/playlists' --skip-download
