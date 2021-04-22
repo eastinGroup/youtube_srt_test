@@ -1,0 +1,4192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.979 --> 00:00:05.480 align:start position:0%
+ 
+welcome<00:00:01.979><c> to</c><00:00:02.190><c> GUI</c><00:00:02.520><c> and</c><00:00:02.879><c> in</c><00:00:03.210><c> web</c><00:00:03.360><c> browsers</c><00:00:04.490><c> 412</c>
+
+00:00:05.480 --> 00:00:05.490 align:start position:0%
+welcome to GUI and in web browsers 412
+ 
+
+00:00:05.490 --> 00:00:14.990 align:start position:0%
+welcome to GUI and in web browsers 412
+of<00:00:06.710><c> February</c><00:00:07.710><c> 2020</c><00:00:11.540><c> this</c><00:00:12.540><c> week</c><00:00:13.790><c> we</c><00:00:14.790><c> have</c><00:00:14.969><c> some</c>
+
+00:00:14.990 --> 00:00:15.000 align:start position:0%
+of February 2020 this week we have some
+ 
+
+00:00:15.000 --> 00:00:17.930 align:start position:0%
+of February 2020 this week we have some
+items<00:00:15.480><c> on</c><00:00:15.630><c> agenda</c><00:00:16.109><c> and</c><00:00:16.410><c> for</c><00:00:17.340><c> some</c><00:00:17.460><c> reason</c><00:00:17.760><c> I'm</c>
+
+00:00:17.930 --> 00:00:17.940 align:start position:0%
+items on agenda and for some reason I'm
+ 
+
+00:00:17.940 --> 00:00:21.470 align:start position:0%
+items on agenda and for some reason I'm
+always<00:00:17.970><c> first</c><00:00:18.539><c> so</c><00:00:19.380><c> maybe</c><00:00:19.880><c> let's</c><00:00:20.880><c> shuffle</c><00:00:21.119><c> this</c>
+
+00:00:21.470 --> 00:00:21.480 align:start position:0%
+always first so maybe let's shuffle this
+ 
+
+00:00:21.480 --> 00:00:24.439 align:start position:0%
+always first so maybe let's shuffle this
+a<00:00:21.689><c> little</c><00:00:22.289><c> bit</c><00:00:22.590><c> this</c><00:00:22.740><c> week</c><00:00:22.949><c> and</c><00:00:23.220><c> Jacob</c><00:00:23.850><c> can</c><00:00:24.420><c> you</c>
+
+00:00:24.439 --> 00:00:24.449 align:start position:0%
+a little bit this week and Jacob can you
+ 
+
+00:00:24.449 --> 00:00:29.900 align:start position:0%
+a little bit this week and Jacob can you
+go<00:00:24.720><c> for</c><00:00:25.730><c> outrageous</c><00:00:26.730><c> right</c><00:00:28.400><c> yeah</c><00:00:29.400><c> so</c><00:00:29.760><c> I</c><00:00:29.789><c> just</c>
+
+00:00:29.900 --> 00:00:29.910 align:start position:0%
+go for outrageous right yeah so I just
+ 
+
+00:00:29.910 --> 00:00:34.760 align:start position:0%
+go for outrageous right yeah so I just
+wanted<00:00:30.210><c> to</c><00:00:31.019><c> briefly</c><00:00:31.529><c> talk</c><00:00:32.189><c> about</c><00:00:33.500><c> DNS</c><00:00:34.500><c> over</c>
+
+00:00:34.760 --> 00:00:34.770 align:start position:0%
+wanted to briefly talk about DNS over
+ 
+
+00:00:34.770 --> 00:00:39.260 align:start position:0%
+wanted to briefly talk about DNS over
+HTTP<00:00:35.450><c> so</c><00:00:36.450><c> we</c><00:00:36.510><c> have</c><00:00:37.280><c> need</c><00:00:38.280><c> to</c><00:00:38.309><c> start</c><00:00:38.730><c> we</c><00:00:39.059><c> need</c><00:00:39.210><c> to</c>
+
+00:00:39.260 --> 00:00:39.270 align:start position:0%
+HTTP so we have need to start we need to
+ 
+
+00:00:39.270 --> 00:00:40.520 align:start position:0%
+HTTP so we have need to start we need to
+get<00:00:39.390><c> this</c><00:00:39.540><c> implemented</c><00:00:39.899><c> because</c><00:00:40.110><c> right</c><00:00:40.379><c> now</c>
+
+00:00:40.520 --> 00:00:40.530 align:start position:0%
+get this implemented because right now
+ 
+
+00:00:40.530 --> 00:00:44.569 align:start position:0%
+get this implemented because right now
+in<00:00:40.800><c> j/s</c><00:00:41.399><c> we</c><00:00:41.910><c> don't</c><00:00:42.360><c> handle</c><00:00:43.020><c> resolution</c><00:00:43.890><c> of</c><00:00:44.070><c> dns</c>
+
+00:00:44.569 --> 00:00:44.579 align:start position:0%
+in j/s we don't handle resolution of dns
+ 
+
+00:00:44.579 --> 00:00:47.750 align:start position:0%
+in j/s we don't handle resolution of dns
+adder<00:00:44.820><c> multi</c><00:00:45.510><c> editors</c><00:00:45.980><c> this</c><00:00:46.980><c> creates</c><00:00:47.309><c> problem</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+adder multi editors this creates problem
+ 
+
+00:00:47.760 --> 00:00:49.910 align:start position:0%
+adder multi editors this creates problem
+for<00:00:48.030><c> like</c><00:00:48.239><c> our</c><00:00:48.450><c> Gateway</c><00:00:49.200><c> nodes</c><00:00:49.440><c> and</c><00:00:49.649><c> anybody</c>
+
+00:00:49.910 --> 00:00:49.920 align:start position:0%
+for like our Gateway nodes and anybody
+ 
+
+00:00:49.920 --> 00:00:54.500 align:start position:0%
+for like our Gateway nodes and anybody
+else<00:00:50.129><c> who</c><00:00:50.610><c> wants</c><00:00:51.000><c> to</c><00:00:51.890><c> use</c><00:00:52.890><c> DNS</c><00:00:53.820><c> and</c><00:00:54.000><c> trees</c><00:00:54.329><c> and</c>
+
+00:00:54.500 --> 00:00:54.510 align:start position:0%
+else who wants to use DNS and trees and
+ 
+
+00:00:54.510 --> 00:00:57.260 align:start position:0%
+else who wants to use DNS and trees and
+get<00:00:54.629><c> text</c><00:00:54.899><c> record</c><00:00:55.140><c> backs</c><00:00:55.550><c> so</c><00:00:56.550><c> we're</c><00:00:56.940><c> going</c><00:00:57.090><c> to</c>
+
+00:00:57.260 --> 00:00:57.270 align:start position:0%
+get text record backs so we're going to
+ 
+
+00:00:57.270 --> 00:01:02.599 align:start position:0%
+get text record backs so we're going to
+be<00:00:57.420><c> working</c><00:00:57.629><c> on</c><00:00:59.329><c> implementing</c><00:01:01.250><c> resolvers</c><00:01:02.250><c> for</c>
+
+00:01:02.599 --> 00:01:02.609 align:start position:0%
+be working on implementing resolvers for
+ 
+
+00:01:02.609 --> 00:01:06.260 align:start position:0%
+be working on implementing resolvers for
+live<00:01:02.940><c> p2p</c><00:01:03.420><c> i</c><00:01:04.250><c> synced</c><00:01:05.250><c> up</c><00:01:05.309><c> with</c><00:01:05.369><c> hygge</c><00:01:05.850><c> earlier</c>
+
+00:01:06.260 --> 00:01:06.270 align:start position:0%
+live p2p i synced up with hygge earlier
+ 
+
+00:01:06.270 --> 00:01:09.890 align:start position:0%
+live p2p i synced up with hygge earlier
+so<00:01:06.810><c> what</c><00:01:06.960><c> I'm</c><00:01:07.049><c> gonna</c><00:01:07.140><c> do</c><00:01:07.439><c> is</c><00:01:08.540><c> based</c><00:01:09.540><c> off</c><00:01:09.720><c> what</c>
+
+00:01:09.890 --> 00:01:09.900 align:start position:0%
+so what I'm gonna do is based off what
+ 
+
+00:01:09.900 --> 00:01:12.260 align:start position:0%
+so what I'm gonna do is based off what
+we<00:01:10.020><c> talked</c><00:01:10.229><c> about</c><00:01:10.320><c> in</c><00:01:10.560><c> the</c><00:01:10.650><c> prior</c><00:01:10.860><c> art</c><00:01:11.159><c> for</c><00:01:11.640><c> JSI</c>
+
+00:01:12.260 --> 00:01:12.270 align:start position:0%
+we talked about in the prior art for JSI
+ 
+
+00:01:12.270 --> 00:01:16.310 align:start position:0%
+we talked about in the prior art for JSI
+PFS<00:01:12.659><c> for</c><00:01:13.170><c> IP</c><00:01:13.350><c> and</c><00:01:13.590><c> s</c><00:01:13.680><c> over</c><00:01:14.580><c> Tina's</c><00:01:14.909><c> I</c><00:01:15.320><c> mean</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+PFS for IP and s over Tina's I mean
+ 
+
+00:01:16.320 --> 00:01:21.679 align:start position:0%
+PFS for IP and s over Tina's I mean
+going<00:01:16.740><c> to</c><00:01:16.860><c> work</c><00:01:17.040><c> on</c><00:01:17.310><c> creating</c><00:01:17.970><c> a</c><00:01:20.479><c> gist</c><00:01:21.479><c> for</c>
+
+00:01:21.679 --> 00:01:21.689 align:start position:0%
+going to work on creating a gist for
+ 
+
+00:01:21.689 --> 00:01:23.270 align:start position:0%
+going to work on creating a gist for
+describing<00:01:22.170><c> how</c><00:01:22.409><c> this</c><00:01:22.560><c> will</c><00:01:22.770><c> work</c><00:01:22.920><c> but</c><00:01:23.159><c> the</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+describing how this will work but the
+ 
+
+00:01:23.280 --> 00:01:26.149 align:start position:0%
+describing how this will work but the
+basic<00:01:23.549><c> idea</c><00:01:23.790><c> is</c><00:01:23.850><c> that</c><00:01:24.180><c> for</c><00:01:24.990><c> JSF</c><00:01:25.470><c> p2p</c><00:01:25.799><c> you</c><00:01:26.009><c> be</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+basic idea is that for JSF p2p you be
+ 
+
+00:01:26.159 --> 00:01:30.830 align:start position:0%
+basic idea is that for JSF p2p you be
+able<00:01:26.310><c> to</c><00:01:26.600><c> provide</c><00:01:27.600><c> a</c><00:01:28.009><c> map</c><00:01:29.009><c> of</c><00:01:29.479><c> resolvers</c><00:01:30.479><c> and</c>
+
+00:01:30.830 --> 00:01:30.840 align:start position:0%
+able to provide a map of resolvers and
+ 
+
+00:01:30.840 --> 00:01:33.080 align:start position:0%
+able to provide a map of resolvers and
+then<00:01:31.560><c> those</c><00:01:31.740><c> does</c><00:01:31.950><c> that</c><00:01:32.369><c> resolvers</c><00:01:32.820><c> would</c><00:01:32.970><c> be</c>
+
+00:01:33.080 --> 00:01:33.090 align:start position:0%
+then those does that resolvers would be
+ 
+
+00:01:33.090 --> 00:01:35.450 align:start position:0%
+then those does that resolvers would be
+configurable<00:01:33.720><c> and</c><00:01:34.530><c> then</c><00:01:34.680><c> we'll</c><00:01:34.890><c> just</c><00:01:35.189><c> start</c>
+
+00:01:35.450 --> 00:01:35.460 align:start position:0%
+configurable and then we'll just start
+ 
+
+00:01:35.460 --> 00:01:37.580 align:start position:0%
+configurable and then we'll just start
+out<00:01:35.640><c> right</c><00:01:36.060><c> now</c><00:01:36.210><c> with</c><00:01:36.509><c> a</c><00:01:36.540><c> small</c><00:01:36.900><c> resolver</c><00:01:37.350><c> for</c>
+
+00:01:37.580 --> 00:01:37.590 align:start position:0%
+out right now with a small resolver for
+ 
+
+00:01:37.590 --> 00:01:40.370 align:start position:0%
+out right now with a small resolver for
+handling<00:01:38.009><c> the</c><00:01:38.909><c> DNS</c><00:01:39.540><c> errors</c><00:01:39.869><c> because</c><00:01:40.200><c> that's</c>
+
+00:01:40.370 --> 00:01:40.380 align:start position:0%
+handling the DNS errors because that's
+ 
+
+00:01:40.380 --> 00:01:42.140 align:start position:0%
+handling the DNS errors because that's
+what<00:01:40.560><c> we</c><00:01:40.650><c> have</c><00:01:40.680><c> the</c><00:01:41.250><c> highest</c><00:01:41.579><c> priority</c><00:01:41.850><c> for</c>
+
+00:01:42.140 --> 00:01:42.150 align:start position:0%
+what we have the highest priority for
+ 
+
+00:01:42.150 --> 00:01:44.690 align:start position:0%
+what we have the highest priority for
+right<00:01:42.360><c> now</c><00:01:42.439><c> but</c><00:01:43.439><c> that</c><00:01:43.590><c> will</c><00:01:43.740><c> let</c><00:01:44.009><c> us</c><00:01:44.130><c> handle</c>
+
+00:01:44.690 --> 00:01:44.700 align:start position:0%
+right now but that will let us handle
+ 
+
+00:01:44.700 --> 00:01:48.109 align:start position:0%
+right now but that will let us handle
+resolvable<00:01:45.329><c> so</c><00:01:45.869><c> then</c><00:01:46.049><c> JSF</c><00:01:47.040><c> PTP</c><00:01:47.399><c> will</c><00:01:47.729><c> store</c>
+
+00:01:48.109 --> 00:01:48.119 align:start position:0%
+resolvable so then JSF PTP will store
+ 
+
+00:01:48.119 --> 00:01:50.030 align:start position:0%
+resolvable so then JSF PTP will store
+will<00:01:48.840><c> still</c><00:01:49.049><c> store</c><00:01:49.320><c> the</c><00:01:49.470><c> dns</c><00:01:49.799><c> adder</c>
+
+00:01:50.030 --> 00:01:50.040 align:start position:0%
+will still store the dns adder
+ 
+
+00:01:50.040 --> 00:01:52.490 align:start position:0%
+will still store the dns adder
+associated<00:01:50.729><c> with</c><00:01:50.820><c> the</c><00:01:50.880><c> peer</c><00:01:51.119><c> and</c><00:01:51.299><c> then</c><00:01:52.110><c> when</c>
+
+00:01:52.490 --> 00:01:52.500 align:start position:0%
+associated with the peer and then when
+ 
+
+00:01:52.500 --> 00:01:55.789 align:start position:0%
+associated with the peer and then when
+we<00:01:52.649><c> need</c><00:01:52.680><c> to</c><00:01:53.479><c> do</c><00:01:54.479><c> dials</c><00:01:54.869><c> or</c><00:01:55.049><c> any</c><00:01:55.259><c> lookups</c><00:01:55.649><c> on</c>
+
+00:01:55.789 --> 00:01:55.799 align:start position:0%
+we need to do dials or any lookups on
+ 
+
+00:01:55.799 --> 00:01:58.069 align:start position:0%
+we need to do dials or any lookups on
+the<00:01:55.890><c> multi</c><00:01:56.159><c> adder</c><00:01:56.340><c> we</c><00:01:57.060><c> can</c><00:01:57.210><c> do</c><00:01:57.329><c> the</c><00:01:57.450><c> resolution</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+the multi adder we can do the resolution
+ 
+
+00:01:58.079 --> 00:02:02.600 align:start position:0%
+the multi adder we can do the resolution
+with<00:01:58.560><c> DNS</c><00:01:59.369><c> cache</c><00:01:59.729><c> based</c><00:02:00.360><c> on</c><00:02:00.540><c> the</c><00:02:00.689><c> the</c><00:02:00.930><c> TTL</c><00:02:01.610><c> so</c>
+
+00:02:02.600 --> 00:02:02.610 align:start position:0%
+with DNS cache based on the the TTL so
+ 
+
+00:02:02.610 --> 00:02:05.690 align:start position:0%
+with DNS cache based on the the TTL so
+I'm<00:02:02.909><c> gonna</c><00:02:03.000><c> be</c><00:02:03.149><c> working</c><00:02:03.420><c> on</c><00:02:03.540><c> that</c><00:02:04.460><c> the</c><00:02:05.460><c> end</c><00:02:05.610><c> of</c>
+
+00:02:05.690 --> 00:02:05.700 align:start position:0%
+I'm gonna be working on that the end of
+ 
+
+00:02:05.700 --> 00:02:09.139 align:start position:0%
+I'm gonna be working on that the end of
+this<00:02:05.909><c> week</c><00:02:06.270><c> I</c><00:02:06.570><c> get</c><00:02:06.930><c> a</c><00:02:07.170><c> just</c><00:02:08.129><c> a</c><00:02:08.310><c> proposal</c><00:02:08.550><c> shared</c>
+
+00:02:09.139 --> 00:02:09.149 align:start position:0%
+this week I get a just a proposal shared
+ 
+
+00:02:09.149 --> 00:02:11.449 align:start position:0%
+this week I get a just a proposal shared
+out<00:02:09.330><c> for</c><00:02:09.629><c> how</c><00:02:09.810><c> that</c><00:02:10.379><c> will</c><00:02:10.590><c> work</c><00:02:10.770><c> and</c><00:02:11.009><c> how</c><00:02:11.160><c> that</c>
+
+00:02:11.449 --> 00:02:11.459 align:start position:0%
+out for how that will work and how that
+ 
+
+00:02:11.459 --> 00:02:13.729 align:start position:0%
+out for how that will work and how that
+will<00:02:11.640><c> look</c><00:02:11.670><c> like</c><00:02:12.030><c> for</c><00:02:12.870><c> a</c><00:02:12.900><c> configuring</c><00:02:13.410><c> Lib</c><00:02:13.620><c> be</c>
+
+00:02:13.729 --> 00:02:13.739 align:start position:0%
+will look like for a configuring Lib be
+ 
+
+00:02:13.739 --> 00:02:16.010 align:start position:0%
+will look like for a configuring Lib be
+tepee<00:02:13.980><c> but</c><00:02:14.700><c> the</c><00:02:14.790><c> idea</c><00:02:15.090><c> is</c><00:02:15.150><c> that</c><00:02:15.300><c> Libby</c><00:02:15.810><c> tepee</c>
+
+00:02:16.010 --> 00:02:16.020 align:start position:0%
+tepee but the idea is that Libby tepee
+ 
+
+00:02:16.020 --> 00:02:18.530 align:start position:0%
+tepee but the idea is that Libby tepee
+will<00:02:16.200><c> also</c><00:02:16.500><c> come</c><00:02:16.770><c> with</c><00:02:17.099><c> defaults</c><00:02:18.060><c> for</c><00:02:18.180><c> that</c><00:02:18.330><c> so</c>
+
+00:02:18.530 --> 00:02:18.540 align:start position:0%
+will also come with defaults for that so
+ 
+
+00:02:18.540 --> 00:02:19.400 align:start position:0%
+will also come with defaults for that so
+people<00:02:18.660><c> don't</c><00:02:18.959><c> have</c><00:02:19.050><c> to</c><00:02:19.170><c> worry</c><00:02:19.319><c> about</c>
+
+00:02:19.400 --> 00:02:19.410 align:start position:0%
+people don't have to worry about
+ 
+
+00:02:19.410 --> 00:02:27.380 align:start position:0%
+people don't have to worry about
+creating<00:02:20.220><c> resolved</c><00:02:20.910><c> us</c><00:02:21.030><c> for</c><00:02:21.239><c> that</c><00:02:21.360><c> zone</c><00:02:26.390><c> the</c>
+
+00:02:27.380 --> 00:02:27.390 align:start position:0%
+creating resolved us for that zone the
+ 
+
+00:02:27.390 --> 00:02:30.530 align:start position:0%
+creating resolved us for that zone the
+question<00:02:27.660><c> I</c><00:02:27.720><c> have</c><00:02:27.870><c> had</c><00:02:28.020><c> this</c><00:02:28.170><c> page</c><00:02:28.410><c> is</c><00:02:29.450><c> sort</c><00:02:30.450><c> of</c>
+
+00:02:30.530 --> 00:02:30.540 align:start position:0%
+question I have had this page is sort of
+ 
+
+00:02:30.540 --> 00:02:33.290 align:start position:0%
+question I have had this page is sort of
+like<00:02:30.690><c> a</c><00:02:30.810><c> background</c><00:02:31.140><c> for</c><00:02:31.980><c> folks</c><00:02:32.670><c> who</c><00:02:32.970><c> are</c><00:02:33.060><c> not</c>
+
+00:02:33.290 --> 00:02:33.300 align:start position:0%
+like a background for folks who are not
+ 
+
+00:02:33.300 --> 00:02:36.309 align:start position:0%
+like a background for folks who are not
+familiar<00:02:33.360><c> with</c><00:02:34.489><c> next</c><00:02:35.489><c> a</c><00:02:35.610><c> question</c><00:02:36.030><c> and</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+familiar with next a question and
+ 
+
+00:02:36.319 --> 00:02:41.990 align:start position:0%
+familiar with next a question and
+clarification<00:02:37.319><c> oh</c><00:02:40.220><c> there's</c><00:02:41.220><c> an</c><00:02:41.459><c> issue</c><00:02:41.640><c> with</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+clarification oh there's an issue with
+ 
+
+00:02:42.000 --> 00:02:44.600 align:start position:0%
+clarification oh there's an issue with
+sort<00:02:42.690><c> of</c><00:02:42.780><c> like</c><00:02:42.840><c> more</c><00:02:43.170><c> details</c><00:02:43.650><c> background</c><00:02:44.250><c> in</c>
+
+00:02:44.600 --> 00:02:44.610 align:start position:0%
+sort of like more details background in
+ 
+
+00:02:44.610 --> 00:02:47.300 align:start position:0%
+sort of like more details background in
+case<00:02:44.849><c> anyone</c><00:02:45.239><c> is</c><00:02:45.450><c> interested</c><00:02:45.870><c> it's</c><00:02:46.830><c> on</c><00:02:47.099><c> the</c>
+
+00:02:47.300 --> 00:02:47.310 align:start position:0%
+case anyone is interested it's on the
+ 
+
+00:02:47.310 --> 00:02:49.910 align:start position:0%
+case anyone is interested it's on the
+edges<00:02:47.610><c> IP</c><00:02:48.000><c> of</c><00:02:48.150><c> house</c><00:02:48.330><c> but</c><00:02:48.750><c> we</c><00:02:48.930><c> just</c><00:02:49.530><c> like</c><00:02:49.650><c> check</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+edges IP of house but we just like check
+ 
+
+00:02:49.920 --> 00:02:53.990 align:start position:0%
+edges IP of house but we just like check
+out<00:02:50.040><c> said</c><00:02:50.220><c> we</c><00:02:50.730><c> need</c><00:02:51.030><c> to</c><00:02:51.800><c> probably</c><00:02:52.800><c> tackle</c><00:02:53.370><c> DNS</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+out said we need to probably tackle DNS
+ 
+
+00:02:54.000 --> 00:02:57.710 align:start position:0%
+out said we need to probably tackle DNS
+other<00:02:54.209><c> first</c><00:02:54.840><c> in</c><00:02:55.050><c> lately</c><00:02:55.379><c> to</c><00:02:55.530><c> be</c><00:02:56.480><c> probably</c><00:02:57.480><c> the</c>
+
+00:02:57.710 --> 00:02:57.720 align:start position:0%
+other first in lately to be probably the
+ 
+
+00:02:57.720 --> 00:03:01.369 align:start position:0%
+other first in lately to be probably the
+way<00:02:57.870><c> it</c><00:02:58.110><c> will</c><00:02:58.319><c> work</c><00:02:58.769><c> I</c><00:02:59.040><c> think</c><00:02:59.370><c> when</c><00:03:00.379><c> someone</c>
+
+00:03:01.369 --> 00:03:01.379 align:start position:0%
+way it will work I think when someone
+ 
+
+00:03:01.379 --> 00:03:05.149 align:start position:0%
+way it will work I think when someone
+will<00:03:01.560><c> initialize</c><00:03:02.340><c> Jessica</c><00:03:02.909><c> TFS</c><00:03:03.950><c> we</c><00:03:04.950><c> will</c>
+
+00:03:05.149 --> 00:03:05.159 align:start position:0%
+will initialize Jessica TFS we will
+ 
+
+00:03:05.159 --> 00:03:08.000 align:start position:0%
+will initialize Jessica TFS we will
+always<00:03:05.700><c> pass</c><00:03:06.060><c> that</c><00:03:06.390><c> configuration</c><00:03:07.050><c> to</c><00:03:07.709><c> the</c>
+
+00:03:08.000 --> 00:03:08.010 align:start position:0%
+always pass that configuration to the
+ 
+
+00:03:08.010 --> 00:03:10.670 align:start position:0%
+always pass that configuration to the
+p2p<00:03:08.340><c> I</c><00:03:08.790><c> mean</c><00:03:09.120><c> if</c><00:03:10.050><c> someone</c><00:03:10.349><c> wants</c><00:03:10.560><c> to</c><00:03:10.590><c> use</c>
+
+00:03:10.670 --> 00:03:10.680 align:start position:0%
+p2p I mean if someone wants to use
+ 
+
+00:03:10.680 --> 00:03:14.780 align:start position:0%
+p2p I mean if someone wants to use
+custom<00:03:11.580><c> DNS</c><00:03:12.590><c> resolver</c><00:03:13.590><c> let's</c><00:03:14.190><c> say</c><00:03:14.370><c> a</c><00:03:14.430><c> DNS</c>
+
+00:03:14.780 --> 00:03:14.790 align:start position:0%
+custom DNS resolver let's say a DNS
+ 
+
+00:03:14.790 --> 00:03:17.170 align:start position:0%
+custom DNS resolver let's say a DNS
+server<00:03:14.819><c> is</c><00:03:15.060><c> DPS</c><00:03:15.510><c> had</c><00:03:15.780><c> some</c><00:03:16.050><c> service</c><00:03:16.590><c> provider</c>
+
+00:03:17.170 --> 00:03:17.180 align:start position:0%
+server is DPS had some service provider
+ 
+
+00:03:17.180 --> 00:03:20.089 align:start position:0%
+server is DPS had some service provider
+probably<00:03:18.180><c> it</c><00:03:18.959><c> would</c><00:03:19.230><c> the</c><00:03:19.590><c> way</c><00:03:19.709><c> it</c><00:03:19.890><c> would</c><00:03:20.040><c> look</c>
+
+00:03:20.089 --> 00:03:20.099 align:start position:0%
+probably it would the way it would look
+ 
+
+00:03:20.099 --> 00:03:22.160 align:start position:0%
+probably it would the way it would look
+in<00:03:20.760><c> the</c><00:03:20.970><c> end</c><00:03:21.120><c> it</c><00:03:21.390><c> would</c><00:03:21.599><c> look</c><00:03:21.750><c> like</c><00:03:21.810><c> in</c>
+
+00:03:22.160 --> 00:03:22.170 align:start position:0%
+in the end it would look like in
+ 
+
+00:03:22.170 --> 00:03:25.610 align:start position:0%
+in the end it would look like in
+Jessica's<00:03:22.830><c> it</c><00:03:22.980><c> would</c><00:03:23.129><c> be</c><00:03:24.170><c> like</c><00:03:25.170><c> passing</c><00:03:25.500><c> that</c>
+
+00:03:25.610 --> 00:03:25.620 align:start position:0%
+Jessica's it would be like passing that
+ 
+
+00:03:25.620 --> 00:03:28.570 align:start position:0%
+Jessica's it would be like passing that
+to<00:03:26.000><c> constructor</c><00:03:27.000><c> and</c><00:03:27.239><c> then</c><00:03:27.420><c> internally</c><00:03:27.840><c> a</c>
+
+00:03:28.570 --> 00:03:28.580 align:start position:0%
+to constructor and then internally a
+ 
+
+00:03:28.580 --> 00:03:30.949 align:start position:0%
+to constructor and then internally a
+sacrifice<00:03:29.580><c> would</c><00:03:29.760><c> pass</c><00:03:30.060><c> that</c><00:03:30.360><c> philippi</c>
+
+00:03:30.949 --> 00:03:30.959 align:start position:0%
+sacrifice would pass that philippi
+ 
+
+00:03:30.959 --> 00:03:35.500 align:start position:0%
+sacrifice would pass that philippi
+cookies<00:03:31.349><c> that's</c><00:03:32.010><c> more</c><00:03:32.310><c> or</c><00:03:32.430><c> less</c><00:03:33.140><c> that</c><00:03:34.140><c> long</c>
+
+00:03:35.500 --> 00:03:35.510 align:start position:0%
+cookies that's more or less that long
+ 
+
+00:03:35.510 --> 00:03:36.770 align:start position:0%
+cookies that's more or less that long
+yeah
+
+00:03:36.770 --> 00:03:36.780 align:start position:0%
+yeah
+ 
+
+00:03:36.780 --> 00:03:38.180 align:start position:0%
+yeah
+yeah<00:03:37.019><c> so</c><00:03:37.319><c> we'll</c><00:03:37.470><c> be</c><00:03:37.590><c> doing</c><00:03:37.769><c> everything</c>
+
+00:03:38.180 --> 00:03:38.190 align:start position:0%
+yeah so we'll be doing everything
+ 
+
+00:03:38.190 --> 00:03:40.640 align:start position:0%
+yeah so we'll be doing everything
+everything<00:03:38.790><c> up</c><00:03:38.970><c> to</c><00:03:39.150><c> where</c><00:03:39.299><c> Jess</c><00:03:39.629><c> ipfs</c><00:03:40.230><c> I</c><00:03:40.409><c> look</c>
+
+00:03:40.640 --> 00:03:40.650 align:start position:0%
+everything up to where Jess ipfs I look
+ 
+
+00:03:40.650 --> 00:03:43.880 align:start position:0%
+everything up to where Jess ipfs I look
+briefly<00:03:40.950><c> at</c><00:03:41.099><c> the</c><00:03:41.489><c> issue</c><00:03:42.299><c> and</c><00:03:42.780><c> I'll</c><00:03:43.620><c> make</c><00:03:43.769><c> sure</c>
+
+00:03:43.880 --> 00:03:43.890 align:start position:0%
+briefly at the issue and I'll make sure
+ 
+
+00:03:43.890 --> 00:03:45.080 align:start position:0%
+briefly at the issue and I'll make sure
+to<00:03:44.010><c> go</c><00:03:44.099><c> over</c><00:03:44.370><c> that</c><00:03:44.489><c> before</c><00:03:44.760><c> finalizing</c>
+
+00:03:45.080 --> 00:03:45.090 align:start position:0%
+to go over that before finalizing
+ 
+
+00:03:45.090 --> 00:03:48.110 align:start position:0%
+to go over that before finalizing
+proposal<00:03:45.769><c> the</c><00:03:46.769><c> HTTP</c><00:03:47.159><c> resolvers</c><00:03:47.640><c> were</c><00:03:47.849><c> more</c>
+
+00:03:48.110 --> 00:03:48.120 align:start position:0%
+proposal the HTTP resolvers were more
+ 
+
+00:03:48.120 --> 00:03:53.449 align:start position:0%
+proposal the HTTP resolvers were more
+specifically<00:03:48.840><c> towards</c><00:03:49.319><c> the</c><00:03:51.830><c> the</c><00:03:52.830><c> hosts</c><00:03:53.280><c> of</c>
+
+00:03:53.449 --> 00:03:53.459 align:start position:0%
+specifically towards the the hosts of
+ 
+
+00:03:53.459 --> 00:03:59.149 align:start position:0%
+specifically towards the the hosts of
+the<00:03:54.269><c> resolvers</c><00:03:54.950><c> and</c><00:03:55.950><c> then</c><00:03:56.909><c> for</c><00:03:57.379><c> for</c><00:03:58.379><c> JSI</c><00:03:58.739><c> PFS</c>
+
+00:03:59.149 --> 00:03:59.159 align:start position:0%
+the resolvers and then for for JSI PFS
+ 
+
+00:03:59.159 --> 00:04:01.190 align:start position:0%
+the resolvers and then for for JSI PFS
+it<00:03:59.430><c> would</c><00:03:59.549><c> likely</c><00:03:59.730><c> just</c><00:04:00.150><c> be</c><00:04:00.269><c> instantiated</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+it would likely just be instantiated
+ 
+
+00:04:01.200 --> 00:04:03.979 align:start position:0%
+it would likely just be instantiated
+if<00:04:01.860><c> it</c><00:04:02.159><c> needed</c><00:04:02.430><c> to</c><00:04:02.610><c> override</c><00:04:02.909><c> it</c><00:04:03.689><c> would</c><00:04:03.870><c> be</c>
+
+00:04:03.979 --> 00:04:03.989 align:start position:0%
+if it needed to override it would be
+ 
+
+00:04:03.989 --> 00:04:07.460 align:start position:0%
+if it needed to override it would be
+instantiating<00:04:04.620><c> the</c><00:04:05.780><c> certain</c><00:04:06.780><c> resolvers</c><00:04:07.290><c> that</c>
+
+00:04:07.460 --> 00:04:07.470 align:start position:0%
+instantiating the certain resolvers that
+ 
+
+00:04:07.470 --> 00:04:11.300 align:start position:0%
+instantiating the certain resolvers that
+lit<00:04:07.650><c> p2p</c><00:04:08.010><c> will</c><00:04:08.159><c> use</c><00:04:09.170><c> because</c><00:04:10.170><c> it</c><00:04:10.319><c> may</c><00:04:10.560><c> in</c>
+
+00:04:11.300 --> 00:04:11.310 align:start position:0%
+lit p2p will use because it may in
+ 
+
+00:04:11.310 --> 00:04:13.220 align:start position:0%
+lit p2p will use because it may in
+theory<00:04:11.730><c> people</c><00:04:11.939><c> can</c><00:04:12.239><c> provide</c><00:04:12.420><c> resolvers</c><00:04:13.049><c> for</c>
+
+00:04:13.220 --> 00:04:13.230 align:start position:0%
+theory people can provide resolvers for
+ 
+
+00:04:13.230 --> 00:04:14.990 align:start position:0%
+theory people can provide resolvers for
+whatever<00:04:13.409><c> and</c><00:04:13.769><c> it</c><00:04:13.860><c> might</c><00:04:13.980><c> not</c><00:04:14.010><c> just</c><00:04:14.280><c> be</c><00:04:14.340><c> HTTP</c>
+
+00:04:14.990 --> 00:04:15.000 align:start position:0%
+whatever and it might not just be HTTP
+ 
+
+00:04:15.000 --> 00:04:17.060 align:start position:0%
+whatever and it might not just be HTTP
+resolvers<00:04:15.480><c> but</c><00:04:16.350><c> that</c><00:04:16.500><c> will</c><00:04:16.620><c> be</c><00:04:16.650><c> the</c><00:04:16.889><c> thing</c>
+
+00:04:17.060 --> 00:04:17.070 align:start position:0%
+resolvers but that will be the thing
+ 
+
+00:04:17.070 --> 00:04:19.189 align:start position:0%
+resolvers but that will be the thing
+that<00:04:17.100><c> we're</c><00:04:17.310><c> focus</c><00:04:17.639><c> on</c><00:04:17.850><c> first</c><00:04:18.720><c> because</c><00:04:18.959><c> we</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+that we're focus on first because we
+ 
+
+00:04:19.199 --> 00:04:21.469 align:start position:0%
+that we're focus on first because we
+have<00:04:19.350><c> a</c><00:04:19.380><c> very</c><00:04:20.310><c> specific</c><00:04:20.519><c> use</c><00:04:20.790><c> cases</c><00:04:21.120><c> we</c><00:04:21.359><c> need</c>
+
+00:04:21.469 --> 00:04:21.479 align:start position:0%
+have a very specific use cases we need
+ 
+
+00:04:21.479 --> 00:04:23.280 align:start position:0%
+have a very specific use cases we need
+to<00:04:21.540><c> solve</c><00:04:21.780><c> for</c><00:04:21.810><c> that</c>
+
+00:04:23.280 --> 00:04:23.290 align:start position:0%
+to solve for that
+ 
+
+00:04:23.290 --> 00:04:28.590 align:start position:0%
+to solve for that
+yep<00:04:23.590><c> totally</c><00:04:25.590><c> super</c><00:04:26.590><c> cool</c><00:04:26.860><c> make</c><00:04:27.820><c> sure</c><00:04:27.970><c> to</c><00:04:28.210><c> see</c>
+
+00:04:28.590 --> 00:04:28.600 align:start position:0%
+yep totally super cool make sure to see
+ 
+
+00:04:28.600 --> 00:04:31.980 align:start position:0%
+yep totally super cool make sure to see
+see<00:04:28.660><c> me</c><00:04:28.930><c> when</c><00:04:29.290><c> the</c><00:04:29.500><c> proposal</c><00:04:30.010><c> is</c><00:04:30.300><c> more</c><00:04:31.300><c> yeah</c>
+
+00:04:31.980 --> 00:04:31.990 align:start position:0%
+see me when the proposal is more yeah
+ 
+
+00:04:31.990 --> 00:04:38.120 align:start position:0%
+see me when the proposal is more yeah
+yeah<00:04:33.090><c> super</c><00:04:34.090><c> cool</c><00:04:34.590><c> alright</c><00:04:35.590><c> the</c><00:04:36.100><c> next</c><00:04:36.130><c> one</c><00:04:36.370><c> is</c>
+
+00:04:38.120 --> 00:04:38.130 align:start position:0%
+yeah super cool alright the next one is
+ 
+
+00:04:38.130 --> 00:04:41.820 align:start position:0%
+yeah super cool alright the next one is
+what<00:04:39.130><c> I</c><00:04:39.340><c> think</c><00:04:39.670><c> a</c><00:04:40.080><c> factor</c><00:04:41.080><c> the</c><00:04:41.470><c> recent</c>
+
+00:04:41.820 --> 00:04:41.830 align:start position:0%
+what I think a factor the recent
+ 
+
+00:04:41.830 --> 00:04:48.030 align:start position:0%
+what I think a factor the recent
+refactor<00:04:42.520><c> of</c><00:04:42.880><c> a</c><00:04:43.540><c> p2p</c><00:04:44.230><c> and</c><00:04:45.270><c> J's</c><00:04:46.320><c> ipfs</c><00:04:47.320><c> means</c><00:04:47.650><c> for</c>
+
+00:04:48.030 --> 00:04:48.040 align:start position:0%
+refactor of a p2p and J's ipfs means for
+ 
+
+00:04:48.040 --> 00:04:52.100 align:start position:0%
+refactor of a p2p and J's ipfs means for
+our<00:04:48.480><c> user</c><00:04:49.480><c> facing</c><00:04:49.990><c> applications</c><00:04:50.430><c> namely</c><00:04:51.430><c> a</c>
+
+00:04:52.100 --> 00:04:52.110 align:start position:0%
+our user facing applications namely a
+ 
+
+00:04:52.110 --> 00:04:56.400 align:start position:0%
+our user facing applications namely a
+companion<00:04:53.460><c> web</c><00:04:54.460><c> UI</c><00:04:54.610><c> hand</c><00:04:55.090><c> desktop</c><00:04:55.750><c> self</c>
+
+00:04:56.400 --> 00:04:56.410 align:start position:0%
+companion web UI hand desktop self
+ 
+
+00:04:56.410 --> 00:04:59.790 align:start position:0%
+companion web UI hand desktop self
+assessment<00:04:57.040><c> mode</c><00:04:57.700><c> that</c><00:04:58.380><c> multiple</c><00:04:59.380><c> times</c><00:04:59.440><c> so</c><00:04:59.770><c> I</c>
+
+00:04:59.790 --> 00:04:59.800 align:start position:0%
+assessment mode that multiple times so I
+ 
+
+00:04:59.800 --> 00:05:04.560 align:start position:0%
+assessment mode that multiple times so I
+feel<00:05:00.310><c> makes</c><00:05:01.000><c> sense</c><00:05:01.240><c> to</c><00:05:01.950><c> could</c><00:05:02.950><c> you</c><00:05:03.540><c> go</c><00:05:04.540><c> over</c>
+
+00:05:04.560 --> 00:05:04.570 align:start position:0%
+feel makes sense to could you go over
+ 
+
+00:05:04.570 --> 00:05:08.400 align:start position:0%
+feel makes sense to could you go over
+them<00:05:05.440><c> and</c><00:05:06.070><c> mention</c><00:05:06.690><c> had</c><00:05:07.690><c> all</c><00:05:07.990><c> pages</c>
+
+00:05:08.400 --> 00:05:08.410 align:start position:0%
+them and mention had all pages
+ 
+
+00:05:08.410 --> 00:05:11.130 align:start position:0%
+them and mention had all pages
+pre-loaded<00:05:09.280><c> before</c><00:05:09.760><c> I</c><00:05:09.790><c> rebooted</c><00:05:10.510><c> my</c><00:05:10.570><c> laptop</c>
+
+00:05:11.130 --> 00:05:11.140 align:start position:0%
+pre-loaded before I rebooted my laptop
+ 
+
+00:05:11.140 --> 00:05:16.500 align:start position:0%
+pre-loaded before I rebooted my laptop
+so<00:05:13.800><c> from</c><00:05:14.800><c> IP</c><00:05:15.070><c> first</c><00:05:15.340><c> companion</c><00:05:15.910><c> perspective</c>
+
+00:05:16.500 --> 00:05:16.510 align:start position:0%
+so from IP first companion perspective
+ 
+
+00:05:16.510 --> 00:05:21.900 align:start position:0%
+so from IP first companion perspective
+we<00:05:17.230><c> use</c><00:05:17.740><c> internally</c><00:05:18.580><c> both</c><00:05:19.410><c> J's</c><00:05:20.410><c> ipfs</c><00:05:21.190><c> full</c>
+
+00:05:21.900 --> 00:05:21.910 align:start position:0%
+we use internally both J's ipfs full
+ 
+
+00:05:21.910 --> 00:05:28.530 align:start position:0%
+we use internally both J's ipfs full
+note<00:05:22.440><c> we</c><00:05:23.440><c> also</c><00:05:23.710><c> run</c><00:05:25.140><c> J's</c><00:05:26.140><c> ipfs</c><00:05:26.770><c> HTTP</c><00:05:27.340><c> client</c><00:05:27.700><c> so</c>
+
+00:05:28.530 --> 00:05:28.540 align:start position:0%
+note we also run J's ipfs HTTP client so
+ 
+
+00:05:28.540 --> 00:05:30.570 align:start position:0%
+note we also run J's ipfs HTTP client so
+user<00:05:28.780><c> can</c><00:05:29.050><c> pick</c><00:05:29.260><c> between</c><00:05:29.560><c> external</c><00:05:30.280><c> and</c>
+
+00:05:30.570 --> 00:05:30.580 align:start position:0%
+user can pick between external and
+ 
+
+00:05:30.580 --> 00:05:35.430 align:start position:0%
+user can pick between external and
+embedded<00:05:31.210><c> note</c><00:05:31.650><c> and</c><00:05:32.650><c> in</c><00:05:33.310><c> brave</c><00:05:33.640><c> we</c><00:05:34.240><c> also</c><00:05:34.540><c> use</c>
+
+00:05:35.430 --> 00:05:35.440 align:start position:0%
+embedded note and in brave we also use
+ 
+
+00:05:35.440 --> 00:05:38.460 align:start position:0%
+embedded note and in brave we also use
+like<00:05:36.220><c> we</c><00:05:37.060><c> make</c><00:05:37.300><c> a</c><00:05:37.480><c> more</c><00:05:37.780><c> extensive</c><00:05:38.140><c> use</c><00:05:38.440><c> of</c>
+
+00:05:38.460 --> 00:05:38.470 align:start position:0%
+like we make a more extensive use of
+ 
+
+00:05:38.470 --> 00:05:41.370 align:start position:0%
+like we make a more extensive use of
+embedded<00:05:39.310><c> JSF</c><00:05:39.640><c> us</c><00:05:40.000><c> where</c><00:05:40.300><c> we</c><00:05:40.480><c> provide</c><00:05:40.870><c> custom</c>
+
+00:05:41.370 --> 00:05:41.380 align:start position:0%
+embedded JSF us where we provide custom
+ 
+
+00:05:41.380 --> 00:05:44.990 align:start position:0%
+embedded JSF us where we provide custom
+Lippe<00:05:41.740><c> to</c><00:05:41.890><c> the</c><00:05:42.450><c> config</c><00:05:43.450><c> and</c><00:05:43.540><c> modules</c><00:05:43.990><c> for</c>
+
+00:05:44.990 --> 00:05:45.000 align:start position:0%
+Lippe to the config and modules for
+ 
+
+00:05:45.000 --> 00:05:49.350 align:start position:0%
+Lippe to the config and modules for
+things<00:05:46.000><c> like</c><00:05:46.120><c> TCP</c><00:05:46.480><c> transport</c><00:05:47.200><c> and</c><00:05:47.760><c> more</c><00:05:48.760><c> like</c>
+
+00:05:49.350 --> 00:05:49.360 align:start position:0%
+things like TCP transport and more like
+ 
+
+00:05:49.360 --> 00:05:52.200 align:start position:0%
+things like TCP transport and more like
+more<00:05:49.750><c> closely</c><00:05:50.740><c> tailored</c><00:05:51.070><c> version</c><00:05:52.000><c> of</c>
+
+00:05:52.200 --> 00:05:52.210 align:start position:0%
+more closely tailored version of
+ 
+
+00:05:52.210 --> 00:05:54.960 align:start position:0%
+more closely tailored version of
+embedded<00:05:52.660><c> JC</c><00:05:52.960><c> DFS</c><00:05:53.320><c> for</c><00:05:53.680><c> that</c><00:05:53.970><c> brief</c>
+
+00:05:54.960 --> 00:05:54.970 align:start position:0%
+embedded JC DFS for that brief
+ 
+
+00:05:54.970 --> 00:05:59.070 align:start position:0%
+embedded JC DFS for that brief
+environment<00:05:55.660><c> and</c><00:05:55.870><c> in</c><00:05:56.500><c> all</c><00:05:56.830><c> those</c><00:05:58.080><c> touch</c>
+
+00:05:59.070 --> 00:05:59.080 align:start position:0%
+environment and in all those touch
+ 
+
+00:05:59.080 --> 00:06:01.860 align:start position:0%
+environment and in all those touch
+points<00:05:59.110><c> we</c><00:05:59.950><c> will</c><00:06:00.370><c> have</c><00:06:00.700><c> to</c><00:06:00.940><c> basically</c><00:06:01.240><c> a</c>
+
+00:06:01.860 --> 00:06:01.870 align:start position:0%
+points we will have to basically a
+ 
+
+00:06:01.870 --> 00:06:06.000 align:start position:0%
+points we will have to basically a
+probably<00:06:03.060><c> do</c><00:06:04.060><c> like</c><00:06:04.510><c> a</c><00:06:04.570><c> factor</c><00:06:05.110><c> of</c><00:06:05.140><c> IP</c><00:06:05.770><c> fat</c>
+
+00:06:06.000 --> 00:06:06.010 align:start position:0%
+probably do like a factor of IP fat
+ 
+
+00:06:06.010 --> 00:06:08.880 align:start position:0%
+probably do like a factor of IP fat
+compile<00:06:06.370><c> code</c><00:06:06.580><c> that's</c><00:06:07.270><c> why</c><00:06:07.450><c> I</c><00:06:07.480><c> did</c><00:06:08.140><c> not</c><00:06:08.440><c> work</c>
+
+00:06:08.880 --> 00:06:08.890 align:start position:0%
+compile code that's why I did not work
+ 
+
+00:06:08.890 --> 00:06:11.460 align:start position:0%
+compile code that's why I did not work
+on<00:06:09.160><c> companion</c><00:06:09.760><c> for</c><00:06:10.030><c> some</c><00:06:10.660><c> time</c><00:06:10.930><c> mostly</c>
+
+00:06:11.460 --> 00:06:11.470 align:start position:0%
+on companion for some time mostly
+ 
+
+00:06:11.470 --> 00:06:14.720 align:start position:0%
+on companion for some time mostly
+waiting<00:06:11.620><c> for</c><00:06:12.070><c> dust</c><00:06:12.580><c> to</c><00:06:12.760><c> settle</c><00:06:12.790><c> down</c><00:06:13.530><c> around</c>
+
+00:06:14.720 --> 00:06:14.730 align:start position:0%
+waiting for dust to settle down around
+ 
+
+00:06:14.730 --> 00:06:18.780 align:start position:0%
+waiting for dust to settle down around
+ipfs<00:06:15.760><c> waiting</c><00:06:16.300><c> for</c><00:06:16.510><c> the</c><00:06:16.720><c> next</c><00:06:17.140><c> rid</c><00:06:17.530><c> of</c><00:06:17.790><c> Jessica</c>
+
+00:06:18.780 --> 00:06:18.790 align:start position:0%
+ipfs waiting for the next rid of Jessica
+ 
+
+00:06:18.790 --> 00:06:23.460 align:start position:0%
+ipfs waiting for the next rid of Jessica
+Fez<00:06:19.270><c> and</c><00:06:20.280><c> also</c><00:06:21.280><c> waiting</c><00:06:21.760><c> for</c><00:06:22.470><c> signal</c>
+
+00:06:23.460 --> 00:06:23.470 align:start position:0%
+Fez and also waiting for signal
+ 
+
+00:06:23.470 --> 00:06:26.310 align:start position:0%
+Fez and also waiting for signal
+instruction<00:06:24.150><c> because</c><00:06:25.150><c> that</c><00:06:25.720><c> embedded</c><00:06:26.110><c> node</c>
+
+00:06:26.310 --> 00:06:26.320 align:start position:0%
+instruction because that embedded node
+ 
+
+00:06:26.320 --> 00:06:30.620 align:start position:0%
+instruction because that embedded node
+is<00:06:26.680><c> right</c><00:06:27.340><c> now</c><00:06:27.520><c> relying</c><00:06:28.000><c> on</c><00:06:28.270><c> WebSocket</c><00:06:29.140><c> start</c>
+
+00:06:30.620 --> 00:06:30.630 align:start position:0%
+is right now relying on WebSocket start
+ 
+
+00:06:30.630 --> 00:06:35.070 align:start position:0%
+is right now relying on WebSocket start
+clicking<00:06:31.630><c> brave</c><00:06:32.070><c> so</c><00:06:33.070><c> unless</c><00:06:33.790><c> we</c><00:06:34.030><c> have</c><00:06:34.080><c> either</c>
+
+00:06:35.070 --> 00:06:35.080 align:start position:0%
+clicking brave so unless we have either
+ 
+
+00:06:35.080 --> 00:06:37.170 align:start position:0%
+clicking brave so unless we have either
+that<00:06:35.500><c> web</c><00:06:35.800><c> RTC</c><00:06:36.100><c> one</c><00:06:36.460><c> or</c>
+
+00:06:37.170 --> 00:06:37.180 align:start position:0%
+that web RTC one or
+ 
+
+00:06:37.180 --> 00:06:40.320 align:start position:0%
+that web RTC one or
+Stardust's<00:06:37.840><c> ready</c><00:06:38.850><c> companion</c><00:06:39.850><c> is</c><00:06:40.000><c> sort</c><00:06:40.210><c> of</c>
+
+00:06:40.320 --> 00:06:40.330 align:start position:0%
+Stardust's ready companion is sort of
+ 
+
+00:06:40.330 --> 00:06:44.189 align:start position:0%
+Stardust's ready companion is sort of
+like<00:06:40.509><c> a</c><00:06:41.190><c> blocked</c><00:06:42.210><c> and</c><00:06:43.210><c> we</c><00:06:43.240><c> are</c><00:06:43.539><c> not</c><00:06:43.720><c> able</c><00:06:43.900><c> to</c>
+
+00:06:44.189 --> 00:06:44.199 align:start position:0%
+like a blocked and we are not able to
+ 
+
+00:06:44.199 --> 00:06:48.379 align:start position:0%
+like a blocked and we are not able to
+switch<00:06:44.440><c> to</c><00:06:44.710><c> the</c><00:06:44.919><c> newer</c><00:06:45.160><c> version</c><00:06:46.229><c> yep</c><00:06:47.259><c> that's</c>
+
+00:06:48.379 --> 00:06:48.389 align:start position:0%
+switch to the newer version yep that's
+ 
+
+00:06:48.389 --> 00:06:50.909 align:start position:0%
+switch to the newer version yep that's
+the<00:06:49.389><c> topic</c><00:06:49.660><c> of</c><00:06:49.870><c> member</c><00:06:50.259><c> the</c><00:06:50.380><c> detective</c><00:06:50.800><c> has</c>
+
+00:06:50.909 --> 00:06:50.919 align:start position:0%
+the topic of member the detective has
+ 
+
+00:06:50.919 --> 00:06:53.600 align:start position:0%
+the topic of member the detective has
+embraced<00:06:51.190><c> it's</c><00:06:51.430><c> a</c><00:06:51.490><c> separate</c><00:06:51.990><c> separate</c><00:06:52.990><c> set</c><00:06:53.259><c> of</c>
+
+00:06:53.600 --> 00:06:53.610 align:start position:0%
+embraced it's a separate separate set of
+ 
+
+00:06:53.610 --> 00:06:58.010 align:start position:0%
+embraced it's a separate separate set of
+challenges<00:06:55.080><c> namely</c><00:06:56.080><c> with</c><00:06:56.410><c> some</c><00:06:57.039><c> IP</c><00:06:57.220><c> eyes</c>
+
+00:06:58.010 --> 00:06:58.020 align:start position:0%
+challenges namely with some IP eyes
+ 
+
+00:06:58.020 --> 00:07:02.670 align:start position:0%
+challenges namely with some IP eyes
+chromium<00:06:59.020><c> ass</c><00:06:59.850><c> API</c><00:07:00.850><c> are</c><00:07:01.210><c> being</c><00:07:01.900><c> deprecated</c><00:07:02.440><c> by</c>
+
+00:07:02.670 --> 00:07:02.680 align:start position:0%
+chromium ass API are being deprecated by
+ 
+
+00:07:02.680 --> 00:07:05.700 align:start position:0%
+chromium ass API are being deprecated by
+Google<00:07:03.009><c> which</c><00:07:03.699><c> gives</c><00:07:04.030><c> us</c><00:07:04.300><c> like</c><00:07:04.570><c> a</c><00:07:04.600><c> soft</c><00:07:04.930><c> window</c>
+
+00:07:05.700 --> 00:07:05.710 align:start position:0%
+Google which gives us like a soft window
+ 
+
+00:07:05.710 --> 00:07:11.249 align:start position:0%
+Google which gives us like a soft window
+until<00:07:06.810><c> 2022</c><00:07:07.810><c> to</c><00:07:08.169><c> figure</c><00:07:08.800><c> it</c><00:07:08.919><c> out</c><00:07:09.960><c> next</c><00:07:10.960><c> steps</c>
+
+00:07:11.249 --> 00:07:11.259 align:start position:0%
+until 2022 to figure it out next steps
+ 
+
+00:07:11.259 --> 00:07:14.670 align:start position:0%
+until 2022 to figure it out next steps
+for<00:07:11.349><c> brave</c><00:07:11.789><c> but</c><00:07:12.789><c> not</c><00:07:12.940><c> like</c><00:07:13.240><c> separate</c><00:07:13.930><c> branch</c>
+
+00:07:14.670 --> 00:07:14.680 align:start position:0%
+for brave but not like separate branch
+ 
+
+00:07:14.680 --> 00:07:18.749 align:start position:0%
+for brave but not like separate branch
+of<00:07:14.800><c> work</c><00:07:15.009><c> on</c><00:07:16.000><c> the</c><00:07:16.389><c> ITF</c><00:07:17.229><c> s</c><00:07:17.380><c> web</c><00:07:17.590><c> UI</c><00:07:17.770><c> which</c><00:07:18.280><c> is</c><00:07:18.490><c> our</c>
+
+00:07:18.749 --> 00:07:18.759 align:start position:0%
+of work on the ITF s web UI which is our
+ 
+
+00:07:18.759 --> 00:07:21.360 align:start position:0%
+of work on the ITF s web UI which is our
+dashboard<00:07:19.449><c> and</c><00:07:19.660><c> interface</c><00:07:20.440><c> for</c><00:07:20.830><c> and</c><00:07:21.190><c> it's</c>
+
+00:07:21.360 --> 00:07:21.370 align:start position:0%
+dashboard and interface for and it's
+ 
+
+00:07:21.370 --> 00:07:26.430 align:start position:0%
+dashboard and interface for and it's
+shaped<00:07:21.880><c> with</c><00:07:22.530><c> go</c><00:07:23.530><c> IP</c><00:07:23.710><c> of</c><00:07:23.919><c> us</c><00:07:24.180><c> we</c><00:07:25.180><c> chase</c><00:07:25.870><c> a</c><00:07:26.020><c> DFS</c>
+
+00:07:26.430 --> 00:07:26.440 align:start position:0%
+shaped with go IP of us we chase a DFS
+ 
+
+00:07:26.440 --> 00:07:29.129 align:start position:0%
+shaped with go IP of us we chase a DFS
+with<00:07:26.979><c> IP</c><00:07:27.220><c> first</c><00:07:27.520><c> companion</c><00:07:27.849><c> and</c><00:07:28.210><c> also</c><00:07:28.690><c> with</c><00:07:28.930><c> IP</c>
+
+00:07:29.129 --> 00:07:29.139 align:start position:0%
+with IP first companion and also with IP
+ 
+
+00:07:29.139 --> 00:07:31.800 align:start position:0%
+with IP first companion and also with IP
+felt<00:07:29.440><c> desktop</c><00:07:29.830><c> so</c><00:07:30.550><c> this</c><00:07:30.759><c> dashboard</c><00:07:31.000><c> is</c><00:07:31.419><c> either</c>
+
+00:07:31.800 --> 00:07:31.810 align:start position:0%
+felt desktop so this dashboard is either
+ 
+
+00:07:31.810 --> 00:07:35.700 align:start position:0%
+felt desktop so this dashboard is either
+bundled<00:07:32.530><c> wave</c><00:07:32.710><c> or</c><00:07:32.979><c> is</c><00:07:33.639><c> open</c><00:07:34.240><c> from</c><00:07:34.509><c> ipfs</c><00:07:35.080><c> by</c>
+
+00:07:35.700 --> 00:07:35.710 align:start position:0%
+bundled wave or is open from ipfs by
+ 
+
+00:07:35.710 --> 00:07:39.810 align:start position:0%
+bundled wave or is open from ipfs by
+those<00:07:36.090><c> projects</c><00:07:37.090><c> and</c><00:07:37.289><c> it's</c><00:07:38.289><c> basically</c><00:07:38.820><c> web</c>
+
+00:07:39.810 --> 00:07:39.820 align:start position:0%
+those projects and it's basically web
+ 
+
+00:07:39.820 --> 00:07:43.500 align:start position:0%
+those projects and it's basically web
+app<00:07:39.970><c> in</c><00:07:40.240><c> react</c><00:07:40.660><c> which</c><00:07:41.260><c> connects</c><00:07:41.710><c> to</c><00:07:41.940><c> ipfs</c><00:07:42.940><c> HTTP</c>
+
+00:07:43.500 --> 00:07:43.510 align:start position:0%
+app in react which connects to ipfs HTTP
+ 
+
+00:07:43.510 --> 00:07:48.589 align:start position:0%
+app in react which connects to ipfs HTTP
+api<00:07:43.810><c> over</c><00:07:44.849><c> to</c><00:07:45.849><c> ipfs</c><00:07:46.479><c> api</c><00:07:46.750><c> of</c><00:07:47.110><c> our</c><00:07:47.380><c> HDD</c><00:07:48.010><c> client</c>
+
+00:07:48.589 --> 00:07:48.599 align:start position:0%
+api over to ipfs api of our HDD client
+ 
+
+00:07:48.599 --> 00:07:54.870 align:start position:0%
+api over to ipfs api of our HDD client
+which<00:07:49.680><c> also</c><00:07:50.680><c> got</c><00:07:51.190><c> refactored</c><00:07:51.789><c> and</c><00:07:53.159><c> we'll</c><00:07:54.159><c> meet</c>
+
+00:07:54.870 --> 00:07:54.880 align:start position:0%
+which also got refactored and we'll meet
+ 
+
+00:07:54.880 --> 00:07:59.100 align:start position:0%
+which also got refactored and we'll meet
+someone<00:07:55.690><c> to</c><00:07:55.900><c> give</c><00:07:56.860><c> us</c><00:07:56.979><c> some</c><00:07:57.159><c> time</c><00:07:57.340><c> to</c><00:07:58.080><c> go</c><00:07:59.080><c> over</c>
+
+00:07:59.100 --> 00:07:59.110 align:start position:0%
+someone to give us some time to go over
+ 
+
+00:07:59.110 --> 00:08:01.620 align:start position:0%
+someone to give us some time to go over
+all<00:07:59.770><c> the</c><00:08:00.039><c> users</c><00:08:00.430><c> touch</c><00:08:00.699><c> points</c><00:08:01.000><c> with</c><00:08:01.030><c> our</c><00:08:01.300><c> api</c>
+
+00:08:01.620 --> 00:08:01.630 align:start position:0%
+all the users touch points with our api
+ 
+
+00:08:01.630 --> 00:08:05.790 align:start position:0%
+all the users touch points with our api
+and<00:08:02.789><c> refactor</c><00:08:03.789><c> that</c><00:08:03.940><c> to</c><00:08:04.090><c> the</c><00:08:04.210><c> new</c><00:08:04.330><c> api</c><00:08:04.630><c> and</c><00:08:05.020><c> for</c>
+
+00:08:05.790 --> 00:08:05.800 align:start position:0%
+and refactor that to the new api and for
+ 
+
+00:08:05.800 --> 00:08:07.890 align:start position:0%
+and refactor that to the new api and for
+a<00:08:05.830><c> people</c><00:08:06.159><c> desktop</c><00:08:06.580><c> the</c><00:08:06.789><c> surface</c><00:08:07.150><c> it</c><00:08:07.599><c> looks</c>
+
+00:08:07.890 --> 00:08:07.900 align:start position:0%
+a people desktop the surface it looks
+ 
+
+00:08:07.900 --> 00:08:11.339 align:start position:0%
+a people desktop the surface it looks
+similar<00:08:08.349><c> is</c><00:08:08.650><c> similar</c><00:08:09.280><c> to</c><00:08:09.669><c> IDF</c><00:08:10.509><c> us</c><00:08:10.630><c> web</c><00:08:10.780><c> UI</c><00:08:10.930><c> this</c>
+
+00:08:11.339 --> 00:08:11.349 align:start position:0%
+similar is similar to IDF us web UI this
+ 
+
+00:08:11.349 --> 00:08:16.260 align:start position:0%
+similar is similar to IDF us web UI this
+electron<00:08:12.099><c> up</c><00:08:13.320><c> however</c><00:08:14.320><c> it</c><00:08:14.889><c> does</c><00:08:15.400><c> not</c><00:08:15.430><c> have</c><00:08:16.000><c> as</c>
+
+00:08:16.260 --> 00:08:16.270 align:start position:0%
+electron up however it does not have as
+ 
+
+00:08:16.270 --> 00:08:21.300 align:start position:0%
+electron up however it does not have as
+many<00:08:16.479><c> touch</c><00:08:16.750><c> points</c><00:08:16.780><c> with</c><00:08:17.310><c> idea</c><00:08:18.310><c> a</c><00:08:19.470><c> J's</c><00:08:20.470><c> ipfs</c>
+
+00:08:21.300 --> 00:08:21.310 align:start position:0%
+many touch points with idea a J's ipfs
+ 
+
+00:08:21.310 --> 00:08:25.469 align:start position:0%
+many touch points with idea a J's ipfs
+HTTP<00:08:22.030><c> client</c><00:08:23.099><c> programmatic</c><00:08:24.099><c> interface</c><00:08:24.550><c> it's</c>
+
+00:08:25.469 --> 00:08:25.479 align:start position:0%
+HTTP client programmatic interface it's
+ 
+
+00:08:25.479 --> 00:08:28.920 align:start position:0%
+HTTP client programmatic interface it's
+mostly<00:08:25.870><c> like</c><00:08:26.080><c> just</c><00:08:26.289><c> checks</c><00:08:26.530><c> if</c><00:08:27.720><c> notice</c><00:08:28.720><c> out</c>
+
+00:08:28.920 --> 00:08:28.930 align:start position:0%
+mostly like just checks if notice out
+ 
+
+00:08:28.930 --> 00:08:31.439 align:start position:0%
+mostly like just checks if notice out
+and<00:08:29.460><c> for</c><00:08:30.460><c> everything</c><00:08:30.880><c> else</c>
+
+00:08:31.439 --> 00:08:31.449 align:start position:0%
+and for everything else
+ 
+
+00:08:31.449 --> 00:08:36.959 align:start position:0%
+and for everything else
+it<00:08:31.659><c> opens</c><00:08:32.140><c> web</c><00:08:32.289><c> UI</c><00:08:32.789><c> however</c><00:08:33.789><c> in</c><00:08:34.510><c> all</c><00:08:34.810><c> those</c><00:08:35.969><c> GUI</c>
+
+00:08:36.959 --> 00:08:36.969 align:start position:0%
+it opens web UI however in all those GUI
+ 
+
+00:08:36.969 --> 00:08:40.819 align:start position:0%
+it opens web UI however in all those GUI
+applications<00:08:37.599><c> we</c><00:08:37.959><c> are</c><00:08:38.529><c> still</c><00:08:39.250><c> using</c><00:08:39.430><c> the</c><00:08:39.669><c> old</c>
+
+00:08:40.819 --> 00:08:40.829 align:start position:0%
+applications we are still using the old
+ 
+
+00:08:40.829 --> 00:08:44.790 align:start position:0%
+applications we are still using the old
+callbacks<00:08:41.829><c> and</c><00:08:42.070><c> promises</c><00:08:42.640><c> based</c><00:08:42.930><c> API</c><00:08:43.930><c> before</c>
+
+00:08:44.790 --> 00:08:44.800 align:start position:0%
+callbacks and promises based API before
+ 
+
+00:08:44.800 --> 00:08:47.370 align:start position:0%
+callbacks and promises based API before
+did<00:08:45.070><c> this</c><00:08:45.459><c> refactor</c><00:08:46.300><c> with</c><00:08:46.510><c> introduced</c><00:08:47.170><c> some</c>
+
+00:08:47.370 --> 00:08:47.380 align:start position:0%
+did this refactor with introduced some
+ 
+
+00:08:47.380 --> 00:08:50.790 align:start position:0%
+did this refactor with introduced some
+breaking<00:08:47.740><c> changes</c><00:08:48.070><c> so</c><00:08:48.850><c> the</c><00:08:49.690><c> patience</c><00:08:50.110><c> we</c>
+
+00:08:50.790 --> 00:08:50.800 align:start position:0%
+breaking changes so the patience we
+ 
+
+00:08:50.800 --> 00:08:53.780 align:start position:0%
+breaking changes so the patience we
+gets<00:08:51.040><c> it</c><00:08:51.279><c> out</c><00:08:51.370><c> eventually</c><00:08:51.610><c> but</c><00:08:52.180><c> I</c><00:08:52.240><c> feel</c><00:08:52.600><c> we</c>
+
+00:08:53.780 --> 00:08:53.790 align:start position:0%
+gets it out eventually but I feel we
+ 
+
+00:08:53.790 --> 00:08:57.360 align:start position:0%
+gets it out eventually but I feel we
+want<00:08:54.790><c> to</c><00:08:54.970><c> take</c><00:08:55.120><c> it</c><00:08:55.269><c> slow</c><00:08:56.100><c> especially</c><00:08:57.100><c> given</c>
+
+00:08:57.360 --> 00:08:57.370 align:start position:0%
+want to take it slow especially given
+ 
+
+00:08:57.370 --> 00:09:00.240 align:start position:0%
+want to take it slow especially given
+that<00:08:57.399><c> in</c><00:08:58.080><c> ipfs</c><00:08:59.080><c> web</c><00:08:59.260><c> UI</c><00:08:59.440><c> we</c><00:08:59.680><c> got</c><00:08:59.830><c> end-to-end</c>
+
+00:09:00.240 --> 00:09:00.250 align:start position:0%
+that in ipfs web UI we got end-to-end
+ 
+
+00:09:00.250 --> 00:09:03.600 align:start position:0%
+that in ipfs web UI we got end-to-end
+tests<00:09:00.730><c> which</c><00:09:01.630><c> I</c><00:09:02.110><c> started</c><00:09:02.769><c> working</c><00:09:02.980><c> here</c><00:09:03.339><c> today</c>
+
+00:09:03.600 --> 00:09:03.610 align:start position:0%
+tests which I started working here today
+ 
+
+00:09:03.610 --> 00:09:06.690 align:start position:0%
+tests which I started working here today
+to<00:09:04.149><c> make</c><00:09:04.360><c> sure</c><00:09:04.570><c> they</c><00:09:04.870><c> work</c><00:09:05.200><c> with</c><00:09:05.589><c> both</c><00:09:05.890><c> old</c><00:09:06.160><c> and</c>
+
+00:09:06.690 --> 00:09:06.700 align:start position:0%
+to make sure they work with both old and
+ 
+
+00:09:06.700 --> 00:09:11.030 align:start position:0%
+to make sure they work with both old and
+new<00:09:08.310><c> programmatic</c><00:09:09.310><c> interface</c><00:09:09.730><c> from</c><00:09:10.029><c> the</c><00:09:10.089><c> J's</c>
+
+00:09:11.030 --> 00:09:11.040 align:start position:0%
+new programmatic interface from the J's
+ 
+
+00:09:11.040 --> 00:09:14.370 align:start position:0%
+new programmatic interface from the J's
+side<00:09:12.040><c> of</c><00:09:12.190><c> things</c><00:09:12.430><c> so</c><00:09:12.670><c> that</c><00:09:13.600><c> would</c><00:09:13.750><c> enable</c><00:09:13.959><c> us</c>
+
+00:09:14.370 --> 00:09:14.380 align:start position:0%
+side of things so that would enable us
+ 
+
+00:09:14.380 --> 00:09:17.910 align:start position:0%
+side of things so that would enable us
+to<00:09:14.519><c> sort</c><00:09:15.519><c> of</c><00:09:15.640><c> like</c><00:09:15.820><c> randos</c><00:09:16.300><c> and</c><00:09:16.570><c> run</c><00:09:16.899><c> tests</c><00:09:17.350><c> as</c>
+
+00:09:17.910 --> 00:09:17.920 align:start position:0%
+to sort of like randos and run tests as
+ 
+
+00:09:17.920 --> 00:09:20.460 align:start position:0%
+to sort of like randos and run tests as
+we<00:09:18.250><c> are</c><00:09:18.399><c> transitioning</c><00:09:18.640><c> both</c><00:09:19.630><c> like</c><00:09:19.959><c> web</c><00:09:20.260><c> UI</c>
+
+00:09:20.460 --> 00:09:20.470 align:start position:0%
+we are transitioning both like web UI
+ 
+
+00:09:20.470 --> 00:09:25.620 align:start position:0%
+we are transitioning both like web UI
+but<00:09:20.980><c> also</c><00:09:23.220><c> go</c><00:09:24.220><c> active</c><00:09:24.490><c> at</c><00:09:24.670><c> Jessup</c><00:09:25.060><c> EFS</c><00:09:25.390><c> which</c>
+
+00:09:25.620 --> 00:09:25.630 align:start position:0%
+but also go active at Jessup EFS which
+ 
+
+00:09:25.630 --> 00:09:28.670 align:start position:0%
+but also go active at Jessup EFS which
+also<00:09:25.839><c> will</c><00:09:26.079><c> run</c><00:09:26.410><c> those</c><00:09:26.649><c> intern</c><00:09:27.100><c> tests</c><00:09:27.490><c> and</c>
+
+00:09:28.670 --> 00:09:28.680 align:start position:0%
+also will run those intern tests and
+ 
+
+00:09:28.680 --> 00:09:32.310 align:start position:0%
+also will run those intern tests and
+handle<00:09:29.680><c> situation</c><00:09:30.279><c> when</c><00:09:30.430><c> we</c><00:09:30.610><c> have</c><00:09:31.029><c> like</c><00:09:31.690><c> one</c>
+
+00:09:32.310 --> 00:09:32.320 align:start position:0%
+handle situation when we have like one
+ 
+
+00:09:32.320 --> 00:09:36.509 align:start position:0%
+handle situation when we have like one
+part<00:09:32.850><c> front-end</c><00:09:33.850><c> or</c><00:09:33.940><c> back-end</c><00:09:34.410><c> on</c><00:09:35.410><c> of</c><00:09:36.279><c> those</c>
+
+00:09:36.509 --> 00:09:36.519 align:start position:0%
+part front-end or back-end on of those
+ 
+
+00:09:36.519 --> 00:09:39.900 align:start position:0%
+part front-end or back-end on of those
+end-to-end<00:09:37.120><c> tests</c><00:09:37.600><c> being</c><00:09:38.230><c> using</c><00:09:39.160><c> the</c><00:09:39.370><c> new</c><00:09:39.550><c> ITI</c>
+
+00:09:39.900 --> 00:09:39.910 align:start position:0%
+end-to-end tests being using the new ITI
+ 
+
+00:09:39.910 --> 00:09:43.920 align:start position:0%
+end-to-end tests being using the new ITI
+and<00:09:40.300><c> maybe</c><00:09:40.480><c> the</c><00:09:40.750><c> demon</c><00:09:41.200><c> is</c><00:09:41.290><c> l1</c><00:09:42.480><c> so</c><00:09:43.480><c> that's</c><00:09:43.660><c> more</c>
+
+00:09:43.920 --> 00:09:43.930 align:start position:0%
+and maybe the demon is l1 so that's more
+ 
+
+00:09:43.930 --> 00:09:46.009 align:start position:0%
+and maybe the demon is l1 so that's more
+or<00:09:43.990><c> less</c><00:09:44.110><c> the</c><00:09:44.589><c> current</c><00:09:45.130><c> situation</c><00:09:45.250><c> and</c>
+
+00:09:46.009 --> 00:09:46.019 align:start position:0%
+or less the current situation and
+ 
+
+00:09:46.019 --> 00:09:48.449 align:start position:0%
+or less the current situation and
+high-level<00:09:47.019><c> overview</c><00:09:47.200><c> of</c><00:09:47.589><c> where</c><00:09:48.160><c> we</c><00:09:48.310><c> are</c><00:09:48.339><c> with</c>
+
+00:09:48.449 --> 00:09:48.459 align:start position:0%
+high-level overview of where we are with
+ 
+
+00:09:48.459 --> 00:09:56.500 align:start position:0%
+high-level overview of where we are with
+those<00:09:50.040><c> with</c><00:09:51.040><c> those</c><00:09:51.279><c> factors</c>
+
+00:09:56.500 --> 00:09:56.510 align:start position:0%
+ 
+ 
+
+00:09:56.510 --> 00:09:59.470 align:start position:0%
+ 
+I<00:09:56.540><c> believe</c><00:09:57.139><c> that's</c><00:09:57.350><c> it</c><00:09:57.470><c> from</c><00:09:57.769><c> me</c>
+
+00:09:59.470 --> 00:09:59.480 align:start position:0%
+I believe that's it from me
+ 
+
+00:09:59.480 --> 00:10:03.460 align:start position:0%
+I believe that's it from me
+I<00:09:59.920><c> will</c><00:10:00.920><c> have</c><00:10:01.360><c> seven</c><00:10:02.360><c> thing</c><00:10:02.630><c> regarding</c><00:10:03.260><c> the</c>
+
+00:10:03.460 --> 00:10:03.470 align:start position:0%
+I will have seven thing regarding the
+ 
+
+00:10:03.470 --> 00:10:05.980 align:start position:0%
+I will have seven thing regarding the
+starters<00:10:04.010><c> since</c><00:10:04.339><c> you</c><00:10:04.459><c> mentioned</c><00:10:04.820><c> it</c><00:10:04.990><c> so</c>
+
+00:10:05.980 --> 00:10:05.990 align:start position:0%
+starters since you mentioned it so
+ 
+
+00:10:05.990 --> 00:10:08.139 align:start position:0%
+starters since you mentioned it so
+basically<00:10:06.199><c> I've</c><00:10:06.740><c> been</c><00:10:06.769><c> pushing</c><00:10:07.430><c> forward</c><00:10:08.060><c> with</c>
+
+00:10:08.139 --> 00:10:08.149 align:start position:0%
+basically I've been pushing forward with
+ 
+
+00:10:08.149 --> 00:10:11.620 align:start position:0%
+basically I've been pushing forward with
+it<00:10:08.360><c> in</c><00:10:08.540><c> the</c><00:10:08.720><c> last</c><00:10:08.930><c> couple</c><00:10:09.230><c> of</c><00:10:09.410><c> days</c><00:10:09.680><c> and</c><00:10:10.600><c> now</c><00:10:11.600><c> I</c>
+
+00:10:11.620 --> 00:10:11.630 align:start position:0%
+it in the last couple of days and now I
+ 
+
+00:10:11.630 --> 00:10:15.189 align:start position:0%
+it in the last couple of days and now I
+got<00:10:12.139><c> to</c><00:10:12.170><c> the</c><00:10:12.730><c> the</c><00:10:13.730><c> PR</c><00:10:14.029><c> finally</c><00:10:14.600><c> ready</c><00:10:14.870><c> for</c><00:10:15.139><c> an</c>
+
+00:10:15.189 --> 00:10:15.199 align:start position:0%
+got to the the PR finally ready for an
+ 
+
+00:10:15.199 --> 00:10:18.180 align:start position:0%
+got to the the PR finally ready for an
+initial<00:10:15.589><c> review</c><00:10:16.000><c> so</c><00:10:17.000><c> basically</c><00:10:17.810><c> there</c><00:10:18.019><c> are</c>
+
+00:10:18.180 --> 00:10:18.190 align:start position:0%
+initial review so basically there are
+ 
+
+00:10:18.190 --> 00:10:21.699 align:start position:0%
+initial review so basically there are
+some<00:10:19.190><c> things</c><00:10:19.490><c> to</c><00:10:20.290><c> eventually</c><00:10:21.290><c> polish</c>
+
+00:10:21.699 --> 00:10:21.709 align:start position:0%
+some things to eventually polish
+ 
+
+00:10:21.709 --> 00:10:25.240 align:start position:0%
+some things to eventually polish
+regarding<00:10:22.399><c> the</c><00:10:22.870><c> encryption</c><00:10:23.870><c> because</c><00:10:24.250><c> the</c>
+
+00:10:25.240 --> 00:10:25.250 align:start position:0%
+regarding the encryption because the
+ 
+
+00:10:25.250 --> 00:10:26.860 align:start position:0%
+regarding the encryption because the
+initial<00:10:25.399><c> version</c><00:10:25.820><c> of</c><00:10:25.880><c> star</c><00:10:26.149><c> list</c><00:10:26.360><c> was</c><00:10:26.839><c> not</c>
+
+00:10:26.860 --> 00:10:26.870 align:start position:0%
+initial version of star list was not
+ 
+
+00:10:26.870 --> 00:10:29.439 align:start position:0%
+initial version of star list was not
+using<00:10:27.649><c> Sakai</c><00:10:27.949><c> oh</c><00:10:27.980><c> and</c><00:10:28.339><c> now</c><00:10:29.000><c> with</c><00:10:29.149><c> the</c><00:10:29.209><c> current</c>
+
+00:10:29.439 --> 00:10:29.449 align:start position:0%
+using Sakai oh and now with the current
+ 
+
+00:10:29.449 --> 00:10:31.930 align:start position:0%
+using Sakai oh and now with the current
+dollar<00:10:29.660><c> I'm</c><00:10:30.380><c> using</c><00:10:30.649><c> it</c><00:10:30.920><c> it's</c><00:10:31.220><c> working</c><00:10:31.760><c> where</c>
+
+00:10:31.930 --> 00:10:31.940 align:start position:0%
+dollar I'm using it it's working where
+ 
+
+00:10:31.940 --> 00:10:34.720 align:start position:0%
+dollar I'm using it it's working where
+it's<00:10:32.029><c> using</c><00:10:32.389><c> the</c><00:10:32.959><c> secure</c><00:10:33.320><c> encryption</c><00:10:34.279><c> which</c>
+
+00:10:34.720 --> 00:10:34.730 align:start position:0%
+it's using the secure encryption which
+ 
+
+00:10:34.730 --> 00:10:38.160 align:start position:0%
+it's using the secure encryption which
+we<00:10:35.329><c> might</c><00:10:35.630><c> not</c><00:10:35.750><c> want</c><00:10:35.930><c> to</c><00:10:36.019><c> use</c><00:10:36.260><c> we</c><00:10:37.010><c> we</c><00:10:37.610><c> are</c><00:10:37.730><c> still</c>
+
+00:10:38.160 --> 00:10:38.170 align:start position:0%
+we might not want to use we we are still
+ 
+
+00:10:38.170 --> 00:10:41.259 align:start position:0%
+we might not want to use we we are still
+discussing<00:10:39.170><c> if</c><00:10:39.709><c> it</c><00:10:40.220><c> should</c><00:10:40.519><c> go</c><00:10:40.699><c> with</c><00:10:41.000><c> it</c><00:10:41.029><c> or</c>
+
+00:10:41.259 --> 00:10:41.269 align:start position:0%
+discussing if it should go with it or
+ 
+
+00:10:41.269 --> 00:10:45.400 align:start position:0%
+discussing if it should go with it or
+not<00:10:41.800><c> anyway</c><00:10:42.800><c> I</c><00:10:43.310><c> hope</c><00:10:43.790><c> that</c><00:10:44.029><c> we</c><00:10:44.240><c> can</c><00:10:44.540><c> get</c><00:10:45.320><c> it</c>
+
+00:10:45.400 --> 00:10:45.410 align:start position:0%
+not anyway I hope that we can get it
+ 
+
+00:10:45.410 --> 00:10:47.920 align:start position:0%
+not anyway I hope that we can get it
+March<00:10:45.709><c> next</c><00:10:46.010><c> week</c><00:10:46.339><c> and</c><00:10:46.570><c> after</c><00:10:47.570><c> getting</c><00:10:47.690><c> it</c>
+
+00:10:47.920 --> 00:10:47.930 align:start position:0%
+March next week and after getting it
+ 
+
+00:10:47.930 --> 00:10:49.870 align:start position:0%
+March next week and after getting it
+emerged<00:10:48.500><c> basically</c><00:10:49.070><c> we</c><00:10:49.160><c> also</c><00:10:49.339><c> need</c><00:10:49.670><c> we'll</c>
+
+00:10:49.870 --> 00:10:49.880 align:start position:0%
+emerged basically we also need we'll
+ 
+
+00:10:49.880 --> 00:10:53.050 align:start position:0%
+emerged basically we also need we'll
+need<00:10:50.060><c> to</c><00:10:50.500><c> deploy</c><00:10:51.500><c> the</c><00:10:51.709><c> starless</c><00:10:52.070><c> new</c><00:10:52.639><c> version</c>
+
+00:10:53.050 --> 00:10:53.060 align:start position:0%
+need to deploy the starless new version
+ 
+
+00:10:53.060 --> 00:10:55.810 align:start position:0%
+need to deploy the starless new version
+of<00:10:53.180><c> the</c><00:10:53.329><c> server</c><00:10:53.600><c> and</c><00:10:54.100><c> hopefully</c><00:10:55.100><c> after</c><00:10:55.639><c> that</c>
+
+00:10:55.810 --> 00:10:55.820 align:start position:0%
+of the server and hopefully after that
+ 
+
+00:10:55.820 --> 00:10:59.460 align:start position:0%
+of the server and hopefully after that
+the<00:10:56.209><c> third</c><00:10:56.240><c> list</c><00:10:56.630><c> will</c><00:10:56.810><c> be</c><00:10:56.839><c> ready</c><00:10:57.230><c> to</c><00:10:57.649><c> be</c><00:10:58.190><c> used</c>
+
+00:10:59.460 --> 00:10:59.470 align:start position:0%
+the third list will be ready to be used
+ 
+
+00:10:59.470 --> 00:11:03.579 align:start position:0%
+the third list will be ready to be used
+and<00:11:00.470><c> that's</c><00:11:00.800><c> it</c><00:11:01.029><c> that's</c><00:11:02.029><c> awesome</c><00:11:02.380><c> yeah</c><00:11:03.380><c> we</c>
+
+00:11:03.579 --> 00:11:03.589 align:start position:0%
+and that's it that's awesome yeah we
+ 
+
+00:11:03.589 --> 00:11:05.530 align:start position:0%
+and that's it that's awesome yeah we
+will<00:11:03.769><c> probably</c><00:11:03.980><c> need</c><00:11:04.430><c> more</c><00:11:04.490><c> than</c><00:11:04.790><c> one</c>
+
+00:11:05.530 --> 00:11:05.540 align:start position:0%
+will probably need more than one
+ 
+
+00:11:05.540 --> 00:11:08.740 align:start position:0%
+will probably need more than one
+I<00:11:05.569><c> would</c><00:11:06.410><c> I</c><00:11:06.589><c> would</c><00:11:06.620><c> feel</c><00:11:06.980><c> much</c><00:11:07.550><c> better</c><00:11:07.720><c> if</c><00:11:08.720><c> we</c>
+
+00:11:08.740 --> 00:11:08.750 align:start position:0%
+I would I would feel much better if we
+ 
+
+00:11:08.750 --> 00:11:13.319 align:start position:0%
+I would I would feel much better if we
+had<00:11:09.079><c> like</c><00:11:09.260><c> two</c><00:11:09.649><c> or</c><00:11:09.680><c> three</c><00:11:10.269><c> just</c><00:11:11.269><c> two</c><00:11:11.540><c> just</c><00:11:12.500><c> two</c>
+
+00:11:13.319 --> 00:11:13.329 align:start position:0%
+had like two or three just two just two
+ 
+
+00:11:13.329 --> 00:11:16.090 align:start position:0%
+had like two or three just two just two
+from<00:11:14.329><c> the</c><00:11:14.449><c> get-go</c><00:11:14.630><c> when</c><00:11:15.170><c> someone</c><00:11:15.680><c> learns</c>
+
+00:11:16.090 --> 00:11:16.100 align:start position:0%
+from the get-go when someone learns
+ 
+
+00:11:16.100 --> 00:11:19.180 align:start position:0%
+from the get-go when someone learns
+about<00:11:16.399><c> Stardust</c><00:11:17.209><c> and</c><00:11:17.360><c> like</c><00:11:17.860><c> signal</c><00:11:18.860><c> signal</c>
+
+00:11:19.180 --> 00:11:19.190 align:start position:0%
+about Stardust and like signal signal
+ 
+
+00:11:19.190 --> 00:11:21.400 align:start position:0%
+about Stardust and like signal signal
+this<00:11:19.790><c> temporary</c><00:11:20.240><c> solution</c><00:11:20.630><c> of</c><00:11:20.750><c> signaling</c>
+
+00:11:21.400 --> 00:11:21.410 align:start position:0%
+this temporary solution of signaling
+ 
+
+00:11:21.410 --> 00:11:26.019 align:start position:0%
+this temporary solution of signaling
+servers<00:11:22.569><c> like</c><00:11:23.569><c> in</c><00:11:24.110><c> every</c><00:11:24.410><c> example</c><00:11:24.829><c> and</c><00:11:25.220><c> places</c>
+
+00:11:26.019 --> 00:11:26.029 align:start position:0%
+servers like in every example and places
+ 
+
+00:11:26.029 --> 00:11:27.879 align:start position:0%
+servers like in every example and places
+like<00:11:26.060><c> that</c><00:11:26.209><c> people</c><00:11:26.779><c> should</c><00:11:27.079><c> see</c><00:11:27.350><c> like</c><00:11:27.589><c> more</c>
+
+00:11:27.879 --> 00:11:27.889 align:start position:0%
+like that people should see like more
+ 
+
+00:11:27.889 --> 00:11:29.980 align:start position:0%
+like that people should see like more
+than<00:11:28.040><c> one</c><00:11:28.220><c> just</c><00:11:29.029><c> to</c><00:11:29.120><c> have</c><00:11:29.300><c> that</c><00:11:29.480><c> at</c><00:11:29.750><c> the</c><00:11:29.899><c> back</c>
+
+00:11:29.980 --> 00:11:29.990 align:start position:0%
+than one just to have that at the back
+ 
+
+00:11:29.990 --> 00:11:33.540 align:start position:0%
+than one just to have that at the back
+of<00:11:30.139><c> their</c><00:11:30.290><c> head</c><00:11:30.550><c> a</c><00:11:31.870><c> good</c><00:11:32.870><c> habit</c><00:11:33.230><c> to</c><00:11:33.380><c> have</c>
+
+00:11:33.540 --> 00:11:33.550 align:start position:0%
+of their head a good habit to have
+ 
+
+00:11:33.550 --> 00:11:36.879 align:start position:0%
+of their head a good habit to have
+redundancy<00:11:34.550><c> otherwise</c><00:11:35.540><c> I</c><00:11:35.839><c> am</c><00:11:36.170><c> not</c><00:11:36.529><c> sure</c><00:11:36.649><c> what</c>
+
+00:11:36.879 --> 00:11:36.889 align:start position:0%
+redundancy otherwise I am not sure what
+ 
+
+00:11:36.889 --> 00:11:38.800 align:start position:0%
+redundancy otherwise I am not sure what
+will<00:11:37.130><c> be</c><00:11:37.279><c> the</c><00:11:37.459><c> default</c><00:11:37.670><c> I</c><00:11:38.120><c> believe</c><00:11:38.449><c> the</c>
+
+00:11:38.800 --> 00:11:38.810 align:start position:0%
+will be the default I believe the
+ 
+
+00:11:38.810 --> 00:11:42.400 align:start position:0%
+will be the default I believe the
+current<00:11:39.170><c> default</c><00:11:39.350><c> in</c><00:11:40.630><c> like</c><00:11:41.630><c> the</c><00:11:41.779><c> default</c>
+
+00:11:42.400 --> 00:11:42.410 align:start position:0%
+current default in like the default
+ 
+
+00:11:42.410 --> 00:11:48.639 align:start position:0%
+current default in like the default
+bundle<00:11:42.860><c> of</c><00:11:43.040><c> J's</c><00:11:43.430><c> ipfs</c><00:11:43.970><c> is</c><00:11:44.240><c> to</c><00:11:44.600><c> fail</c><00:11:44.839><c> if</c><00:11:45.680><c> no</c><00:11:47.649><c> like</c>
+
+00:11:48.639 --> 00:11:48.649 align:start position:0%
+bundle of J's ipfs is to fail if no like
+ 
+
+00:11:48.649 --> 00:11:52.379 align:start position:0%
+bundle of J's ipfs is to fail if no like
+web<00:11:49.100><c> socket</c><00:11:49.430><c> star</c><00:11:49.639><c> servers</c><00:11:50.089><c> are</c><00:11:50.389><c> available</c>
+
+00:11:52.379 --> 00:11:52.389 align:start position:0%
+web socket star servers are available
+ 
+
+00:11:52.389 --> 00:11:58.420 align:start position:0%
+web socket star servers are available
+that<00:11:53.500><c> won't</c><00:11:54.500><c> be</c><00:11:54.709><c> the</c><00:11:54.980><c> case</c><00:11:55.180><c> I</c><00:11:56.180><c> think</c><00:11:57.190><c> with</c><00:11:58.190><c> the</c>
+
+00:11:58.420 --> 00:11:58.430 align:start position:0%
+that won't be the case I think with the
+ 
+
+00:11:58.430 --> 00:12:00.910 align:start position:0%
+that won't be the case I think with the
+refactor<00:11:59.060><c> I</c><00:11:59.300><c> need</c><00:12:00.110><c> to</c><00:12:00.199><c> double</c><00:12:00.470><c> check</c><00:12:00.500><c> though</c>
+
+00:12:00.910 --> 00:12:00.920 align:start position:0%
+refactor I need to double check though
+ 
+
+00:12:00.920 --> 00:12:03.309 align:start position:0%
+refactor I need to double check though
+but<00:12:01.250><c> our</c><00:12:01.430><c> dialing</c><00:12:02.000><c> logic</c><00:12:02.389><c> is</c><00:12:02.600><c> our</c><00:12:03.019><c> listening</c>
+
+00:12:03.309 --> 00:12:03.319 align:start position:0%
+but our dialing logic is our listening
+ 
+
+00:12:03.319 --> 00:12:05.500 align:start position:0%
+but our dialing logic is our listening
+logic<00:12:03.649><c> is</c><00:12:03.850><c> different</c><00:12:04.850><c> than</c><00:12:05.029><c> it</c><00:12:05.120><c> used</c><00:12:05.269><c> to</c><00:12:05.390><c> be</c>
+
+00:12:05.500 --> 00:12:05.510 align:start position:0%
+logic is different than it used to be
+ 
+
+00:12:05.510 --> 00:12:08.590 align:start position:0%
+logic is different than it used to be
+before<00:12:06.380><c> the</c><00:12:06.649><c> refactor</c><00:12:07.189><c> so</c><00:12:07.939><c> now</c><00:12:08.149><c> we</c><00:12:08.209><c> don't</c><00:12:08.449><c> just</c>
+
+00:12:08.590 --> 00:12:08.600 align:start position:0%
+before the refactor so now we don't just
+ 
+
+00:12:08.600 --> 00:12:09.750 align:start position:0%
+before the refactor so now we don't just
+like
+
+00:12:09.750 --> 00:12:09.760 align:start position:0%
+like
+ 
+
+00:12:09.760 --> 00:12:12.090 align:start position:0%
+like
+the<00:12:10.000><c> addresses</c><00:12:10.630><c> we</c><00:12:10.930><c> take</c><00:12:11.230><c> it</c><00:12:11.410><c> we're</c><00:12:11.829><c> more</c>
+
+00:12:12.090 --> 00:12:12.100 align:start position:0%
+the addresses we take it we're more
+ 
+
+00:12:12.100 --> 00:12:14.730 align:start position:0%
+the addresses we take it we're more
+selective<00:12:12.760><c> and</c><00:12:13.060><c> we</c><00:12:13.269><c> spin</c><00:12:13.540><c> up</c><00:12:13.690><c> listeners</c><00:12:14.560><c> for</c>
+
+00:12:14.730 --> 00:12:14.740 align:start position:0%
+selective and we spin up listeners for
+ 
+
+00:12:14.740 --> 00:12:17.250 align:start position:0%
+selective and we spin up listeners for
+each<00:12:14.949><c> address</c><00:12:15.220><c> so</c><00:12:15.579><c> we</c><00:12:15.699><c> allow</c><00:12:16.050><c> listeners</c><00:12:17.050><c> to</c>
+
+00:12:17.250 --> 00:12:17.260 align:start position:0%
+each address so we allow listeners to
+ 
+
+00:12:17.260 --> 00:12:21.480 align:start position:0%
+each address so we allow listeners to
+fail<00:12:17.910><c> but</c><00:12:18.910><c> it</c><00:12:19.060><c> could</c><00:12:19.300><c> be</c><00:12:19.449><c> possible</c><00:12:19.930><c> if</c><00:12:20.079><c> we</c><00:12:20.490><c> need</c>
+
+00:12:21.480 --> 00:12:21.490 align:start position:0%
+fail but it could be possible if we need
+ 
+
+00:12:21.490 --> 00:12:24.030 align:start position:0%
+fail but it could be possible if we need
+to<00:12:21.550><c> check</c><00:12:22.230><c> but</c><00:12:23.230><c> that's</c><00:12:23.440><c> also</c><00:12:23.649><c> should</c><00:12:24.010><c> be</c>
+
+00:12:24.030 --> 00:12:24.040 align:start position:0%
+to check but that's also should be
+ 
+
+00:12:24.040 --> 00:12:26.939 align:start position:0%
+to check but that's also should be
+relatively<00:12:24.730><c> easy</c><00:12:25.000><c> to</c><00:12:25.300><c> configure</c><00:12:26.290><c> if</c><00:12:26.649><c> we</c><00:12:26.800><c> want</c>
+
+00:12:26.939 --> 00:12:26.949 align:start position:0%
+relatively easy to configure if we want
+ 
+
+00:12:26.949 --> 00:12:29.490 align:start position:0%
+relatively easy to configure if we want
+to<00:12:27.010><c> do</c><00:12:27.130><c> an</c><00:12:27.250><c> update</c><00:12:27.550><c> to</c><00:12:27.850><c> JSF</c><00:12:28.300><c> BTP</c><00:12:28.600><c> to</c><00:12:28.810><c> allow</c><00:12:29.199><c> like</c>
+
+00:12:29.490 --> 00:12:29.500 align:start position:0%
+to do an update to JSF BTP to allow like
+ 
+
+00:12:29.500 --> 00:12:31.829 align:start position:0%
+to do an update to JSF BTP to allow like
+okay<00:12:30.459><c> if</c><00:12:30.610><c> WebSockets</c><00:12:31.149><c> are</c><00:12:31.269><c> listening</c><00:12:31.690><c> is</c>
+
+00:12:31.829 --> 00:12:31.839 align:start position:0%
+okay if WebSockets are listening is
+ 
+
+00:12:31.839 --> 00:12:35.430 align:start position:0%
+okay if WebSockets are listening is
+failing<00:12:32.250><c> let's</c><00:12:33.250><c> not</c><00:12:33.720><c> not</c><00:12:34.720><c> fill</c><00:12:35.019><c> out</c><00:12:35.230><c> right</c>
+
+00:12:35.430 --> 00:12:35.440 align:start position:0%
+failing let's not not fill out right
+ 
+
+00:12:35.440 --> 00:12:38.790 align:start position:0%
+failing let's not not fill out right
+let's<00:12:35.680><c> allow</c><00:12:35.889><c> that</c><00:12:36.130><c> failure</c><00:12:37.260><c> but</c><00:12:38.260><c> we</c><00:12:38.410><c> may</c><00:12:38.589><c> not</c>
+
+00:12:38.790 --> 00:12:38.800 align:start position:0%
+let's allow that failure but we may not
+ 
+
+00:12:38.800 --> 00:12:41.300 align:start position:0%
+let's allow that failure but we may not
+want<00:12:38.980><c> to</c><00:12:39.190><c> like</c><00:12:39.699><c> right</c><00:12:39.940><c> now</c><00:12:40.149><c> it</c><00:12:40.360><c> if</c><00:12:40.899><c> all</c>
+
+00:12:41.300 --> 00:12:41.310 align:start position:0%
+want to like right now it if all
+ 
+
+00:12:41.310 --> 00:12:44.220 align:start position:0%
+want to like right now it if all
+WebSockets<00:12:42.310><c> our</c><00:12:42.459><c> addresses</c><00:12:42.850><c> fail</c><00:12:43.420><c> it</c><00:12:44.050><c> will</c>
+
+00:12:44.220 --> 00:12:44.230 align:start position:0%
+WebSockets our addresses fail it will
+ 
+
+00:12:44.230 --> 00:12:50.069 align:start position:0%
+WebSockets our addresses fail it will
+fail<00:12:45.720><c> in</c><00:12:46.720><c> I</c><00:12:47.410><c> touched</c><00:12:48.310><c> upon</c><00:12:48.490><c> that</c><00:12:48.750><c> around</c><00:12:49.750><c> the</c>
+
+00:12:50.069 --> 00:12:50.079 align:start position:0%
+fail in I touched upon that around the
+ 
+
+00:12:50.079 --> 00:12:52.800 align:start position:0%
+fail in I touched upon that around the
+works<00:12:50.350><c> done</c><00:12:50.769><c> for</c><00:12:51.130><c> brace</c><00:12:51.370><c> so</c><00:12:51.850><c> embrace</c><00:12:52.389><c> I</c>
+
+00:12:52.800 --> 00:12:52.810 align:start position:0%
+works done for brace so embrace I
+ 
+
+00:12:52.810 --> 00:12:55.949 align:start position:0%
+works done for brace so embrace I
+changed<00:12:53.139><c> because</c><00:12:53.470><c> the</c><00:12:53.709><c> module</c><00:12:54.040><c> for</c><00:12:54.959><c> like</c>
+
+00:12:55.949 --> 00:12:55.959 align:start position:0%
+changed because the module for like
+ 
+
+00:12:55.959 --> 00:12:59.370 align:start position:0%
+changed because the module for like
+WebSocket<00:12:56.380><c> star</c><00:12:57.389><c> WebSockets</c><00:12:58.389><c> are</c><00:12:58.570><c> multi</c><00:12:58.959><c> it</c>
+
+00:12:59.370 --> 00:12:59.380 align:start position:0%
+WebSocket star WebSockets are multi it
+ 
+
+00:12:59.380 --> 00:13:02.460 align:start position:0%
+WebSocket star WebSockets are multi it
+enables<00:12:59.949><c> a</c><00:13:00.279><c> mode</c><00:13:00.820><c> when</c><00:13:01.209><c> you</c><00:13:01.420><c> could</c><00:13:01.720><c> allow</c>
+
+00:13:02.460 --> 00:13:02.470 align:start position:0%
+enables a mode when you could allow
+ 
+
+00:13:02.470 --> 00:13:07.100 align:start position:0%
+enables a mode when you could allow
+failing<00:13:03.339><c> of</c><00:13:03.519><c> all</c><00:13:04.360><c> of</c><00:13:04.690><c> them</c><00:13:04.930><c> I</c><00:13:05.079><c> believe</c><00:13:05.430><c> so</c><00:13:06.430><c> I</c>
+
+00:13:07.100 --> 00:13:07.110 align:start position:0%
+failing of all of them I believe so I
+ 
+
+00:13:07.110 --> 00:13:09.870 align:start position:0%
+failing of all of them I believe so I
+slipped<00:13:08.110><c> the</c><00:13:08.290><c> flag</c><00:13:08.529><c> slip</c><00:13:09.100><c> the</c><00:13:09.279><c> default</c><00:13:09.670><c> for</c>
+
+00:13:09.870 --> 00:13:09.880 align:start position:0%
+slipped the flag slip the default for
+ 
+
+00:13:09.880 --> 00:13:12.120 align:start position:0%
+slipped the flag slip the default for
+brave<00:13:10.089><c> so</c><00:13:10.329><c> even</c><00:13:10.690><c> if</c><00:13:10.810><c> our</c><00:13:11.139><c> signaling</c><00:13:11.620><c> server</c><00:13:11.769><c> is</c>
+
+00:13:12.120 --> 00:13:12.130 align:start position:0%
+brave so even if our signaling server is
+ 
+
+00:13:12.130 --> 00:13:17.220 align:start position:0%
+brave so even if our signaling server is
+down<00:13:12.940><c> the</c><00:13:13.839><c> note</c><00:13:14.019><c> would</c><00:13:14.230><c> still</c><00:13:14.529><c> both</c><00:13:16.230><c> that's</c>
+
+00:13:17.220 --> 00:13:17.230 align:start position:0%
+down the note would still both that's
+ 
+
+00:13:17.230 --> 00:13:20.639 align:start position:0%
+down the note would still both that's
+probably<00:13:17.589><c> like</c><00:13:17.829><c> safer</c><00:13:18.310><c> default</c><00:13:19.649><c> otherwise</c>
+
+00:13:20.639 --> 00:13:20.649 align:start position:0%
+probably like safer default otherwise
+ 
+
+00:13:20.649 --> 00:13:23.490 align:start position:0%
+probably like safer default otherwise
+like<00:13:20.980><c> people</c><00:13:21.670><c> may</c><00:13:22.060><c> get</c><00:13:22.240><c> surprised</c><00:13:23.110><c> that</c><00:13:23.290><c> at</c>
+
+00:13:23.490 --> 00:13:23.500 align:start position:0%
+like people may get surprised that at
+ 
+
+00:13:23.500 --> 00:13:24.990 align:start position:0%
+like people may get surprised that at
+some<00:13:23.740><c> time</c><00:13:23.769><c> nothing</c><00:13:24.459><c> works</c>
+
+00:13:24.990 --> 00:13:25.000 align:start position:0%
+some time nothing works
+ 
+
+00:13:25.000 --> 00:13:26.879 align:start position:0%
+some time nothing works
+instead<00:13:25.389><c> of</c><00:13:25.540><c> just</c><00:13:25.750><c> like</c><00:13:25.990><c> subset</c><00:13:26.860><c> of</c>
+
+00:13:26.879 --> 00:13:26.889 align:start position:0%
+instead of just like subset of
+ 
+
+00:13:26.889 --> 00:13:39.150 align:start position:0%
+instead of just like subset of
+connectivity<00:13:34.860><c> yep</c><00:13:37.440><c> do</c><00:13:38.440><c> you</c><00:13:38.529><c> want</c><00:13:38.709><c> to</c><00:13:38.829><c> show</c><00:13:39.010><c> us</c>
+
+00:13:39.150 --> 00:13:39.160 align:start position:0%
+connectivity yep do you want to show us
+ 
+
+00:13:39.160 --> 00:13:46.800 align:start position:0%
+connectivity yep do you want to show us
+something<00:13:41.610><c> what</c><00:13:42.610><c> I</c><00:13:44.370><c> think</c><00:13:45.370><c> I</c><00:13:45.550><c> feel</c><00:13:46.389><c> that</c><00:13:46.660><c> you</c>
+
+00:13:46.800 --> 00:13:46.810 align:start position:0%
+something what I think I feel that you
+ 
+
+00:13:46.810 --> 00:13:49.470 align:start position:0%
+something what I think I feel that you
+want<00:13:46.990><c> to</c><00:13:47.079><c> show</c><00:13:47.290><c> us</c><00:13:47.470><c> something</c><00:13:48.000><c> you</c><00:13:49.000><c> want</c><00:13:49.209><c> me</c><00:13:49.329><c> to</c>
+
+00:13:49.470 --> 00:13:49.480 align:start position:0%
+want to show us something you want me to
+ 
+
+00:13:49.480 --> 00:13:56.910 align:start position:0%
+want to show us something you want me to
+show<00:13:49.720><c> it</c><00:13:51.870><c> Jake</c><00:13:52.870><c> you've</c><00:13:53.019><c> already</c><00:13:53.470><c> seen</c><00:13:55.920><c> okay</c>
+
+00:13:56.910 --> 00:13:56.920 align:start position:0%
+show it Jake you've already seen okay
+ 
+
+00:13:56.920 --> 00:14:22.559 align:start position:0%
+show it Jake you've already seen okay
+let<00:13:57.220><c> me</c><00:13:57.430><c> share</c><00:13:58.029><c> my</c><00:13:58.060><c> screen</c>
+
+00:14:22.559 --> 00:14:22.569 align:start position:0%
+ 
+ 
+
+00:14:22.569 --> 00:14:29.789 align:start position:0%
+ 
+okay<00:14:23.569><c> so</c><00:14:23.629><c> I've</c><00:14:24.559><c> been</c><00:14:24.619><c> working</c><00:14:24.889><c> on</c><00:14:28.059><c> basically</c><00:14:29.059><c> a</c>
+
+00:14:29.789 --> 00:14:29.799 align:start position:0%
+okay so I've been working on basically a
+ 
+
+00:14:29.799 --> 00:14:32.910 align:start position:0%
+okay so I've been working on basically a
+test<00:14:30.799><c> runner</c><00:14:31.129><c> based</c><00:14:31.549><c> on</c><00:14:31.790><c> playwrights</c>
+
+00:14:32.910 --> 00:14:32.920 align:start position:0%
+test runner based on playwrights
+ 
+
+00:14:32.920 --> 00:14:35.229 align:start position:0%
+test runner based on playwrights
+playwrights<00:14:33.920><c> is</c><00:14:34.069><c> basically</c><00:14:34.339><c> the</c><00:14:34.579><c> puppeteer</c>
+
+00:14:35.229 --> 00:14:35.239 align:start position:0%
+playwrights is basically the puppeteer
+ 
+
+00:14:35.239 --> 00:14:39.639 align:start position:0%
+playwrights is basically the puppeteer
+2.0<00:14:36.399><c> that</c><00:14:37.399><c> supports</c><00:14:37.939><c> chromium</c><00:14:38.569><c> web</c><00:14:38.989><c> capes</c><00:14:39.350><c> and</c>
+
+00:14:39.639 --> 00:14:39.649 align:start position:0%
+2.0 that supports chromium web capes and
+ 
+
+00:14:39.649 --> 00:14:46.600 align:start position:0%
+2.0 that supports chromium web capes and
+Firefox<00:14:42.939><c> and</c><00:14:43.939><c> I'm</c><00:14:44.089><c> gonna</c><00:14:44.209><c> I</c><00:14:44.600><c> want</c><00:14:44.959><c> to</c><00:14:45.739><c> run</c>
+
+00:14:46.600 --> 00:14:46.610 align:start position:0%
+Firefox and I'm gonna I want to run
+ 
+
+00:14:46.610 --> 00:14:49.150 align:start position:0%
+Firefox and I'm gonna I want to run
+des<00:14:46.819><c> in</c><00:14:47.029><c> browser</c><00:14:47.269><c> but</c><00:14:47.899><c> not</c><00:14:48.290><c> to</c><00:14:48.559><c> use</c><00:14:48.679><c> karma</c>
+
+00:14:49.150 --> 00:14:49.160 align:start position:0%
+des in browser but not to use karma
+ 
+
+00:14:49.160 --> 00:14:55.569 align:start position:0%
+des in browser but not to use karma
+because<00:14:49.549><c> it's</c><00:14:50.410><c> awful</c><00:14:51.759><c> so</c><00:14:52.759><c> I</c><00:14:53.269><c> tried</c><00:14:53.600><c> to</c><00:14:54.519><c> make</c><00:14:55.519><c> it</c>
+
+00:14:55.569 --> 00:14:55.579 align:start position:0%
+because it's awful so I tried to make it
+ 
+
+00:14:55.579 --> 00:14:57.789 align:start position:0%
+because it's awful so I tried to make it
+work<00:14:55.819><c> with</c><00:14:56.089><c> playwright</c><00:14:56.629><c> and</c><00:14:56.989><c> turns</c><00:14:57.319><c> out</c><00:14:57.529><c> it's</c>
+
+00:14:57.789 --> 00:14:57.799 align:start position:0%
+work with playwright and turns out it's
+ 
+
+00:14:57.799 --> 00:15:01.539 align:start position:0%
+work with playwright and turns out it's
+super<00:14:58.249><c> simple</c><00:14:58.910><c> and</c><00:14:59.389><c> neat</c><00:14:59.629><c> allows</c><00:15:00.160><c> for</c><00:15:01.160><c> some</c>
+
+00:15:01.539 --> 00:15:01.549 align:start position:0%
+super simple and neat allows for some
+ 
+
+00:15:01.549 --> 00:15:04.989 align:start position:0%
+super simple and neat allows for some
+extra<00:15:02.540><c> nice</c><00:15:02.749><c> things</c><00:15:03.739><c> that</c><00:15:03.920><c> we</c><00:15:04.220><c> couldn't</c><00:15:04.639><c> or</c>
+
+00:15:04.989 --> 00:15:04.999 align:start position:0%
+extra nice things that we couldn't or
+ 
+
+00:15:04.999 --> 00:15:12.220 align:start position:0%
+extra nice things that we couldn't or
+would<00:15:05.660><c> be</c><00:15:05.889><c> hard</c><00:15:06.889><c> to</c><00:15:07.040><c> do</c><00:15:07.309><c> with</c><00:15:07.579><c> karma</c><00:15:09.579><c> so</c><00:15:11.230><c> you</c>
+
+00:15:12.220 --> 00:15:12.230 align:start position:0%
+would be hard to do with karma so you
+ 
+
+00:15:12.230 --> 00:15:20.220 align:start position:0%
+would be hard to do with karma so you
+guys<00:15:12.410><c> are</c><00:15:12.619><c> seeing</c><00:15:12.860><c> my</c><00:15:12.949><c> screen</c><00:15:13.009><c> right</c><00:15:15.309><c> yes</c>
+
+00:15:20.220 --> 00:15:20.230 align:start position:0%
+ 
+ 
+
+00:15:20.230 --> 00:15:25.449 align:start position:0%
+ 
+so<00:15:21.369><c> simple</c><00:15:22.369><c> stuff</c><00:15:22.839><c> run</c><00:15:23.839><c> the</c><00:15:23.959><c> tests</c><00:15:24.470><c> some</c>
+
+00:15:25.449 --> 00:15:25.459 align:start position:0%
+so simple stuff run the tests some
+ 
+
+00:15:25.459 --> 00:15:30.069 align:start position:0%
+so simple stuff run the tests some
+console<00:15:25.819><c> logs</c><00:15:26.949><c> this</c><00:15:27.949><c> physically</c><00:15:28.899><c> but</c><00:15:29.899><c> knows</c>
+
+00:15:30.069 --> 00:15:30.079 align:start position:0%
+console logs this physically but knows
+ 
+
+00:15:30.079 --> 00:15:34.569 align:start position:0%
+console logs this physically but knows
+everything<00:15:30.499><c> with</c><00:15:30.679><c> a</c><00:15:30.709><c> with</c><00:15:31.129><c> webpack</c><00:15:33.549><c> does</c><00:15:34.549><c> a</c>
+
+00:15:34.569 --> 00:15:34.579 align:start position:0%
+everything with a with webpack does a
+ 
+
+00:15:34.579 --> 00:15:39.720 align:start position:0%
+everything with a with webpack does a
+little<00:15:34.939><c> setup</c><00:15:35.209><c> necessary</c><00:15:35.989><c> for</c><00:15:36.290><c> mocha</c><00:15:38.619><c> spawns</c>
+
+00:15:39.720 --> 00:15:39.730 align:start position:0%
+little setup necessary for mocha spawns
+ 
+
+00:15:39.730 --> 00:15:43.809 align:start position:0%
+little setup necessary for mocha spawns
+the<00:15:40.730><c> browser</c><00:15:40.970><c> you</c><00:15:41.720><c> want</c><00:15:42.399><c> injects</c><00:15:43.399><c> everything</c>
+
+00:15:43.809 --> 00:15:43.819 align:start position:0%
+the browser you want injects everything
+ 
+
+00:15:43.819 --> 00:15:48.669 align:start position:0%
+the browser you want injects everything
+and<00:15:44.379><c> redirects</c><00:15:45.379><c> the</c><00:15:45.769><c> output</c><00:15:46.610><c> to</c><00:15:47.559><c> to</c><00:15:48.559><c> the</c>
+
+00:15:48.669 --> 00:15:48.679 align:start position:0%
+and redirects the output to to the
+ 
+
+00:15:48.679 --> 00:15:51.280 align:start position:0%
+and redirects the output to to the
+console<00:15:49.009><c> so</c><00:15:49.790><c> basically</c><00:15:50.119><c> when</c><00:15:50.569><c> one</c><00:15:51.019><c> of</c><00:15:51.169><c> the</c>
+
+00:15:51.280 --> 00:15:51.290 align:start position:0%
+console so basically when one of the
+ 
+
+00:15:51.290 --> 00:15:53.769 align:start position:0%
+console so basically when one of the
+nice<00:15:51.470><c> things</c><00:15:52.220><c> here</c><00:15:52.579><c> is</c><00:15:52.730><c> that</c><00:15:52.759><c> we</c><00:15:53.239><c> get</c><00:15:53.419><c> the</c><00:15:53.600><c> same</c>
+
+00:15:53.769 --> 00:15:53.779 align:start position:0%
+nice things here is that we get the same
+ 
+
+00:15:53.779 --> 00:15:56.710 align:start position:0%
+nice things here is that we get the same
+output<00:15:53.959><c> that</c><00:15:54.350><c> we</c><00:15:54.559><c> get</c><00:15:54.739><c> from</c><00:15:54.980><c> karma</c><00:15:55.519><c> from</c><00:15:56.239><c> mocha</c>
+
+00:15:56.710 --> 00:15:56.720 align:start position:0%
+output that we get from karma from mocha
+ 
+
+00:15:56.720 --> 00:16:00.609 align:start position:0%
+output that we get from karma from mocha
+so<00:15:57.559><c> we</c><00:15:57.679><c> look</c><00:15:58.669><c> at</c><00:15:58.819><c> the</c><00:15:58.999><c> same</c><00:15:59.419><c> type</c><00:15:59.720><c> of</c><00:15:59.749><c> formats</c>
+
+00:16:00.609 --> 00:16:00.619 align:start position:0%
+so we look at the same type of formats
+ 
+
+00:16:00.619 --> 00:16:02.889 align:start position:0%
+so we look at the same type of formats
+and<00:16:00.949><c> formatting</c><00:16:01.850><c> highlighting</c><00:16:02.540><c> everything</c>
+
+00:16:02.889 --> 00:16:02.899 align:start position:0%
+and formatting highlighting everything
+ 
+
+00:16:02.899 --> 00:16:05.350 align:start position:0%
+and formatting highlighting everything
+is<00:16:03.559><c> the</c><00:16:03.739><c> same</c><00:16:03.949><c> because</c><00:16:04.160><c> it</c><00:16:04.399><c> actually</c><00:16:05.119><c> comes</c>
+
+00:16:05.350 --> 00:16:05.360 align:start position:0%
+is the same because it actually comes
+ 
+
+00:16:05.360 --> 00:16:09.009 align:start position:0%
+is the same because it actually comes
+from<00:16:05.449><c> the</c><00:16:05.749><c> same</c><00:16:05.929><c> place</c><00:16:07.449><c> this</c><00:16:08.449><c> is</c><00:16:08.629><c> basically</c>
+
+00:16:09.009 --> 00:16:09.019 align:start position:0%
+from the same place this is basically
+ 
+
+00:16:09.019 --> 00:16:13.989 align:start position:0%
+from the same place this is basically
+mocha<00:16:09.949><c> running</c><00:16:10.279><c> in</c><00:16:10.489><c> the</c><00:16:10.989><c> inner</c><00:16:11.989><c> browser</c><00:16:12.999><c> also</c>
+
+00:16:13.989 --> 00:16:13.999 align:start position:0%
+mocha running in the inner browser also
+ 
+
+00:16:13.999 --> 00:16:17.249 align:start position:0%
+mocha running in the inner browser also
+the<00:16:14.629><c> source</c><00:16:14.899><c> marks</c><00:16:15.290><c> are</c><00:16:15.829><c> a</c><00:16:15.889><c> little</c><00:16:16.639><c> bit</c><00:16:16.879><c> better</c>
+
+00:16:17.249 --> 00:16:17.259 align:start position:0%
+the source marks are a little bit better
+ 
+
+00:16:17.259 --> 00:16:25.710 align:start position:0%
+the source marks are a little bit better
+than<00:16:18.259><c> the</c><00:16:18.439><c> ones</c><00:16:18.649><c> we</c><00:16:18.980><c> get</c><00:16:21.309><c> from</c><00:16:23.889><c> karma</c>
+
+00:16:25.710 --> 00:16:25.720 align:start position:0%
+than the ones we get from karma
+ 
+
+00:16:25.720 --> 00:16:28.410 align:start position:0%
+than the ones we get from karma
+you
+
+00:16:28.410 --> 00:16:28.420 align:start position:0%
+ 
+ 
+
+00:16:28.420 --> 00:16:34.960 align:start position:0%
+ 
+you<00:16:29.420><c> can</c><00:16:29.600><c> actually</c><00:16:30.730><c> jump</c><00:16:31.730><c> to</c><00:16:33.670><c> the</c><00:16:34.670><c> correct</c>
+
+00:16:34.960 --> 00:16:34.970 align:start position:0%
+you can actually jump to the correct
+ 
+
+00:16:34.970 --> 00:16:38.980 align:start position:0%
+you can actually jump to the correct
+line<00:16:35.240><c> we</c><00:16:36.199><c> get</c><00:16:36.350><c> the</c><00:16:36.410><c> nice</c><00:16:36.769><c> stiffs</c><00:16:37.839><c> we</c><00:16:38.839><c> had</c>
+
+00:16:38.980 --> 00:16:38.990 align:start position:0%
+line we get the nice stiffs we had
+ 
+
+00:16:38.990 --> 00:16:42.429 align:start position:0%
+line we get the nice stiffs we had
+everything<00:16:39.290><c> the</c><00:16:40.249><c> same</c><00:16:40.459><c> way</c><00:16:40.519><c> we</c><00:16:41.089><c> would</c><00:16:41.329><c> have</c><00:16:41.870><c> if</c>
+
+00:16:42.429 --> 00:16:42.439 align:start position:0%
+everything the same way we would have if
+ 
+
+00:16:42.439 --> 00:16:46.710 align:start position:0%
+everything the same way we would have if
+we<00:16:42.499><c> were</c><00:16:43.129><c> to</c><00:16:43.579><c> run</c><00:16:43.790><c> mocha</c><00:16:44.420><c> in</c><00:16:44.629><c> an</c><00:16:45.079><c> old</c><00:16:45.319><c> apartment</c>
+
+00:16:46.710 --> 00:16:46.720 align:start position:0%
+we were to run mocha in an old apartment
+ 
+
+00:16:46.720 --> 00:16:52.210 align:start position:0%
+we were to run mocha in an old apartment
+when<00:16:47.720><c> other</c><00:16:47.899><c> nice</c><00:16:48.290><c> nice</c><00:16:48.889><c> thing</c><00:16:49.879><c> is</c><00:16:50.569><c> the</c><00:16:51.439><c> the</c>
+
+00:16:52.210 --> 00:16:52.220 align:start position:0%
+when other nice nice thing is the the
+ 
+
+00:16:52.220 --> 00:16:58.600 align:start position:0%
+when other nice nice thing is the the
+debug<00:16:53.059><c> mode</c><00:16:55.300><c> she's</c><00:16:56.300><c> a</c><00:16:56.329><c> little</c><00:16:56.660><c> bit</c><00:16:57.610><c> Stabler</c>
+
+00:16:58.600 --> 00:16:58.610 align:start position:0%
+debug mode she's a little bit Stabler
+ 
+
+00:16:58.610 --> 00:17:04.090 align:start position:0%
+debug mode she's a little bit Stabler
+let's<00:16:58.879><c> call</c><00:16:59.240><c> it</c><00:16:59.360><c> that</c><00:17:01.300><c> then</c><00:17:02.300><c> Karma's</c><00:17:02.990><c> so</c><00:17:03.980><c> we</c>
+
+00:17:04.090 --> 00:17:04.100 align:start position:0%
+let's call it that then Karma's so we
+ 
+
+00:17:04.100 --> 00:17:06.539 align:start position:0%
+let's call it that then Karma's so we
+can<00:17:04.250><c> debugger</c><00:17:04.579><c> thing</c><00:17:04.970><c> we</c><00:17:05.240><c> can</c><00:17:05.449><c> look</c><00:17:06.199><c> at</c>
+
+00:17:06.539 --> 00:17:06.549 align:start position:0%
+can debugger thing we can look at
+ 
+
+00:17:06.549 --> 00:17:09.760 align:start position:0%
+can debugger thing we can look at
+unhandled<00:17:07.549><c> exceptions</c><00:17:08.270><c> and</c><00:17:08.569><c> caught</c><00:17:08.809><c> errors</c>
+
+00:17:09.760 --> 00:17:09.770 align:start position:0%
+unhandled exceptions and caught errors
+ 
+
+00:17:09.770 --> 00:17:12.370 align:start position:0%
+unhandled exceptions and caught errors
+and<00:17:10.039><c> stuff</c><00:17:10.100><c> like</c><00:17:10.370><c> that</c><00:17:10.579><c> with</c><00:17:11.089><c> dev</c><00:17:11.329><c> tools</c><00:17:11.600><c> and</c>
+
+00:17:12.370 --> 00:17:12.380 align:start position:0%
+and stuff like that with dev tools and
+ 
+
+00:17:12.380 --> 00:17:18.220 align:start position:0%
+and stuff like that with dev tools and
+debug<00:17:12.650><c> everything</c><00:17:13.990><c> and</c><00:17:15.970><c> with</c><00:17:16.970><c> this</c><00:17:17.449><c> way</c><00:17:17.750><c> the</c>
+
+00:17:18.220 --> 00:17:18.230 align:start position:0%
+debug everything and with this way the
+ 
+
+00:17:18.230 --> 00:17:24.549 align:start position:0%
+debug everything and with this way the
+browser<00:17:18.620><c> window</c><00:17:21.400><c> is</c><00:17:22.400><c> kept</c><00:17:22.730><c> open</c><00:17:23.169><c> we</c><00:17:24.169><c> even</c><00:17:24.350><c> get</c>
+
+00:17:24.549 --> 00:17:24.559 align:start position:0%
+browser window is kept open we even get
+ 
+
+00:17:24.559 --> 00:17:30.340 align:start position:0%
+browser window is kept open we even get
+the<00:17:24.980><c> favicon</c><00:17:25.370><c> from</c><00:17:25.789><c> mocha</c><00:17:28.870><c> another</c><00:17:29.870><c> thing</c><00:17:30.169><c> is</c>
+
+00:17:30.340 --> 00:17:30.350 align:start position:0%
+the favicon from mocha another thing is
+ 
+
+00:17:30.350 --> 00:17:38.260 align:start position:0%
+the favicon from mocha another thing is
+that<00:17:30.679><c> you</c><00:17:30.799><c> can</c><00:17:30.980><c> run</c><00:17:32.530><c> this</c><00:17:33.530><c> stuff</c><00:17:34.149><c> inside</c><00:17:35.260><c> a</c><00:17:37.270><c> web</c>
+
+00:17:38.260 --> 00:17:38.270 align:start position:0%
+that you can run this stuff inside a web
+ 
+
+00:17:38.270 --> 00:17:48.539 align:start position:0%
+that you can run this stuff inside a web
+worker<00:17:38.450><c> I</c><00:17:40.330><c> don't</c><00:17:41.330><c> remember</c><00:17:41.690><c> the</c><00:17:44.500><c> mode</c><00:17:45.610><c> okay</c><00:17:46.610><c> so</c>
+
+00:17:48.539 --> 00:17:48.549 align:start position:0%
+worker I don't remember the mode okay so
+ 
+
+00:17:48.549 --> 00:17:56.770 align:start position:0%
+worker I don't remember the mode okay so
+run<00:17:49.549><c> with</c><00:17:49.850><c> more</c><00:17:51.130><c> water</c><00:17:52.130><c> mode</c><00:17:55.270><c> the</c><00:17:56.270><c> tests</c><00:17:56.659><c> are</c>
+
+00:17:56.770 --> 00:17:56.780 align:start position:0%
+run with more water mode the tests are
+ 
+
+00:17:56.780 --> 00:18:00.600 align:start position:0%
+run with more water mode the tests are
+run<00:17:57.220><c> inside</c>
+
+00:18:00.600 --> 00:18:00.610 align:start position:0%
+ 
+ 
+
+00:18:00.610 --> 00:18:02.769 align:start position:0%
+ 
+so<00:18:01.610><c> basically</c><00:18:01.880><c> you</c><00:18:02.029><c> see</c><00:18:02.210><c> here</c><00:18:02.450><c> the</c><00:18:02.600><c> worker</c>
+
+00:18:02.769 --> 00:18:02.779 align:start position:0%
+so basically you see here the worker
+ 
+
+00:18:02.779 --> 00:18:05.470 align:start position:0%
+so basically you see here the worker
+running<00:18:03.169><c> and</c><00:18:03.769><c> everything</c><00:18:03.980><c> is</c><00:18:04.279><c> run</c><00:18:04.519><c> inside</c><00:18:05.269><c> of</c>
+
+00:18:05.470 --> 00:18:05.480 align:start position:0%
+running and everything is run inside of
+ 
+
+00:18:05.480 --> 00:18:11.169 align:start position:0%
+running and everything is run inside of
+this<00:18:05.659><c> worker</c><00:18:06.610><c> the</c><00:18:07.610><c> same</c><00:18:07.850><c> way</c><00:18:08.029><c> we</c><00:18:08.330><c> have</c><00:18:10.179><c> right</c>
+
+00:18:11.169 --> 00:18:11.179 align:start position:0%
+this worker the same way we have right
+ 
+
+00:18:11.179 --> 00:18:11.680 align:start position:0%
+this worker the same way we have right
+now
+
+00:18:11.680 --> 00:18:11.690 align:start position:0%
+now
+ 
+
+00:18:11.690 --> 00:18:16.240 align:start position:0%
+now
+good<00:18:12.350><c> karma</c><00:18:14.080><c> so</c><00:18:15.080><c> new</c><00:18:15.350><c> stuff</c><00:18:15.679><c> that</c><00:18:15.889><c> we</c><00:18:16.039><c> don't</c>
+
+00:18:16.240 --> 00:18:16.250 align:start position:0%
+good karma so new stuff that we don't
+ 
+
+00:18:16.250 --> 00:18:20.919 align:start position:0%
+good karma so new stuff that we don't
+have<00:18:16.399><c> right</c><00:18:16.639><c> now</c><00:18:16.669><c> is</c><00:18:17.149><c> the</c><00:18:17.419><c> ability</c><00:18:17.779><c> to</c><00:18:17.809><c> run</c><00:18:19.929><c> in</c>
+
+00:18:20.919 --> 00:18:20.929 align:start position:0%
+have right now is the ability to run in
+ 
+
+00:18:20.929 --> 00:18:28.659 align:start position:0%
+have right now is the ability to run in
+incognito<00:18:21.380><c> mode</c><00:18:26.860><c> so</c><00:18:27.860><c> you</c><00:18:27.950><c> get</c><00:18:28.070><c> a</c><00:18:28.100><c> new</c><00:18:28.309><c> window</c>
+
+00:18:28.659 --> 00:18:28.669 align:start position:0%
+incognito mode so you get a new window
+ 
+
+00:18:28.669 --> 00:18:32.129 align:start position:0%
+incognito mode so you get a new window
+you<00:18:28.970><c> can</c><00:18:29.450><c> check</c><00:18:29.659><c> here</c><00:18:29.840><c> this</c><00:18:30.110><c> incognito</c><00:18:30.830><c> and</c>
+
+00:18:32.129 --> 00:18:32.139 align:start position:0%
+you can check here this incognito and
+ 
+
+00:18:32.139 --> 00:18:36.070 align:start position:0%
+you can check here this incognito and
+everything<00:18:33.139><c> runs</c><00:18:34.129><c> the</c><00:18:34.340><c> same</c><00:18:34.549><c> way</c><00:18:34.929><c> you</c><00:18:35.929><c> can</c>
+
+00:18:36.070 --> 00:18:36.080 align:start position:0%
+everything runs the same way you can
+ 
+
+00:18:36.080 --> 00:18:38.889 align:start position:0%
+everything runs the same way you can
+click<00:18:36.470><c> here</c><00:18:36.500><c> and</c><00:18:37.159><c> you</c><00:18:37.279><c> get</c><00:18:37.399><c> the</c><00:18:37.580><c> file</c><00:18:37.899><c> correct</c>
+
+00:18:38.889 --> 00:18:38.899 align:start position:0%
+click here and you get the file correct
+ 
+
+00:18:38.899 --> 00:18:45.129 align:start position:0%
+click here and you get the file correct
+file<00:18:39.169><c> can</c><00:18:39.740><c> develop</c><00:18:40.129><c> directly</c><00:18:40.549><c> here</c><00:18:44.139><c> so</c>
+
+00:18:45.129 --> 00:18:45.139 align:start position:0%
+file can develop directly here so
+ 
+
+00:18:45.139 --> 00:18:48.700 align:start position:0%
+file can develop directly here so
+another<00:18:45.919><c> thing</c><00:18:46.070><c> that</c><00:18:46.309><c> it's</c><00:18:46.909><c> new</c><00:18:47.389><c> and</c><00:18:47.710><c> Wael</c>
+
+00:18:48.700 --> 00:18:48.710 align:start position:0%
+another thing that it's new and Wael
+ 
+
+00:18:48.710 --> 00:18:53.919 align:start position:0%
+another thing that it's new and Wael
+loves<00:18:49.460><c> it</c><00:18:49.730><c> is</c><00:18:50.830><c> we</c><00:18:51.830><c> can</c><00:18:52.009><c> also</c><00:18:52.159><c> run</c><00:18:52.490><c> it</c><00:18:52.929><c> in</c>
+
+00:18:53.919 --> 00:18:53.929 align:start position:0%
+loves it is we can also run it in
+ 
+
+00:18:53.929 --> 00:18:57.460 align:start position:0%
+loves it is we can also run it in
+extension<00:18:54.559><c> mode</c><00:18:55.029><c> and</c><00:18:56.029><c> the</c><00:18:56.809><c> extension</c><00:18:57.320><c> mode</c>
+
+00:18:57.460 --> 00:18:57.470 align:start position:0%
+extension mode and the extension mode
+ 
+
+00:18:57.470 --> 00:19:00.330 align:start position:0%
+extension mode and the extension mode
+has<00:18:57.679><c> a</c><00:18:57.769><c> new</c><00:18:58.039><c> feature</c><00:18:58.340><c> which</c><00:18:58.759><c> is</c><00:18:59.389><c> actually</c>
+
+00:19:00.330 --> 00:19:00.340 align:start position:0%
+has a new feature which is actually
+ 
+
+00:19:00.340 --> 00:19:03.790 align:start position:0%
+has a new feature which is actually
+really<00:19:01.340><c> useful</c>
+
+00:19:03.790 --> 00:19:03.800 align:start position:0%
+ 
+ 
+
+00:19:03.800 --> 00:19:08.050 align:start position:0%
+ 
+like<00:19:05.140><c> an</c><00:19:06.140><c> hour</c><00:19:06.320><c> ago</c><00:19:06.590><c> I</c><00:19:06.710><c> made</c><00:19:07.070><c> this</c><00:19:07.250><c> it</c>
+
+00:19:08.050 --> 00:19:08.060 align:start position:0%
+like an hour ago I made this it
+ 
+
+00:19:08.060 --> 00:19:11.710 align:start position:0%
+like an hour ago I made this it
+automatically<00:19:08.840><c> opens</c><00:19:09.250><c> the</c><00:19:10.250><c> dev</c><00:19:10.460><c> tools</c><00:19:10.720><c> for</c>
+
+00:19:11.710 --> 00:19:11.720 align:start position:0%
+automatically opens the dev tools for
+ 
+
+00:19:11.720 --> 00:19:13.780 align:start position:0%
+automatically opens the dev tools for
+the<00:19:11.870><c> background</c><00:19:12.380><c> page</c><00:19:12.650><c> the</c><00:19:13.250><c> background</c><00:19:13.610><c> page</c>
+
+00:19:13.780 --> 00:19:13.790 align:start position:0%
+the background page the background page
+ 
+
+00:19:13.790 --> 00:19:17.530 align:start position:0%
+the background page the background page
+is<00:19:13.910><c> basically</c><00:19:14.240><c> the</c><00:19:14.540><c> environments</c><00:19:16.210><c> that</c><00:19:17.210><c> the</c>
+
+00:19:17.530 --> 00:19:17.540 align:start position:0%
+is basically the environments that the
+ 
+
+00:19:17.540 --> 00:19:20.920 align:start position:0%
+is basically the environments that the
+extension<00:19:18.080><c> runs</c><00:19:19.300><c> and</c><00:19:20.300><c> this</c><00:19:20.510><c> is</c><00:19:20.690><c> useful</c>
+
+00:19:20.920 --> 00:19:20.930 align:start position:0%
+extension runs and this is useful
+ 
+
+00:19:20.930 --> 00:19:23.710 align:start position:0%
+extension runs and this is useful
+because<00:19:21.380><c> if</c><00:19:21.740><c> without</c><00:19:22.220><c> this</c><00:19:22.610><c> it's</c><00:19:22.910><c> kind</c><00:19:23.630><c> of</c>
+
+00:19:23.710 --> 00:19:23.720 align:start position:0%
+because if without this it's kind of
+ 
+
+00:19:23.720 --> 00:19:26.200 align:start position:0%
+because if without this it's kind of
+troublesome<00:19:24.050><c> you</c><00:19:24.440><c> need</c><00:19:24.740><c> to</c><00:19:24.890><c> get</c><00:19:25.250><c> to</c><00:19:25.700><c> here</c>
+
+00:19:26.200 --> 00:19:26.210 align:start position:0%
+troublesome you need to get to here
+ 
+
+00:19:26.210 --> 00:19:29.980 align:start position:0%
+troublesome you need to get to here
+click<00:19:26.630><c> here</c><00:19:26.660><c> and</c><00:19:27.410><c> then</c><00:19:28.010><c> enable</c><00:19:28.990><c> developer</c>
+
+00:19:29.980 --> 00:19:29.990 align:start position:0%
+click here and then enable developer
+ 
+
+00:19:29.990 --> 00:19:33.880 align:start position:0%
+click here and then enable developer
+moles<00:19:30.230><c> to</c><00:19:31.160><c> get</c><00:19:31.340><c> this</c><00:19:31.670><c> nice</c><00:19:31.970><c> link</c><00:19:32.270><c> and</c><00:19:32.710><c> to</c><00:19:33.710><c> get</c>
+
+00:19:33.880 --> 00:19:33.890 align:start position:0%
+moles to get this nice link and to get
+ 
+
+00:19:33.890 --> 00:19:36.250 align:start position:0%
+moles to get this nice link and to get
+finally<00:19:34.550><c> to</c><00:19:34.880><c> the</c><00:19:35.000><c> stuff</c><00:19:35.270><c> you</c><00:19:35.420><c> want</c><00:19:35.630><c> which</c><00:19:36.020><c> is</c><00:19:36.230><c> a</c>
+
+00:19:36.250 --> 00:19:36.260 align:start position:0%
+finally to the stuff you want which is a
+ 
+
+00:19:36.260 --> 00:19:39.370 align:start position:0%
+finally to the stuff you want which is a
+dev<00:19:37.250><c> tools</c><00:19:37.490><c> for</c><00:19:38.090><c> the</c><00:19:38.330><c> correct</c><00:19:38.660><c> environments</c>
+
+00:19:39.370 --> 00:19:39.380 align:start position:0%
+dev tools for the correct environments
+ 
+
+00:19:39.380 --> 00:19:42.850 align:start position:0%
+dev tools for the correct environments
+and<00:19:39.980><c> now</c><00:19:40.190><c> it's</c><00:19:40.370><c> automatic</c><00:19:41.380><c> so</c><00:19:42.380><c> basically</c><00:19:42.710><c> I'm</c>
+
+00:19:42.850 --> 00:19:42.860 align:start position:0%
+and now it's automatic so basically I'm
+ 
+
+00:19:42.860 --> 00:19:47.320 align:start position:0%
+and now it's automatic so basically I'm
+using<00:19:43.160><c> the</c><00:19:46.180><c> playwright's</c>
+
+00:19:47.320 --> 00:19:47.330 align:start position:0%
+using the playwright's
+ 
+
+00:19:47.330 --> 00:19:50.710 align:start position:0%
+using the playwright's
+and<00:19:47.450><c> I'm</c><00:19:48.050><c> simulating</c><00:19:48.920><c> clicks</c><00:19:49.520><c> here</c><00:19:50.030><c> clicks</c>
+
+00:19:50.710 --> 00:19:50.720 align:start position:0%
+and I'm simulating clicks here clicks
+ 
+
+00:19:50.720 --> 00:19:56.470 align:start position:0%
+and I'm simulating clicks here clicks
+here<00:19:51.140><c> and</c><00:19:51.910><c> redirecting</c><00:19:52.910><c> to</c><00:19:53.060><c> this</c><00:19:53.180><c> page</c><00:19:55.480><c> but</c>
+
+00:19:56.470 --> 00:19:56.480 align:start position:0%
+here and redirecting to this page but
+ 
+
+00:19:56.480 --> 00:20:00.820 align:start position:0%
+here and redirecting to this page but
+for<00:19:56.900><c> the</c><00:19:57.170><c> end</c><00:19:57.410><c> user</c><00:19:57.970><c> everything</c><00:19:58.970><c> is</c><00:19:59.830><c> automatic</c>
+
+00:20:00.820 --> 00:20:00.830 align:start position:0%
+for the end user everything is automatic
+ 
+
+00:20:00.830 --> 00:20:05.500 align:start position:0%
+for the end user everything is automatic
+and<00:20:01.100><c> easy</c><00:20:01.960><c> so</c><00:20:02.960><c> yeah</c><00:20:03.140><c> that's</c><00:20:03.710><c> it</c><00:20:04.360><c> one</c><00:20:05.360><c> other</c>
+
+00:20:05.500 --> 00:20:05.510 align:start position:0%
+and easy so yeah that's it one other
+ 
+
+00:20:05.510 --> 00:20:09.990 align:start position:0%
+and easy so yeah that's it one other
+thing<00:20:05.810><c> that</c><00:20:05.840><c> this</c><00:20:06.530><c> can</c><00:20:07.250><c> already</c><00:20:07.610><c> do</c><00:20:07.940><c> is</c><00:20:08.560><c> run</c>
+
+00:20:09.990 --> 00:20:10.000 align:start position:0%
+thing that this can already do is run
+ 
+
+00:20:10.000 --> 00:20:15.340 align:start position:0%
+thing that this can already do is run
+tape<00:20:11.000><c> tests</c><00:20:13.120><c> right</c><00:20:14.120><c> now</c><00:20:14.180><c> he</c><00:20:14.420><c> just</c><00:20:14.840><c> doesn't</c>
+
+00:20:15.340 --> 00:20:15.350 align:start position:0%
+tape tests right now he just doesn't
+ 
+
+00:20:15.350 --> 00:20:20.020 align:start position:0%
+tape tests right now he just doesn't
+know<00:20:15.530><c> when</c><00:20:16.370><c> to</c><00:20:16.400><c> hand</c><00:20:17.180><c> and</c><00:20:18.280><c> the</c><00:20:19.280><c> process</c><00:20:19.670><c> so</c><00:20:19.880><c> it</c>
+
+00:20:20.020 --> 00:20:20.030 align:start position:0%
+know when to hand and the process so it
+ 
+
+00:20:20.030 --> 00:20:23.440 align:start position:0%
+know when to hand and the process so it
+keeps<00:20:20.830><c> everything</c><00:20:21.830><c> open</c><00:20:22.310><c> you</c><00:20:22.910><c> need</c><00:20:23.000><c> to</c><00:20:23.180><c> first</c>
+
+00:20:23.440 --> 00:20:23.450 align:start position:0%
+keeps everything open you need to first
+ 
+
+00:20:23.450 --> 00:20:26.580 align:start position:0%
+keeps everything open you need to first
+close<00:20:23.780><c> it</c><00:20:24.070><c> but</c><00:20:25.070><c> I'm</c><00:20:25.430><c> working</c><00:20:25.880><c> on</c><00:20:25.940><c> it</c>
+
+00:20:26.580 --> 00:20:26.590 align:start position:0%
+close it but I'm working on it
+ 
+
+00:20:26.590 --> 00:20:29.230 align:start position:0%
+close it but I'm working on it
+but<00:20:27.590><c> it's</c><00:20:27.710><c> already</c><00:20:27.980><c> runs</c><00:20:28.280><c> because</c><00:20:28.520><c> tape</c>
+
+00:20:29.230 --> 00:20:29.240 align:start position:0%
+but it's already runs because tape
+ 
+
+00:20:29.240 --> 00:20:31.270 align:start position:0%
+but it's already runs because tape
+doesn't<00:20:29.600><c> need</c><00:20:29.720><c> anything</c><00:20:29.960><c> any</c><00:20:30.320><c> setup</c><00:20:30.590><c> you</c><00:20:31.040><c> just</c>
+
+00:20:31.270 --> 00:20:31.280 align:start position:0%
+doesn't need anything any setup you just
+ 
+
+00:20:31.280 --> 00:20:34.720 align:start position:0%
+doesn't need anything any setup you just
+we<00:20:31.640><c> just</c><00:20:31.670><c> need</c><00:20:32.060><c> to</c><00:20:32.150><c> bundle</c><00:20:32.360><c> everything</c><00:20:33.730><c> so</c>
+
+00:20:34.720 --> 00:20:34.730 align:start position:0%
+we just need to bundle everything so
+ 
+
+00:20:34.730 --> 00:20:36.940 align:start position:0%
+we just need to bundle everything so
+it's<00:20:34.940><c> it's</c><00:20:35.420><c> able</c><00:20:35.630><c> to</c><00:20:35.750><c> run</c><00:20:36.110><c> with</c><00:20:36.470><c> the</c><00:20:36.680><c> mocha</c>
+
+00:20:36.940 --> 00:20:36.950 align:start position:0%
+it's it's able to run with the mocha
+ 
+
+00:20:36.950 --> 00:20:41.680 align:start position:0%
+it's it's able to run with the mocha
+environment<00:20:37.910><c> and</c><00:20:38.200><c> I'm</c><00:20:39.200><c> already</c><00:20:40.360><c> doing</c><00:20:41.360><c> the</c>
+
+00:20:41.680 --> 00:20:41.690 align:start position:0%
+environment and I'm already doing the
+ 
+
+00:20:41.690 --> 00:20:44.080 align:start position:0%
+environment and I'm already doing the
+the<00:20:42.140><c> the</c><00:20:42.710><c> tape</c><00:20:42.890><c> runner</c><00:20:43.160><c> here</c><00:20:43.490><c> without</c><00:20:43.790><c> the</c>
+
+00:20:44.080 --> 00:20:44.090 align:start position:0%
+the the tape runner here without the
+ 
+
+00:20:44.090 --> 00:20:45.580 align:start position:0%
+the the tape runner here without the
+mocha<00:20:44.390><c> stuff</c><00:20:44.600><c> but</c><00:20:44.840><c> even</c><00:20:44.960><c> in</c><00:20:45.230><c> the</c><00:20:45.380><c> book</c>
+
+00:20:45.580 --> 00:20:45.590 align:start position:0%
+mocha stuff but even in the book
+ 
+
+00:20:45.590 --> 00:20:47.950 align:start position:0%
+mocha stuff but even in the book
+environments<00:20:46.520><c> everything</c><00:20:47.150><c> runs</c><00:20:47.420><c> and</c><00:20:47.720><c> you</c><00:20:47.780><c> get</c>
+
+00:20:47.950 --> 00:20:47.960 align:start position:0%
+environments everything runs and you get
+ 
+
+00:20:47.960 --> 00:20:50.620 align:start position:0%
+environments everything runs and you get
+the<00:20:48.140><c> errors</c><00:20:48.470><c> you</c><00:20:48.620><c> get</c><00:20:48.860><c> the</c><00:20:49.280><c> source</c><00:20:50.000><c> maps</c><00:20:50.270><c> and</c>
+
+00:20:50.620 --> 00:20:50.630 align:start position:0%
+the errors you get the source maps and
+ 
+
+00:20:50.630 --> 00:20:53.830 align:start position:0%
+the errors you get the source maps and
+the<00:20:51.620><c> same</c><00:20:51.860><c> output</c><00:20:52.310><c> you</c><00:20:52.550><c> would</c><00:20:52.730><c> get</c><00:20:52.970><c> for</c>
+
+00:20:53.830 --> 00:20:53.840 align:start position:0%
+the same output you would get for
+ 
+
+00:20:53.840 --> 00:20:58.180 align:start position:0%
+the same output you would get for
+running<00:20:54.200><c> tape</c><00:20:55.300><c> in</c><00:20:56.300><c> another</c><00:20:56.600><c> environment</c><00:20:57.190><c> yeah</c>
+
+00:20:58.180 --> 00:20:58.190 align:start position:0%
+running tape in another environment yeah
+ 
+
+00:20:58.190 --> 00:21:01.180 align:start position:0%
+running tape in another environment yeah
+that's<00:20:58.670><c> it</c><00:20:59.260><c> hopefully</c><00:21:00.260><c> I</c><00:21:00.290><c> can</c><00:21:00.470><c> get</c><00:21:00.710><c> this</c><00:21:00.920><c> all</c>
+
+00:21:01.180 --> 00:21:01.190 align:start position:0%
+that's it hopefully I can get this all
+ 
+
+00:21:01.190 --> 00:21:05.260 align:start position:0%
+that's it hopefully I can get this all
+wrapped<00:21:01.580><c> up</c><00:21:01.790><c> and</c><00:21:02.210><c> cleaned</c><00:21:02.600><c> up</c><00:21:03.370><c> and</c><00:21:04.370><c> use</c><00:21:05.090><c> it</c>
+
+00:21:05.260 --> 00:21:05.270 align:start position:0%
+wrapped up and cleaned up and use it
+ 
+
+00:21:05.270 --> 00:21:08.710 align:start position:0%
+wrapped up and cleaned up and use it
+start<00:21:05.540><c> using</c><00:21:05.840><c> it</c><00:21:06.110><c> and</c><00:21:06.320><c> if</c><00:21:07.190><c> we</c><00:21:07.400><c> don't</c><00:21:08.390><c> I</c><00:21:08.660><c> don't</c>
+
+00:21:08.710 --> 00:21:08.720 align:start position:0%
+start using it and if we don't I don't
+ 
+
+00:21:08.720 --> 00:21:12.430 align:start position:0%
+start using it and if we don't I don't
+find<00:21:09.050><c> any</c><00:21:09.400><c> major</c><00:21:10.400><c> issues</c><00:21:10.720><c> maybe</c><00:21:11.720><c> incorporate</c>
+
+00:21:12.430 --> 00:21:12.440 align:start position:0%
+find any major issues maybe incorporate
+ 
+
+00:21:12.440 --> 00:21:16.600 align:start position:0%
+find any major issues maybe incorporate
+it<00:21:12.860><c> in</c><00:21:13.190><c> Asia</c><00:21:13.460><c> and</c><00:21:13.960><c> finally</c><00:21:14.960><c> remove</c><00:21:15.230><c> karma</c>
+
+00:21:16.600 --> 00:21:16.610 align:start position:0%
+it in Asia and finally remove karma
+ 
+
+00:21:16.610 --> 00:21:19.539 align:start position:0%
+it in Asia and finally remove karma
+I<00:21:16.640><c> still</c><00:21:17.179><c> need</c><00:21:17.299><c> to</c><00:21:17.510><c> figure</c><00:21:17.780><c> out</c><00:21:17.960><c> how</c><00:21:18.320><c> to</c><00:21:18.549><c> not</c>
+
+00:21:19.539 --> 00:21:19.549 align:start position:0%
+I still need to figure out how to not
+ 
+
+00:21:19.549 --> 00:21:22.060 align:start position:0%
+I still need to figure out how to not
+force<00:21:20.059><c> everyone</c><00:21:20.540><c> to</c><00:21:20.720><c> download</c><00:21:20.990><c> a</c><00:21:21.559><c> million</c>
+
+00:21:22.060 --> 00:21:22.070 align:start position:0%
+force everyone to download a million
+ 
+
+00:21:22.070 --> 00:21:22.690 align:start position:0%
+force everyone to download a million
+times
+
+00:21:22.690 --> 00:21:22.700 align:start position:0%
+times
+ 
+
+00:21:22.700 --> 00:21:25.750 align:start position:0%
+times
+playwrights<00:21:23.320><c> because</c><00:21:24.320><c> it's</c><00:21:24.500><c> big</c><00:21:24.980><c> it</c>
+
+00:21:25.750 --> 00:21:25.760 align:start position:0%
+playwrights because it's big it
+ 
+
+00:21:25.760 --> 00:21:28.150 align:start position:0%
+playwrights because it's big it
+downloads<00:21:26.299><c> three</c><00:21:27.049><c> different</c><00:21:27.530><c> browsers</c><00:21:27.950><c> and</c>
+
+00:21:28.150 --> 00:21:28.160 align:start position:0%
+downloads three different browsers and
+ 
+
+00:21:28.160 --> 00:21:32.260 align:start position:0%
+downloads three different browsers and
+I'm<00:21:29.090><c> still</c><00:21:30.250><c> researching</c><00:21:31.250><c> a</c><00:21:31.700><c> little</c><00:21:31.940><c> bit</c><00:21:32.030><c> how</c>
+
+00:21:32.260 --> 00:21:32.270 align:start position:0%
+I'm still researching a little bit how
+ 
+
+00:21:32.270 --> 00:21:37.390 align:start position:0%
+I'm still researching a little bit how
+can<00:21:32.630><c> I</c><00:21:32.809><c> make</c><00:21:33.290><c> it</c><00:21:33.470><c> easier</c><00:21:34.010><c> on</c><00:21:35.170><c> on</c><00:21:36.400><c> everyone's</c>
+
+00:21:37.390 --> 00:21:37.400 align:start position:0%
+can I make it easier on on everyone's
+ 
+
+00:21:37.400 --> 00:21:41.470 align:start position:0%
+can I make it easier on on everyone's
+laptops<00:21:37.940><c> and</c><00:21:38.299><c> hard</c><00:21:38.720><c> disks</c><00:21:39.110><c> or</c><00:21:40.000><c> SSDs</c><00:21:41.000><c> and</c><00:21:41.150><c> stuff</c>
+
+00:21:41.470 --> 00:21:41.480 align:start position:0%
+laptops and hard disks or SSDs and stuff
+ 
+
+00:21:41.480 --> 00:21:44.020 align:start position:0%
+laptops and hard disks or SSDs and stuff
+like<00:21:41.630><c> that</c><00:21:41.870><c> but</c><00:21:42.170><c> I</c><00:21:42.440><c> know</c><00:21:42.980><c> I'll</c><00:21:43.400><c> figure</c><00:21:43.610><c> a</c>
+
+00:21:44.020 --> 00:21:44.030 align:start position:0%
+like that but I know I'll figure a
+ 
+
+00:21:44.030 --> 00:21:45.640 align:start position:0%
+like that but I know I'll figure a
+solution<00:21:44.570><c> I'll</c><00:21:44.750><c> figure</c><00:21:44.929><c> out</c><00:21:45.020><c> the</c><00:21:45.140><c> solution</c>
+
+00:21:45.640 --> 00:21:45.650 align:start position:0%
+solution I'll figure out the solution
+ 
+
+00:21:45.650 --> 00:21:46.900 align:start position:0%
+solution I'll figure out the solution
+because<00:21:45.920><c> right</c><00:21:46.100><c> now</c><00:21:46.280><c> we</c><00:21:46.340><c> already</c><00:21:46.640><c> have</c>
+
+00:21:46.900 --> 00:21:46.910 align:start position:0%
+because right now we already have
+ 
+
+00:21:46.910 --> 00:21:49.960 align:start position:0%
+because right now we already have
+electron<00:21:47.570><c> inside</c><00:21:47.780><c> a</c><00:21:47.960><c> year</c><00:21:48.410><c> if</c><00:21:49.340><c> I</c><00:21:49.549><c> had</c><00:21:49.700><c> this</c>
+
+00:21:49.960 --> 00:21:49.970 align:start position:0%
+electron inside a year if I had this
+ 
+
+00:21:49.970 --> 00:21:54.789 align:start position:0%
+electron inside a year if I had this
+it's<00:21:50.630><c> gonna</c><00:21:50.809><c> be</c><00:21:51.020><c> pretty</c><00:21:51.590><c> huge</c><00:21:53.350><c> either</c><00:21:54.350><c> we</c><00:21:54.620><c> make</c>
+
+00:21:54.789 --> 00:21:54.799 align:start position:0%
+it's gonna be pretty huge either we make
+ 
+
+00:21:54.799 --> 00:21:57.400 align:start position:0%
+it's gonna be pretty huge either we make
+every<00:21:55.460><c> week</c><00:21:55.669><c> every</c><00:21:56.030><c> repo</c><00:21:56.450><c> into</c><00:21:56.780><c> a</c><00:21:56.900><c> mono</c><00:21:57.169><c> repo</c>
+
+00:21:57.400 --> 00:21:57.410 align:start position:0%
+every week every repo into a mono repo
+ 
+
+00:21:57.410 --> 00:22:00.159 align:start position:0%
+every week every repo into a mono repo
+and<00:21:57.650><c> we</c><00:21:57.950><c> only</c><00:21:58.130><c> need</c><00:21:58.400><c> it</c><00:21:58.520><c> once</c><00:21:58.760><c> or</c><00:21:59.090><c> I</c><00:21:59.120><c> need</c><00:21:59.960><c> to</c>
+
+00:22:00.159 --> 00:22:00.169 align:start position:0%
+and we only need it once or I need to
+ 
+
+00:22:00.169 --> 00:22:02.700 align:start position:0%
+and we only need it once or I need to
+figure<00:22:00.290><c> out</c><00:22:00.470><c> the</c><00:22:00.590><c> solution</c><00:22:00.740><c> yeah</c><00:22:01.700><c> that's</c><00:22:02.419><c> it</c>
+
+00:22:02.700 --> 00:22:02.710 align:start position:0%
+figure out the solution yeah that's it
+ 
+
+00:22:02.710 --> 00:22:04.270 align:start position:0%
+figure out the solution yeah that's it
+hope<00:22:03.710><c> you</c><00:22:03.799><c> like</c><00:22:03.860><c> it</c>
+
+00:22:04.270 --> 00:22:04.280 align:start position:0%
+hope you like it
+ 
+
+00:22:04.280 --> 00:22:09.760 align:start position:0%
+hope you like it
+I<00:22:05.770><c> like</c><00:22:06.770><c> it</c>
+
+00:22:09.760 --> 00:22:09.770 align:start position:0%
+ 
+ 
+
+00:22:09.770 --> 00:22:12.940 align:start position:0%
+ 
+it's<00:22:10.340><c> super</c><00:22:10.610><c> cool</c><00:22:10.820><c> cuz</c><00:22:11.120><c> both</c><00:22:11.870><c> the</c><00:22:12.500><c> balls</c>
+
+00:22:12.940 --> 00:22:12.950 align:start position:0%
+it's super cool cuz both the balls
+ 
+
+00:22:12.950 --> 00:22:15.580 align:start position:0%
+it's super cool cuz both the balls
+incognito<00:22:13.640><c> even</c><00:22:13.970><c> though</c><00:22:14.120><c> it</c><00:22:14.660><c> may</c><00:22:14.840><c> sound</c><00:22:15.110><c> weird</c>
+
+00:22:15.580 --> 00:22:15.590 align:start position:0%
+incognito even though it may sound weird
+ 
+
+00:22:15.590 --> 00:22:20.159 align:start position:0%
+incognito even though it may sound weird
+why<00:22:15.980><c> incremental</c><00:22:16.490><c> matters</c><00:22:17.320><c> more</c><00:22:18.320><c> and</c><00:22:18.470><c> more</c>
+
+00:22:20.159 --> 00:22:20.169 align:start position:0%
+why incremental matters more and more
+ 
+
+00:22:20.169 --> 00:22:21.880 align:start position:0%
+why incremental matters more and more
+additional<00:22:21.169><c> called</c>
+
+00:22:21.880 --> 00:22:21.890 align:start position:0%
+additional called
+ 
+
+00:22:21.890 --> 00:22:25.030 align:start position:0%
+additional called
+surface<00:22:22.370><c> in</c><00:22:22.730><c> browser</c><00:22:23.240><c> browser</c><00:22:23.660><c> vendors</c><00:22:24.380><c> lands</c>
+
+00:22:25.030 --> 00:22:25.040 align:start position:0%
+surface in browser browser vendors lands
+ 
+
+00:22:25.040 --> 00:22:28.090 align:start position:0%
+surface in browser browser vendors lands
+for<00:22:25.669><c> incognito</c><00:22:26.210><c> mode</c><00:22:26.290><c> mostly</c><00:22:27.290><c> around</c><00:22:27.799><c> like</c>
+
+00:22:28.090 --> 00:22:28.100 align:start position:0%
+for incognito mode mostly around like
+ 
+
+00:22:28.100 --> 00:22:31.960 align:start position:0%
+for incognito mode mostly around like
+tracking<00:22:28.610><c> like</c><00:22:29.570><c> websites</c><00:22:30.580><c> detecting</c><00:22:31.580><c> like</c>
+
+00:22:31.960 --> 00:22:31.970 align:start position:0%
+tracking like websites detecting like
+ 
+
+00:22:31.970 --> 00:22:33.669 align:start position:0%
+tracking like websites detecting like
+websites<00:22:32.510><c> detecting</c><00:22:33.140><c> that</c><00:22:33.290><c> you</c><00:22:33.410><c> are</c><00:22:33.530><c> running</c>
+
+00:22:33.669 --> 00:22:33.679 align:start position:0%
+websites detecting that you are running
+ 
+
+00:22:33.679 --> 00:22:36.070 align:start position:0%
+websites detecting that you are running
+incognito<00:22:34.460><c> or</c><00:22:34.610><c> websites</c><00:22:35.059><c> detecting</c><00:22:35.900><c> -</c><00:22:35.960><c> you're</c>
+
+00:22:36.070 --> 00:22:36.080 align:start position:0%
+incognito or websites detecting - you're
+ 
+
+00:22:36.080 --> 00:22:37.570 align:start position:0%
+incognito or websites detecting - you're
+running<00:22:36.410><c> like</c><00:22:36.590><c> ad</c><00:22:36.710><c> blocker</c><00:22:36.950><c> stuff</c><00:22:37.280><c> like</c><00:22:37.400><c> that</c>
+
+00:22:37.570 --> 00:22:37.580 align:start position:0%
+running like ad blocker stuff like that
+ 
+
+00:22:37.580 --> 00:22:40.510 align:start position:0%
+running like ad blocker stuff like that
+so<00:22:38.000><c> even</c><00:22:38.450><c> though</c><00:22:38.570><c> those</c><00:22:39.020><c> are</c><00:22:39.049><c> ball</c><00:22:39.799><c> even</c><00:22:40.400><c> if</c>
+
+00:22:40.510 --> 00:22:40.520 align:start position:0%
+so even though those are ball even if
+ 
+
+00:22:40.520 --> 00:22:42.750 align:start position:0%
+so even though those are ball even if
+you<00:22:41.120><c> incognito</c><00:22:41.630><c> is</c><00:22:41.809><c> like</c><00:22:42.020><c> regular</c><00:22:42.200><c> Dom</c>
+
+00:22:42.750 --> 00:22:42.760 align:start position:0%
+you incognito is like regular Dom
+ 
+
+00:22:42.760 --> 00:22:46.270 align:start position:0%
+you incognito is like regular Dom
+context<00:22:43.760><c> it</c><00:22:44.000><c> may</c><00:22:44.510><c> like</c><00:22:44.840><c> behavior</c><00:22:45.380><c> maybe</c><00:22:45.679><c> on</c>
+
+00:22:46.270 --> 00:22:46.280 align:start position:0%
+context it may like behavior maybe on
+ 
+
+00:22:46.280 --> 00:22:50.110 align:start position:0%
+context it may like behavior maybe on
+the<00:22:46.820><c> edge</c><00:22:46.940><c> cases</c><00:22:48.130><c> on</c><00:22:49.130><c> some</c><00:22:49.429><c> like</c><00:22:49.580><c> fringe</c><00:22:49.850><c> IP</c>
+
+00:22:50.110 --> 00:22:50.120 align:start position:0%
+the edge cases on some like fringe IP
+ 
+
+00:22:50.120 --> 00:22:53.650 align:start position:0%
+the edge cases on some like fringe IP
+eyes<00:22:50.330><c> may</c><00:22:50.570><c> be</c><00:22:50.630><c> different</c><00:22:51.620><c> and</c><00:22:51.970><c> we</c><00:22:52.970><c> tend</c><00:22:53.270><c> to</c><00:22:53.390><c> use</c>
+
+00:22:53.650 --> 00:22:53.660 align:start position:0%
+eyes may be different and we tend to use
+ 
+
+00:22:53.660 --> 00:22:57.640 align:start position:0%
+eyes may be different and we tend to use
+those<00:22:53.960><c> fringe</c><00:22:54.440><c> IP</c><00:22:54.740><c> is</c><00:22:55.040><c> in</c><00:22:55.370><c> our</c><00:22:55.580><c> stack</c><00:22:56.299><c> so</c><00:22:56.650><c> it's</c>
+
+00:22:57.640 --> 00:22:57.650 align:start position:0%
+those fringe IP is in our stack so it's
+ 
+
+00:22:57.650 --> 00:23:00.789 align:start position:0%
+those fringe IP is in our stack so it's
+pretty<00:22:57.950><c> good</c><00:22:58.250><c> to</c><00:22:58.520><c> have</c><00:22:59.140><c> it</c><00:23:00.140><c> out</c><00:23:00.380><c> of</c><00:23:00.410><c> the</c><00:23:00.650><c> box</c>
+
+00:23:00.789 --> 00:23:00.799 align:start position:0%
+pretty good to have it out of the box
+ 
+
+00:23:00.799 --> 00:23:03.010 align:start position:0%
+pretty good to have it out of the box
+like<00:23:00.919><c> part</c><00:23:01.370><c> of</c><00:23:01.520><c> the</c><00:23:01.640><c> testers</c><00:23:02.000><c> and</c><00:23:02.210><c> for</c><00:23:02.630><c> browser</c>
+
+00:23:03.010 --> 00:23:03.020 align:start position:0%
+like part of the testers and for browser
+ 
+
+00:23:03.020 --> 00:23:06.820 align:start position:0%
+like part of the testers and for browser
+extension<00:23:03.470><c> is</c><00:23:03.760><c> pretty</c><00:23:04.960><c> time-consuming</c><00:23:05.960><c> as</c>
+
+00:23:06.820 --> 00:23:06.830 align:start position:0%
+extension is pretty time-consuming as
+ 
+
+00:23:06.830 --> 00:23:09.970 align:start position:0%
+extension is pretty time-consuming as
+you<00:23:06.980><c> could</c><00:23:07.160><c> see</c><00:23:07.900><c> it</c><00:23:08.900><c> takes</c><00:23:09.169><c> like</c><00:23:09.320><c> five</c><00:23:09.590><c> clicks</c>
+
+00:23:09.970 --> 00:23:09.980 align:start position:0%
+you could see it takes like five clicks
+ 
+
+00:23:09.980 --> 00:23:12.250 align:start position:0%
+you could see it takes like five clicks
+just<00:23:10.400><c> to</c><00:23:10.580><c> get</c><00:23:10.790><c> to</c><00:23:10.970><c> the</c><00:23:11.090><c> console</c><00:23:11.480><c> and</c><00:23:11.780><c> in</c>
+
+00:23:12.250 --> 00:23:12.260 align:start position:0%
+just to get to the console and in
+ 
+
+00:23:12.260 --> 00:23:15.070 align:start position:0%
+just to get to the console and in
+chromium<00:23:12.620><c> there</c><00:23:13.040><c> as</c><00:23:13.880><c> far</c><00:23:14.419><c> as</c><00:23:14.540><c> you</c><00:23:14.660><c> know</c><00:23:14.809><c> there</c>
+
+00:23:15.070 --> 00:23:15.080 align:start position:0%
+chromium there as far as you know there
+ 
+
+00:23:15.080 --> 00:23:17.230 align:start position:0%
+chromium there as far as you know there
+were<00:23:15.230><c> there</c><00:23:15.530><c> is</c><00:23:15.650><c> no</c><00:23:15.919><c> like</c><00:23:16.130><c> shortcut</c><00:23:17.030><c> in</c>
+
+00:23:17.230 --> 00:23:17.240 align:start position:0%
+were there is no like shortcut in
+ 
+
+00:23:17.240 --> 00:23:20.340 align:start position:0%
+were there is no like shortcut in
+Firefox<00:23:17.660><c> you</c><00:23:17.720><c> can</c><00:23:17.900><c> do</c><00:23:18.020><c> that</c><00:23:18.200><c> however</c><00:23:19.040><c> like</c>
+
+00:23:20.340 --> 00:23:20.350 align:start position:0%
+Firefox you can do that however like
+ 
+
+00:23:20.350 --> 00:23:27.060 align:start position:0%
+Firefox you can do that however like
+okay<00:23:21.350><c> ate</c><00:23:21.740><c> over</c><00:23:22.220><c> 80%</c><00:23:22.700><c> of</c><00:23:24.460><c> the</c><00:23:25.460><c> staff</c><00:23:25.669><c> users</c><00:23:26.000><c> and</c>
+
+00:23:27.060 --> 00:23:27.070 align:start position:0%
+okay ate over 80% of the staff users and
+ 
+
+00:23:27.070 --> 00:23:29.440 align:start position:0%
+okay ate over 80% of the staff users and
+complex<00:23:28.070><c> companion</c><00:23:28.580><c> users</c><00:23:28.910><c> I</c><00:23:29.150><c> think</c><00:23:29.179><c> that</c>
+
+00:23:29.440 --> 00:23:29.450 align:start position:0%
+complex companion users I think that
+ 
+
+00:23:29.450 --> 00:23:30.250 align:start position:0%
+complex companion users I think that
+most<00:23:29.780><c> of</c><00:23:29.900><c> you</c>
+
+00:23:30.250 --> 00:23:30.260 align:start position:0%
+most of you
+ 
+
+00:23:30.260 --> 00:23:34.780 align:start position:0%
+most of you
+Chrome<00:23:30.790><c> so</c><00:23:31.790><c> it</c><00:23:32.200><c> makes</c><00:23:33.200><c> stuff</c><00:23:33.680><c> much</c><00:23:34.250><c> much</c>
+
+00:23:34.780 --> 00:23:34.790 align:start position:0%
+Chrome so it makes stuff much much
+ 
+
+00:23:34.790 --> 00:23:37.840 align:start position:0%
+Chrome so it makes stuff much much
+easier<00:23:35.090><c> and</c><00:23:35.570><c> also</c><00:23:36.140><c> the</c><00:23:36.860><c> browser</c><00:23:37.280><c> extension</c>
+
+00:23:37.840 --> 00:23:37.850 align:start position:0%
+easier and also the browser extension
+ 
+
+00:23:37.850 --> 00:23:41.230 align:start position:0%
+easier and also the browser extension
+context<00:23:38.210><c> it</c><00:23:38.660><c> right</c><00:23:39.530><c> now</c><00:23:39.710><c> it's</c><00:23:40.130><c> a</c><00:23:40.430><c> regular</c><00:23:40.820><c> web</c>
+
+00:23:41.230 --> 00:23:41.240 align:start position:0%
+context it right now it's a regular web
+ 
+
+00:23:41.240 --> 00:23:44.170 align:start position:0%
+context it right now it's a regular web
+page<00:23:41.480><c> like</c><00:23:42.020><c> we've</c><00:23:42.230><c> done</c><00:23:42.500><c> on</c><00:23:43.010><c> an</c><00:23:43.310><c> additional</c>
+
+00:23:44.170 --> 00:23:44.180 align:start position:0%
+page like we've done on an additional
+ 
+
+00:23:44.180 --> 00:23:46.540 align:start position:0%
+page like we've done on an additional
+API<00:23:44.450><c> web</c><00:23:45.020><c> extension</c><00:23:45.440><c> API</c><00:23:45.680><c> is</c><00:23:45.830><c> on</c><00:23:46.040><c> top</c><00:23:46.220><c> of</c><00:23:46.250><c> that</c>
+
+00:23:46.540 --> 00:23:46.550 align:start position:0%
+API web extension API is on top of that
+ 
+
+00:23:46.550 --> 00:23:50.100 align:start position:0%
+API web extension API is on top of that
+however<00:23:47.150><c> behavior</c><00:23:47.780><c> or</c><00:23:48.080><c> around</c><00:23:48.860><c> some</c><00:23:49.550><c> things</c>
+
+00:23:50.100 --> 00:23:50.110 align:start position:0%
+however behavior or around some things
+ 
+
+00:23:50.110 --> 00:23:53.560 align:start position:0%
+however behavior or around some things
+may<00:23:51.110><c> be</c><00:23:51.170><c> different</c><00:23:51.590><c> and</c><00:23:51.770><c> having</c><00:23:52.490><c> that</c><00:23:52.760><c> super</c>
+
+00:23:53.560 --> 00:23:53.570 align:start position:0%
+may be different and having that super
+ 
+
+00:23:53.570 --> 00:23:56.050 align:start position:0%
+may be different and having that super
+easy<00:23:53.600><c> way</c><00:23:53.930><c> of</c><00:23:54.140><c> writing</c><00:23:54.410><c> tests</c><00:23:54.770><c> and</c><00:23:55.060><c> like</c>
+
+00:23:56.050 --> 00:23:56.060 align:start position:0%
+easy way of writing tests and like
+ 
+
+00:23:56.060 --> 00:23:58.450 align:start position:0%
+easy way of writing tests and like
+checking<00:23:56.330><c> if</c><00:23:56.660><c> we</c><00:23:57.530><c> don't</c><00:23:57.740><c> hit</c><00:23:57.980><c> any</c><00:23:58.250><c> like</c>
+
+00:23:58.450 --> 00:23:58.460 align:start position:0%
+checking if we don't hit any like
+ 
+
+00:23:58.460 --> 00:24:01.260 align:start position:0%
+checking if we don't hit any like
+hard-coded<00:23:59.150><c> limitations</c><00:23:59.660><c> of</c><00:23:59.780><c> those</c><00:24:00.260><c> contacts</c>
+
+00:24:01.260 --> 00:24:01.270 align:start position:0%
+hard-coded limitations of those contacts
+ 
+
+00:24:01.270 --> 00:24:06.270 align:start position:0%
+hard-coded limitations of those contacts
+will<00:24:02.270><c> be</c><00:24:02.450><c> super</c><00:24:02.960><c> useful</c><00:24:03.110><c> going</c><00:24:03.980><c> forward</c><00:24:04.370><c> I</c>
+
+00:24:06.270 --> 00:24:06.280 align:start position:0%
+will be super useful going forward I
+ 
+
+00:24:06.280 --> 00:24:09.580 align:start position:0%
+will be super useful going forward I
+think<00:24:07.280><c> we</c><00:24:07.700><c> talked</c><00:24:08.060><c> early</c><00:24:08.570><c> privately</c><00:24:09.020><c> on</c><00:24:09.290><c> that</c>
+
+00:24:09.580 --> 00:24:09.590 align:start position:0%
+think we talked early privately on that
+ 
+
+00:24:09.590 --> 00:24:13.960 align:start position:0%
+think we talked early privately on that
+but<00:24:09.860><c> the</c><00:24:10.040><c> overall</c><00:24:10.700><c> plan</c><00:24:11.390><c> is</c><00:24:11.660><c> more</c><00:24:12.050><c> or</c><00:24:12.200><c> less</c><00:24:12.970><c> for</c>
+
+00:24:13.960 --> 00:24:13.970 align:start position:0%
+but the overall plan is more or less for
+ 
+
+00:24:13.970 --> 00:24:16.170 align:start position:0%
+but the overall plan is more or less for
+those<00:24:14.150><c> changes</c><00:24:14.690><c> tool</c><00:24:15.020><c> and</c><00:24:15.260><c> energy</c><00:24:15.740><c> right</c>
+
+00:24:16.170 --> 00:24:16.180 align:start position:0%
+those changes tool and energy right
+ 
+
+00:24:16.180 --> 00:24:20.350 align:start position:0%
+those changes tool and energy right
+either<00:24:17.180><c> as</c><00:24:17.660><c> a</c><00:24:17.810><c> dependency</c><00:24:18.290><c> or</c><00:24:18.620><c> an</c><00:24:18.950><c> option</c><00:24:19.360><c> just</c>
+
+00:24:20.350 --> 00:24:20.360 align:start position:0%
+either as a dependency or an option just
+ 
+
+00:24:20.360 --> 00:24:23.170 align:start position:0%
+either as a dependency or an option just
+for<00:24:20.780><c> yeah</c><00:24:21.230><c> I</c><00:24:21.740><c> just</c><00:24:22.100><c> need</c><00:24:22.430><c> to</c><00:24:22.520><c> figure</c><00:24:22.700><c> out</c><00:24:22.880><c> the</c>
+
+00:24:23.170 --> 00:24:23.180 align:start position:0%
+for yeah I just need to figure out the
+ 
+
+00:24:23.180 --> 00:24:27.730 align:start position:0%
+for yeah I just need to figure out the
+the<00:24:24.700><c> downloads</c><00:24:25.750><c> part</c><00:24:26.750><c> because</c><00:24:27.200><c> I</c><00:24:27.320><c> don't</c><00:24:27.500><c> want</c>
+
+00:24:27.730 --> 00:24:27.740 align:start position:0%
+the downloads part because I don't want
+ 
+
+00:24:27.740 --> 00:24:33.430 align:start position:0%
+the downloads part because I don't want
+to<00:24:29.590><c> increase</c><00:24:30.590><c> a</c><00:24:31.130><c> here</c><00:24:31.760><c> we</c><00:24:32.150><c> play</c><00:24:32.540><c> right</c><00:24:32.810><c> it's</c>
+
+00:24:33.430 --> 00:24:33.440 align:start position:0%
+to increase a here we play right it's
+ 
+
+00:24:33.440 --> 00:24:37.360 align:start position:0%
+to increase a here we play right it's
+it's<00:24:33.800><c> already</c><00:24:34.400><c> too</c><00:24:35.030><c> big</c><00:24:35.800><c> and</c><00:24:36.800><c> this</c><00:24:36.980><c> one</c><00:24:37.220><c> even</c>
+
+00:24:37.360 --> 00:24:37.370 align:start position:0%
+it's already too big and this one even
+ 
+
+00:24:37.370 --> 00:24:40.330 align:start position:0%
+it's already too big and this one even
+though<00:24:37.580><c> it</c><00:24:37.610><c> has</c><00:24:38.120><c> some</c><00:24:38.660><c> nice</c><00:24:38.900><c> stuff</c><00:24:39.590><c> in</c><00:24:39.920><c> it</c><00:24:40.070><c> and</c>
+
+00:24:40.330 --> 00:24:40.340 align:start position:0%
+though it has some nice stuff in it and
+ 
+
+00:24:40.340 --> 00:24:44.320 align:start position:0%
+though it has some nice stuff in it and
+it's<00:24:41.080><c> so</c><00:24:42.080><c> simple</c><00:24:42.380><c> and</c><00:24:42.920><c> stable</c><00:24:43.370><c> and</c><00:24:43.670><c> it's</c><00:24:43.880><c> so</c>
+
+00:24:44.320 --> 00:24:44.330 align:start position:0%
+it's so simple and stable and it's so
+ 
+
+00:24:44.330 --> 00:24:47.170 align:start position:0%
+it's so simple and stable and it's so
+much<00:24:44.450><c> better</c><00:24:44.690><c> but</c><00:24:45.020><c> it's</c><00:24:45.410><c> too</c><00:24:45.650><c> big</c><00:24:45.860><c> because</c><00:24:46.760><c> we</c>
+
+00:24:47.170 --> 00:24:47.180 align:start position:0%
+much better but it's too big because we
+ 
+
+00:24:47.180 --> 00:24:49.630 align:start position:0%
+much better but it's too big because we
+we<00:24:47.990><c> basically</c><00:24:48.170><c> install</c><00:24:48.710><c> a</c><00:24:48.740><c> here</c><00:24:49.160><c> everywhere</c>
+
+00:24:49.630 --> 00:24:49.640 align:start position:0%
+we basically install a here everywhere
+ 
+
+00:24:49.640 --> 00:24:52.420 align:start position:0%
+we basically install a here everywhere
+in<00:24:49.850><c> every</c><00:24:50.390><c> point</c><00:24:50.750><c> we</c><00:24:51.110><c> have</c><00:24:51.230><c> a</c><00:24:51.260><c> bunch</c><00:24:51.620><c> of</c><00:24:51.770><c> repos</c>
+
+00:24:52.420 --> 00:24:52.430 align:start position:0%
+in every point we have a bunch of repos
+ 
+
+00:24:52.430 --> 00:24:55.390 align:start position:0%
+in every point we have a bunch of repos
+in<00:24:52.460><c> our</c><00:24:52.730><c> computers</c><00:24:53.360><c> so</c><00:24:54.070><c> yeah</c><00:24:55.070><c> I</c><00:24:55.100><c> need</c><00:24:55.370><c> to</c>
+
+00:24:55.390 --> 00:24:55.400 align:start position:0%
+in our computers so yeah I need to
+ 
+
+00:24:55.400 --> 00:25:01.420 align:start position:0%
+in our computers so yeah I need to
+figure<00:24:55.610><c> out</c><00:24:55.700><c> a</c><00:24:55.790><c> way</c><00:24:55.910><c> to</c><00:24:58.420><c> tweeze</c><00:25:00.430><c> that</c>
+
+00:25:01.420 --> 00:25:01.430 align:start position:0%
+figure out a way to tweeze that
+ 
+
+00:25:01.430 --> 00:25:05.050 align:start position:0%
+figure out a way to tweeze that
+transition<00:25:02.030><c> but</c><00:25:02.330><c> yeah</c><00:25:02.510><c> and</c><00:25:03.380><c> I</c><00:25:04.250><c> just</c><00:25:04.790><c> need</c><00:25:04.970><c> to</c>
+
+00:25:05.050 --> 00:25:05.060 align:start position:0%
+transition but yeah and I just need to
+ 
+
+00:25:05.060 --> 00:25:07.390 align:start position:0%
+transition but yeah and I just need to
+figure<00:25:05.210><c> out</c><00:25:05.330><c> that</c><00:25:05.480><c> part</c><00:25:05.860><c> but</c><00:25:06.860><c> you</c><00:25:06.980><c> can</c><00:25:07.190><c> still</c>
+
+00:25:07.390 --> 00:25:07.400 align:start position:0%
+figure out that part but you can still
+ 
+
+00:25:07.400 --> 00:25:11.620 align:start position:0%
+figure out that part but you can still
+look<00:25:07.520><c> we</c><00:25:07.820><c> can</c><00:25:08.000><c> use</c><00:25:08.510><c> it</c><00:25:10.150><c> like</c><00:25:11.150><c> installed</c>
+
+00:25:11.620 --> 00:25:11.630 align:start position:0%
+look we can use it like installed
+ 
+
+00:25:11.630 --> 00:25:13.210 align:start position:0%
+look we can use it like installed
+globally<00:25:11.840><c> and</c><00:25:12.350><c> stuff</c><00:25:12.560><c> like</c><00:25:12.680><c> that</c><00:25:12.890><c> I'll</c>
+
+00:25:13.210 --> 00:25:13.220 align:start position:0%
+globally and stuff like that I'll
+ 
+
+00:25:13.220 --> 00:25:15.310 align:start position:0%
+globally and stuff like that I'll
+probably<00:25:13.550><c> ask</c><00:25:13.820><c> some</c><00:25:14.180><c> of</c><00:25:14.210><c> you</c><00:25:14.480><c> to</c><00:25:14.510><c> test</c><00:25:15.110><c> it</c><00:25:15.200><c> out</c>
+
+00:25:15.310 --> 00:25:15.320 align:start position:0%
+probably ask some of you to test it out
+ 
+
+00:25:15.320 --> 00:25:19.060 align:start position:0%
+probably ask some of you to test it out
+and<00:25:15.650><c> see</c><00:25:15.860><c> if</c><00:25:15.890><c> it's</c><00:25:16.390><c> any</c><00:25:17.390><c> issues</c><00:25:18.070><c> already</c>
+
+00:25:19.060 --> 00:25:19.070 align:start position:0%
+and see if it's any issues already
+ 
+
+00:25:19.070 --> 00:25:22.750 align:start position:0%
+and see if it's any issues already
+tested<00:25:19.520><c> in</c><00:25:19.700><c> our</c><00:25:20.030><c> repos</c><00:25:20.570><c> and</c><00:25:21.290><c> it</c><00:25:22.130><c> runs</c><00:25:22.370><c> it</c><00:25:22.580><c> says</c>
+
+00:25:22.750 --> 00:25:22.760 align:start position:0%
+tested in our repos and it runs it says
+ 
+
+00:25:22.760 --> 00:25:28.270 align:start position:0%
+tested in our repos and it runs it says
+normally<00:25:23.360><c> so</c><00:25:23.840><c> yeah</c><00:25:24.710><c> we'll</c><00:25:25.610><c> see</c>
+
+00:25:28.270 --> 00:25:28.280 align:start position:0%
+ 
+ 
+
+00:25:28.280 --> 00:25:32.500 align:start position:0%
+ 
+uh-huh<00:25:29.390><c> Oh</c><00:25:30.190><c> any</c><00:25:31.190><c> and</c><00:25:31.460><c> it's</c><00:25:31.610><c> also</c><00:25:31.790><c> as</c><00:25:32.030><c> a</c><00:25:32.060><c> watch</c>
+
+00:25:32.500 --> 00:25:32.510 align:start position:0%
+uh-huh Oh any and it's also as a watch
+ 
+
+00:25:32.510 --> 00:25:36.610 align:start position:0%
+uh-huh Oh any and it's also as a watch
+mode<00:25:32.860><c> that</c><00:25:33.860><c> basically</c><00:25:34.720><c> spawns</c><00:25:35.720><c> new</c><00:25:35.840><c> pair</c><00:25:36.260><c> new</c>
+
+00:25:36.610 --> 00:25:36.620 align:start position:0%
+mode that basically spawns new pair new
+ 
+
+00:25:36.620 --> 00:25:40.030 align:start position:0%
+mode that basically spawns new pair new
+tabs<00:25:36.950><c> instead</c><00:25:37.730><c> of</c><00:25:37.940><c> just</c><00:25:38.330><c> reloading</c><00:25:38.870><c> which</c><00:25:39.800><c> is</c>
+
+00:25:40.030 --> 00:25:40.040 align:start position:0%
+tabs instead of just reloading which is
+ 
+
+00:25:40.040 --> 00:25:44.080 align:start position:0%
+tabs instead of just reloading which is
+a<00:25:40.310><c> little</c><00:25:40.640><c> bit</c><00:25:40.730><c> safer</c><00:25:41.180><c> than</c><00:25:42.640><c> then</c><00:25:43.640><c> just</c>
+
+00:25:44.080 --> 00:25:44.090 align:start position:0%
+a little bit safer than then just
+ 
+
+00:25:44.090 --> 00:25:53.050 align:start position:0%
+a little bit safer than then just
+reloading<00:25:44.810><c> the</c><00:25:44.960><c> other</c><00:25:45.170><c> page</c><00:25:51.670><c> does</c><00:25:52.670><c> anyone</c>
+
+00:25:53.050 --> 00:25:53.060 align:start position:0%
+reloading the other page does anyone
+ 
+
+00:25:53.060 --> 00:25:55.870 align:start position:0%
+reloading the other page does anyone
+have<00:25:53.420><c> an</c><00:25:53.720><c> additional</c><00:25:54.320><c> agenda</c><00:25:54.740><c> items</c><00:25:55.070><c> because</c>
+
+00:25:55.870 --> 00:25:55.880 align:start position:0%
+have an additional agenda items because
+ 
+
+00:25:55.880 --> 00:26:04.180 align:start position:0%
+have an additional agenda items because
+I<00:25:56.060><c> can</c><00:25:56.300><c> add</c><00:25:56.570><c> one</c><00:25:57.110><c> ad</c><00:25:58.040><c> hoc</c><00:26:01.780><c> I've</c><00:26:02.780><c> been</c><00:26:03.190><c> working</c>
+
+00:26:04.180 --> 00:26:04.190 align:start position:0%
+I can add one ad hoc I've been working
+ 
+
+00:26:04.190 --> 00:26:08.410 align:start position:0%
+I can add one ad hoc I've been working
+on<00:26:04.430><c> like</c><00:26:05.500><c> redoing</c><00:26:06.500><c> dogs</c><00:26:07.130><c> for</c><00:26:07.520><c> the</c><00:26:08.090><c> subdomain</c>
+
+00:26:08.410 --> 00:26:08.420 align:start position:0%
+on like redoing dogs for the subdomain
+ 
+
+00:26:08.420 --> 00:26:13.440 align:start position:0%
+on like redoing dogs for the subdomain
+feature<00:26:09.070><c> and</c><00:26:10.070><c> just</c><00:26:10.160><c> like</c><00:26:10.610><c> a</c><00:26:10.640><c> sneak</c><00:26:11.030><c> peek</c><00:26:12.190><c> take</c>
+
+00:26:13.440 --> 00:26:13.450 align:start position:0%
+feature and just like a sneak peek take
+ 
+
+00:26:13.450 --> 00:26:16.680 align:start position:0%
+feature and just like a sneak peek take
+over<00:26:14.450><c> all</c><00:26:14.650><c> documentation</c><00:26:15.650><c> of</c><00:26:15.710><c> a</c><00:26:15.890><c> config</c><00:26:16.190><c> file</c>
+
+00:26:16.680 --> 00:26:16.690 align:start position:0%
+over all documentation of a config file
+ 
+
+00:26:16.690 --> 00:26:21.250 align:start position:0%
+over all documentation of a config file
+got<00:26:17.690><c> changed</c><00:26:18.250><c> recently</c><00:26:19.250><c> and</c><00:26:19.820><c> I</c><00:26:20.240><c> made</c><00:26:20.630><c> the</c>
+
+00:26:21.250 --> 00:26:21.260 align:start position:0%
+got changed recently and I made the
+ 
+
+00:26:21.260 --> 00:26:26.290 align:start position:0%
+got changed recently and I made the
+Gateway<00:26:21.950><c> section</c><00:26:22.870><c> conform</c><00:26:23.870><c> to</c><00:26:24.050><c> that</c><00:26:24.880><c> it's</c><00:26:25.880><c> not</c>
+
+00:26:26.290 --> 00:26:26.300 align:start position:0%
+Gateway section conform to that it's not
+ 
+
+00:26:26.300 --> 00:26:29.020 align:start position:0%
+Gateway section conform to that it's not
+in<00:26:26.480><c> the</c><00:26:26.630><c> master</c><00:26:27.050><c> yet</c><00:26:27.340><c> cuz</c><00:26:28.340><c> it</c><00:26:28.490><c> will</c><00:26:28.640><c> land</c><00:26:28.910><c> with</c>
+
+00:26:29.020 --> 00:26:29.030 align:start position:0%
+in the master yet cuz it will land with
+ 
+
+00:26:29.030 --> 00:26:32.530 align:start position:0%
+in the master yet cuz it will land with
+the<00:26:29.270><c> subdomain</c><00:26:29.600><c> feature</c><00:26:29.960><c> however</c><00:26:30.530><c> now</c><00:26:31.540><c> it's</c>
+
+00:26:32.530 --> 00:26:32.540 align:start position:0%
+the subdomain feature however now it's
+ 
+
+00:26:32.540 --> 00:26:34.450 align:start position:0%
+the subdomain feature however now it's
+much<00:26:32.780><c> easier</c><00:26:33.260><c> to</c><00:26:33.470><c> like</c><00:26:33.650><c> hot</c><00:26:33.890><c> link</c><00:26:34.130><c> to</c><00:26:34.340><c> each</c>
+
+00:26:34.450 --> 00:26:34.460 align:start position:0%
+much easier to like hot link to each
+ 
+
+00:26:34.460 --> 00:26:37.840 align:start position:0%
+much easier to like hot link to each
+each<00:26:35.210><c> part</c><00:26:35.540><c> of</c><00:26:35.750><c> the</c><00:26:35.870><c> Gateway</c><00:26:36.170><c> section</c><00:26:36.560><c> and</c><00:26:36.850><c> we</c>
+
+00:26:37.840 --> 00:26:37.850 align:start position:0%
+each part of the Gateway section and we
+ 
+
+00:26:37.850 --> 00:26:41.770 align:start position:0%
+each part of the Gateway section and we
+got<00:26:38.120><c> this</c><00:26:38.390><c> like</c><00:26:38.720><c> global</c><00:26:39.230><c> toggle</c><00:26:40.130><c> for</c><00:26:40.570><c> we</c><00:26:41.570><c> will</c>
+
+00:26:41.770 --> 00:26:41.780 align:start position:0%
+got this like global toggle for we will
+ 
+
+00:26:41.780 --> 00:26:46.330 align:start position:0%
+got this like global toggle for we will
+have<00:26:41.990><c> when</c><00:26:42.320><c> it</c><00:26:42.470><c> is</c><00:26:42.650><c> PR</c><00:26:42.920><c> ones</c><00:26:43.270><c> for</c><00:26:45.340><c> disabling</c>
+
+00:26:46.330 --> 00:26:46.340 align:start position:0%
+have when it is PR ones for disabling
+ 
+
+00:26:46.340 --> 00:26:49.030 align:start position:0%
+have when it is PR ones for disabling
+DNS<00:26:46.730><c> link</c><00:26:46.970><c> look</c><00:26:47.180><c> up</c><00:26:47.330><c> look</c><00:26:48.110><c> up</c><00:26:48.230><c> globally</c><00:26:48.860><c> based</c>
+
+00:26:49.030 --> 00:26:49.040 align:start position:0%
+DNS link look up look up globally based
+ 
+
+00:26:49.040 --> 00:26:52.900 align:start position:0%
+DNS link look up look up globally based
+on<00:26:49.280><c> the</c><00:26:49.430><c> host</c><00:26:49.760><c> header</c><00:26:49.970><c> so</c><00:26:50.540><c> other</c><00:26:51.080><c> people</c><00:26:51.910><c> may</c>
+
+00:26:52.900 --> 00:26:52.910 align:start position:0%
+on the host header so other people may
+ 
+
+00:26:52.910 --> 00:26:56.200 align:start position:0%
+on the host header so other people may
+point<00:26:53.240><c> their</c><00:26:53.570><c> ideas</c><00:26:54.160><c> their</c><00:26:55.160><c> domain</c><00:26:55.550><c> names</c><00:26:55.580><c> at</c>
+
+00:26:56.200 --> 00:26:56.210 align:start position:0%
+point their ideas their domain names at
+ 
+
+00:26:56.210 --> 00:26:59.710 align:start position:0%
+point their ideas their domain names at
+your<00:26:56.690><c> key</c><00:26:57.550><c> so</c><00:26:58.550><c> someone</c><00:26:58.970><c> some</c><00:26:59.210><c> people</c><00:26:59.450><c> may</c><00:26:59.600><c> want</c>
+
+00:26:59.710 --> 00:26:59.720 align:start position:0%
+your key so someone some people may want
+ 
+
+00:26:59.720 --> 00:27:01.810 align:start position:0%
+your key so someone some people may want
+to<00:26:59.840><c> disable</c><00:27:00.140><c> that</c><00:27:00.320><c> behavior</c><00:27:00.830><c> and</c><00:27:01.010><c> then</c><00:27:01.580><c> this</c>
+
+00:27:01.810 --> 00:27:01.820 align:start position:0%
+to disable that behavior and then this
+ 
+
+00:27:01.820 --> 00:27:07.030 align:start position:0%
+to disable that behavior and then this
+new<00:27:02.150><c> path</c><00:27:02.510><c> prefix</c><00:27:02.960><c> section</c><00:27:04.870><c> which</c><00:27:05.870><c> now</c><00:27:06.530><c> will</c>
+
+00:27:07.030 --> 00:27:07.040 align:start position:0%
+new path prefix section which now will
+ 
+
+00:27:07.040 --> 00:27:11.620 align:start position:0%
+new path prefix section which now will
+have<00:27:07.340><c> more</c><00:27:08.320><c> substantial</c><00:27:09.320><c> examples</c><00:27:09.860><c> so</c><00:27:10.630><c> for</c>
+
+00:27:11.620 --> 00:27:11.630 align:start position:0%
+have more substantial examples so for
+ 
+
+00:27:11.630 --> 00:27:15.490 align:start position:0%
+have more substantial examples so for
+example<00:27:12.140><c> here</c><00:27:12.650><c> like</c><00:27:13.040><c> each</c><00:27:13.280><c> parameter</c><00:27:13.880><c> has</c><00:27:14.600><c> an</c>
+
+00:27:15.490 --> 00:27:15.500 align:start position:0%
+example here like each parameter has an
+ 
+
+00:27:15.500 --> 00:27:31.820 align:start position:0%
+example here like each parameter has an
+example<00:27:15.920><c> with</c><00:27:16.460><c> some</c>
+
+00:27:31.820 --> 00:27:31.830 align:start position:0%
+ 
+ 
+
+00:27:31.830 --> 00:27:33.330 align:start position:0%
+ 
+thank<00:27:32.830><c> you</c>
+
+00:27:33.330 --> 00:27:33.340 align:start position:0%
+thank you
+ 
+
+00:27:33.340 --> 00:27:34.859 align:start position:0%
+thank you
+let's<00:27:33.639><c> see</c><00:27:33.820><c> breaking</c><00:27:34.179><c> up</c><00:27:34.299><c> laughs</c><00:27:34.480><c> everybody</c>
+
+00:27:34.859 --> 00:27:34.869 align:start position:0%
+let's see breaking up laughs everybody
+ 
+
+00:27:34.869 --> 00:27:42.739 align:start position:0%
+let's see breaking up laughs everybody
+else<00:27:35.230><c> yes</c><00:27:35.559><c> yeah</c><00:27:36.070><c> you</c><00:27:36.549><c> see</c><00:27:36.730><c> we're</c><00:27:36.879><c> broken</c><00:27:37.059><c> up</c>
+
+00:27:42.739 --> 00:27:42.749 align:start position:0%
+ 
+ 
+
+00:27:42.749 --> 00:28:00.269 align:start position:0%
+ 
+you're<00:27:43.749><c> speaking</c><00:27:44.259><c> a</c><00:27:44.350><c> 56k</c><00:27:58.169><c> yeah</c><00:27:59.169><c> I</c><00:27:59.409><c> realized</c><00:28:00.159><c> I</c>
+
+00:28:00.269 --> 00:28:00.279 align:start position:0%
+you're speaking a 56k yeah I realized I
+ 
+
+00:28:00.279 --> 00:28:01.919 align:start position:0%
+you're speaking a 56k yeah I realized I
+plugged<00:28:00.970><c> my</c><00:28:01.059><c> laptop</c><00:28:01.480><c> and</c><00:28:01.629><c> he</c><00:28:01.720><c> probably</c>
+
+00:28:01.919 --> 00:28:01.929 align:start position:0%
+plugged my laptop and he probably
+ 
+
+00:28:01.929 --> 00:28:05.340 align:start position:0%
+plugged my laptop and he probably
+started<00:28:02.590><c> throttling</c><00:28:03.779><c> low</c><00:28:04.779><c> battery</c><00:28:05.230><c> or</c>
+
+00:28:05.340 --> 00:28:05.350 align:start position:0%
+started throttling low battery or
+ 
+
+00:28:05.350 --> 00:28:07.889 align:start position:0%
+started throttling low battery or
+something<00:28:05.759><c> apologies</c><00:28:06.759><c> for</c><00:28:06.909><c> that</c>
+
+00:28:07.889 --> 00:28:07.899 align:start position:0%
+something apologies for that
+ 
+
+00:28:07.899 --> 00:28:12.090 align:start position:0%
+something apologies for that
+was<00:28:08.440><c> it</c><00:28:08.590><c> like</c><00:28:08.950><c> entire</c><00:28:09.669><c> like</c><00:28:09.999><c> a</c><00:28:10.029><c> segment</c><00:28:11.100><c> choppy</c>
+
+00:28:12.090 --> 00:28:12.100 align:start position:0%
+was it like entire like a segment choppy
+ 
+
+00:28:12.100 --> 00:28:16.619 align:start position:0%
+was it like entire like a segment choppy
+or<00:28:13.049><c> no</c><00:28:14.049><c> you</c><00:28:14.350><c> picked</c><00:28:14.710><c> off</c><00:28:14.889><c> maybe</c><00:28:15.369><c> just</c><00:28:16.299><c> just</c>
+
+00:28:16.619 --> 00:28:16.629 align:start position:0%
+or no you picked off maybe just just
+ 
+
+00:28:16.629 --> 00:28:22.230 align:start position:0%
+or no you picked off maybe just just
+above<00:28:16.869><c> this</c><00:28:20.970><c> alright</c>
+
+00:28:22.230 --> 00:28:22.240 align:start position:0%
+above this alright
+ 
+
+00:28:22.240 --> 00:28:25.499 align:start position:0%
+above this alright
+so<00:28:22.419><c> quickly</c><00:28:23.409><c> the</c><00:28:24.309><c> Gateway</c><00:28:24.850><c> yeah</c><00:28:24.999><c> the</c><00:28:25.210><c> gateway</c>
+
+00:28:25.499 --> 00:28:25.509 align:start position:0%
+so quickly the Gateway yeah the gateway
+ 
+
+00:28:25.509 --> 00:28:27.810 align:start position:0%
+so quickly the Gateway yeah the gateway
+configuration<00:28:26.110><c> in</c><00:28:26.289><c> this</c><00:28:26.409><c> section</c><00:28:26.799><c> has</c><00:28:27.549><c> more</c>
+
+00:28:27.810 --> 00:28:27.820 align:start position:0%
+configuration in this section has more
+ 
+
+00:28:27.820 --> 00:28:28.499 align:start position:0%
+configuration in this section has more
+examples
+
+00:28:28.499 --> 00:28:28.509 align:start position:0%
+examples
+ 
+
+00:28:28.509 --> 00:28:31.980 align:start position:0%
+examples
+with<00:28:28.840><c> additional</c><00:28:29.379><c> context</c><00:28:29.830><c> I</c><00:28:30.610><c> try</c><00:28:31.240><c> to</c><00:28:31.299><c> add</c><00:28:31.720><c> an</c>
+
+00:28:31.980 --> 00:28:31.990 align:start position:0%
+with additional context I try to add an
+ 
+
+00:28:31.990 --> 00:28:34.230 align:start position:0%
+with additional context I try to add an
+example<00:28:32.440><c> based</c><00:28:32.889><c> on</c><00:28:33.100><c> like</c><00:28:33.340><c> actual</c><00:28:33.879><c> gateway</c>
+
+00:28:34.230 --> 00:28:34.240 align:start position:0%
+example based on like actual gateway
+ 
+
+00:28:34.240 --> 00:28:37.499 align:start position:0%
+example based on like actual gateway
+that<00:28:34.570><c> lives</c><00:28:35.350><c> somewhere</c><00:28:36.029><c> those</c><00:28:37.029><c> are</c><00:28:37.210><c> like</c><00:28:37.389><c> our</c>
+
+00:28:37.499 --> 00:28:37.509 align:start position:0%
+that lives somewhere those are like our
+ 
+
+00:28:37.509 --> 00:28:39.600 align:start position:0%
+that lives somewhere those are like our
+canonical<00:28:37.899><c> gateways</c><00:28:38.470><c> one</c><00:28:38.740><c> for</c><00:28:38.950><c> subdomains</c><00:28:39.220><c> or</c>
+
+00:28:39.600 --> 00:28:39.610 align:start position:0%
+canonical gateways one for subdomains or
+ 
+
+00:28:39.610 --> 00:28:41.669 align:start position:0%
+canonical gateways one for subdomains or
+for<00:28:39.820><c> paths</c><00:28:40.059><c> so</c><00:28:40.450><c> it's</c><00:28:40.570><c> much</c><00:28:40.720><c> much</c><00:28:41.019><c> easier</c><00:28:41.080><c> for</c>
+
+00:28:41.669 --> 00:28:41.679 align:start position:0%
+for paths so it's much much easier for
+ 
+
+00:28:41.679 --> 00:28:43.320 align:start position:0%
+for paths so it's much much easier for
+people<00:28:41.799><c> to</c><00:28:41.980><c> understand</c><00:28:42.429><c> those</c><00:28:42.580><c> configuration</c>
+
+00:28:43.320 --> 00:28:43.330 align:start position:0%
+people to understand those configuration
+ 
+
+00:28:43.330 --> 00:28:47.039 align:start position:0%
+people to understand those configuration
+options<00:28:43.659><c> in</c><00:28:43.869><c> that</c><00:28:43.990><c> context</c><00:28:44.850><c> and</c><00:28:45.850><c> then</c><00:28:46.539><c> at</c><00:28:46.809><c> the</c>
+
+00:28:47.039 --> 00:28:47.049 align:start position:0%
+options in that context and then at the
+ 
+
+00:28:47.049 --> 00:28:51.739 align:start position:0%
+options in that context and then at the
+end<00:28:47.080><c> there</c><00:28:48.039><c> are</c><00:28:48.100><c> some</c><00:28:48.220><c> like</c><00:28:48.779><c> receipts</c><00:28:49.779><c> for</c>
+
+00:28:51.739 --> 00:28:51.749 align:start position:0%
+end there are some like receipts for
+ 
+
+00:28:51.749 --> 00:28:54.330 align:start position:0%
+end there are some like receipts for
+specific<00:28:52.749><c> types</c><00:28:53.350><c> of</c><00:28:53.529><c> gateway</c><00:28:53.860><c> that</c><00:28:54.009><c> people</c>
+
+00:28:54.330 --> 00:28:54.340 align:start position:0%
+specific types of gateway that people
+ 
+
+00:28:54.340 --> 00:28:57.769 align:start position:0%
+specific types of gateway that people
+may<00:28:54.490><c> want</c><00:28:54.669><c> to</c><00:28:54.820><c> run</c><00:28:55.080><c> with</c><00:28:56.080><c> both</c><00:28:56.440><c> examples</c><00:28:57.039><c> and</c>
+
+00:28:57.769 --> 00:28:57.779 align:start position:0%
+may want to run with both examples and
+ 
+
+00:28:57.779 --> 00:29:03.119 align:start position:0%
+may want to run with both examples and
+additional<00:28:59.490><c> context</c><00:29:01.110><c> it's</c><00:29:02.110><c> on</c><00:29:02.409><c> the</c><00:29:02.590><c> PR</c><00:29:02.919><c> which</c>
+
+00:29:03.119 --> 00:29:03.129 align:start position:0%
+additional context it's on the PR which
+ 
+
+00:29:03.129 --> 00:29:08.039 align:start position:0%
+additional context it's on the PR which
+I<00:29:03.369><c> will</c><00:29:03.730><c> link</c><00:29:04.029><c> in</c><00:29:04.860><c> notes</c><00:29:06.539><c> in</c><00:29:07.539><c> meeting</c><00:29:07.869><c> notes</c>
+
+00:29:08.039 --> 00:29:08.049 align:start position:0%
+I will link in notes in meeting notes
+ 
+
+00:29:08.049 --> 00:29:12.119 align:start position:0%
+I will link in notes in meeting notes
+but<00:29:08.980><c> that's</c><00:29:09.249><c> more</c><00:29:09.519><c> or</c><00:29:09.970><c> less</c><00:29:10.860><c> where</c><00:29:11.860><c> we</c><00:29:12.009><c> are</c>
+
+00:29:12.119 --> 00:29:12.129 align:start position:0%
+but that's more or less where we are
+ 
+
+00:29:12.129 --> 00:29:14.279 align:start position:0%
+but that's more or less where we are
+with<00:29:12.340><c> that</c><00:29:12.490><c> next</c><00:29:13.299><c> step</c><00:29:13.450><c> for</c><00:29:13.809><c> the</c><00:29:13.990><c> subdomain</c>
+
+00:29:14.279 --> 00:29:14.289 align:start position:0%
+with that next step for the subdomain
+ 
+
+00:29:14.289 --> 00:29:18.980 align:start position:0%
+with that next step for the subdomain
+business<00:29:14.830><c> is</c><00:29:15.480><c> having</c><00:29:16.480><c> selected</c><00:29:16.990><c> matrix</c><00:29:17.740><c> for</c>
+
+00:29:18.980 --> 00:29:18.990 align:start position:0%
+business is having selected matrix for
+ 
+
+00:29:18.990 --> 00:29:23.730 align:start position:0%
+business is having selected matrix for
+proximal<00:29:20.159><c> cuz</c><00:29:21.159><c> there's</c><00:29:21.369><c> like</c><00:29:21.580><c> a</c><00:29:22.049><c> regular</c><00:29:23.049><c> HTTP</c>
+
+00:29:23.730 --> 00:29:23.740 align:start position:0%
+proximal cuz there's like a regular HTTP
+ 
+
+00:29:23.740 --> 00:29:27.749 align:start position:0%
+proximal cuz there's like a regular HTTP
+proxy<00:29:24.190><c> mode</c><00:29:24.820><c> and</c><00:29:25.149><c> there's</c><00:29:25.600><c> this</c><00:29:25.809><c> like</c><00:29:26.759><c> HTTP</c>
+
+00:29:27.749 --> 00:29:27.759 align:start position:0%
+proxy mode and there's this like HTTP
+ 
+
+00:29:27.759 --> 00:29:31.320 align:start position:0%
+proxy mode and there's this like HTTP
+tunnel<00:29:28.179><c> mode</c><00:29:28.570><c> and</c><00:29:28.899><c> we</c><00:29:29.740><c> support</c><00:29:30.129><c> both</c><00:29:30.340><c> so</c>
+
+00:29:31.320 --> 00:29:31.330 align:start position:0%
+tunnel mode and we support both so
+ 
+
+00:29:31.330 --> 00:29:35.460 align:start position:0%
+tunnel mode and we support both so
+people<00:29:31.749><c> will</c><00:29:32.940><c> it</c><00:29:33.940><c> will</c><00:29:34.179><c> just</c><00:29:34.360><c> work</c><00:29:34.450><c> you</c><00:29:35.259><c> never</c>
+
+00:29:35.460 --> 00:29:35.470 align:start position:0%
+people will it will just work you never
+ 
+
+00:29:35.470 --> 00:29:37.409 align:start position:0%
+people will it will just work you never
+know<00:29:35.649><c> which</c><00:29:36.009><c> most</c><00:29:36.249><c> people</c><00:29:36.609><c> run</c><00:29:36.789><c> and</c><00:29:37.059><c> people</c>
+
+00:29:37.409 --> 00:29:37.419 align:start position:0%
+know which most people run and people
+ 
+
+00:29:37.419 --> 00:29:39.810 align:start position:0%
+know which most people run and people
+honestly<00:29:38.139><c> I</c><00:29:38.169><c> did</c><00:29:38.559><c> not</c><00:29:38.769><c> fully</c><00:29:39.249><c> understand</c><00:29:39.700><c> the</c>
+
+00:29:39.810 --> 00:29:39.820 align:start position:0%
+honestly I did not fully understand the
+ 
+
+00:29:39.820 --> 00:29:41.760 align:start position:0%
+honestly I did not fully understand the
+difference<00:29:40.179><c> and</c><00:29:40.359><c> until</c><00:29:40.809><c> I</c><00:29:40.840><c> had</c><00:29:41.169><c> to</c><00:29:41.320><c> like</c>
+
+00:29:41.760 --> 00:29:41.770 align:start position:0%
+difference and until I had to like
+ 
+
+00:29:41.770 --> 00:29:45.030 align:start position:0%
+difference and until I had to like
+and<00:29:42.010><c> some</c><00:29:42.760><c> stuff</c><00:29:43.000><c> around</c><00:29:43.150><c> that</c><00:29:43.330><c> so</c><00:29:44.050><c> I</c><00:29:44.410><c> like</c><00:29:44.860><c> we</c>
+
+00:29:45.030 --> 00:29:45.040 align:start position:0%
+and some stuff around that so I like we
+ 
+
+00:29:45.040 --> 00:29:47.610 align:start position:0%
+and some stuff around that so I like we
+will<00:29:45.850><c> just</c><00:29:46.240><c> internet</c><00:29:46.660><c> everything</c><00:29:47.080><c> the</c><00:29:47.260><c> the</c>
+
+00:29:47.610 --> 00:29:47.620 align:start position:0%
+will just internet everything the the
+ 
+
+00:29:47.620 --> 00:29:49.710 align:start position:0%
+will just internet everything the the
+cave<00:29:47.890><c> up</c><00:29:48.040><c> here</c><00:29:48.370><c> is</c><00:29:48.670><c> like</c><00:29:48.700><c> I</c><00:29:49.210><c> don't</c><00:29:49.390><c> want</c><00:29:49.660><c> to</c>
+
+00:29:49.710 --> 00:29:49.720 align:start position:0%
+cave up here is like I don't want to
+ 
+
+00:29:49.720 --> 00:29:53.520 align:start position:0%
+cave up here is like I don't want to
+grow<00:29:49.960><c> the</c><00:29:50.680><c> test</c><00:29:51.090><c> too</c><00:29:52.090><c> much</c><00:29:52.240><c> because</c><00:29:53.020><c> you</c><00:29:53.290><c> need</c>
+
+00:29:53.520 --> 00:29:53.530 align:start position:0%
+grow the test too much because you need
+ 
+
+00:29:53.530 --> 00:29:56.010 align:start position:0%
+grow the test too much because you need
+to<00:29:53.800><c> like</c><00:29:53.980><c> eat</c><00:29:54.370><c> for</c><00:29:55.270><c> example</c><00:29:55.570><c> if</c><00:29:55.660><c> you</c><00:29:55.750><c> want</c><00:29:55.900><c> to</c>
+
+00:29:56.010 --> 00:29:56.020 align:start position:0%
+to like eat for example if you want to
+ 
+
+00:29:56.020 --> 00:29:58.110 align:start position:0%
+to like eat for example if you want to
+test<00:29:56.200><c> request</c><00:29:56.860><c> a</c><00:29:56.950><c> subdomain</c><00:29:57.280><c> we</c><00:29:57.790><c> would</c><00:29:57.910><c> have</c>
+
+00:29:58.110 --> 00:29:58.120 align:start position:0%
+test request a subdomain we would have
+ 
+
+00:29:58.120 --> 00:30:02.790 align:start position:0%
+test request a subdomain we would have
+to<00:29:58.270><c> run</c><00:29:58.420><c> that</c><00:29:58.630><c> one</c><00:29:59.110><c> directly</c><00:29:59.950><c> once</c><00:30:01.560><c> like</c><00:30:02.560><c> twice</c>
+
+00:30:02.790 --> 00:30:02.800 align:start position:0%
+to run that one directly once like twice
+ 
+
+00:30:02.800 --> 00:30:06.840 align:start position:0%
+to run that one directly once like twice
+in<00:30:03.100><c> each</c><00:30:03.810><c> proxy</c><00:30:04.810><c> mode</c><00:30:04.960><c> and</c><00:30:05.260><c> if</c><00:30:05.890><c> there's</c><00:30:06.250><c> a</c><00:30:06.430><c> DNS</c>
+
+00:30:06.840 --> 00:30:06.850 align:start position:0%
+in each proxy mode and if there's a DNS
+ 
+
+00:30:06.850 --> 00:30:09.900 align:start position:0%
+in each proxy mode and if there's a DNS
+link<00:30:07.090><c> resolve</c><00:30:07.860><c> in</c><00:30:08.860><c> the</c><00:30:09.070><c> picture</c><00:30:09.430><c> somewhere</c>
+
+00:30:09.900 --> 00:30:09.910 align:start position:0%
+link resolve in the picture somewhere
+ 
+
+00:30:09.910 --> 00:30:12.030 align:start position:0%
+link resolve in the picture somewhere
+that<00:30:10.300><c> that's</c><00:30:10.540><c> like</c><00:30:10.870><c> additional</c><00:30:11.410><c> permutation</c>
+
+00:30:12.030 --> 00:30:12.040 align:start position:0%
+that that's like additional permutation
+ 
+
+00:30:12.040 --> 00:30:14.070 align:start position:0%
+that that's like additional permutation
+and<00:30:12.250><c> I</c><00:30:12.340><c> want</c><00:30:12.490><c> to</c><00:30:12.580><c> like</c><00:30:12.730><c> collapse</c><00:30:13.630><c> the</c><00:30:13.840><c> number</c>
+
+00:30:14.070 --> 00:30:14.080 align:start position:0%
+and I want to like collapse the number
+ 
+
+00:30:14.080 --> 00:30:16.490 align:start position:0%
+and I want to like collapse the number
+of<00:30:14.170><c> permutations</c><00:30:14.440><c> that</c><00:30:14.860><c> would</c><00:30:15.070><c> probably</c>
+
+00:30:16.490 --> 00:30:16.500 align:start position:0%
+of permutations that would probably
+ 
+
+00:30:16.500 --> 00:30:18.360 align:start position:0%
+of permutations that would probably
+write<00:30:17.500><c> some</c><00:30:17.740><c> other</c><00:30:17.860><c> additional</c>
+
+00:30:18.360 --> 00:30:18.370 align:start position:0%
+write some other additional
+ 
+
+00:30:18.370 --> 00:30:21.890 align:start position:0%
+write some other additional
+orchestration<00:30:19.240><c> for</c><00:30:19.420><c> those</c><00:30:20.010><c> gateway</c><00:30:21.010><c> tests</c>
+
+00:30:21.890 --> 00:30:21.900 align:start position:0%
+orchestration for those gateway tests
+ 
+
+00:30:21.900 --> 00:30:26.760 align:start position:0%
+orchestration for those gateway tests
+but<00:30:22.900><c> so</c><00:30:23.410><c> far</c><00:30:23.590><c> it</c><00:30:23.770><c> looks</c><00:30:23.950><c> pretty</c><00:30:24.490><c> promising</c><00:30:25.770><c> the</c>
+
+00:30:26.760 --> 00:30:26.770 align:start position:0%
+but so far it looks pretty promising the
+ 
+
+00:30:26.770 --> 00:30:30.000 align:start position:0%
+but so far it looks pretty promising the
+goal<00:30:27.040><c> is</c><00:30:27.250><c> to</c><00:30:27.280><c> have</c><00:30:27.580><c> it</c><00:30:28.200><c> like</c><00:30:29.200><c> the</c><00:30:29.350><c> surface</c><00:30:29.560><c> to</c>
+
+00:30:30.000 --> 00:30:30.010 align:start position:0%
+goal is to have it like the surface to
+ 
+
+00:30:30.010 --> 00:30:31.800 align:start position:0%
+goal is to have it like the surface to
+keep<00:30:30.310><c> the</c><00:30:30.460><c> surface</c><00:30:30.640><c> small</c><00:30:31.060><c> and</c><00:30:31.330><c> easy</c><00:30:31.690><c> to</c>
+
+00:30:31.800 --> 00:30:31.810 align:start position:0%
+keep the surface small and easy to
+ 
+
+00:30:31.810 --> 00:30:34.260 align:start position:0%
+keep the surface small and easy to
+maintain<00:30:32.190><c> because</c><00:30:33.190><c> it's</c><00:30:33.430><c> like</c><00:30:33.640><c> even</c><00:30:33.970><c> for</c><00:30:34.120><c> me</c>
+
+00:30:34.260 --> 00:30:34.270 align:start position:0%
+maintain because it's like even for me
+ 
+
+00:30:34.270 --> 00:30:37.650 align:start position:0%
+maintain because it's like even for me
+really<00:30:34.720><c> sitting</c><00:30:35.080><c> tests</c><00:30:35.650><c> after</c><00:30:36.220><c> a</c><00:30:36.250><c> week</c>
+
+00:30:37.650 --> 00:30:37.660 align:start position:0%
+really sitting tests after a week
+ 
+
+00:30:37.660 --> 00:30:41.220 align:start position:0%
+really sitting tests after a week
+it's<00:30:38.560><c> no</c><00:30:38.740><c> fun</c><00:30:38.950><c> and</c><00:30:39.610><c> if</c><00:30:39.850><c> someone</c><00:30:40.300><c> will</c><00:30:40.930><c> release</c>
+
+00:30:41.220 --> 00:30:41.230 align:start position:0%
+it's no fun and if someone will release
+ 
+
+00:30:41.230 --> 00:30:44.640 align:start position:0%
+it's no fun and if someone will release
+the<00:30:41.350><c> DOE</c><00:30:41.470><c> test</c><00:30:41.770><c> in</c><00:30:42.040><c> few</c><00:30:42.370><c> months</c><00:30:42.700><c> I</c><00:30:43.350><c> want</c><00:30:44.350><c> them</c>
+
+00:30:44.640 --> 00:30:44.650 align:start position:0%
+the DOE test in few months I want them
+ 
+
+00:30:44.650 --> 00:30:46.740 align:start position:0%
+the DOE test in few months I want them
+to<00:30:44.680><c> have</c><00:30:45.010><c> like</c><00:30:45.280><c> at</c><00:30:45.550><c> least</c><00:30:45.790><c> some</c><00:30:46.060><c> fun</c><00:30:46.300><c> like</c>
+
+00:30:46.740 --> 00:30:46.750 align:start position:0%
+to have like at least some fun like
+ 
+
+00:30:46.750 --> 00:30:51.140 align:start position:0%
+to have like at least some fun like
+appreciating<00:30:47.650><c> someone</c><00:30:48.640><c> care</c><00:30:49.710><c> but</c><00:30:50.710><c> yeah</c>
+
+00:30:51.140 --> 00:30:51.150 align:start position:0%
+appreciating someone care but yeah
+ 
+
+00:30:51.150 --> 00:30:53.180 align:start position:0%
+appreciating someone care but yeah
+that's<00:30:52.150><c> about</c><00:30:52.390><c> it</c>
+
+00:30:53.180 --> 00:30:53.190 align:start position:0%
+that's about it
+ 
+
+00:30:53.190 --> 00:30:54.470 align:start position:0%
+that's about it
+[Music]
+
+00:30:54.470 --> 00:30:54.480 align:start position:0%
+[Music]
+ 
+
+00:30:54.480 --> 00:30:56.480 align:start position:0%
+[Music]
+any<00:30:55.480><c> questions</c>
+
+00:30:56.480 --> 00:30:56.490 align:start position:0%
+any questions
+ 
+
+00:30:56.490 --> 00:31:01.140 align:start position:0%
+any questions
+Roberto<00:30:57.490><c> oh</c><00:30:57.790><c> man</c><00:30:58.330><c> I</c><00:30:59.220><c> hope</c><00:31:00.220><c> the</c><00:31:00.400><c> nicknames</c><00:31:00.910><c> are</c>
+
+00:31:01.140 --> 00:31:01.150 align:start position:0%
+Roberto oh man I hope the nicknames are
+ 
+
+00:31:01.150 --> 00:31:14.940 align:start position:0%
+Roberto oh man I hope the nicknames are
+not<00:31:01.390><c> stick</c><00:31:11.850><c> all</c><00:31:12.850><c> right</c><00:31:13.270><c> I</c><00:31:13.870><c> don't</c><00:31:14.470><c> believe</c><00:31:14.770><c> we</c>
+
+00:31:14.940 --> 00:31:14.950 align:start position:0%
+not stick all right I don't believe we
+ 
+
+00:31:14.950 --> 00:31:20.070 align:start position:0%
+not stick all right I don't believe we
+have<00:31:15.160><c> any</c><00:31:15.430><c> more</c><00:31:16.170><c> items</c><00:31:17.170><c> this</c><00:31:17.500><c> week</c><00:31:18.600><c> we</c><00:31:19.600><c> won't</c>
+
+00:31:20.070 --> 00:31:20.080 align:start position:0%
+have any more items this week we won't
+ 
+
+00:31:20.080 --> 00:31:22.710 align:start position:0%
+have any more items this week we won't
+be<00:31:20.410><c> meeting</c><00:31:20.710><c> on</c><00:31:21.430><c> this</c><00:31:21.760><c> call</c><00:31:22.090><c> next</c><00:31:22.390><c> week</c>
+
+00:31:22.710 --> 00:31:22.720 align:start position:0%
+be meeting on this call next week
+ 
+
+00:31:22.720 --> 00:31:27.320 align:start position:0%
+be meeting on this call next week
+because<00:31:22.900><c> we</c><00:31:23.170><c> will</c><00:31:23.380><c> be</c><00:31:23.560><c> meeting</c><00:31:25.740><c> hopefully</c>
+
+00:31:27.320 --> 00:31:27.330 align:start position:0%
+because we will be meeting hopefully
+ 
+
+00:31:27.330 --> 00:31:31.170 align:start position:0%
+because we will be meeting hopefully
+face<00:31:28.330><c> to</c><00:31:28.480><c> face</c><00:31:28.800><c> so</c><00:31:29.800><c> this</c><00:31:30.040><c> call</c><00:31:30.250><c> will</c><00:31:30.490><c> happen</c><00:31:30.910><c> in</c>
+
+00:31:31.170 --> 00:31:31.180 align:start position:0%
+face to face so this call will happen in
+ 
+
+00:31:31.180 --> 00:31:34.860 align:start position:0%
+face to face so this call will happen in
+two<00:31:31.420><c> weeks</c><00:31:31.650><c> I</c><00:31:32.650><c> guess</c><00:31:33.460><c> unless</c><00:31:33.730><c> we</c><00:31:34.150><c> want</c><00:31:34.360><c> we</c><00:31:34.720><c> have</c>
+
+00:31:34.860 --> 00:31:34.870 align:start position:0%
+two weeks I guess unless we want we have
+ 
+
+00:31:34.870 --> 00:31:36.960 align:start position:0%
+two weeks I guess unless we want we have
+any<00:31:35.290><c> like</c><00:31:35.710><c> open</c><00:31:35.950><c> topics</c><00:31:36.280><c> you</c><00:31:36.340><c> want</c><00:31:36.520><c> to</c><00:31:36.610><c> discuss</c>
+
+00:31:36.960 --> 00:31:36.970 align:start position:0%
+any like open topics you want to discuss
+ 
+
+00:31:36.970 --> 00:31:41.360 align:start position:0%
+any like open topics you want to discuss
+we<00:31:37.300><c> can</c><00:31:37.680><c> just</c><00:31:38.680><c> cut</c><00:31:39.550><c> it</c><00:31:39.700><c> short</c><00:31:39.730><c> this</c><00:31:40.120><c> week</c><00:31:40.300><c> and</c>
+
+00:31:41.360 --> 00:31:41.370 align:start position:0%
+we can just cut it short this week and
+ 
+
+00:31:41.370 --> 00:31:43.440 align:start position:0%
+we can just cut it short this week and
+return<00:31:42.370><c> you</c><00:31:42.490><c> like</c><00:31:42.700><c> twenty</c><00:31:43.030><c> minutes</c><00:31:43.270><c> of</c><00:31:43.360><c> your</c>
+
+00:31:43.440 --> 00:31:43.450 align:start position:0%
+return you like twenty minutes of your
+ 
+
+00:31:43.450 --> 00:31:46.250 align:start position:0%
+return you like twenty minutes of your
+time
+
+00:31:46.250 --> 00:31:46.260 align:start position:0%
+ 
+ 
+
+00:31:46.260 --> 00:31:49.590 align:start position:0%
+ 
+does<00:31:47.260><c> it</c><00:31:47.410><c> sound</c><00:31:47.590><c> good</c><00:31:47.910><c> yes</c>
+
+00:31:49.590 --> 00:31:49.600 align:start position:0%
+does it sound good yes
+ 
+
+00:31:49.600 --> 00:31:55.409 align:start position:0%
+does it sound good yes
+man<00:31:50.669><c> awesome</c><00:31:51.990><c> alright</c><00:31:53.940><c> see</c><00:31:54.940><c> you</c><00:31:55.030><c> next</c><00:31:55.059><c> week</c>
+
+00:31:55.409 --> 00:31:55.419 align:start position:0%
+man awesome alright see you next week
+ 
+
+00:31:55.419 --> 00:32:00.090 align:start position:0%
+man awesome alright see you next week
+and<00:31:56.070><c> see</c><00:31:57.070><c> us</c><00:31:57.700><c> in</c><00:31:58.450><c> two</c><00:31:58.690><c> weeks</c>
+
+00:32:00.090 --> 00:32:00.100 align:start position:0%
+and see us in two weeks
+ 
+
+00:32:00.100 --> 00:32:04.260 align:start position:0%
+and see us in two weeks
+bye<00:32:00.520><c> thanks</c><00:32:01.510><c> for</c><00:32:01.660><c> by</c>
+

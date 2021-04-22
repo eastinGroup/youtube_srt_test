@@ -1,0 +1,576 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.909 --> 00:00:05.610 align:start position:0%
+ 
+so<00:00:03.909><c> my</c><00:00:04.060><c> name</c><00:00:04.180><c> is</c><00:00:04.210><c> Jessica</c><00:00:04.480><c> Schilling</c><00:00:05.050><c> I</c><00:00:05.260><c> am</c>
+
+00:00:05.610 --> 00:00:05.620 align:start position:0%
+so my name is Jessica Schilling I am
+ 
+
+00:00:05.620 --> 00:00:09.420 align:start position:0%
+so my name is Jessica Schilling I am
+part<00:00:06.100><c> of</c><00:00:06.310><c> the</c><00:00:06.640><c> newly</c><00:00:07.480><c> reconstituted</c><00:00:08.040><c> ipfs</c><00:00:09.040><c> GUI</c>
+
+00:00:09.420 --> 00:00:09.430 align:start position:0%
+part of the newly reconstituted ipfs GUI
+ 
+
+00:00:09.430 --> 00:00:12.480 align:start position:0%
+part of the newly reconstituted ipfs GUI
+and<00:00:09.670><c> in</c><00:00:09.910><c> web</c><00:00:10.240><c> browsers</c><00:00:10.780><c> working</c><00:00:11.230><c> group</c><00:00:11.469><c> and</c><00:00:11.770><c> we</c>
+
+00:00:12.480 --> 00:00:12.490 align:start position:0%
+and in web browsers working group and we
+ 
+
+00:00:12.490 --> 00:00:14.970 align:start position:0%
+and in web browsers working group and we
+this<00:00:13.180><c> is</c><00:00:13.240><c> this</c><00:00:13.570><c> is</c><00:00:13.719><c> not</c><00:00:13.809><c> so</c><00:00:13.930><c> much</c><00:00:14.020><c> a</c><00:00:14.139><c> demo</c><00:00:14.379><c> it's</c>
+
+00:00:14.970 --> 00:00:14.980 align:start position:0%
+this is this is not so much a demo it's
+ 
+
+00:00:14.980 --> 00:00:16.230 align:start position:0%
+this is this is not so much a demo it's
+just<00:00:15.160><c> a</c><00:00:15.219><c> recap</c><00:00:15.549><c> of</c><00:00:15.730><c> some</c><00:00:15.850><c> of</c><00:00:15.940><c> the</c><00:00:16.000><c> things</c><00:00:16.180><c> that</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+just a recap of some of the things that
+ 
+
+00:00:16.240 --> 00:00:17.130 align:start position:0%
+just a recap of some of the things that
+we<00:00:16.360><c> were</c><00:00:16.449><c> in</c><00:00:16.539><c> the</c><00:00:16.600><c> light</c><00:00:16.720><c> you</c><00:00:16.810><c> know</c><00:00:16.900><c> that</c><00:00:17.020><c> we've</c>
+
+00:00:17.130 --> 00:00:17.140 align:start position:0%
+we were in the light you know that we've
+ 
+
+00:00:17.140 --> 00:00:20.340 align:start position:0%
+we were in the light you know that we've
+been<00:00:17.170><c> up</c><00:00:17.440><c> to</c><00:00:18.210><c> basically</c><00:00:19.210><c> here's</c><00:00:19.930><c> here's</c><00:00:20.230><c> the</c>
+
+00:00:20.340 --> 00:00:20.350 align:start position:0%
+been up to basically here's here's the
+ 
+
+00:00:20.350 --> 00:00:24.450 align:start position:0%
+been up to basically here's here's the
+TLDR<00:00:20.740><c> we</c><00:00:21.730><c> closed</c><00:00:22.270><c> upwards</c><00:00:22.810><c> of</c><00:00:22.960><c> 30</c><00:00:23.230><c> UX</c><00:00:23.830><c> related</c>
+
+00:00:24.450 --> 00:00:24.460 align:start position:0%
+TLDR we closed upwards of 30 UX related
+ 
+
+00:00:24.460 --> 00:00:27.300 align:start position:0%
+TLDR we closed upwards of 30 UX related
+issues<00:00:24.880><c> across</c><00:00:25.180><c> the</c><00:00:25.450><c> ipfs</c><00:00:25.960><c> ecosystem</c><00:00:26.620><c> in</c><00:00:26.770><c> the</c>
+
+00:00:27.300 --> 00:00:27.310 align:start position:0%
+issues across the ipfs ecosystem in the
+ 
+
+00:00:27.310 --> 00:00:30.990 align:start position:0%
+issues across the ipfs ecosystem in the
+second<00:00:27.610><c> quarter</c><00:00:27.850><c> of</c><00:00:28.140><c> 2020</c><00:00:29.190><c> why</c><00:00:30.220><c> well</c><00:00:30.640><c> kazoo</c>
+
+00:00:30.990 --> 00:00:31.000 align:start position:0%
+second quarter of 2020 why well kazoo
+ 
+
+00:00:31.000 --> 00:00:33.150 align:start position:0%
+second quarter of 2020 why well kazoo
+works<00:00:31.150><c> is</c><00:00:31.270><c> important</c><00:00:31.660><c> and</c><00:00:31.810><c> we</c><00:00:32.259><c> want</c><00:00:32.379><c> IVFs</c><00:00:32.890><c> to</c>
+
+00:00:33.150 --> 00:00:33.160 align:start position:0%
+works is important and we want IVFs to
+ 
+
+00:00:33.160 --> 00:00:35.610 align:start position:0%
+works is important and we want IVFs to
+be<00:00:33.250><c> easier</c><00:00:33.610><c> to</c><00:00:33.850><c> use</c><00:00:34.030><c> for</c><00:00:34.420><c> newbies</c><00:00:34.719><c> and</c><00:00:34.930><c> experts</c>
+
+00:00:35.610 --> 00:00:35.620 align:start position:0%
+be easier to use for newbies and experts
+ 
+
+00:00:35.620 --> 00:00:37.350 align:start position:0%
+be easier to use for newbies and experts
+alike<00:00:35.860><c> I</c><00:00:36.280><c> mean</c><00:00:36.430><c> that</c><00:00:36.700><c> sounds</c><00:00:36.880><c> pretty</c><00:00:37.150><c> simple</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+alike I mean that sounds pretty simple
+ 
+
+00:00:37.360 --> 00:00:39.780 align:start position:0%
+alike I mean that sounds pretty simple
+but<00:00:37.480><c> it's</c><00:00:37.750><c> it's</c><00:00:37.989><c> pretty</c><00:00:38.230><c> real</c><00:00:38.470><c> and</c><00:00:38.739><c> so</c><00:00:39.730><c> you</c>
+
+00:00:39.780 --> 00:00:39.790 align:start position:0%
+but it's it's pretty real and so you
+ 
+
+00:00:39.790 --> 00:00:41.670 align:start position:0%
+but it's it's pretty real and so you
+want<00:00:39.970><c> to</c><00:00:40.030><c> know</c><00:00:40.090><c> what</c><00:00:40.210><c> we</c><00:00:40.300><c> did</c><00:00:40.420><c> well</c><00:00:40.690><c> glad</c><00:00:41.649><c> you</c>
+
+00:00:41.670 --> 00:00:41.680 align:start position:0%
+want to know what we did well glad you
+ 
+
+00:00:41.680 --> 00:00:42.540 align:start position:0%
+want to know what we did well glad you
+asked
+
+00:00:42.540 --> 00:00:42.550 align:start position:0%
+asked
+ 
+
+00:00:42.550 --> 00:00:45.600 align:start position:0%
+asked
+here<00:00:42.790><c> are</c><00:00:42.940><c> a</c><00:00:43.000><c> few</c><00:00:43.060><c> things</c><00:00:43.560><c> we</c><00:00:44.560><c> have</c><00:00:44.590><c> been</c><00:00:44.710><c> in</c><00:00:45.100><c> a</c>
+
+00:00:45.600 --> 00:00:45.610 align:start position:0%
+here are a few things we have been in a
+ 
+
+00:00:45.610 --> 00:00:47.819 align:start position:0%
+here are a few things we have been in a
+lot<00:00:45.880><c> of</c><00:00:46.060><c> discussions</c><00:00:46.690><c> so</c><00:00:46.899><c> I'm</c><00:00:47.110><c> gonna</c><00:00:47.260><c> talk</c><00:00:47.620><c> as</c>
+
+00:00:47.819 --> 00:00:47.829 align:start position:0%
+lot of discussions so I'm gonna talk as
+ 
+
+00:00:47.829 --> 00:00:49.020 align:start position:0%
+lot of discussions so I'm gonna talk as
+little<00:00:47.950><c> as</c><00:00:48.100><c> possible</c><00:00:48.309><c> maybe</c><00:00:48.700><c> give</c><00:00:48.910><c> you</c><00:00:49.000><c> a</c>
+
+00:00:49.020 --> 00:00:49.030 align:start position:0%
+little as possible maybe give you a
+ 
+
+00:00:49.030 --> 00:00:53.190 align:start position:0%
+little as possible maybe give you a
+little<00:00:49.239><c> bit</c><00:00:49.329><c> of</c><00:00:49.360><c> sea</c><00:00:49.540><c> music</c><00:00:49.930><c> a</c><00:00:50.790><c> PFS</c><00:00:51.790><c> desktop</c><00:00:52.239><c> we</c>
+
+00:00:53.190 --> 00:00:53.200 align:start position:0%
+little bit of sea music a PFS desktop we
+ 
+
+00:00:53.200 --> 00:00:55.200 align:start position:0%
+little bit of sea music a PFS desktop we
+have<00:00:53.290><c> improved</c><00:00:53.649><c> screen</c><00:00:53.980><c> reader</c><00:00:54.280><c> behavior</c><00:00:54.820><c> for</c>
+
+00:00:55.200 --> 00:00:55.210 align:start position:0%
+have improved screen reader behavior for
+ 
+
+00:00:55.210 --> 00:00:58.650 align:start position:0%
+have improved screen reader behavior for
+folks<00:00:55.630><c> of</c><00:00:56.050><c> all</c><00:00:56.410><c> types</c><00:00:57.070><c> we</c><00:00:58.030><c> have</c><00:00:58.059><c> an</c><00:00:58.210><c> enhanced</c>
+
+00:00:58.650 --> 00:00:58.660 align:start position:0%
+folks of all types we have an enhanced
+ 
+
+00:00:58.660 --> 00:01:00.810 align:start position:0%
+folks of all types we have an enhanced
+peers<00:00:58.960><c> map</c><00:00:59.230><c> with</c><00:00:59.530><c> bigger</c><00:00:59.829><c> dots</c><00:01:00.219><c> for</c><00:01:00.640><c> more</c>
+
+00:01:00.810 --> 00:01:00.820 align:start position:0%
+peers map with bigger dots for more
+ 
+
+00:01:00.820 --> 00:01:03.389 align:start position:0%
+peers map with bigger dots for more
+peers<00:01:01.030><c> in</c><00:01:01.270><c> specific</c><00:01:01.660><c> geographical</c><00:01:02.110><c> areas</c><00:01:02.469><c> web</c>
+
+00:01:03.389 --> 00:01:03.399 align:start position:0%
+peers in specific geographical areas web
+ 
+
+00:01:03.399 --> 00:01:05.850 align:start position:0%
+peers in specific geographical areas web
+UI<00:01:03.610><c> is</c><00:01:03.670><c> better</c><00:01:03.910><c> to</c><00:01:04.149><c> use</c><00:01:04.449><c> shell</c><00:01:05.290><c> specific</c>
+
+00:01:05.850 --> 00:01:05.860 align:start position:0%
+UI is better to use shell specific
+ 
+
+00:01:05.860 --> 00:01:07.260 align:start position:0%
+UI is better to use shell specific
+guidance<00:01:06.040><c> if</c><00:01:06.340><c> your</c><00:01:06.460><c> demon</c><00:01:06.729><c> isn't</c><00:01:06.909><c> running</c>
+
+00:01:07.260 --> 00:01:07.270 align:start position:0%
+guidance if your demon isn't running
+ 
+
+00:01:07.270 --> 00:01:09.599 align:start position:0%
+guidance if your demon isn't running
+including<00:01:07.569><c> copy</c><00:01:08.139><c> and</c><00:01:08.499><c> a</c><00:01:08.649><c> case</c><00:01:08.829><c> specific</c><00:01:09.520><c> to</c>
+
+00:01:09.599 --> 00:01:09.609 align:start position:0%
+including copy and a case specific to
+ 
+
+00:01:09.609 --> 00:01:10.949 align:start position:0%
+including copy and a case specific to
+Windows<00:01:09.819><c> PowerShell</c><00:01:09.969><c> which</c><00:01:10.359><c> is</c><00:01:10.450><c> pretty</c><00:01:10.659><c> sweet</c>
+
+00:01:10.949 --> 00:01:10.959 align:start position:0%
+Windows PowerShell which is pretty sweet
+ 
+
+00:01:10.959 --> 00:01:13.739 align:start position:0%
+Windows PowerShell which is pretty sweet
+I<00:01:11.380><c> guess</c><00:01:12.219><c> companion</c><00:01:12.880><c> got</c><00:01:13.090><c> better</c><00:01:13.240><c> too</c>
+
+00:01:13.739 --> 00:01:13.749 align:start position:0%
+I guess companion got better too
+ 
+
+00:01:13.749 --> 00:01:16.709 align:start position:0%
+I guess companion got better too
+preferences<00:01:14.709><c> are</c><00:01:14.920><c> in</c><00:01:15.100><c> their</c><00:01:15.520><c> very</c><00:01:15.909><c> own</c><00:01:16.149><c> tab</c>
+
+00:01:16.709 --> 00:01:16.719 align:start position:0%
+preferences are in their very own tab
+ 
+
+00:01:16.719 --> 00:01:19.080 align:start position:0%
+preferences are in their very own tab
+I've<00:01:17.619><c> also</c><00:01:17.770><c> got</c><00:01:17.979><c> improved</c><00:01:18.219><c> welcome</c><00:01:18.639><c> page</c><00:01:18.850><c> with</c>
+
+00:01:19.080 --> 00:01:19.090 align:start position:0%
+I've also got improved welcome page with
+ 
+
+00:01:19.090 --> 00:01:20.910 align:start position:0%
+I've also got improved welcome page with
+some<00:01:19.209><c> new</c><00:01:19.299><c> help</c><00:01:19.450><c> resources</c><00:01:19.840><c> here's</c><00:01:20.590><c> it</c><00:01:20.740><c> on</c>
+
+00:01:20.910 --> 00:01:20.920 align:start position:0%
+some new help resources here's it on
+ 
+
+00:01:20.920 --> 00:01:22.679 align:start position:0%
+some new help resources here's it on
+hint<00:01:21.520><c> you</c><00:01:21.729><c> can</c><00:01:21.789><c> get</c><00:01:21.969><c> to</c><00:01:22.060><c> this</c><00:01:22.149><c> page</c><00:01:22.329><c> anytime</c>
+
+00:01:22.679 --> 00:01:22.689 align:start position:0%
+hint you can get to this page anytime
+ 
+
+00:01:22.689 --> 00:01:24.449 align:start position:0%
+hint you can get to this page anytime
+you<00:01:22.899><c> want</c><00:01:23.049><c> by</c><00:01:23.170><c> clicking</c><00:01:23.529><c> the</c><00:01:23.679><c> heartbeat</c><00:01:24.100><c> cube</c>
+
+00:01:24.449 --> 00:01:24.459 align:start position:0%
+you want by clicking the heartbeat cube
+ 
+
+00:01:24.459 --> 00:01:26.359 align:start position:0%
+you want by clicking the heartbeat cube
+from<00:01:24.759><c> your</c><00:01:24.909><c> companion</c><00:01:25.389><c> overlay</c><00:01:25.810><c> window</c>
+
+00:01:26.359 --> 00:01:26.369 align:start position:0%
+from your companion overlay window
+ 
+
+00:01:26.369 --> 00:01:28.830 align:start position:0%
+from your companion overlay window
+desktop<00:01:27.369><c> companion</c><00:01:27.819><c> and</c><00:01:28.029><c> explorer</c><00:01:28.389><c> all</c><00:01:28.630><c> got</c>
+
+00:01:28.830 --> 00:01:28.840 align:start position:0%
+desktop companion and explorer all got
+ 
+
+00:01:28.840 --> 00:01:30.120 align:start position:0%
+desktop companion and explorer all got
+better<00:01:28.959><c> because</c><00:01:29.350><c> we</c><00:01:29.469><c> have</c><00:01:29.560><c> many</c><00:01:29.920><c> more</c>
+
+00:01:30.120 --> 00:01:30.130 align:start position:0%
+better because we have many more
+ 
+
+00:01:30.130 --> 00:01:31.919 align:start position:0%
+better because we have many more
+translations<00:01:30.729><c> and</c><00:01:30.969><c> updated</c><00:01:31.420><c> translations</c>
+
+00:01:31.919 --> 00:01:31.929 align:start position:0%
+translations and updated translations
+ 
+
+00:01:31.929 --> 00:01:33.629 align:start position:0%
+translations and updated translations
+and<00:01:32.139><c> better</c><00:01:32.289><c> translations</c><00:01:32.950><c> and</c><00:01:33.219><c> less</c><00:01:33.399><c> buggy</c>
+
+00:01:33.629 --> 00:01:33.639 align:start position:0%
+and better translations and less buggy
+ 
+
+00:01:33.639 --> 00:01:36.120 align:start position:0%
+and better translations and less buggy
+translations<00:01:34.389><c> I</c><00:01:34.719><c> failed</c><00:01:35.349><c> the</c><00:01:35.529><c> Explorer</c><00:01:35.889><c> got</c>
+
+00:01:36.120 --> 00:01:36.130 align:start position:0%
+translations I failed the Explorer got
+ 
+
+00:01:36.130 --> 00:01:38.910 align:start position:0%
+translations I failed the Explorer got
+better<00:01:36.340><c> no</c><00:01:36.999><c> more</c><00:01:37.240><c> of</c><00:01:37.420><c> those</c><00:01:37.599><c> super</c><00:01:37.990><c> short</c><00:01:38.469><c> file</c>
+
+00:01:38.910 --> 00:01:38.920 align:start position:0%
+better no more of those super short file
+ 
+
+00:01:38.920 --> 00:01:40.949 align:start position:0%
+better no more of those super short file
+lists<00:01:39.369><c> that</c><00:01:39.490><c> only</c><00:01:39.609><c> take</c><00:01:39.849><c> up</c><00:01:39.969><c> like</c><00:01:40.119><c> 100</c><00:01:40.630><c> pixels</c>
+
+00:01:40.949 --> 00:01:40.959 align:start position:0%
+lists that only take up like 100 pixels
+ 
+
+00:01:40.959 --> 00:01:44.309 align:start position:0%
+lists that only take up like 100 pixels
+in<00:01:41.200><c> your</c><00:01:41.349><c> screen</c><00:01:41.939><c> Explorer</c><00:01:42.939><c> type</c><00:01:43.270><c> ELP</c><00:01:43.630><c> bio</c><00:01:43.990><c> and</c>
+
+00:01:44.309 --> 00:01:44.319 align:start position:0%
+in your screen Explorer type ELP bio and
+ 
+
+00:01:44.319 --> 00:01:46.109 align:start position:0%
+in your screen Explorer type ELP bio and
+this<00:01:44.469><c> one</c><00:01:44.619><c> I</c><00:01:44.649><c> just</c><00:01:44.920><c> didn't</c><00:01:45.130><c> see</c><00:01:45.219><c> bugged</c><00:01:45.429><c> me</c><00:01:45.609><c> now</c>
+
+00:01:46.109 --> 00:01:46.119 align:start position:0%
+this one I just didn't see bugged me now
+ 
+
+00:01:46.119 --> 00:01:49.589 align:start position:0%
+this one I just didn't see bugged me now
+redirects<00:01:46.659><c> to</c><00:01:46.689><c> explore</c><00:01:47.259><c> xlvii</c><00:01:48.189><c> oh</c><00:01:48.369><c> I</c><00:01:48.939><c> give</c><00:01:49.479><c> us</c>
+
+00:01:49.589 --> 00:01:49.599 align:start position:0%
+redirects to explore xlvii oh I give us
+ 
+
+00:01:49.599 --> 00:01:51.120 align:start position:0%
+redirects to explore xlvii oh I give us
+distribution<00:01:50.289><c> this</c><00:01:50.439><c> is</c><00:01:50.499><c> better</c><00:01:50.799><c> as</c><00:01:50.950><c> well</c>
+
+00:01:51.120 --> 00:01:51.130 align:start position:0%
+distribution this is better as well
+ 
+
+00:01:51.130 --> 00:01:52.739 align:start position:0%
+distribution this is better as well
+we've<00:01:51.399><c> got</c><00:01:51.549><c> an</c><00:01:51.700><c> IP</c><00:01:51.909><c> FS</c><00:01:52.149><c> look</c><00:01:52.299><c> and</c><00:01:52.419><c> feel</c><00:01:52.569><c> to</c><00:01:52.719><c> it</c>
+
+00:01:52.739 --> 00:01:52.749 align:start position:0%
+we've got an IP FS look and feel to it
+ 
+
+00:01:52.749 --> 00:01:55.289 align:start position:0%
+we've got an IP FS look and feel to it
+also<00:01:53.049><c> a</c><00:01:53.200><c> better</c><00:01:53.499><c> table</c><00:01:53.950><c> display</c><00:01:54.310><c> and</c><00:01:54.609><c> it</c><00:01:55.119><c> looks</c>
+
+00:01:55.289 --> 00:01:55.299 align:start position:0%
+also a better table display and it looks
+ 
+
+00:01:55.299 --> 00:01:58.080 align:start position:0%
+also a better table display and it looks
+good<00:01:55.479><c> on</c><00:01:55.539><c> your</c><00:01:55.779><c> phone</c><00:01:56.429><c> gateway</c><00:01:57.429><c> index</c><00:01:57.849><c> pages</c>
+
+00:01:58.080 --> 00:01:58.090 align:start position:0%
+good on your phone gateway index pages
+ 
+
+00:01:58.090 --> 00:01:59.639 align:start position:0%
+good on your phone gateway index pages
+but<00:01:58.389><c> you</c><00:01:58.509><c> see</c><00:01:58.630><c> all</c><00:01:58.659><c> the</c><00:01:58.989><c> time</c><00:01:59.020><c> we</c><00:01:59.349><c> made</c><00:01:59.469><c> some</c>
+
+00:01:59.639 --> 00:01:59.649 align:start position:0%
+but you see all the time we made some
+ 
+
+00:01:59.649 --> 00:02:01.739 align:start position:0%
+but you see all the time we made some
+changes<00:01:59.950><c> to</c><00:02:00.009><c> those</c><00:02:00.329><c> ipfs</c><00:02:01.329><c> look</c><00:02:01.479><c> and</c><00:02:01.599><c> feel</c>
+
+00:02:01.739 --> 00:02:01.749 align:start position:0%
+changes to those ipfs look and feel
+ 
+
+00:02:01.749 --> 00:02:03.539 align:start position:0%
+changes to those ipfs look and feel
+there's<00:02:01.989><c> also</c><00:02:02.109><c> had</c><00:02:02.380><c> are</c><00:02:02.499><c> links</c><00:02:02.770><c> to</c><00:02:02.919><c> about</c><00:02:03.189><c> and</c>
+
+00:02:03.539 --> 00:02:03.549 align:start position:0%
+there's also had are links to about and
+ 
+
+00:02:03.549 --> 00:02:05.760 align:start position:0%
+there's also had are links to about and
+bug<00:02:03.969><c> report</c><00:02:04.509><c> which</c><00:02:04.689><c> is</c><00:02:04.840><c> pretty</c><00:02:05.079><c> sweet</c>
+
+00:02:05.760 --> 00:02:05.770 align:start position:0%
+bug report which is pretty sweet
+ 
+
+00:02:05.770 --> 00:02:10.589 align:start position:0%
+bug report which is pretty sweet
+also<00:02:06.729><c> these</c><00:02:07.209><c> work</c><00:02:07.749><c> on</c><00:02:08.110><c> your</c><00:02:08.679><c> phone</c><00:02:09.009><c> now</c><00:02:09.599><c> we've</c>
+
+00:02:10.589 --> 00:02:10.599 align:start position:0%
+also these work on your phone now we've
+ 
+
+00:02:10.599 --> 00:02:12.300 align:start position:0%
+also these work on your phone now we've
+also<00:02:10.750><c> got</c><00:02:11.020><c> more</c><00:02:11.290><c> file</c><00:02:11.620><c> type</c><00:02:11.890><c> icons</c>
+
+00:02:12.300 --> 00:02:12.310 align:start position:0%
+also got more file type icons
+ 
+
+00:02:12.310 --> 00:02:13.830 align:start position:0%
+also got more file type icons
+specifically<00:02:12.850><c> for</c><00:02:13.060><c> videos</c><00:02:13.480><c> and</c><00:02:13.780><c> these</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+specifically for videos and these
+ 
+
+00:02:13.840 --> 00:02:16.260 align:start position:0%
+specifically for videos and these
+gateway<00:02:14.140><c> listing</c><00:02:14.440><c> pages</c><00:02:15.030><c> also</c><00:02:16.030><c> if</c><00:02:16.150><c> you</c><00:02:16.240><c> use</c>
+
+00:02:16.260 --> 00:02:16.270 align:start position:0%
+gateway listing pages also if you use
+ 
+
+00:02:16.270 --> 00:02:16.710 align:start position:0%
+gateway listing pages also if you use
+eye
+
+00:02:16.710 --> 00:02:16.720 align:start position:0%
+eye
+ 
+
+00:02:16.720 --> 00:02:18.630 align:start position:0%
+eye
+CSS<00:02:17.320><c> is</c><00:02:17.350><c> part</c><00:02:17.770><c> of</c><00:02:17.890><c> anything</c><00:02:18.190><c> that</c><00:02:18.490><c> you're</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+CSS is part of anything that you're
+ 
+
+00:02:18.640 --> 00:02:21.150 align:start position:0%
+CSS is part of anything that you're
+working<00:02:18.850><c> on</c><00:02:19.120><c> it's</c><00:02:19.330><c> better</c><00:02:19.480><c> to</c><00:02:19.780><c> I</c><00:02:20.080><c> concepts</c><00:02:21.010><c> are</c>
+
+00:02:21.150 --> 00:02:21.160 align:start position:0%
+working on it's better to I concepts are
+ 
+
+00:02:21.160 --> 00:02:23.790 align:start position:0%
+working on it's better to I concepts are
+complete<00:02:21.610><c> and</c><00:02:21.940><c> optimized</c><00:02:22.780><c> we've</c><00:02:23.530><c> got</c><00:02:23.650><c> better</c>
+
+00:02:23.790 --> 00:02:23.800 align:start position:0%
+complete and optimized we've got better
+ 
+
+00:02:23.800 --> 00:02:25.920 align:start position:0%
+complete and optimized we've got better
+colors<00:02:24.250><c> more</c><00:02:24.760><c> options</c><00:02:25.210><c> and</c><00:02:25.390><c> improved</c>
+
+00:02:25.920 --> 00:02:25.930 align:start position:0%
+colors more options and improved
+ 
+
+00:02:25.930 --> 00:02:28.020 align:start position:0%
+colors more options and improved
+accessibility<00:02:26.320><c> including</c><00:02:27.160><c> an</c><00:02:27.730><c> improved</c>
+
+00:02:28.020 --> 00:02:28.030 align:start position:0%
+accessibility including an improved
+ 
+
+00:02:28.030 --> 00:02:31.410 align:start position:0%
+accessibility including an improved
+blink<00:02:28.450><c> blue</c><00:02:28.860><c> also</c><00:02:29.860><c> the</c><00:02:30.250><c> core</c><00:02:30.550><c> fonts</c><00:02:30.760><c> and</c><00:02:31.060><c> ipfs</c>
+
+00:02:31.410 --> 00:02:31.420 align:start position:0%
+blink blue also the core fonts and ipfs
+ 
+
+00:02:31.420 --> 00:02:33.600 align:start position:0%
+blink blue also the core fonts and ipfs
+CSS<00:02:31.780><c> Montserrat</c><00:02:32.320><c> and</c><00:02:32.470><c> Inter</c><00:02:32.860><c> comment</c><00:02:33.250><c> updated</c>
+
+00:02:33.600 --> 00:02:33.610 align:start position:0%
+CSS Montserrat and Inter comment updated
+ 
+
+00:02:33.610 --> 00:02:35.720 align:start position:0%
+CSS Montserrat and Inter comment updated
+to<00:02:33.730><c> their</c><00:02:33.850><c> latest</c><00:02:34.150><c> and</c><00:02:34.450><c> Spiti</c><00:02:34.810><c> Spurgeon's</c>
+
+00:02:35.720 --> 00:02:35.730 align:start position:0%
+to their latest and Spiti Spurgeon's
+ 
+
+00:02:35.730 --> 00:02:40.590 align:start position:0%
+to their latest and Spiti Spurgeon's
+also<00:02:36.730><c> as</c><00:02:37.270><c> CSS</c><00:02:37.870><c> support</c><00:02:38.080><c> hekia</c><00:02:39.010><c> and</c><00:02:39.460><c> more</c>
+
+00:02:40.590 --> 00:02:40.600 align:start position:0%
+also as CSS support hekia and more
+ 
+
+00:02:40.600 --> 00:02:42.690 align:start position:0%
+also as CSS support hekia and more
+I<00:02:40.630><c> won't</c><00:02:40.930><c> budget</c><00:02:41.190><c> just</c><00:02:42.190><c> want</c><00:02:42.340><c> to</c><00:02:42.400><c> say</c><00:02:42.490><c> thank</c>
+
+00:02:42.690 --> 00:02:42.700 align:start position:0%
+I won't budget just want to say thank
+ 
+
+00:02:42.700 --> 00:02:45.240 align:start position:0%
+I won't budget just want to say thank
+you<00:02:42.880><c> on</c><00:02:43.090><c> behalf</c><00:02:43.390><c> of</c><00:02:43.600><c> the</c><00:02:44.410><c> IVF</c><00:02:44.800><c> is</c><00:02:44.860><c> given</c><00:02:45.100><c> teen</c>
+
+00:02:45.240 --> 00:02:45.250 align:start position:0%
+you on behalf of the IVF is given teen
+ 
+
+00:02:45.250 --> 00:02:46.680 align:start position:0%
+you on behalf of the IVF is given teen
+you<00:02:45.400><c> can</c><00:02:45.520><c> learn</c><00:02:45.610><c> more</c><00:02:45.820><c> about</c><00:02:45.910><c> us</c><00:02:46.150><c> and</c><00:02:46.390><c> hippo</c>
+
+00:02:46.680 --> 00:02:46.690 align:start position:0%
+you can learn more about us and hippo
+ 
+
+00:02:46.690 --> 00:02:49.820 align:start position:0%
+you can learn more about us and hippo
+calm<00:02:47.050><c> slash</c><00:02:47.350><c> I</c><00:02:47.500><c> just</c><00:02:47.830><c> touched</c><00:02:48.070><c> ipfs</c><00:02:49.060><c> Dewey</c>
+
+00:02:49.820 --> 00:02:49.830 align:start position:0%
+calm slash I just touched ipfs Dewey
+ 
+
+00:02:49.830 --> 00:02:53.010 align:start position:0%
+calm slash I just touched ipfs Dewey
+thanks<00:02:50.830><c> guys</c>
+

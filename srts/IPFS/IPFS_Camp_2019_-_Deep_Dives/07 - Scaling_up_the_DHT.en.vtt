@@ -1,0 +1,552 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.599 --> 00:00:02.780 align:start position:0%
+ 
+so<00:00:01.380><c> we</c><00:00:01.500><c> discussed</c><00:00:01.829><c> how</c><00:00:02.040><c> to</c><00:00:02.100><c> scale</c><00:00:02.399><c> up</c><00:00:02.490><c> the</c><00:00:02.520><c> DHT</c>
+
+00:00:02.780 --> 00:00:02.790 align:start position:0%
+so we discussed how to scale up the DHT
+ 
+
+00:00:02.790 --> 00:00:06.230 align:start position:0%
+so we discussed how to scale up the DHT
+yeah<00:00:03.720><c> the</c><00:00:04.529><c> real</c><00:00:05.250><c> three</c><00:00:05.670><c> problems</c><00:00:05.819><c> DC</c>
+
+00:00:06.230 --> 00:00:06.240 align:start position:0%
+yeah the real three problems DC
+ 
+
+00:00:06.240 --> 00:00:08.839 align:start position:0%
+yeah the real three problems DC
+currently<00:00:06.569><c> solves</c><00:00:06.870><c> for</c><00:00:06.899><c> ipfs</c><00:00:07.649><c> is</c><00:00:07.890><c> pure</c>
+
+00:00:08.839 --> 00:00:08.849 align:start position:0%
+currently solves for ipfs is pure
+ 
+
+00:00:08.849 --> 00:00:10.459 align:start position:0%
+currently solves for ipfs is pure
+routing<00:00:09.120><c> that</c><00:00:09.300><c> is</c><00:00:09.420><c> how</c><00:00:09.809><c> do</c><00:00:09.870><c> you</c><00:00:09.990><c> find</c><00:00:10.290><c> a</c>
+
+00:00:10.459 --> 00:00:10.469 align:start position:0%
+routing that is how do you find a
+ 
+
+00:00:10.469 --> 00:00:12.169 align:start position:0%
+routing that is how do you find a
+specific<00:00:10.620><c> pair</c><00:00:10.920><c> on</c><00:00:10.980><c> the</c><00:00:11.040><c> network</c><00:00:11.309><c> content</c>
+
+00:00:12.169 --> 00:00:12.179 align:start position:0%
+specific pair on the network content
+ 
+
+00:00:12.179 --> 00:00:14.330 align:start position:0%
+specific pair on the network content
+routing<00:00:12.480><c> that</c><00:00:12.660><c> is</c><00:00:12.809><c> how</c><00:00:13.049><c> do</c><00:00:13.110><c> you</c><00:00:13.170><c> find</c><00:00:13.559><c> who</c><00:00:14.040><c> has</c>
+
+00:00:14.330 --> 00:00:14.340 align:start position:0%
+routing that is how do you find who has
+ 
+
+00:00:14.340 --> 00:00:16.039 align:start position:0%
+routing that is how do you find who has
+the<00:00:14.610><c> content</c><00:00:14.849><c> I'm</c><00:00:14.910><c> looking</c><00:00:15.120><c> for</c><00:00:15.299><c> and</c><00:00:15.509><c> then</c><00:00:16.020><c> I</c>
+
+00:00:16.039 --> 00:00:16.049 align:start position:0%
+the content I'm looking for and then I
+ 
+
+00:00:16.049 --> 00:00:21.380 align:start position:0%
+the content I'm looking for and then I
+pns<00:00:16.560><c> so</c><00:00:17.240><c> what</c><00:00:18.240><c> is</c><00:00:18.330><c> the</c><00:00:18.510><c> latest</c><00:00:19.430><c> file</c><00:00:20.430><c> or</c><00:00:20.789><c> object</c>
+
+00:00:21.380 --> 00:00:21.390 align:start position:0%
+pns so what is the latest file or object
+ 
+
+00:00:21.390 --> 00:00:23.769 align:start position:0%
+pns so what is the latest file or object
+associated<00:00:21.600><c> with</c><00:00:22.050><c> some</c><00:00:22.320><c> immutable</c><00:00:22.920><c> name</c>
+
+00:00:23.769 --> 00:00:23.779 align:start position:0%
+associated with some immutable name
+ 
+
+00:00:23.779 --> 00:00:26.089 align:start position:0%
+associated with some immutable name
+these<00:00:24.779><c> three</c><00:00:25.170><c> routing</c><00:00:25.680><c> problems</c><00:00:25.920><c> have</c>
+
+00:00:26.089 --> 00:00:26.099 align:start position:0%
+these three routing problems have
+ 
+
+00:00:26.099 --> 00:00:27.290 align:start position:0%
+these three routing problems have
+different<00:00:26.460><c> characteristics</c><00:00:26.760><c> and</c><00:00:27.060><c> different</c>
+
+00:00:27.290 --> 00:00:27.300 align:start position:0%
+different characteristics and different
+ 
+
+00:00:27.300 --> 00:00:29.419 align:start position:0%
+different characteristics and different
+requirements<00:00:27.920><c> peer</c><00:00:28.920><c> reading</c><00:00:29.160><c> needs</c><00:00:29.279><c> to</c><00:00:29.369><c> be</c>
+
+00:00:29.419 --> 00:00:29.429 align:start position:0%
+requirements peer reading needs to be
+ 
+
+00:00:29.429 --> 00:00:31.609 align:start position:0%
+requirements peer reading needs to be
+low<00:00:29.699><c> latency</c><00:00:30.330><c> and</c><00:00:30.480><c> really</c><00:00:30.900><c> fresh</c><00:00:31.109><c> responses</c>
+
+00:00:31.609 --> 00:00:31.619 align:start position:0%
+low latency and really fresh responses
+ 
+
+00:00:31.619 --> 00:00:32.810 align:start position:0%
+low latency and really fresh responses
+you<00:00:31.710><c> know</c><00:00:31.769><c> need</c><00:00:32.009><c> to</c><00:00:32.070><c> know</c><00:00:32.130><c> exactly</c><00:00:32.550><c> where</c><00:00:32.730><c> the</c>
+
+00:00:32.810 --> 00:00:32.820 align:start position:0%
+you know need to know exactly where the
+ 
+
+00:00:32.820 --> 00:00:35.810 align:start position:0%
+you know need to know exactly where the
+peer<00:00:32.969><c> is</c><00:00:33.059><c> right</c><00:00:33.300><c> now</c><00:00:34.100><c> content</c><00:00:35.100><c> routing</c><00:00:35.460><c> has</c><00:00:35.790><c> a</c>
+
+00:00:35.810 --> 00:00:35.820 align:start position:0%
+peer is right now content routing has a
+ 
+
+00:00:35.820 --> 00:00:37.280 align:start position:0%
+peer is right now content routing has a
+like<00:00:36.180><c> it</c><00:00:36.360><c> really</c><00:00:36.450><c> needs</c><00:00:36.870><c> actual</c><00:00:37.050><c> pretty</c><00:00:37.200><c> high</c>
+
+00:00:37.280 --> 00:00:37.290 align:start position:0%
+like it really needs actual pretty high
+ 
+
+00:00:37.290 --> 00:00:38.630 align:start position:0%
+like it really needs actual pretty high
+volume<00:00:37.800><c> you</c><00:00:37.890><c> need</c><00:00:38.010><c> to</c><00:00:38.070><c> build</c><00:00:38.160><c> put</c><00:00:38.370><c> mini</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+volume you need to build put mini
+ 
+
+00:00:38.640 --> 00:00:41.630 align:start position:0%
+volume you need to build put mini
+routing<00:00:38.969><c> or</c><00:00:39.059><c> earth</c><00:00:39.180><c> records</c><00:00:39.629><c> or</c><00:00:40.340><c> many</c><00:00:41.340><c> records</c>
+
+00:00:41.630 --> 00:00:41.640 align:start position:0%
+routing or earth records or many records
+ 
+
+00:00:41.640 --> 00:00:43.130 align:start position:0%
+routing or earth records or many records
+to<00:00:41.700><c> the</c><00:00:41.760><c> DAC</c><00:00:41.940><c> saying</c><00:00:42.450><c> where</c><00:00:42.780><c> all</c><00:00:42.960><c> of</c><00:00:43.050><c> your</c>
+
+00:00:43.130 --> 00:00:43.140 align:start position:0%
+to the DAC saying where all of your
+ 
+
+00:00:43.140 --> 00:00:44.869 align:start position:0%
+to the DAC saying where all of your
+content<00:00:43.410><c> is</c><00:00:43.530><c> because</c><00:00:43.860><c> if</c><00:00:44.460><c> you</c><00:00:44.550><c> have</c><00:00:44.670><c> a</c><00:00:44.700><c> lot</c><00:00:44.820><c> of</c>
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+content is because if you have a lot of
+ 
+
+00:00:44.879 --> 00:00:47.690 align:start position:0%
+content is because if you have a lot of
+content<00:00:45.180><c> and</c><00:00:45.950><c> it</c><00:00:46.950><c> doesn't</c><00:00:47.280><c> care</c><00:00:47.399><c> about</c><00:00:47.579><c> which</c>
+
+00:00:47.690 --> 00:00:47.700 align:start position:0%
+content and it doesn't care about which
+ 
+
+00:00:47.700 --> 00:00:48.619 align:start position:0%
+content and it doesn't care about which
+response<00:00:48.000><c> it</c><00:00:48.090><c> gets</c><00:00:48.210><c> you</c><00:00:48.270><c> can</c><00:00:48.390><c> really</c><00:00:48.539><c> get</c>
+
+00:00:48.619 --> 00:00:48.629 align:start position:0%
+response it gets you can really get
+ 
+
+00:00:48.629 --> 00:00:49.940 align:start position:0%
+response it gets you can really get
+anywhere<00:00:48.989><c> sponsor</c><00:00:49.320><c> and</c><00:00:49.440><c> substeps</c><00:00:49.710><c> wants</c><00:00:49.890><c> as</c>
+
+00:00:49.940 --> 00:00:49.950 align:start position:0%
+anywhere sponsor and substeps wants as
+ 
+
+00:00:49.950 --> 00:00:50.930 align:start position:0%
+anywhere sponsor and substeps wants as
+long<00:00:50.010><c> as</c><00:00:50.100><c> you</c><00:00:50.190><c> can</c><00:00:50.280><c> eventually</c><00:00:50.489><c> find</c><00:00:50.700><c> the</c>
+
+00:00:50.930 --> 00:00:50.940 align:start position:0%
+long as you can eventually find the
+ 
+
+00:00:50.940 --> 00:00:53.420 align:start position:0%
+long as you can eventually find the
+content<00:00:51.710><c> and</c><00:00:52.710><c> it</c><00:00:52.829><c> also</c><00:00:52.949><c> cares</c><00:00:53.280><c> about</c>
+
+00:00:53.420 --> 00:00:53.430 align:start position:0%
+content and it also cares about
+ 
+
+00:00:53.430 --> 00:00:57.709 align:start position:0%
+content and it also cares about
+censorship<00:00:53.760><c> resistance</c><00:00:54.530><c> IP</c><00:00:55.530><c> NS</c><00:00:56.300><c> is</c><00:00:57.300><c> like</c>
+
+00:00:57.709 --> 00:00:57.719 align:start position:0%
+censorship resistance IP NS is like
+ 
+
+00:00:57.719 --> 00:00:59.779 align:start position:0%
+censorship resistance IP NS is like
+really<00:00:57.930><c> low</c><00:00:58.140><c> volume</c><00:00:58.170><c> it</c><00:00:59.100><c> also</c><00:00:59.520><c> cares</c><00:00:59.670><c> about</c>
+
+00:00:59.779 --> 00:00:59.789 align:start position:0%
+really low volume it also cares about
+ 
+
+00:00:59.789 --> 00:01:01.639 align:start position:0%
+really low volume it also cares about
+fresh<00:00:59.910><c> responses</c><00:01:00.390><c> but</c><00:01:01.260><c> it's</c><00:01:01.379><c> actually</c><00:01:01.590><c> harder</c>
+
+00:01:01.639 --> 00:01:01.649 align:start position:0%
+fresh responses but it's actually harder
+ 
+
+00:01:01.649 --> 00:01:03.349 align:start position:0%
+fresh responses but it's actually harder
+to<00:01:01.859><c> validate</c><00:01:02.129><c> freshness</c><00:01:02.489><c> so</c><00:01:03.030><c> a</c><00:01:03.059><c> cool</c><00:01:03.210><c> thing</c>
+
+00:01:03.349 --> 00:01:03.359 align:start position:0%
+to validate freshness so a cool thing
+ 
+
+00:01:03.359 --> 00:01:04.820 align:start position:0%
+to validate freshness so a cool thing
+about<00:01:03.420><c> peer</c><00:01:03.629><c> writing</c><00:01:03.719><c> is</c><00:01:03.930><c> like</c><00:01:04.049><c> I</c><00:01:04.320><c> know</c><00:01:04.470><c> that</c><00:01:04.769><c> I</c>
+
+00:01:04.820 --> 00:01:04.830 align:start position:0%
+about peer writing is like I know that I
+ 
+
+00:01:04.830 --> 00:01:06.050 align:start position:0%
+about peer writing is like I know that I
+got<00:01:04.949><c> the</c><00:01:05.010><c> right</c><00:01:05.129><c> answers</c><00:01:05.339><c> I'm</c><00:01:05.489><c> connected</c><00:01:05.820><c> PR</c>
+
+00:01:06.050 --> 00:01:06.060 align:start position:0%
+got the right answers I'm connected PR
+ 
+
+00:01:06.060 --> 00:01:08.240 align:start position:0%
+got the right answers I'm connected PR
+with<00:01:06.240><c> IP</c><00:01:06.390><c> NS</c><00:01:06.630><c> I</c><00:01:06.810><c> don't</c><00:01:07.140><c> ever</c><00:01:07.409><c> really</c><00:01:07.710><c> know</c><00:01:07.979><c> if</c><00:01:08.159><c> I</c>
+
+00:01:08.240 --> 00:01:08.250 align:start position:0%
+with IP NS I don't ever really know if I
+ 
+
+00:01:08.250 --> 00:01:09.289 align:start position:0%
+with IP NS I don't ever really know if I
+have<00:01:08.400><c> the</c><00:01:08.520><c> latest</c><00:01:08.640><c> version</c><00:01:08.970><c> of</c><00:01:09.000><c> my</c><00:01:09.090><c> penis</c>
+
+00:01:09.289 --> 00:01:09.299 align:start position:0%
+have the latest version of my penis
+ 
+
+00:01:09.299 --> 00:01:10.969 align:start position:0%
+have the latest version of my penis
+record<00:01:09.630><c> so</c><00:01:10.229><c> that</c><00:01:10.260><c> covers</c><00:01:10.590><c> the</c><00:01:10.710><c> routing</c>
+
+00:01:10.969 --> 00:01:10.979 align:start position:0%
+record so that covers the routing
+ 
+
+00:01:10.979 --> 00:01:14.300 align:start position:0%
+record so that covers the routing
+problems<00:01:11.869><c> we</c><00:01:12.869><c> then</c><00:01:13.260><c> talked</c><00:01:13.619><c> about</c><00:01:13.710><c> like</c><00:01:14.010><c> the</c>
+
+00:01:14.300 --> 00:01:14.310 align:start position:0%
+problems we then talked about like the
+ 
+
+00:01:14.310 --> 00:01:15.710 align:start position:0%
+problems we then talked about like the
+DHT<00:01:14.640><c> and</c><00:01:14.850><c> problems</c><00:01:15.240><c> we</c><00:01:15.330><c> have</c><00:01:15.420><c> of</c><00:01:15.509><c> that</c><00:01:15.600><c> in</c>
+
+00:01:15.710 --> 00:01:15.720 align:start position:0%
+DHT and problems we have of that in
+ 
+
+00:01:15.720 --> 00:01:18.679 align:start position:0%
+DHT and problems we have of that in
+potential<00:01:16.080><c> solutions</c><00:01:17.180><c> two</c><00:01:18.180><c> main</c><00:01:18.360><c> problems</c>
+
+00:01:18.679 --> 00:01:18.689 align:start position:0%
+potential solutions two main problems
+ 
+
+00:01:18.689 --> 00:01:20.450 align:start position:0%
+potential solutions two main problems
+are<00:01:18.780><c> unreliable</c><00:01:19.170><c> node</c><00:01:19.530><c> and</c><00:01:19.710><c> nodes</c><00:01:20.340><c> and</c>
+
+00:01:20.450 --> 00:01:20.460 align:start position:0%
+are unreliable node and nodes and
+ 
+
+00:01:20.460 --> 00:01:22.820 align:start position:0%
+are unreliable node and nodes and
+malicious<00:01:20.790><c> nodes</c><00:01:21.000><c> where</c><00:01:21.990><c> unreliable</c><00:01:22.619><c> nodes</c>
+
+00:01:22.820 --> 00:01:22.830 align:start position:0%
+malicious nodes where unreliable nodes
+ 
+
+00:01:22.830 --> 00:01:24.590 align:start position:0%
+malicious nodes where unreliable nodes
+are<00:01:23.130><c> either</c><00:01:23.250><c> NAT</c><00:01:23.700><c> or</c><00:01:23.970><c> behind</c><00:01:24.150><c> NAT</c><00:01:24.330><c> so</c><00:01:24.450><c> whether</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+are either NAT or behind NAT so whether
+ 
+
+00:01:24.600 --> 00:01:25.760 align:start position:0%
+are either NAT or behind NAT so whether
+it's<00:01:24.780><c> ephemeral</c><00:01:24.990><c> they</c><00:01:25.259><c> come</c><00:01:25.470><c> up</c><00:01:25.560><c> and</c><00:01:25.650><c> they</c><00:01:25.740><c> go</c>
+
+00:01:25.760 --> 00:01:25.770 align:start position:0%
+it's ephemeral they come up and they go
+ 
+
+00:01:25.770 --> 00:01:28.340 align:start position:0%
+it's ephemeral they come up and they go
+down<00:01:26.330><c> some</c><00:01:27.330><c> folks</c><00:01:27.570><c> for</c><00:01:27.630><c> this</c><00:01:27.720><c> is</c><00:01:27.900><c> just</c><00:01:28.170><c> make</c>
+
+00:01:28.340 --> 00:01:28.350 align:start position:0%
+down some folks for this is just make
+ 
+
+00:01:28.350 --> 00:01:29.510 align:start position:0%
+down some folks for this is just make
+sure<00:01:28.380><c> that</c><00:01:28.500><c> these</c><00:01:28.770><c> are</c><00:01:28.890><c> malevolent</c><00:01:29.100><c> O's</c><00:01:29.310><c> don't</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+sure that these are malevolent O's don't
+ 
+
+00:01:29.520 --> 00:01:31.819 align:start position:0%
+sure that these are malevolent O's don't
+join<00:01:29.640><c> the</c><00:01:29.729><c> DHT</c><00:01:29.939><c> another</c><00:01:30.780><c> fixes</c><00:01:31.320><c> on</c><00:01:31.619><c> the</c><00:01:31.710><c> other</c>
+
+00:01:31.819 --> 00:01:31.829 align:start position:0%
+join the DHT another fixes on the other
+ 
+
+00:01:31.829 --> 00:01:34.340 align:start position:0%
+join the DHT another fixes on the other
+side<00:01:32.100><c> I</c><00:01:32.400><c> just</c><00:01:32.759><c> like</c><00:01:33.090><c> prefer</c><00:01:33.509><c> reliable</c><00:01:34.170><c> nodes</c>
+
+00:01:34.340 --> 00:01:34.350 align:start position:0%
+side I just like prefer reliable nodes
+ 
+
+00:01:34.350 --> 00:01:35.539 align:start position:0%
+side I just like prefer reliable nodes
+or<00:01:34.500><c> unreliable</c><00:01:34.770><c> notes</c><00:01:35.070><c> like</c><00:01:35.220><c> if</c><00:01:35.340><c> you</c><00:01:35.400><c> have</c><00:01:35.490><c> a</c>
+
+00:01:35.539 --> 00:01:35.549 align:start position:0%
+or unreliable notes like if you have a
+ 
+
+00:01:35.549 --> 00:01:36.890 align:start position:0%
+or unreliable notes like if you have a
+set<00:01:35.670><c> of</c><00:01:35.759><c> nodes</c><00:01:35.909><c> you're</c><00:01:36.060><c> talking</c><00:01:36.329><c> to</c><00:01:36.420><c> keep</c>
+
+00:01:36.890 --> 00:01:36.900 align:start position:0%
+set of nodes you're talking to keep
+ 
+
+00:01:36.900 --> 00:01:38.149 align:start position:0%
+set of nodes you're talking to keep
+track<00:01:37.079><c> of</c><00:01:37.229><c> which</c><00:01:37.290><c> ones</c><00:01:37.530><c> appear</c><00:01:38.009><c> to</c><00:01:38.100><c> be</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+track of which ones appear to be
+ 
+
+00:01:38.159 --> 00:01:39.380 align:start position:0%
+track of which ones appear to be
+responding<00:01:38.549><c> to</c><00:01:38.579><c> queries</c><00:01:38.820><c> I'm</c><00:01:39.060><c> here</c><00:01:39.210><c> to</c><00:01:39.299><c> be</c>
+
+00:01:39.380 --> 00:01:39.390 align:start position:0%
+responding to queries I'm here to be
+ 
+
+00:01:39.390 --> 00:01:41.060 align:start position:0%
+responding to queries I'm here to be
+unmad<00:01:39.720><c> 'add</c><00:01:39.869><c> and</c><00:01:40.020><c> then</c><00:01:40.380><c> just</c><00:01:40.500><c> like</c><00:01:40.590><c> drop</c><00:01:40.890><c> the</c>
+
+00:01:41.060 --> 00:01:41.070 align:start position:0%
+unmad 'add and then just like drop the
+ 
+
+00:01:41.070 --> 00:01:43.639 align:start position:0%
+unmad 'add and then just like drop the
+other<00:01:41.159><c> one</c><00:01:41.250><c> sweet</c><00:01:41.549><c> routing</c><00:01:41.759><c> tables</c><00:01:42.500><c> to</c><00:01:43.500><c> deal</c>
+
+00:01:43.639 --> 00:01:43.649 align:start position:0%
+other one sweet routing tables to deal
+ 
+
+00:01:43.649 --> 00:01:44.630 align:start position:0%
+other one sweet routing tables to deal
+with<00:01:43.740><c> malicious</c><00:01:43.860><c> nodes</c><00:01:44.220><c> we</c><00:01:44.340><c> talked</c><00:01:44.549><c> about</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+with malicious nodes we talked about
+ 
+
+00:01:44.640 --> 00:01:47.120 align:start position:0%
+with malicious nodes we talked about
+maintaining<00:01:45.060><c> pure</c><00:01:45.329><c> scores</c><00:01:45.659><c> to</c><00:01:46.020><c> measure</c><00:01:46.829><c> how</c>
+
+00:01:47.120 --> 00:01:47.130 align:start position:0%
+maintaining pure scores to measure how
+ 
+
+00:01:47.130 --> 00:01:51.109 align:start position:0%
+maintaining pure scores to measure how
+the<00:01:47.729><c> good</c><00:01:48.149><c> peers</c><00:01:48.479><c> are</c><00:01:48.630><c> and</c><00:01:49.380><c> how</c><00:01:49.500><c> like</c><00:01:50.119><c> disky</c>
+
+00:01:51.109 --> 00:01:51.119 align:start position:0%
+the good peers are and how like disky
+ 
+
+00:01:51.119 --> 00:01:53.240 align:start position:0%
+the good peers are and how like disky
+are<00:01:51.270><c> they</c><00:01:51.390><c> answering</c><00:01:51.659><c> queries</c><00:01:52.079><c> correctly</c><00:01:52.530><c> you</c>
+
+00:01:53.240 --> 00:01:53.250 align:start position:0%
+are they answering queries correctly you
+ 
+
+00:01:53.250 --> 00:01:55.100 align:start position:0%
+are they answering queries correctly you
+getting<00:01:53.430><c> some</c><00:01:53.579><c> weird</c><00:01:53.700><c> things</c><00:01:54.030><c> we're</c><00:01:54.240><c> like</c><00:01:54.360><c> no</c>
+
+00:01:55.100 --> 00:01:55.110 align:start position:0%
+getting some weird things we're like no
+ 
+
+00:01:55.110 --> 00:01:56.480 align:start position:0%
+getting some weird things we're like no
+it<00:01:55.409><c> gets</c><00:01:55.590><c> really</c><00:01:55.740><c> complicated</c><00:01:55.890><c> and</c><00:01:56.310><c> there's</c><00:01:56.460><c> a</c>
+
+00:01:56.480 --> 00:01:56.490 align:start position:0%
+it gets really complicated and there's a
+ 
+
+00:01:56.490 --> 00:01:58.429 align:start position:0%
+it gets really complicated and there's a
+lot<00:01:56.579><c> of</c><00:01:56.640><c> literature</c><00:01:56.790><c> on</c><00:01:56.939><c> it</c><00:01:57.149><c> but</c><00:01:57.360><c> we</c><00:01:57.540><c> went</c><00:01:57.780><c> far</c>
+
+00:01:58.429 --> 00:01:58.439 align:start position:0%
+lot of literature on it but we went far
+ 
+
+00:01:58.439 --> 00:01:59.749 align:start position:0%
+lot of literature on it but we went far
+into<00:01:58.619><c> this</c><00:01:58.770><c> and</c><00:01:58.979><c> didn't</c><00:01:59.159><c> respond</c><00:01:59.369><c> with</c><00:01:59.490><c> a</c><00:01:59.549><c> full</c>
+
+00:01:59.749 --> 00:01:59.759 align:start position:0%
+into this and didn't respond with a full
+ 
+
+00:01:59.759 --> 00:02:02.840 align:start position:0%
+into this and didn't respond with a full
+solution<00:02:01.159><c> finally</c><00:02:02.159><c> we</c><00:02:02.430><c> talked</c><00:02:02.610><c> a</c><00:02:02.700><c> bit</c><00:02:02.820><c> about</c>
+
+00:02:02.840 --> 00:02:02.850 align:start position:0%
+solution finally we talked a bit about
+ 
+
+00:02:02.850 --> 00:02:05.030 align:start position:0%
+solution finally we talked a bit about
+centralization<00:02:03.390><c> trade-off</c><00:02:03.869><c> so</c><00:02:04.020><c> we</c><00:02:04.140><c> actually</c>
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+centralization trade-off so we actually
+ 
+
+00:02:05.040 --> 00:02:06.050 align:start position:0%
+centralization trade-off so we actually
+came<00:02:05.250><c> up</c><00:02:05.280><c> multiple</c><00:02:05.670><c> times</c><00:02:05.790><c> the</c><00:02:05.880><c> conversation</c>
+
+00:02:06.050 --> 00:02:06.060 align:start position:0%
+came up multiple times the conversation
+ 
+
+00:02:06.060 --> 00:02:07.520 align:start position:0%
+came up multiple times the conversation
+these<00:02:06.450><c> we</c><00:02:06.869><c> have</c><00:02:07.020><c> a</c><00:02:07.049><c> lot</c><00:02:07.200><c> of</c><00:02:07.290><c> trade-offs</c>
+
+00:02:07.520 --> 00:02:07.530 align:start position:0%
+these we have a lot of trade-offs
+ 
+
+00:02:07.530 --> 00:02:10.130 align:start position:0%
+these we have a lot of trade-offs
+between<00:02:07.680><c> like</c><00:02:07.979><c> I</c><00:02:08.220><c> do</c><00:02:08.670><c> want</c><00:02:08.819><c> to</c><00:02:08.849><c> focus</c><00:02:09.000><c> on</c><00:02:09.300><c> like</c>
+
+00:02:10.130 --> 00:02:10.140 align:start position:0%
+between like I do want to focus on like
+ 
+
+00:02:10.140 --> 00:02:12.020 align:start position:0%
+between like I do want to focus on like
+fixing<00:02:10.590><c> problems</c><00:02:10.800><c> with</c><00:02:11.039><c> the</c><00:02:11.129><c> reliability</c><00:02:11.849><c> or</c>
+
+00:02:12.020 --> 00:02:12.030 align:start position:0%
+fixing problems with the reliability or
+ 
+
+00:02:12.030 --> 00:02:13.630 align:start position:0%
+fixing problems with the reliability or
+malicious<00:02:12.870><c> nodes</c><00:02:13.050><c> but</c>
+
+00:02:13.630 --> 00:02:13.640 align:start position:0%
+malicious nodes but
+ 
+
+00:02:13.640 --> 00:02:16.470 align:start position:0%
+malicious nodes but
+in<00:02:13.790><c> this</c><00:02:13.880><c> case</c><00:02:14.060><c> it</c><00:02:14.210><c> was</c><00:02:14.380><c> like</c><00:02:15.380><c> we</c><00:02:15.710><c> care</c><00:02:15.860><c> about</c>
+
+00:02:16.470 --> 00:02:16.480 align:start position:0%
+in this case it was like we care about
+ 
+
+00:02:16.480 --> 00:02:20.120 align:start position:0%
+in this case it was like we care about
+speed<00:02:17.480><c> versus</c><00:02:19.030><c> existence</c>
+
+00:02:20.120 --> 00:02:20.130 align:start position:0%
+speed versus existence
+ 
+
+00:02:20.130 --> 00:02:27.639 align:start position:0%
+speed versus existence
+[Applause]
+

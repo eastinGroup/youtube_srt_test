@@ -1,0 +1,832 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.429 --> 00:00:04.660 align:start position:0%
+ 
+hello<00:00:02.720><c> sorry</c><00:00:03.720><c> I</c><00:00:03.810><c> couldn't</c><00:00:04.020><c> be</c><00:00:04.170><c> there</c><00:00:04.319><c> today</c>
+
+00:00:04.660 --> 00:00:04.670 align:start position:0%
+hello sorry I couldn't be there today
+ 
+
+00:00:04.670 --> 00:00:09.140 align:start position:0%
+hello sorry I couldn't be there today
+but<00:00:05.670><c> I'm</c><00:00:06.440><c> going</c><00:00:07.440><c> to</c><00:00:07.500><c> present</c><00:00:07.680><c> by</c><00:00:08.010><c> the</c><00:00:08.069><c> magic</c><00:00:08.969><c> of</c>
+
+00:00:09.140 --> 00:00:09.150 align:start position:0%
+but I'm going to present by the magic of
+ 
+
+00:00:09.150 --> 00:00:10.810 align:start position:0%
+but I'm going to present by the magic of
+the<00:00:09.539><c> Internet</c>
+
+00:00:10.810 --> 00:00:10.820 align:start position:0%
+the Internet
+ 
+
+00:00:10.820 --> 00:00:14.029 align:start position:0%
+the Internet
+my<00:00:11.820><c> name</c><00:00:12.000><c> is</c><00:00:12.119><c> Andrew</c><00:00:12.449><c> nice</c><00:00:12.900><c> to</c><00:00:13.020><c> meet</c><00:00:13.139><c> you</c><00:00:13.260><c> I'm</c><00:00:13.980><c> a</c>
+
+00:00:14.029 --> 00:00:14.039 align:start position:0%
+my name is Andrew nice to meet you I'm a
+ 
+
+00:00:14.039 --> 00:00:16.580 align:start position:0%
+my name is Andrew nice to meet you I'm a
+package<00:00:14.490><c> manager</c><00:00:14.879><c> of</c><00:00:14.940><c> researcher</c><00:00:15.600><c> I've</c><00:00:16.410><c> been</c>
+
+00:00:16.580 --> 00:00:16.590 align:start position:0%
+package manager of researcher I've been
+ 
+
+00:00:16.590 --> 00:00:19.910 align:start position:0%
+package manager of researcher I've been
+working<00:00:16.860><c> with</c><00:00:16.890><c> the</c><00:00:17.039><c> ipfs</c><00:00:17.929><c> team</c><00:00:18.929><c> for</c><00:00:19.320><c> a</c><00:00:19.650><c> few</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+working with the ipfs team for a few
+ 
+
+00:00:19.920 --> 00:00:20.390 align:start position:0%
+working with the ipfs team for a few
+months
+
+00:00:20.390 --> 00:00:20.400 align:start position:0%
+months
+ 
+
+00:00:20.400 --> 00:00:23.390 align:start position:0%
+months
+specifically<00:00:21.150><c> on</c><00:00:21.509><c> working</c><00:00:22.169><c> out</c><00:00:22.230><c> how</c><00:00:22.500><c> my</c><00:00:23.189><c> PFS</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+specifically on working out how my PFS
+ 
+
+00:00:23.400 --> 00:00:25.909 align:start position:0%
+specifically on working out how my PFS
+can<00:00:23.699><c> help</c><00:00:23.880><c> with</c><00:00:24.240><c> making</c><00:00:24.960><c> package</c><00:00:25.470><c> management</c>
+
+00:00:25.909 --> 00:00:25.919 align:start position:0%
+can help with making package management
+ 
+
+00:00:25.919 --> 00:00:28.339 align:start position:0%
+can help with making package management
+better<00:00:26.480><c> today</c><00:00:27.480><c> I'm</c><00:00:27.810><c> going</c><00:00:27.990><c> to</c><00:00:28.079><c> talk</c><00:00:28.230><c> about</c>
+
+00:00:28.339 --> 00:00:28.349 align:start position:0%
+better today I'm going to talk about
+ 
+
+00:00:28.349 --> 00:00:30.470 align:start position:0%
+better today I'm going to talk about
+decentralized<00:00:29.310><c> package</c><00:00:29.669><c> management</c><00:00:30.029><c> using</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+decentralized package management using
+ 
+
+00:00:30.480 --> 00:00:34.790 align:start position:0%
+decentralized package management using
+IP<00:00:30.749><c> FS</c><00:00:30.960><c> and</c><00:00:31.310><c> this</c><00:00:32.310><c> is</c><00:00:32.520><c> a</c><00:00:33.030><c> hard</c><00:00:33.329><c> problem</c><00:00:33.800><c> there</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+IP FS and this is a hard problem there
+ 
+
+00:00:34.800 --> 00:00:37.279 align:start position:0%
+IP FS and this is a hard problem there
+are<00:00:34.829><c> a</c><00:00:35.039><c> number</c><00:00:35.190><c> of</c><00:00:35.579><c> difficult</c><00:00:36.120><c> parts</c><00:00:36.480><c> involved</c>
+
+00:00:37.279 --> 00:00:37.289 align:start position:0%
+are a number of difficult parts involved
+ 
+
+00:00:37.289 --> 00:00:40.069 align:start position:0%
+are a number of difficult parts involved
+in<00:00:37.500><c> doing</c><00:00:38.370><c> decentralized</c><00:00:39.180><c> package</c><00:00:39.600><c> manager</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+in doing decentralized package manager
+ 
+
+00:00:40.079 --> 00:00:42.700 align:start position:0%
+in doing decentralized package manager
+today<00:00:40.739><c> I'm</c><00:00:41.129><c> going</c><00:00:41.340><c> to</c><00:00:41.399><c> talk</c><00:00:41.579><c> about</c>
+
+00:00:42.700 --> 00:00:42.710 align:start position:0%
+today I'm going to talk about
+ 
+
+00:00:42.710 --> 00:00:46.189 align:start position:0%
+today I'm going to talk about
+decentralized<00:00:43.710><c> dependency</c><00:00:44.399><c> resolution</c><00:00:45.199><c> this</c>
+
+00:00:46.189 --> 00:00:46.199 align:start position:0%
+decentralized dependency resolution this
+ 
+
+00:00:46.199 --> 00:00:50.360 align:start position:0%
+decentralized dependency resolution this
+basically<00:00:47.570><c> stems</c><00:00:48.570><c> from</c><00:00:48.899><c> some</c><00:00:49.350><c> research</c><00:00:50.100><c> that</c>
+
+00:00:50.360 --> 00:00:50.370 align:start position:0%
+basically stems from some research that
+ 
+
+00:00:50.370 --> 00:00:53.209 align:start position:0%
+basically stems from some research that
+I<00:00:50.399><c> did</c><00:00:50.519><c> into</c><00:00:51.239><c> looking</c><00:00:51.780><c> at</c><00:00:51.899><c> how</c><00:00:52.079><c> the</c><00:00:52.829><c> challenges</c>
+
+00:00:53.209 --> 00:00:53.219 align:start position:0%
+I did into looking at how the challenges
+ 
+
+00:00:53.219 --> 00:00:55.360 align:start position:0%
+I did into looking at how the challenges
+involved<00:00:53.699><c> in</c><00:00:53.760><c> decentralized</c><00:00:54.629><c> publishing</c>
+
+00:00:55.360 --> 00:00:55.370 align:start position:0%
+involved in decentralized publishing
+ 
+
+00:00:55.370 --> 00:01:00.680 align:start position:0%
+involved in decentralized publishing
+which<00:00:57.109><c> to</c><00:00:58.109><c> kill</c><00:00:58.230><c> a</c><00:00:58.260><c> long</c><00:00:58.500><c> story</c><00:00:58.829><c> short</c><00:00:59.690><c> shakes</c>
+
+00:01:00.680 --> 00:01:00.690 align:start position:0%
+which to kill a long story short shakes
+ 
+
+00:01:00.690 --> 00:01:04.369 align:start position:0%
+which to kill a long story short shakes
+out<00:01:00.870><c> as</c><00:01:01.429><c> when</c><00:01:02.429><c> publishing</c><00:01:03.390><c> a</c><00:01:03.539><c> package</c><00:01:04.110><c> in</c><00:01:04.290><c> a</c>
+
+00:01:04.369 --> 00:01:04.379 align:start position:0%
+out as when publishing a package in a
+ 
+
+00:01:04.379 --> 00:01:06.740 align:start position:0%
+out as when publishing a package in a
+decentralized<00:01:04.680><c> system</c><00:01:05.300><c> you</c><00:01:06.300><c> need</c><00:01:06.480><c> to</c><00:01:06.660><c> be</c>
+
+00:01:06.740 --> 00:01:06.750 align:start position:0%
+decentralized system you need to be
+ 
+
+00:01:06.750 --> 00:01:08.480 align:start position:0%
+decentralized system you need to be
+publishing<00:01:07.200><c> all</c><00:01:07.530><c> of</c><00:01:07.800><c> the</c><00:01:07.890><c> dependencies</c><00:01:08.430><c> of</c>
+
+00:01:08.480 --> 00:01:08.490 align:start position:0%
+publishing all of the dependencies of
+ 
+
+00:01:08.490 --> 00:01:12.590 align:start position:0%
+publishing all of the dependencies of
+that<00:01:08.910><c> package</c><00:01:09.410><c> alongside</c><00:01:10.410><c> it</c><00:01:11.360><c> this</c><00:01:12.360><c> means</c>
+
+00:01:12.590 --> 00:01:12.600 align:start position:0%
+that package alongside it this means
+ 
+
+00:01:12.600 --> 00:01:16.030 align:start position:0%
+that package alongside it this means
+you'll<00:01:12.870><c> be</c><00:01:13.200><c> wrapping</c><00:01:14.100><c> up</c><00:01:14.190><c> everything</c><00:01:14.850><c> and</c>
+
+00:01:16.030 --> 00:01:16.040 align:start position:0%
+you'll be wrapping up everything and
+ 
+
+00:01:16.040 --> 00:01:17.810 align:start position:0%
+you'll be wrapping up everything and
+publishing<00:01:17.040><c> it</c><00:01:17.130><c> all</c><00:01:17.310><c> at</c><00:01:17.490><c> once</c>
+
+00:01:17.810 --> 00:01:17.820 align:start position:0%
+publishing it all at once
+ 
+
+00:01:17.820 --> 00:01:20.480 align:start position:0%
+publishing it all at once
+which<00:01:18.210><c> avoids</c><00:01:18.930><c> availability</c><00:01:19.800><c> issues</c><00:01:20.280><c> from</c>
+
+00:01:20.480 --> 00:01:20.490 align:start position:0%
+which avoids availability issues from
+ 
+
+00:01:20.490 --> 00:01:23.300 align:start position:0%
+which avoids availability issues from
+other<00:01:20.940><c> registries</c><00:01:21.740><c> disappearing</c><00:01:22.740><c> being</c>
+
+00:01:23.300 --> 00:01:23.310 align:start position:0%
+other registries disappearing being
+ 
+
+00:01:23.310 --> 00:01:26.030 align:start position:0%
+other registries disappearing being
+deleted<00:01:23.580><c> or</c><00:01:24.030><c> potentially</c><00:01:24.720><c> even</c><00:01:24.960><c> just</c><00:01:25.680><c> appear</c>
+
+00:01:26.030 --> 00:01:26.040 align:start position:0%
+deleted or potentially even just appear
+ 
+
+00:01:26.040 --> 00:01:28.310 align:start position:0%
+deleted or potentially even just appear
+going<00:01:26.400><c> offline</c><00:01:26.670><c> that</c><00:01:27.630><c> you</c><00:01:27.780><c> would</c><00:01:27.930><c> need</c><00:01:28.080><c> to</c><00:01:28.140><c> be</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+going offline that you would need to be
+ 
+
+00:01:28.320 --> 00:01:30.950 align:start position:0%
+going offline that you would need to be
+able<00:01:28.410><c> to</c><00:01:28.500><c> resolve</c><00:01:28.770><c> your</c><00:01:29.420><c> dependencies</c><00:01:30.420><c> whilst</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+able to resolve your dependencies whilst
+ 
+
+00:01:30.960 --> 00:01:34.550 align:start position:0%
+able to resolve your dependencies whilst
+installing<00:01:32.480><c> this</c><00:01:33.480><c> is</c><00:01:33.630><c> nicely</c><00:01:33.840><c> wrapped</c><00:01:34.140><c> up</c><00:01:34.380><c> in</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+installing this is nicely wrapped up in
+ 
+
+00:01:34.560 --> 00:01:36.590 align:start position:0%
+installing this is nicely wrapped up in
+the<00:01:34.740><c> idea</c><00:01:34.860><c> of</c><00:01:35.100><c> a</c><00:01:35.340><c> micro</c><00:01:35.670><c> registry</c><00:01:36.090><c> a</c><00:01:36.240><c> little</c>
+
+00:01:36.590 --> 00:01:36.600 align:start position:0%
+the idea of a micro registry a little
+ 
+
+00:01:36.600 --> 00:01:38.780 align:start position:0%
+the idea of a micro registry a little
+bundle<00:01:36.870><c> of</c><00:01:37.290><c> all</c><00:01:37.590><c> of</c><00:01:37.950><c> the</c><00:01:38.040><c> dependencies</c><00:01:38.580><c> and</c>
+
+00:01:38.780 --> 00:01:38.790 align:start position:0%
+bundle of all of the dependencies and
+ 
+
+00:01:38.790 --> 00:01:41.060 align:start position:0%
+bundle of all of the dependencies and
+the<00:01:38.900><c> dependency</c><00:01:39.900><c> metadata</c><00:01:40.350><c> that</c><00:01:40.560><c> you'd</c><00:01:40.860><c> need</c>
+
+00:01:41.060 --> 00:01:41.070 align:start position:0%
+the dependency metadata that you'd need
+ 
+
+00:01:41.070 --> 00:01:45.200 align:start position:0%
+the dependency metadata that you'd need
+to<00:01:41.340><c> be</c><00:01:41.490><c> able</c><00:01:41.580><c> to</c><00:01:43.190><c> just</c><00:01:44.190><c> install</c><00:01:44.700><c> a</c><00:01:44.910><c> single</c>
+
+00:01:45.200 --> 00:01:45.210 align:start position:0%
+to be able to just install a single
+ 
+
+00:01:45.210 --> 00:01:47.900 align:start position:0%
+to be able to just install a single
+package<00:01:45.780><c> and</c><00:01:46.050><c> you</c><00:01:46.830><c> can</c><00:01:47.010><c> make</c><00:01:47.220><c> many</c><00:01:47.580><c> of</c><00:01:47.670><c> these</c>
+
+00:01:47.900 --> 00:01:47.910 align:start position:0%
+package and you can make many of these
+ 
+
+00:01:47.910 --> 00:01:49.910 align:start position:0%
+package and you can make many of these
+and<00:01:48.240><c> publish</c><00:01:48.750><c> them</c><00:01:48.900><c> straight</c><00:01:49.200><c> to</c><00:01:49.230><c> your</c><00:01:49.410><c> IP</c><00:01:49.500><c> FS</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+and publish them straight to your IP FS
+ 
+
+00:01:49.920 --> 00:01:55.220 align:start position:0%
+and publish them straight to your IP FS
+and<00:01:51.470><c> actually</c><00:01:52.470><c> take</c><00:01:52.920><c> control</c><00:01:53.250><c> of</c><00:01:54.170><c> how</c><00:01:55.170><c> you</c>
+
+00:01:55.220 --> 00:01:55.230 align:start position:0%
+and actually take control of how you
+ 
+
+00:01:55.230 --> 00:01:57.410 align:start position:0%
+and actually take control of how you
+work<00:01:55.710><c> with</c><00:01:55.740><c> packages</c><00:01:56.580><c> rather</c><00:01:56.850><c> than</c><00:01:57.090><c> relying</c>
+
+00:01:57.410 --> 00:01:57.420 align:start position:0%
+work with packages rather than relying
+ 
+
+00:01:57.420 --> 00:02:00.140 align:start position:0%
+work with packages rather than relying
+on<00:01:57.540><c> a</c><00:01:57.600><c> centralized</c><00:01:58.050><c> registry</c><00:01:58.470><c> I've</c><00:01:58.950><c> made</c><00:01:59.910><c> a</c>
+
+00:02:00.140 --> 00:02:00.150 align:start position:0%
+on a centralized registry I've made a
+ 
+
+00:02:00.150 --> 00:02:02.330 align:start position:0%
+on a centralized registry I've made a
+handy<00:02:00.630><c> little</c><00:02:00.780><c> command-line</c><00:02:01.380><c> tool</c><00:02:01.650><c> that</c>
+
+00:02:02.330 --> 00:02:02.340 align:start position:0%
+handy little command-line tool that
+ 
+
+00:02:02.340 --> 00:02:03.740 align:start position:0%
+handy little command-line tool that
+makes<00:02:02.850><c> it</c><00:02:03.030><c> really</c><00:02:03.270><c> easy</c>
+
+00:02:03.740 --> 00:02:03.750 align:start position:0%
+makes it really easy
+ 
+
+00:02:03.750 --> 00:02:05.810 align:start position:0%
+makes it really easy
+this<00:02:04.170><c> one</c><00:02:04.380><c> works</c><00:02:04.650><c> for</c><00:02:04.800><c> NPM</c><00:02:05.220><c> but</c><00:02:05.460><c> it</c><00:02:05.580><c> should</c>
+
+00:02:05.810 --> 00:02:05.820 align:start position:0%
+this one works for NPM but it should
+ 
+
+00:02:05.820 --> 00:02:08.419 align:start position:0%
+this one works for NPM but it should
+work<00:02:06.050><c> in</c><00:02:07.050><c> a</c><00:02:07.290><c> similar</c><00:02:07.590><c> fashion</c><00:02:07.740><c> for</c><00:02:08.160><c> other</c>
+
+00:02:08.419 --> 00:02:08.429 align:start position:0%
+work in a similar fashion for other
+ 
+
+00:02:08.429 --> 00:02:11.539 align:start position:0%
+work in a similar fashion for other
+package<00:02:08.940><c> managers</c><00:02:09.359><c> too</c><00:02:09.739><c> so</c><00:02:10.739><c> let's</c><00:02:11.310><c> check</c><00:02:11.459><c> it</c>
+
+00:02:11.539 --> 00:02:11.549 align:start position:0%
+package managers too so let's check it
+ 
+
+00:02:11.549 --> 00:02:14.140 align:start position:0%
+package managers too so let's check it
+out<00:02:11.640><c> I've</c><00:02:12.420><c> got</c><00:02:12.659><c> a</c>
+
+00:02:14.140 --> 00:02:14.150 align:start position:0%
+out I've got a
+ 
+
+00:02:14.150 --> 00:02:17.130 align:start position:0%
+out I've got a
+package<00:02:14.780><c> here</c><00:02:15.560><c> in</c><00:02:15.799><c> my</c><00:02:15.980><c> current</c><00:02:16.220><c> directory</c><00:02:16.730><c> and</c>
+
+00:02:17.130 --> 00:02:17.140 align:start position:0%
+package here in my current directory and
+ 
+
+00:02:17.140 --> 00:02:20.050 align:start position:0%
+package here in my current directory and
+it's<00:02:18.140><c> got</c><00:02:18.319><c> some</c><00:02:18.470><c> dependencies</c><00:02:19.010><c> and</c><00:02:19.730><c> I</c><00:02:19.819><c> can</c>
+
+00:02:20.050 --> 00:02:20.060 align:start position:0%
+it's got some dependencies and I can
+ 
+
+00:02:20.060 --> 00:02:25.470 align:start position:0%
+it's got some dependencies and I can
+publish<00:02:20.450><c> this</c><00:02:21.430><c> directly</c><00:02:22.430><c> to</c><00:02:23.200><c> ipfs</c><00:02:24.200><c> using</c><00:02:24.860><c> my</c>
+
+00:02:25.470 --> 00:02:25.480 align:start position:0%
+publish this directly to ipfs using my
+ 
+
+00:02:25.480 --> 00:02:29.949 align:start position:0%
+publish this directly to ipfs using my
+published<00:02:26.480><c> command</c><00:02:28.330><c> what</c><00:02:29.330><c> this</c><00:02:29.480><c> is</c><00:02:29.629><c> doing</c><00:02:29.780><c> is</c>
+
+00:02:29.949 --> 00:02:29.959 align:start position:0%
+published command what this is doing is
+ 
+
+00:02:29.959 --> 00:02:32.080 align:start position:0%
+published command what this is doing is
+resolving<00:02:30.620><c> the</c><00:02:30.799><c> transitive</c><00:02:31.310><c> dependency</c><00:02:31.819><c> tree</c>
+
+00:02:32.080 --> 00:02:32.090 align:start position:0%
+resolving the transitive dependency tree
+ 
+
+00:02:32.090 --> 00:02:34.690 align:start position:0%
+resolving the transitive dependency tree
+of<00:02:32.299><c> that</c><00:02:32.750><c> library</c><00:02:33.170><c> and</c><00:02:33.290><c> then</c><00:02:34.099><c> it</c><00:02:34.220><c> adds</c><00:02:34.370><c> it</c><00:02:34.670><c> to</c>
+
+00:02:34.690 --> 00:02:34.700 align:start position:0%
+of that library and then it adds it to
+ 
+
+00:02:34.700 --> 00:02:37.390 align:start position:0%
+of that library and then it adds it to
+ipfs<00:02:35.329><c> as</c><00:02:35.540><c> a</c><00:02:35.599><c> single</c><00:02:36.049><c> directory</c><00:02:36.470><c> which</c><00:02:37.069><c> you</c><00:02:37.250><c> can</c>
+
+00:02:37.390 --> 00:02:37.400 align:start position:0%
+ipfs as a single directory which you can
+ 
+
+00:02:37.400 --> 00:02:40.300 align:start position:0%
+ipfs as a single directory which you can
+then<00:02:37.549><c> view</c><00:02:37.579><c> on</c><00:02:38.180><c> the</c><00:02:38.780><c> gateway</c><00:02:39.079><c> you</c><00:02:39.980><c> can</c><00:02:40.010><c> see</c>
+
+00:02:40.300 --> 00:02:40.310 align:start position:0%
+then view on the gateway you can see
+ 
+
+00:02:40.310 --> 00:02:45.220 align:start position:0%
+then view on the gateway you can see
+here<00:02:40.750><c> we</c><00:02:41.750><c> have</c><00:02:42.610><c> the</c><00:02:43.610><c> package</c><00:02:44.599><c> we</c><00:02:44.989><c> just</c>
+
+00:02:45.220 --> 00:02:45.230 align:start position:0%
+here we have the package we just
+ 
+
+00:02:45.230 --> 00:02:47.500 align:start position:0%
+here we have the package we just
+published<00:02:45.590><c> its</c><00:02:45.829><c> metadata</c><00:02:46.340><c> and</c><00:02:46.700><c> all</c><00:02:47.269><c> of</c><00:02:47.390><c> its</c>
+
+00:02:47.500 --> 00:02:47.510 align:start position:0%
+published its metadata and all of its
+ 
+
+00:02:47.510 --> 00:02:50.949 align:start position:0%
+published its metadata and all of its
+dependencies<00:02:48.849><c> let's</c><00:02:49.849><c> bump</c><00:02:50.120><c> that</c><00:02:50.269><c> version</c><00:02:50.690><c> and</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+dependencies let's bump that version and
+ 
+
+00:02:50.959 --> 00:02:54.250 align:start position:0%
+dependencies let's bump that version and
+release<00:02:51.230><c> a</c><00:02:51.260><c> new</c><00:02:52.690><c> version</c><00:02:53.690><c> of</c><00:02:53.900><c> this</c><00:02:54.049><c> same</c>
+
+00:02:54.250 --> 00:02:54.260 align:start position:0%
+release a new version of this same
+ 
+
+00:02:54.260 --> 00:03:01.869 align:start position:0%
+release a new version of this same
+library<00:02:56.200><c> 1.5</c><00:02:59.980><c> again</c><00:03:00.980><c> we</c><00:03:01.280><c> resolve</c><00:03:01.640><c> all</c><00:03:01.790><c> the</c>
+
+00:03:01.869 --> 00:03:01.879 align:start position:0%
+library 1.5 again we resolve all the
+ 
+
+00:03:01.879 --> 00:03:04.410 align:start position:0%
+library 1.5 again we resolve all the
+transit<00:03:02.239><c> dependencies</c><00:03:02.780><c> and</c><00:03:03.409><c> this</c><00:03:03.739><c> outputs</c><00:03:04.220><c> a</c>
+
+00:03:04.410 --> 00:03:04.420 align:start position:0%
+transit dependencies and this outputs a
+ 
+
+00:03:04.420 --> 00:03:08.800 align:start position:0%
+transit dependencies and this outputs a
+new<00:03:06.310><c> history</c><00:03:07.310><c> but</c><00:03:07.640><c> what</c><00:03:07.849><c> if</c><00:03:07.970><c> we</c><00:03:08.120><c> wanted</c><00:03:08.450><c> to</c><00:03:08.510><c> do</c>
+
+00:03:08.800 --> 00:03:08.810 align:start position:0%
+new history but what if we wanted to do
+ 
+
+00:03:08.810 --> 00:03:15.729 align:start position:0%
+new history but what if we wanted to do
+the<00:03:09.560><c> add</c><00:03:09.920><c> the</c><00:03:10.849><c> previous</c><00:03:11.720><c> registry</c><00:03:14.530><c> what</c><00:03:15.530><c> if</c><00:03:15.620><c> we</c>
+
+00:03:15.729 --> 00:03:15.739 align:start position:0%
+the add the previous registry what if we
+ 
+
+00:03:15.739 --> 00:03:17.649 align:start position:0%
+the add the previous registry what if we
+wanted<00:03:15.950><c> to</c><00:03:16.010><c> add</c><00:03:16.220><c> the</c><00:03:16.459><c> new</c><00:03:16.670><c> package</c><00:03:17.150><c> to</c><00:03:17.510><c> the</c>
+
+00:03:17.649 --> 00:03:17.659 align:start position:0%
+wanted to add the new package to the
+ 
+
+00:03:17.659 --> 00:03:20.020 align:start position:0%
+wanted to add the new package to the
+previous<00:03:18.139><c> registry</c><00:03:18.590><c> well</c><00:03:19.280><c> we</c><00:03:19.400><c> can</c><00:03:19.579><c> pass</c><00:03:19.790><c> the</c>
+
+00:03:20.020 --> 00:03:20.030 align:start position:0%
+previous registry well we can pass the
+ 
+
+00:03:20.030 --> 00:03:23.349 align:start position:0%
+previous registry well we can pass the
+previous<00:03:20.209><c> registry</c><00:03:20.930><c> cid</c><00:03:21.910><c> that</c><00:03:22.910><c> basically</c>
+
+00:03:23.349 --> 00:03:23.359 align:start position:0%
+previous registry cid that basically
+ 
+
+00:03:23.359 --> 00:03:25.659 align:start position:0%
+previous registry cid that basically
+errors<00:03:24.109><c> out</c><00:03:24.290><c> because</c><00:03:24.859><c> something</c><00:03:25.370><c> has</c><00:03:25.489><c> gone</c>
+
+00:03:25.659 --> 00:03:25.669 align:start position:0%
+errors out because something has gone
+ 
+
+00:03:25.669 --> 00:03:28.780 align:start position:0%
+errors out because something has gone
+horribly<00:03:26.239><c> wrong</c><00:03:27.069><c> let's</c><00:03:28.069><c> just</c><00:03:28.250><c> try</c><00:03:28.400><c> that</c><00:03:28.549><c> bond</c>
+
+00:03:28.780 --> 00:03:28.790 align:start position:0%
+horribly wrong let's just try that bond
+ 
+
+00:03:28.790 --> 00:03:35.830 align:start position:0%
+horribly wrong let's just try that bond
+bot<00:03:33.519><c> great</c><00:03:34.519><c> there</c><00:03:35.030><c> we</c><00:03:35.120><c> go</c><00:03:35.239><c> we</c><00:03:35.510><c> can</c><00:03:35.540><c> check</c><00:03:35.780><c> that</c>
+
+00:03:35.830 --> 00:03:35.840 align:start position:0%
+bot great there we go we can check that
+ 
+
+00:03:35.840 --> 00:03:38.500 align:start position:0%
+bot great there we go we can check that
+on<00:03:36.260><c> the</c><00:03:36.349><c> Gateway</c><00:03:36.620><c> and</c><00:03:37.190><c> as</c><00:03:37.669><c> you</c><00:03:37.849><c> can</c><00:03:38.000><c> see</c><00:03:38.180><c> we've</c>
+
+00:03:38.500 --> 00:03:38.510 align:start position:0%
+on the Gateway and as you can see we've
+ 
+
+00:03:38.510 --> 00:03:41.229 align:start position:0%
+on the Gateway and as you can see we've
+got<00:03:38.540><c> two</c><00:03:38.930><c> different</c><00:03:39.669><c> versions</c><00:03:40.669><c> of</c><00:03:40.790><c> the</c><00:03:41.000><c> same</c>
+
+00:03:41.229 --> 00:03:41.239 align:start position:0%
+got two different versions of the same
+ 
+
+00:03:41.239 --> 00:03:46.000 align:start position:0%
+got two different versions of the same
+package<00:03:41.870><c> in</c><00:03:42.730><c> a</c><00:03:43.840><c> single</c><00:03:44.840><c> registry</c><00:03:45.199><c> with</c><00:03:45.530><c> all</c><00:03:45.769><c> of</c>
+
+00:03:46.000 --> 00:03:46.010 align:start position:0%
+package in a single registry with all of
+ 
+
+00:03:46.010 --> 00:03:51.250 align:start position:0%
+package in a single registry with all of
+the<00:03:46.099><c> dependencies</c><00:03:46.579><c> for</c><00:03:46.879><c> both</c><00:03:47.090><c> of</c><00:03:47.299><c> them</c><00:03:50.260><c> let's</c>
+
+00:03:51.250 --> 00:03:51.260 align:start position:0%
+the dependencies for both of them let's
+ 
+
+00:03:51.260 --> 00:03:54.339 align:start position:0%
+the dependencies for both of them let's
+keep<00:03:51.379><c> going</c><00:03:52.329><c> we</c><00:03:53.329><c> can</c><00:03:53.480><c> also</c><00:03:53.660><c> publish</c><00:03:54.019><c> something</c>
+
+00:03:54.339 --> 00:03:54.349 align:start position:0%
+keep going we can also publish something
+ 
+
+00:03:54.349 --> 00:03:58.390 align:start position:0%
+keep going we can also publish something
+directly<00:03:55.280><c> from</c><00:03:55.849><c> the</c><00:03:56.269><c> NPM</c><00:03:56.780><c> registry</c><00:03:57.400><c> let's</c>
+
+00:03:58.390 --> 00:03:58.400 align:start position:0%
+directly from the NPM registry let's
+ 
+
+00:03:58.400 --> 00:04:00.900 align:start position:0%
+directly from the NPM registry let's
+publish<00:03:58.699><c> react</c>
+
+00:04:00.900 --> 00:04:00.910 align:start position:0%
+publish react
+ 
+
+00:04:00.910 --> 00:04:04.210 align:start position:0%
+publish react
+so<00:04:01.910><c> that's</c><00:04:02.090><c> published</c><00:04:02.530><c> the</c><00:04:03.530><c> latest</c><00:04:03.860><c> version</c>
+
+00:04:04.210 --> 00:04:04.220 align:start position:0%
+so that's published the latest version
+ 
+
+00:04:04.220 --> 00:04:06.070 align:start position:0%
+so that's published the latest version
+of<00:04:04.250><c> react</c><00:04:04.580><c> which</c><00:04:04.940><c> is</c><00:04:05.180><c> sixteen</c><00:04:05.630><c> point</c><00:04:05.660><c> eight</c>
+
+00:04:06.070 --> 00:04:06.080 align:start position:0%
+of react which is sixteen point eight
+ 
+
+00:04:06.080 --> 00:04:08.350 align:start position:0%
+of react which is sixteen point eight
+point<00:04:06.350><c> six</c><00:04:06.470><c> we</c><00:04:07.190><c> can</c><00:04:07.340><c> just</c><00:04:07.580><c> copy</c><00:04:07.970><c> and</c><00:04:08.090><c> paste</c>
+
+00:04:08.350 --> 00:04:08.360 align:start position:0%
+point six we can just copy and paste
+ 
+
+00:04:08.360 --> 00:04:11.560 align:start position:0%
+point six we can just copy and paste
+that<00:04:08.800><c> run</c><00:04:09.800><c> that</c><00:04:09.980><c> and</c><00:04:10.160><c> we</c><00:04:10.820><c> have</c><00:04:11.090><c> just</c><00:04:11.300><c> installed</c>
+
+00:04:11.560 --> 00:04:11.570 align:start position:0%
+that run that and we have just installed
+ 
+
+00:04:11.570 --> 00:04:14.890 align:start position:0%
+that run that and we have just installed
+react<00:04:12.320><c> straight</c><00:04:12.980><c> from</c><00:04:13.250><c> ipfs</c><00:04:13.900><c> completely</c>
+
+00:04:14.890 --> 00:04:14.900 align:start position:0%
+react straight from ipfs completely
+ 
+
+00:04:14.900 --> 00:04:17.860 align:start position:0%
+react straight from ipfs completely
+self-service<00:04:15.530><c> we</c><00:04:16.400><c> can</c><00:04:16.549><c> also</c><00:04:16.670><c> publish</c><00:04:17.000><c> older</c>
+
+00:04:17.860 --> 00:04:17.870 align:start position:0%
+self-service we can also publish older
+ 
+
+00:04:17.870 --> 00:04:20.349 align:start position:0%
+self-service we can also publish older
+versions<00:04:18.200><c> of</c><00:04:18.320><c> react</c><00:04:18.620><c> maybe</c><00:04:19.160><c> react</c><00:04:19.880><c> fifteen</c>
+
+00:04:20.349 --> 00:04:20.359 align:start position:0%
+versions of react maybe react fifteen
+ 
+
+00:04:20.359 --> 00:04:23.860 align:start position:0%
+versions of react maybe react fifteen
+there<00:04:21.260><c> we</c><00:04:21.320><c> go</c><00:04:21.500><c> just</c><00:04:21.739><c> install</c><00:04:22.550><c> that</c><00:04:22.630><c> from</c><00:04:23.630><c> there</c>
+
+00:04:23.860 --> 00:04:23.870 align:start position:0%
+there we go just install that from there
+ 
+
+00:04:23.870 --> 00:04:27.540 align:start position:0%
+there we go just install that from there
+and<00:04:24.290><c> you've</c><00:04:25.220><c> got</c><00:04:25.460><c> a</c><00:04:25.670><c> previous</c><00:04:26.360><c> version</c><00:04:26.840><c> the</c>
+
+00:04:27.540 --> 00:04:27.550 align:start position:0%
+and you've got a previous version the
+ 
+
+00:04:27.550 --> 00:04:29.770 align:start position:0%
+and you've got a previous version the
+cool<00:04:28.550><c> thing</c><00:04:28.760><c> that</c><00:04:28.790><c> you</c><00:04:28.940><c> can</c><00:04:29.060><c> do</c><00:04:29.330><c> then</c><00:04:29.570><c> is</c>
+
+00:04:29.770 --> 00:04:29.780 align:start position:0%
+cool thing that you can do then is
+ 
+
+00:04:29.780 --> 00:04:33.460 align:start position:0%
+cool thing that you can do then is
+actually<00:04:30.370><c> merge</c><00:04:31.370><c> those</c><00:04:32.330><c> two</c><00:04:32.660><c> registries</c><00:04:33.290><c> we</c>
+
+00:04:33.460 --> 00:04:33.470 align:start position:0%
+actually merge those two registries we
+ 
+
+00:04:33.470 --> 00:04:36.190 align:start position:0%
+actually merge those two registries we
+created<00:04:33.919><c> together</c><00:04:34.460><c> to</c><00:04:34.910><c> create</c><00:04:35.180><c> a</c><00:04:35.450><c> single</c>
+
+00:04:36.190 --> 00:04:36.200 align:start position:0%
+created together to create a single
+ 
+
+00:04:36.200 --> 00:04:37.900 align:start position:0%
+created together to create a single
+registry<00:04:36.710><c> that</c><00:04:36.740><c> contains</c><00:04:37.280><c> both</c><00:04:37.580><c> of</c><00:04:37.790><c> those</c>
+
+00:04:37.900 --> 00:04:37.910 align:start position:0%
+registry that contains both of those
+ 
+
+00:04:37.910 --> 00:04:40.690 align:start position:0%
+registry that contains both of those
+versions<00:04:38.530><c> let's</c><00:04:39.530><c> check</c><00:04:39.740><c> that</c><00:04:39.860><c> out</c><00:04:40.010><c> on</c><00:04:40.220><c> the</c>
+
+00:04:40.690 --> 00:04:40.700 align:start position:0%
+versions let's check that out on the
+ 
+
+00:04:40.700 --> 00:04:42.340 align:start position:0%
+versions let's check that out on the
+Gateway<00:04:41.030><c> and</c><00:04:41.150><c> see</c><00:04:41.300><c> what</c><00:04:41.419><c> it</c><00:04:41.510><c> looks</c><00:04:41.540><c> like</c><00:04:41.780><c> there</c>
+
+00:04:42.340 --> 00:04:42.350 align:start position:0%
+Gateway and see what it looks like there
+ 
+
+00:04:42.350 --> 00:04:45.460 align:start position:0%
+Gateway and see what it looks like there
+we<00:04:42.440><c> go</c><00:04:42.560><c> we</c><00:04:42.830><c> have</c><00:04:43.040><c> two</c><00:04:43.790><c> different</c><00:04:44.330><c> versions</c><00:04:44.750><c> of</c>
+
+00:04:45.460 --> 00:04:45.470 align:start position:0%
+we go we have two different versions of
+ 
+
+00:04:45.470 --> 00:04:47.920 align:start position:0%
+we go we have two different versions of
+react<00:04:46.340><c> with</c><00:04:46.610><c> all</c><00:04:46.850><c> the</c><00:04:47.060><c> dependencies</c><00:04:47.450><c> to</c><00:04:47.630><c> be</c>
+
+00:04:47.920 --> 00:04:47.930 align:start position:0%
+react with all the dependencies to be
+ 
+
+00:04:47.930 --> 00:04:50.350 align:start position:0%
+react with all the dependencies to be
+able<00:04:48.080><c> to</c><00:04:48.140><c> install</c><00:04:48.350><c> those</c><00:04:48.620><c> together</c><00:04:48.890><c> and</c><00:04:49.360><c> this</c>
+
+00:04:50.350 --> 00:04:50.360 align:start position:0%
+able to install those together and this
+ 
+
+00:04:50.360 --> 00:04:53.560 align:start position:0%
+able to install those together and this
+is<00:04:50.510><c> composable</c><00:04:51.110><c> so</c><00:04:51.590><c> you're</c><00:04:51.770><c> able</c><00:04:52.160><c> to</c><00:04:52.570><c> just</c>
+
+00:04:53.560 --> 00:04:53.570 align:start position:0%
+is composable so you're able to just
+ 
+
+00:04:53.570 --> 00:04:56.409 align:start position:0%
+is composable so you're able to just
+keep<00:04:54.010><c> composing</c><00:04:55.010><c> different</c><00:04:55.970><c> micro</c>
+
+00:04:56.409 --> 00:04:56.419 align:start position:0%
+keep composing different micro
+ 
+
+00:04:56.419 --> 00:04:58.210 align:start position:0%
+keep composing different micro
+registries<00:04:56.840><c> together</c><00:04:57.230><c> creating</c><00:04:58.070><c> new</c>
+
+00:04:58.210 --> 00:04:58.220 align:start position:0%
+registries together creating new
+ 
+
+00:04:58.220 --> 00:05:03.840 align:start position:0%
+registries together creating new
+registries<00:04:58.700><c> as</c><00:04:58.850><c> you</c><00:04:58.970><c> go</c><00:04:59.210><c> and</c><00:05:00.700><c> being</c><00:05:01.700><c> able</c><00:05:01.910><c> to</c>
+
+00:05:03.840 --> 00:05:03.850 align:start position:0%
+registries as you go and being able to
+ 
+
+00:05:03.850 --> 00:05:06.120 align:start position:0%
+registries as you go and being able to
+successfully<00:05:04.850><c> resolve</c><00:05:05.030><c> those</c><00:05:05.330><c> dependencies</c>
+
+00:05:06.120 --> 00:05:06.130 align:start position:0%
+successfully resolve those dependencies
+ 
+
+00:05:06.130 --> 00:05:08.800 align:start position:0%
+successfully resolve those dependencies
+over<00:05:07.130><c> IP</c><00:05:07.280><c> FS</c><00:05:07.640><c> without</c><00:05:08.030><c> any</c><00:05:08.240><c> centralized</c>
+
+00:05:08.800 --> 00:05:08.810 align:start position:0%
+over IP FS without any centralized
+ 
+
+00:05:08.810 --> 00:05:12.040 align:start position:0%
+over IP FS without any centralized
+registry<00:05:09.290><c> required</c><00:05:10.570><c> of</c><00:05:11.570><c> course</c><00:05:11.630><c> it's</c><00:05:11.960><c> on</c>
+
+00:05:12.040 --> 00:05:12.050 align:start position:0%
+registry required of course it's on
+ 
+
+00:05:12.050 --> 00:05:15.760 align:start position:0%
+registry required of course it's on
+github<00:05:12.169><c> you</c><00:05:12.620><c> can</c><00:05:12.650><c> check</c><00:05:12.919><c> it</c><00:05:13.040><c> out</c><00:05:13.360><c> and</c><00:05:14.740><c> let</c><00:05:15.740><c> me</c>
+
+00:05:15.760 --> 00:05:15.770 align:start position:0%
+github you can check it out and let me
+ 
+
+00:05:15.770 --> 00:05:17.980 align:start position:0%
+github you can check it out and let me
+know<00:05:15.860><c> how</c><00:05:16.130><c> you</c><00:05:16.190><c> get</c><00:05:16.340><c> on</c><00:05:16.490><c> with</c><00:05:16.610><c> it</c><00:05:16.690><c> have</c><00:05:17.690><c> fun</c><00:05:17.840><c> at</c>
+
+00:05:17.980 --> 00:05:17.990 align:start position:0%
+know how you get on with it have fun at
+ 
+
+00:05:17.990 --> 00:05:21.550 align:start position:0%
+know how you get on with it have fun at
+camp<00:05:18.110><c> thanks</c><00:05:19.100><c> very</c><00:05:19.400><c> much</c>
+

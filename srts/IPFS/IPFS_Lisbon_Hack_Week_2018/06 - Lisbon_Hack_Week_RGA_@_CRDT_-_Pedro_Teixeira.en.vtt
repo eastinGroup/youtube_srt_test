@@ -1,0 +1,1520 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:03.889 align:start position:0%
+ 
+so<00:00:00.299><c> today</c><00:00:00.570><c> I'm</c><00:00:01.500><c> here</c><00:00:02.070><c> to</c><00:00:02.540><c> tell</c><00:00:03.540><c> you</c><00:00:03.659><c> that</c><00:00:03.689><c> I</c>
+
+00:00:03.889 --> 00:00:03.899 align:start position:0%
+so today I'm here to tell you that I
+ 
+
+00:00:03.899 --> 00:00:09.140 align:start position:0%
+so today I'm here to tell you that I
+finished<00:00:04.230><c> one</c><00:00:04.589><c> of</c><00:00:04.710><c> my</c><00:00:04.890><c> tasks</c><00:00:05.430><c> which</c><00:00:06.060><c> was</c><00:00:08.150><c> an</c>
+
+00:00:09.140 --> 00:00:09.150 align:start position:0%
+finished one of my tasks which was an
+ 
+
+00:00:09.150 --> 00:00:11.810 align:start position:0%
+finished one of my tasks which was an
+implementation<00:00:09.750><c> of</c><00:00:10.400><c> replicated</c><00:00:11.400><c> Global's</c>
+
+00:00:11.810 --> 00:00:11.820 align:start position:0%
+implementation of replicated Global's
+ 
+
+00:00:11.820 --> 00:00:15.320 align:start position:0%
+implementation of replicated Global's
+array<00:00:12.330><c> in</c><00:00:12.679><c> Delta</c><00:00:13.679><c> charities</c><00:00:14.130><c> and</c><00:00:15.089><c> I'll</c>
+
+00:00:15.320 --> 00:00:15.330 align:start position:0%
+array in Delta charities and I'll
+ 
+
+00:00:15.330 --> 00:00:17.269 align:start position:0%
+array in Delta charities and I'll
+explain<00:00:15.570><c> you</c><00:00:15.750><c> briefly</c><00:00:16.529><c> explain</c><00:00:16.619><c> you</c><00:00:16.890><c> why</c><00:00:17.010><c> that</c>
+
+00:00:17.269 --> 00:00:17.279 align:start position:0%
+explain you briefly explain you why that
+ 
+
+00:00:17.279 --> 00:00:20.480 align:start position:0%
+explain you briefly explain you why that
+Delta<00:00:17.730><c> charities</c><00:00:18.150><c> may</c><00:00:18.390><c> be</c><00:00:19.310><c> interesting</c><00:00:20.310><c> or</c>
+
+00:00:20.480 --> 00:00:20.490 align:start position:0%
+Delta charities may be interesting or
+ 
+
+00:00:20.490 --> 00:00:24.340 align:start position:0%
+Delta charities may be interesting or
+better<00:00:20.730><c> than</c><00:00:21.000><c> the</c><00:00:21.150><c> other</c><00:00:21.300><c> charities</c><00:00:22.250><c> okay</c><00:00:23.250><c> so</c>
+
+00:00:24.340 --> 00:00:24.350 align:start position:0%
+better than the other charities okay so
+ 
+
+00:00:24.350 --> 00:00:26.630 align:start position:0%
+better than the other charities okay so
+let's<00:00:25.350><c> take</c><00:00:25.470><c> an</c><00:00:25.590><c> example</c><00:00:25.650><c> there</c><00:00:26.160><c> are</c><00:00:26.250><c> two</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+let's take an example there are two
+ 
+
+00:00:26.640 --> 00:00:29.029 align:start position:0%
+let's take an example there are two
+basic<00:00:27.240><c> types</c><00:00:27.810><c> of</c><00:00:27.990><c> charities</c><00:00:28.500><c> so</c><00:00:28.769><c> they</c><00:00:28.890><c> are</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+basic types of charities so they are
+ 
+
+00:00:29.039 --> 00:00:32.569 align:start position:0%
+basic types of charities so they are
+state-based<00:00:30.029><c> and</c><00:00:30.420><c> operation</c><00:00:30.929><c> based</c><00:00:31.140><c> okay</c><00:00:31.890><c> so</c>
+
+00:00:32.569 --> 00:00:32.579 align:start position:0%
+state-based and operation based okay so
+ 
+
+00:00:32.579 --> 00:00:35.600 align:start position:0%
+state-based and operation based okay so
+the<00:00:33.210><c> state-based</c><00:00:33.480><c> ones</c><00:00:34.130><c> work</c><00:00:35.130><c> by</c><00:00:35.399><c> replicating</c>
+
+00:00:35.600 --> 00:00:35.610 align:start position:0%
+the state-based ones work by replicating
+ 
+
+00:00:35.610 --> 00:00:38.660 align:start position:0%
+the state-based ones work by replicating
+the<00:00:36.000><c> states</c><00:00:36.270><c> in</c><00:00:37.079><c> forming</c><00:00:37.530><c> broadcasting</c><00:00:38.520><c> or</c>
+
+00:00:38.660 --> 00:00:38.670 align:start position:0%
+the states in forming broadcasting or
+ 
+
+00:00:38.670 --> 00:00:40.790 align:start position:0%
+the states in forming broadcasting or
+gossiping<00:00:39.120><c> about</c><00:00:39.210><c> their</c><00:00:40.140><c> own</c><00:00:40.290><c> state</c><00:00:40.530><c> and</c>
+
+00:00:40.790 --> 00:00:40.800 align:start position:0%
+gossiping about their own state and
+ 
+
+00:00:40.800 --> 00:00:43.400 align:start position:0%
+gossiping about their own state and
+incorporating<00:00:41.399><c> other</c><00:00:41.850><c> peer</c><00:00:42.719><c> States</c><00:00:43.079><c> into</c>
+
+00:00:43.400 --> 00:00:43.410 align:start position:0%
+incorporating other peer States into
+ 
+
+00:00:43.410 --> 00:00:45.619 align:start position:0%
+incorporating other peer States into
+joining<00:00:43.980><c> other</c><00:00:44.100><c> peer</c><00:00:44.340><c> States</c><00:00:44.610><c> into</c><00:00:44.879><c> their</c>
+
+00:00:45.619 --> 00:00:45.629 align:start position:0%
+joining other peer States into their
+ 
+
+00:00:45.629 --> 00:00:48.590 align:start position:0%
+joining other peer States into their
+states<00:00:45.930><c> so</c><00:00:46.289><c> let's</c><00:00:46.950><c> quite</c><00:00:47.820><c> quick</c><00:00:48.059><c> example</c><00:00:48.510><c> with</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+states so let's quite quick example with
+ 
+
+00:00:48.600 --> 00:00:50.990 align:start position:0%
+states so let's quite quick example with
+the<00:00:48.690><c> growing</c><00:00:48.899><c> with</c><00:00:49.170><c> sets</c><00:00:49.440><c> like</c><00:00:50.039><c> a</c><00:00:50.070><c> grown</c><00:00:50.430><c> Lea</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+the growing with sets like a grown Lea
+ 
+
+00:00:51.000 --> 00:00:54.220 align:start position:0%
+the growing with sets like a grown Lea
+sorry<00:00:51.449><c> growing</c><00:00:51.750><c> the</c><00:00:51.840><c> counter</c><00:00:52.199><c> this</c><00:00:52.590><c> is</c><00:00:52.800><c> wrong</c>
+
+00:00:54.220 --> 00:00:54.230 align:start position:0%
+sorry growing the counter this is wrong
+ 
+
+00:00:54.230 --> 00:00:56.630 align:start position:0%
+sorry growing the counter this is wrong
+let's<00:00:55.230><c> say</c><00:00:55.410><c> that</c><00:00:55.590><c> we</c><00:00:55.770><c> have</c><00:00:55.860><c> like</c><00:00:56.190><c> three</c><00:00:56.430><c> nodes</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+let's say that we have like three nodes
+ 
+
+00:00:56.640 --> 00:00:58.790 align:start position:0%
+let's say that we have like three nodes
+we<00:00:57.300><c> have</c><00:00:57.329><c> the</c><00:00:57.510><c> first</c><00:00:57.719><c> one</c><00:00:57.809><c> incremented</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+we have the first one incremented
+ 
+
+00:00:58.800 --> 00:01:01.490 align:start position:0%
+we have the first one incremented
+already<00:00:59.070><c> to</c><00:00:59.219><c> three</c><00:00:59.460><c> and</c><00:01:00.120><c> then</c><00:01:00.870><c> this</c><00:01:01.109><c> toy</c><00:01:01.469><c> to</c>
+
+00:01:01.490 --> 00:01:01.500 align:start position:0%
+already to three and then this toy to
+ 
+
+00:01:01.500 --> 00:01:04.070 align:start position:0%
+already to three and then this toy to
+three<00:01:01.949><c> then</c><00:01:02.219><c> a</c><00:01:02.280><c> second</c><00:01:02.550><c> one</c><00:01:02.640><c> to</c><00:01:02.670><c> two</c><00:01:02.910><c> and</c><00:01:03.210><c> the</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+three then a second one to two and the
+ 
+
+00:01:04.080 --> 00:01:07.219 align:start position:0%
+three then a second one to two and the
+third<00:01:04.350><c> one</c><00:01:04.650><c> to</c><00:01:05.010><c> one</c><00:01:05.580><c> so</c><00:01:05.939><c> three</c><00:01:06.420><c> plus</c><00:01:06.720><c> one</c><00:01:06.869><c> plus</c>
+
+00:01:07.219 --> 00:01:07.229 align:start position:0%
+third one to one so three plus one plus
+ 
+
+00:01:07.229 --> 00:01:09.530 align:start position:0%
+third one to one so three plus one plus
+two<00:01:07.350><c> equals</c><00:01:08.100><c> six</c><00:01:08.280><c> let's</c><00:01:09.060><c> see</c><00:01:09.210><c> how</c><00:01:09.360><c> they</c>
+
+00:01:09.530 --> 00:01:09.540 align:start position:0%
+two equals six let's see how they
+ 
+
+00:01:09.540 --> 00:01:16.160 align:start position:0%
+two equals six let's see how they
+propagate<00:01:12.049><c> oops</c><00:01:13.049><c> low</c><00:01:14.119><c> play</c><00:01:15.119><c> could</c><00:01:15.900><c> you</c><00:01:15.990><c> please</c>
+
+00:01:16.160 --> 00:01:16.170 align:start position:0%
+propagate oops low play could you please
+ 
+
+00:01:16.170 --> 00:01:21.260 align:start position:0%
+propagate oops low play could you please
+play<00:01:17.540><c> doesn't</c><00:01:18.540><c> play</c><00:01:18.689><c> okay</c><00:01:19.680><c> oh</c><00:01:19.830><c> okay</c><00:01:20.369><c> so</c><00:01:21.060><c> first</c>
+
+00:01:21.260 --> 00:01:21.270 align:start position:0%
+play doesn't play okay oh okay so first
+ 
+
+00:01:21.270 --> 00:01:22.700 align:start position:0%
+play doesn't play okay oh okay so first
+one<00:01:21.420><c> propagates</c><00:01:21.900><c> here</c>
+
+00:01:22.700 --> 00:01:22.710 align:start position:0%
+one propagates here
+ 
+
+00:01:22.710 --> 00:01:26.539 align:start position:0%
+one propagates here
+joins<00:01:23.930><c> so</c><00:01:24.930><c> it's</c><00:01:25.110><c> due</c><00:01:25.380><c> to</c><00:01:25.560><c> one</c><00:01:25.740><c> propagates</c><00:01:26.369><c> to</c>
+
+00:01:26.539 --> 00:01:26.549 align:start position:0%
+joins so it's due to one propagates to
+ 
+
+00:01:26.549 --> 00:01:29.120 align:start position:0%
+joins so it's due to one propagates to
+the<00:01:26.880><c> above</c><00:01:27.090><c> due</c><00:01:27.270><c> to</c><00:01:27.450><c> one</c><00:01:27.630><c> my</c><00:01:28.590><c> point</c><00:01:28.950><c> wise</c>
+
+00:01:29.120 --> 00:01:29.130 align:start position:0%
+the above due to one my point wise
+ 
+
+00:01:29.130 --> 00:01:31.550 align:start position:0%
+the above due to one my point wise
+maximum<00:01:29.340><c> is</c><00:01:29.729><c> three</c><00:01:30.060><c> to</c><00:01:30.210><c> one</c><00:01:30.390><c> then</c><00:01:31.350><c> this</c><00:01:31.500><c> one</c>
+
+00:01:31.550 --> 00:01:31.560 align:start position:0%
+maximum is three to one then this one
+ 
+
+00:01:31.560 --> 00:01:34.520 align:start position:0%
+maximum is three to one then this one
+propagates<00:01:32.250><c> here</c><00:01:32.579><c> T</c><00:01:32.850><c> to</c><00:01:33.000><c> one</c><00:01:33.290><c> point</c><00:01:34.290><c> wise</c>
+
+00:01:34.520 --> 00:01:34.530 align:start position:0%
+propagates here T to one point wise
+ 
+
+00:01:34.530 --> 00:01:35.840 align:start position:0%
+propagates here T to one point wise
+maximum<00:01:34.740><c> is</c><00:01:35.310><c> three</c><00:01:35.520><c> to</c><00:01:35.579><c> one</c>
+
+00:01:35.840 --> 00:01:35.850 align:start position:0%
+maximum is three to one
+ 
+
+00:01:35.850 --> 00:01:43.060 align:start position:0%
+maximum is three to one
+and<00:01:36.590><c> now</c><00:01:37.590><c> yeah</c><00:01:38.579><c> back</c><00:01:39.060><c> here</c><00:01:39.630><c> three</c><00:01:40.259><c> two</c><00:01:40.320><c> one</c><00:01:40.590><c> and</c>
+
+00:01:43.060 --> 00:01:43.070 align:start position:0%
+and now yeah back here three two one and
+ 
+
+00:01:43.070 --> 00:01:47.270 align:start position:0%
+and now yeah back here three two one and
+sync<00:01:44.070><c> but</c><00:01:44.549><c> it's</c><00:01:44.729><c> the</c><00:01:44.820><c> same</c><00:01:45.060><c> so</c><00:01:45.390><c> it</c><00:01:45.540><c> sings</c><00:01:46.280><c> so</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+sync but it's the same so it sings so
+ 
+
+00:01:47.280 --> 00:01:49.160 align:start position:0%
+sync but it's the same so it sings so
+it's<00:01:47.430><c> six</c><00:01:47.670><c> okay</c><00:01:48.090><c> so</c><00:01:48.149><c> now</c><00:01:48.390><c> now</c><00:01:48.630><c> the</c><00:01:48.689><c> whole</c><00:01:48.930><c> state</c>
+
+00:01:49.160 --> 00:01:49.170 align:start position:0%
+it's six okay so now now the whole state
+ 
+
+00:01:49.170 --> 00:01:51.770 align:start position:0%
+it's six okay so now now the whole state
+is<00:01:49.200><c> think</c><00:01:49.590><c> it's</c><00:01:49.770><c> all</c><00:01:49.920><c> converged</c><00:01:50.310><c> this</c><00:01:51.030><c> is</c><00:01:51.210><c> this</c>
+
+00:01:51.770 --> 00:01:51.780 align:start position:0%
+is think it's all converged this is this
+ 
+
+00:01:51.780 --> 00:01:57.429 align:start position:0%
+is think it's all converged this is this
+is<00:01:51.930><c> state</c><00:01:52.110><c> based</c><00:01:52.430><c> charities</c><00:01:55.880><c> this</c><00:01:56.880><c> is</c><00:01:57.000><c> a</c><00:01:57.060><c> very</c>
+
+00:01:57.429 --> 00:01:57.439 align:start position:0%
+is state based charities this is a very
+ 
+
+00:01:57.439 --> 00:01:59.810 align:start position:0%
+is state based charities this is a very
+simple<00:01:58.439><c> example</c><00:01:58.500><c> of</c><00:01:58.860><c> state</c><00:01:59.070><c> based</c><00:01:59.340><c> charities</c>
+
+00:01:59.810 --> 00:01:59.820 align:start position:0%
+simple example of state based charities
+ 
+
+00:01:59.820 --> 00:02:01.910 align:start position:0%
+simple example of state based charities
+the<00:02:00.390><c> problem</c><00:02:00.689><c> we</c><00:02:00.750><c> set</c><00:02:00.930><c> by</c><00:02:01.079><c> charities</c><00:02:01.500><c> is</c><00:02:01.770><c> that</c>
+
+00:02:01.910 --> 00:02:01.920 align:start position:0%
+the problem we set by charities is that
+ 
+
+00:02:01.920 --> 00:02:04.639 align:start position:0%
+the problem we set by charities is that
+the<00:02:02.040><c> state</c><00:02:02.420><c> tends</c><00:02:03.420><c> to</c><00:02:03.630><c> be</c><00:02:03.750><c> very</c><00:02:04.079><c> big</c><00:02:04.259><c> for</c><00:02:04.469><c> more</c>
+
+00:02:04.639 --> 00:02:04.649 align:start position:0%
+the state tends to be very big for more
+ 
+
+00:02:04.649 --> 00:02:11.210 align:start position:0%
+the state tends to be very big for more
+complex<00:02:04.979><c> realities</c><00:02:05.460><c> okay</c><00:02:06.210><c> so</c><00:02:07.940><c> a</c><00:02:10.099><c> solution</c><00:02:11.099><c> to</c>
+
+00:02:11.210 --> 00:02:11.220 align:start position:0%
+complex realities okay so a solution to
+ 
+
+00:02:11.220 --> 00:02:13.760 align:start position:0%
+complex realities okay so a solution to
+that<00:02:11.250><c> is</c><00:02:11.580><c> to</c><00:02:11.610><c> have</c><00:02:11.849><c> operation</c><00:02:12.330><c> by</c><00:02:12.450><c> charities</c>
+
+00:02:13.760 --> 00:02:13.770 align:start position:0%
+that is to have operation by charities
+ 
+
+00:02:13.770 --> 00:02:16.760 align:start position:0%
+that is to have operation by charities
+they<00:02:14.010><c> form</c><00:02:14.510><c> a</c><00:02:15.510><c> sequence</c><00:02:16.440><c> of</c><00:02:16.650><c> operations</c>
+
+00:02:16.760 --> 00:02:16.770 align:start position:0%
+they form a sequence of operations
+ 
+
+00:02:16.770 --> 00:02:19.850 align:start position:0%
+they form a sequence of operations
+locally<00:02:17.660><c> okay</c><00:02:18.660><c> so</c><00:02:19.230><c> let's</c><00:02:19.410><c> say</c><00:02:19.560><c> we</c><00:02:19.680><c> have</c><00:02:19.830><c> a</c>
+
+00:02:19.850 --> 00:02:19.860 align:start position:0%
+locally okay so let's say we have a
+ 
+
+00:02:19.860 --> 00:02:23.200 align:start position:0%
+locally okay so let's say we have a
+nodes<00:02:20.430><c> called</c><00:02:21.210><c> a</c><00:02:21.450><c> and</c><00:02:21.750><c> already</c><00:02:22.440><c> has</c><00:02:22.740><c> two</c>
+
+00:02:23.200 --> 00:02:23.210 align:start position:0%
+nodes called a and already has two
+ 
+
+00:02:23.210 --> 00:02:27.320 align:start position:0%
+nodes called a and already has two
+operations<00:02:24.210><c> a</c><00:02:24.450><c> 1</c><00:02:24.660><c> and</c><00:02:24.870><c> a</c><00:02:24.930><c> 2</c><00:02:24.960><c> and</c><00:02:25.350><c> so</c><00:02:26.330><c> this</c>
+
+00:02:27.320 --> 00:02:27.330 align:start position:0%
+operations a 1 and a 2 and so this
+ 
+
+00:02:27.330 --> 00:02:30.110 align:start position:0%
+operations a 1 and a 2 and so this
+operation<00:02:28.040><c> depends</c><00:02:29.040><c> on</c><00:02:29.160><c> this</c><00:02:29.430><c> causally</c><00:02:29.970><c> so</c>
+
+00:02:30.110 --> 00:02:30.120 align:start position:0%
+operation depends on this causally so
+ 
+
+00:02:30.120 --> 00:02:34.310 align:start position:0%
+operation depends on this causally so
+the<00:02:30.330><c> local</c><00:02:30.810><c> causality</c><00:02:31.260><c> is</c><00:02:31.500><c> is</c><00:02:33.140><c> pointed</c><00:02:34.140><c> by</c><00:02:34.170><c> the</c>
+
+00:02:34.310 --> 00:02:34.320 align:start position:0%
+the local causality is is pointed by the
+ 
+
+00:02:34.320 --> 00:02:38.360 align:start position:0%
+the local causality is is pointed by the
+arrow<00:02:34.620><c> and</c><00:02:35.100><c> now</c><00:02:36.170><c> there's</c><00:02:37.170><c> a</c><00:02:37.260><c> node</c><00:02:37.470><c> B</c><00:02:37.680><c> that</c>
+
+00:02:38.360 --> 00:02:38.370 align:start position:0%
+arrow and now there's a node B that
+ 
+
+00:02:38.370 --> 00:02:40.190 align:start position:0%
+arrow and now there's a node B that
+knows<00:02:38.610><c> about</c><00:02:38.850><c> these</c><00:02:38.970><c> operations</c><00:02:39.510><c> but</c><00:02:39.780><c> appends</c>
+
+00:02:40.190 --> 00:02:40.200 align:start position:0%
+knows about these operations but appends
+ 
+
+00:02:40.200 --> 00:02:42.680 align:start position:0%
+knows about these operations but appends
+a<00:02:40.260><c> new</c><00:02:40.410><c> operation</c><00:02:40.890><c> on</c><00:02:41.070><c> the</c><00:02:41.610><c> head</c><00:02:41.820><c> of</c><00:02:42.060><c> the</c>
+
+00:02:42.680 --> 00:02:42.690 align:start position:0%
+a new operation on the head of the
+ 
+
+00:02:42.690 --> 00:02:45.440 align:start position:0%
+a new operation on the head of the
+operation<00:02:42.960><c> log</c><00:02:43.230><c> and</c><00:02:43.500><c> then</c><00:02:44.370><c> he</c><00:02:44.850><c> appends</c><00:02:45.270><c> a</c><00:02:45.330><c> new</c>
+
+00:02:45.440 --> 00:02:45.450 align:start position:0%
+operation log and then he appends a new
+ 
+
+00:02:45.450 --> 00:02:50.240 align:start position:0%
+operation log and then he appends a new
+operation<00:02:45.870><c> again</c><00:02:46.200><c> and</c><00:02:47.240><c> then</c><00:02:48.950><c> operation</c><00:02:49.950><c> then</c>
+
+00:02:50.240 --> 00:02:50.250 align:start position:0%
+operation again and then operation then
+ 
+
+00:02:50.250 --> 00:02:52.820 align:start position:0%
+operation again and then operation then
+no<00:02:50.760><c> they</c><00:02:50.940><c> appends</c><00:02:51.900><c> another</c><00:02:52.110><c> operation</c><00:02:52.620><c> but</c>
+
+00:02:52.820 --> 00:02:52.830 align:start position:0%
+no they appends another operation but
+ 
+
+00:02:52.830 --> 00:02:54.680 align:start position:0%
+no they appends another operation but
+meanwhile<00:02:53.280><c> it</c><00:02:53.730><c> only</c><00:02:53.970><c> knew</c><00:02:54.240><c> about</c><00:02:54.270><c> this</c>
+
+00:02:54.680 --> 00:02:54.690 align:start position:0%
+meanwhile it only knew about this
+ 
+
+00:02:54.690 --> 00:02:56.540 align:start position:0%
+meanwhile it only knew about this
+operation<00:02:55.050><c> it</c><00:02:55.320><c> doesn't</c><00:02:55.590><c> know</c><00:02:55.740><c> about</c><00:02:56.010><c> this</c>
+
+00:02:56.540 --> 00:02:56.550 align:start position:0%
+operation it doesn't know about this
+ 
+
+00:02:56.550 --> 00:02:58.850 align:start position:0%
+operation it doesn't know about this
+operation<00:02:56.820><c> yet</c><00:02:57.150><c> ok</c><00:02:57.630><c> so</c><00:02:57.690><c> they</c><00:02:57.930><c> haven't</c><00:02:58.140><c> talked</c>
+
+00:02:58.850 --> 00:02:58.860 align:start position:0%
+operation yet ok so they haven't talked
+ 
+
+00:02:58.860 --> 00:03:01.700 align:start position:0%
+operation yet ok so they haven't talked
+to<00:02:58.980><c> each</c><00:02:59.070><c> other</c><00:02:59.250><c> about</c><00:02:59.630><c> this</c><00:03:00.630><c> this</c><00:03:01.020><c> one</c><00:03:01.230><c> only</c>
+
+00:03:01.700 --> 00:03:01.710 align:start position:0%
+to each other about this this one only
+ 
+
+00:03:01.710 --> 00:03:06.070 align:start position:0%
+to each other about this this one only
+this<00:03:02.220><c> one</c><00:03:02.490><c> so</c><00:03:03.030><c> he</c><00:03:03.090><c> appends</c><00:03:03.510><c> on</c><00:03:03.960><c> to</c><00:03:04.470><c> this</c><00:03:04.590><c> one</c>
+
+00:03:06.070 --> 00:03:06.080 align:start position:0%
+this one so he appends on to this one
+ 
+
+00:03:06.080 --> 00:03:12.440 align:start position:0%
+this one so he appends on to this one
+ok<00:03:07.080><c> and</c><00:03:07.610><c> so</c><00:03:08.610><c> now</c><00:03:09.120><c> we</c><00:03:09.210><c> have</c><00:03:09.360><c> like</c><00:03:11.270><c> no</c><00:03:12.270><c> they</c>
+
+00:03:12.440 --> 00:03:12.450 align:start position:0%
+ok and so now we have like no they
+ 
+
+00:03:12.450 --> 00:03:14.450 align:start position:0%
+ok and so now we have like no they
+opposed<00:03:12.990><c> this</c><00:03:13.200><c> one</c><00:03:13.410><c> and</c><00:03:13.560><c> node</c><00:03:13.680><c> B</c><00:03:14.040><c> depends</c><00:03:14.400><c> to</c>
+
+00:03:14.450 --> 00:03:14.460 align:start position:0%
+opposed this one and node B depends to
+ 
+
+00:03:14.460 --> 00:03:15.890 align:start position:0%
+opposed this one and node B depends to
+this<00:03:14.550><c> one</c><00:03:14.730><c> so</c><00:03:14.880><c> they</c><00:03:15.060><c> don't</c><00:03:15.450><c> know</c><00:03:15.510><c> about</c><00:03:15.750><c> each</c>
+
+00:03:15.890 --> 00:03:15.900 align:start position:0%
+this one so they don't know about each
+ 
+
+00:03:15.900 --> 00:03:18.860 align:start position:0%
+this one so they don't know about each
+other<00:03:16.080><c> yet</c><00:03:16.440><c> at</c><00:03:16.920><c> this</c><00:03:17.160><c> point</c><00:03:17.220><c> fully</c><00:03:18.030><c> so</c><00:03:18.750><c> they</c>
+
+00:03:18.860 --> 00:03:18.870 align:start position:0%
+other yet at this point fully so they
+ 
+
+00:03:18.870 --> 00:03:21.740 align:start position:0%
+other yet at this point fully so they
+are<00:03:19.020><c> commutative</c><00:03:19.440><c> okay</c><00:03:20.190><c> so</c><00:03:21.090><c> you</c><00:03:21.150><c> have</c><00:03:21.540><c> to</c>
+
+00:03:21.740 --> 00:03:21.750 align:start position:0%
+are commutative okay so you have to
+ 
+
+00:03:21.750 --> 00:03:25.370 align:start position:0%
+are commutative okay so you have to
+store<00:03:23.360><c> so</c><00:03:24.360><c> we</c><00:03:24.450><c> never</c><00:03:24.570><c> know</c><00:03:24.810><c> when</c><00:03:25.050><c> you</c><00:03:25.230><c> have</c>
+
+00:03:25.370 --> 00:03:25.380 align:start position:0%
+store so we never know when you have
+ 
+
+00:03:25.380 --> 00:03:27.980 align:start position:0%
+store so we never know when you have
+when<00:03:25.740><c> you</c><00:03:26.190><c> have</c><00:03:26.220><c> commutative</c><00:03:27.090><c> operations</c><00:03:27.660><c> so</c>
+
+00:03:27.980 --> 00:03:27.990 align:start position:0%
+when you have commutative operations so
+ 
+
+00:03:27.990 --> 00:03:30.800 align:start position:0%
+when you have commutative operations so
+you<00:03:28.620><c> have</c><00:03:28.850><c> their</c><00:03:29.850><c> solutions</c><00:03:30.330><c> to</c><00:03:30.420><c> this</c><00:03:30.540><c> I</c>
+
+00:03:30.800 --> 00:03:30.810 align:start position:0%
+you have their solutions to this I
+ 
+
+00:03:30.810 --> 00:03:34.880 align:start position:0%
+you have their solutions to this I
+learned<00:03:31.200><c> recently</c><00:03:32.040><c> but</c><00:03:33.230><c> in</c><00:03:34.230><c> principle</c><00:03:34.800><c> you</c>
+
+00:03:34.880 --> 00:03:34.890 align:start position:0%
+learned recently but in principle you
+ 
+
+00:03:34.890 --> 00:03:37.100 align:start position:0%
+learned recently but in principle you
+have<00:03:35.010><c> to</c><00:03:35.130><c> store</c><00:03:35.340><c> all</c><00:03:35.580><c> the</c><00:03:35.730><c> operations</c><00:03:36.240><c> because</c>
+
+00:03:37.100 --> 00:03:37.110 align:start position:0%
+have to store all the operations because
+ 
+
+00:03:37.110 --> 00:03:40.550 align:start position:0%
+have to store all the operations because
+you<00:03:37.560><c> have</c><00:03:37.740><c> may</c><00:03:37.920><c> have</c><00:03:38.480><c> these</c><00:03:39.480><c> operations</c><00:03:40.470><c> in</c>
+
+00:03:40.550 --> 00:03:40.560 align:start position:0%
+you have may have these operations in
+ 
+
+00:03:40.560 --> 00:03:42.740 align:start position:0%
+you have may have these operations in
+the<00:03:40.590><c> future</c><00:03:40.800><c> of</c><00:03:41.100><c> this</c><00:03:41.250><c> one</c><00:03:41.490><c> right</c><00:03:41.850><c> we</c><00:03:42.510><c> have</c><00:03:42.630><c> to</c>
+
+00:03:42.740 --> 00:03:42.750 align:start position:0%
+the future of this one right we have to
+ 
+
+00:03:42.750 --> 00:03:44.360 align:start position:0%
+the future of this one right we have to
+store<00:03:42.960><c> this</c><00:03:43.140><c> one</c><00:03:43.410><c> because</c><00:03:44.070><c> you</c><00:03:44.250><c> may</c><00:03:44.340><c> have</c>
+
+00:03:44.360 --> 00:03:44.370 align:start position:0%
+store this one because you may have
+ 
+
+00:03:44.370 --> 00:03:45.800 align:start position:0%
+store this one because you may have
+operations<00:03:44.940><c> in</c><00:03:45.000><c> the</c><00:03:45.090><c> future</c><00:03:45.330><c> of</c><00:03:45.420><c> this</c><00:03:45.510><c> one</c><00:03:45.660><c> and</c>
+
+00:03:45.800 --> 00:03:45.810 align:start position:0%
+operations in the future of this one and
+ 
+
+00:03:45.810 --> 00:03:47.240 align:start position:0%
+operations in the future of this one and
+the<00:03:45.900><c> same</c><00:03:46.020><c> goes</c><00:03:46.230><c> for</c><00:03:46.260><c> all</c><00:03:46.800><c> the</c><00:03:46.860><c> operations</c>
+
+00:03:47.240 --> 00:03:47.250 align:start position:0%
+the same goes for all the operations
+ 
+
+00:03:47.250 --> 00:03:52.100 align:start position:0%
+the same goes for all the operations
+then<00:03:47.700><c> on</c><00:03:47.880><c> the</c><00:03:48.030><c> backlog</c><00:03:48.360><c> okay</c><00:03:49.200><c> so</c><00:03:50.750><c> there</c><00:03:51.750><c> is</c><00:03:51.780><c> one</c>
+
+00:03:52.100 --> 00:03:52.110 align:start position:0%
+then on the backlog okay so there is one
+ 
+
+00:03:52.110 --> 00:03:54.140 align:start position:0%
+then on the backlog okay so there is one
+more<00:03:52.890><c> or</c><00:03:53.010><c> less</c><00:03:53.130><c> compact</c><00:03:53.520><c> solution</c><00:03:53.670><c> to</c><00:03:54.030><c> this</c>
+
+00:03:54.140 --> 00:03:54.150 align:start position:0%
+more or less compact solution to this
+ 
+
+00:03:54.150 --> 00:03:58.670 align:start position:0%
+more or less compact solution to this
+which<00:03:54.450><c> is</c><00:03:56.000><c> to</c><00:03:57.000><c> infer</c><00:03:57.330><c> causal</c><00:03:57.810><c> stability</c><00:03:58.320><c> on</c><00:03:58.530><c> an</c>
+
+00:03:58.670 --> 00:03:58.680 align:start position:0%
+which is to infer causal stability on an
+ 
+
+00:03:58.680 --> 00:04:00.920 align:start position:0%
+which is to infer causal stability on an
+operation<00:03:59.190><c> which</c><00:03:59.850><c> means</c><00:03:59.880><c> that</c><00:04:00.330><c> if</c><00:04:00.750><c> an</c>
+
+00:04:00.920 --> 00:04:00.930 align:start position:0%
+operation which means that if an
+ 
+
+00:04:00.930 --> 00:04:03.530 align:start position:0%
+operation which means that if an
+operation<00:04:01.260><c> is</c><00:04:01.850><c> causing</c><00:04:02.850><c> with</c><00:04:02.970><c> stable</c><00:04:03.360><c> means</c>
+
+00:04:03.530 --> 00:04:03.540 align:start position:0%
+operation is causing with stable means
+ 
+
+00:04:03.540 --> 00:04:05.270 align:start position:0%
+operation is causing with stable means
+that<00:04:03.750><c> there</c><00:04:04.080><c> will</c><00:04:04.410><c> be</c><00:04:04.470><c> no</c><00:04:04.770><c> concurrent</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+that there will be no concurrent
+ 
+
+00:04:05.280 --> 00:04:09.410 align:start position:0%
+that there will be no concurrent
+operations<00:04:05.490><c> to</c><00:04:05.940><c> this</c><00:04:06.090><c> one</c><00:04:06.330><c> okay</c><00:04:07.200><c> so</c><00:04:08.300><c> in</c><00:04:09.300><c> the</c>
+
+00:04:09.410 --> 00:04:09.420 align:start position:0%
+operations to this one okay so in the
+ 
+
+00:04:09.420 --> 00:04:12.680 align:start position:0%
+operations to this one okay so in the
+future<00:04:09.630><c> of</c><00:04:09.840><c> this</c><00:04:09.960><c> one</c><00:04:10.230><c> okay</c><00:04:11.210><c> that's</c><00:04:12.210><c> so</c><00:04:12.510><c> far</c>
+
+00:04:12.680 --> 00:04:12.690 align:start position:0%
+future of this one okay that's so far
+ 
+
+00:04:12.690 --> 00:04:16.220 align:start position:0%
+future of this one okay that's so far
+one<00:04:12.990><c> that</c><00:04:13.200><c> so</c><00:04:13.440><c> it</c><00:04:13.980><c> it</c><00:04:14.790><c> there's</c><00:04:15.480><c> a</c><00:04:15.570><c> way</c><00:04:15.750><c> to</c><00:04:15.780><c> infer</c>
+
+00:04:16.220 --> 00:04:16.230 align:start position:0%
+one that so it it there's a way to infer
+ 
+
+00:04:16.230 --> 00:04:20.870 align:start position:0%
+one that so it it there's a way to infer
+that<00:04:16.560><c> by</c><00:04:17.489><c> using</c><00:04:17.820><c> vertical</c><00:04:18.150><c> ox</c><00:04:19.280><c> when</c><00:04:20.280><c> you</c><00:04:20.580><c> hear</c>
+
+00:04:20.870 --> 00:04:20.880 align:start position:0%
+that by using vertical ox when you hear
+ 
+
+00:04:20.880 --> 00:04:23.030 align:start position:0%
+that by using vertical ox when you hear
+the<00:04:21.000><c> state</c><00:04:21.210><c> of</c><00:04:21.390><c> audio</c><00:04:21.660><c> operations</c><00:04:22.049><c> with</c><00:04:22.860><c> the</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+the state of audio operations with the
+ 
+
+00:04:23.040 --> 00:04:24.860 align:start position:0%
+the state of audio operations with the
+assumption<00:04:23.430><c> that</c><00:04:23.460><c> you</c><00:04:23.580><c> know</c><00:04:23.850><c> all</c><00:04:24.180><c> the</c><00:04:24.570><c> members</c>
+
+00:04:24.860 --> 00:04:24.870 align:start position:0%
+assumption that you know all the members
+ 
+
+00:04:24.870 --> 00:04:27.200 align:start position:0%
+assumption that you know all the members
+that's<00:04:25.590><c> the</c><00:04:25.770><c> assumption</c><00:04:26.190><c> but</c>
+
+00:04:27.200 --> 00:04:27.210 align:start position:0%
+that's the assumption but
+ 
+
+00:04:27.210 --> 00:04:29.240 align:start position:0%
+that's the assumption but
+I think<00:04:27.449><c> there</c><00:04:27.600><c> are</c><00:04:27.660><c> also</c><00:04:28.110><c> ways</c><00:04:28.380><c> around</c>
+
+00:04:29.240 --> 00:04:29.250 align:start position:0%
+I think there are also ways around
+ 
+
+00:04:29.250 --> 00:04:33.590 align:start position:0%
+I think there are also ways around
+having<00:04:30.060><c> dynamic</c><00:04:30.479><c> membership</c><00:04:31.669><c> okay</c><00:04:32.669><c> but</c><00:04:33.330><c> this</c>
+
+00:04:33.590 --> 00:04:33.600 align:start position:0%
+having dynamic membership okay but this
+ 
+
+00:04:33.600 --> 00:04:37.309 align:start position:0%
+having dynamic membership okay but this
+is<00:04:33.720><c> not</c><00:04:33.870><c> what</c><00:04:34.080><c> I'm</c><00:04:34.169><c> going</c><00:04:34.560><c> so</c><00:04:35.750><c> then</c><00:04:36.750><c> we</c><00:04:37.050><c> have</c>
+
+00:04:37.309 --> 00:04:37.319 align:start position:0%
+is not what I'm going so then we have
+ 
+
+00:04:37.319 --> 00:04:44.499 align:start position:0%
+is not what I'm going so then we have
+another<00:04:39.860><c> type</c><00:04:40.860><c> of</c><00:04:41.330><c> charities</c><00:04:42.330><c> which</c><00:04:42.810><c> are</c>
+
+00:04:44.499 --> 00:04:44.509 align:start position:0%
+another type of charities which are
+ 
+
+00:04:44.509 --> 00:04:47.330 align:start position:0%
+another type of charities which are
+based<00:04:45.509><c> on</c><00:04:45.720><c> the</c><00:04:45.900><c> state-based</c><00:04:46.319><c> ones</c><00:04:46.770><c> but</c><00:04:47.160><c> our</c>
+
+00:04:47.330 --> 00:04:47.340 align:start position:0%
+based on the state-based ones but our
+ 
+
+00:04:47.340 --> 00:04:52.460 align:start position:0%
+based on the state-based ones but our
+deltas<00:04:47.819><c> and</c><00:04:49.250><c> on</c><00:04:50.250><c> Delta</c><00:04:50.610><c> based</c><00:04:50.910><c> charities</c><00:04:51.470><c> the</c>
+
+00:04:52.460 --> 00:04:52.470 align:start position:0%
+deltas and on Delta based charities the
+ 
+
+00:04:52.470 --> 00:04:54.589 align:start position:0%
+deltas and on Delta based charities the
+replicates<00:04:52.979><c> communicate</c><00:04:53.430><c> via</c><00:04:53.819><c> Delta's</c><00:04:54.360><c> not</c>
+
+00:04:54.589 --> 00:04:54.599 align:start position:0%
+replicates communicate via Delta's not
+ 
+
+00:04:54.599 --> 00:04:57.020 align:start position:0%
+replicates communicate via Delta's not
+by<00:04:54.840><c> the</c><00:04:54.900><c> entire</c><00:04:55.229><c> states</c><00:04:55.560><c> so</c><00:04:56.460><c> a</c><00:04:56.490><c> doctor</c><00:04:56.789><c> is</c><00:04:56.970><c> not</c>
+
+00:04:57.020 --> 00:04:57.030 align:start position:0%
+by the entire states so a doctor is not
+ 
+
+00:04:57.030 --> 00:05:00.890 align:start position:0%
+by the entire states so a doctor is not
+exactly<00:04:57.990><c> an</c><00:04:58.080><c> operation</c><00:04:59.389><c> so</c><00:05:00.389><c> that</c><00:05:00.419><c> an</c>
+
+00:05:00.890 --> 00:05:00.900 align:start position:0%
+exactly an operation so that an
+ 
+
+00:05:00.900 --> 00:05:02.960 align:start position:0%
+exactly an operation so that an
+intuition<00:05:01.410><c> is</c><00:05:01.500><c> that</c><00:05:01.530><c> the</c><00:05:01.800><c> Delta</c><00:05:02.160><c> should</c><00:05:02.610><c> be</c><00:05:02.759><c> a</c>
+
+00:05:02.960 --> 00:05:02.970 align:start position:0%
+intuition is that the Delta should be a
+ 
+
+00:05:02.970 --> 00:05:07.670 align:start position:0%
+intuition is that the Delta should be a
+fraction<00:05:03.539><c> of</c><00:05:03.660><c> the</c><00:05:03.780><c> states</c><00:05:04.020><c> okay</c><00:05:04.770><c> and</c><00:05:05.090><c> a</c><00:05:06.680><c> Delta</c>
+
+00:05:07.670 --> 00:05:07.680 align:start position:0%
+fraction of the states okay and a Delta
+ 
+
+00:05:07.680 --> 00:05:09.650 align:start position:0%
+fraction of the states okay and a Delta
+is<00:05:07.800><c> idempotent</c><00:05:08.099><c> when</c><00:05:08.699><c> apply</c><00:05:09.000><c> to</c><00:05:09.060><c> the</c><00:05:09.240><c> States</c>
+
+00:05:09.650 --> 00:05:09.660 align:start position:0%
+is idempotent when apply to the States
+ 
+
+00:05:09.660 --> 00:05:12.020 align:start position:0%
+is idempotent when apply to the States
+an<00:05:10.440><c> operation</c><00:05:10.949><c> is</c><00:05:11.039><c> not</c><00:05:11.190><c> that</c><00:05:11.400><c> important</c><00:05:11.849><c> so</c><00:05:11.940><c> if</c>
+
+00:05:12.020 --> 00:05:12.030 align:start position:0%
+an operation is not that important so if
+ 
+
+00:05:12.030 --> 00:05:14.779 align:start position:0%
+an operation is not that important so if
+your<00:05:12.150><c> party</c><00:05:12.389><c> same</c><00:05:12.539><c> operation</c><00:05:12.900><c> two</c><00:05:13.050><c> times</c><00:05:13.789><c> it's</c>
+
+00:05:14.779 --> 00:05:14.789 align:start position:0%
+your party same operation two times it's
+ 
+
+00:05:14.789 --> 00:05:17.629 align:start position:0%
+your party same operation two times it's
+it<00:05:15.150><c> it</c><00:05:15.750><c> yields</c><00:05:16.229><c> different</c><00:05:16.590><c> states</c><00:05:16.800><c> okay</c><00:05:17.490><c> so</c>
+
+00:05:17.629 --> 00:05:17.639 align:start position:0%
+it it yields different states okay so
+ 
+
+00:05:17.639 --> 00:05:20.270 align:start position:0%
+it it yields different states okay so
+but<00:05:18.030><c> applying</c><00:05:18.659><c> a</c><00:05:18.780><c> Delta</c><00:05:19.110><c> two</c><00:05:19.349><c> times</c><00:05:19.650><c> to</c><00:05:20.190><c> the</c>
+
+00:05:20.270 --> 00:05:20.280 align:start position:0%
+but applying a Delta two times to the
+ 
+
+00:05:20.280 --> 00:05:22.399 align:start position:0%
+but applying a Delta two times to the
+same<00:05:20.460><c> state</c><00:05:20.699><c> should</c><00:05:21.030><c> yield</c><00:05:21.240><c> the</c><00:05:21.389><c> same</c><00:05:21.419><c> the</c>
+
+00:05:22.399 --> 00:05:22.409 align:start position:0%
+same state should yield the same the
+ 
+
+00:05:22.409 --> 00:05:25.909 align:start position:0%
+same state should yield the same the
+same<00:05:22.620><c> state</c><00:05:22.860><c> so</c><00:05:23.479><c> joining</c><00:05:24.479><c> s</c><00:05:24.720><c> 1</c><00:05:24.990><c> and</c><00:05:25.229><c> Delta</c><00:05:25.740><c> 1</c>
+
+00:05:25.909 --> 00:05:25.919 align:start position:0%
+same state so joining s 1 and Delta 1
+ 
+
+00:05:25.919 --> 00:05:29.330 align:start position:0%
+same state so joining s 1 and Delta 1
+you<00:05:26.430><c> of</c><00:05:26.490><c> ss2</c><00:05:27.300><c> joining</c><00:05:28.020><c> is</c><00:05:28.110><c> 2</c><00:05:28.319><c> Delta</c><00:05:28.530><c> 1</c><00:05:29.039><c> again</c>
+
+00:05:29.330 --> 00:05:29.340 align:start position:0%
+you of ss2 joining is 2 Delta 1 again
+ 
+
+00:05:29.340 --> 00:05:34.790 align:start position:0%
+you of ss2 joining is 2 Delta 1 again
+still<00:05:30.120><c> yields</c><00:05:30.680><c> as</c><00:05:31.680><c> 2</c><00:05:33.020><c> so</c><00:05:34.020><c> the</c><00:05:34.289><c> advantages</c><00:05:34.740><c> that</c>
+
+00:05:34.790 --> 00:05:34.800 align:start position:0%
+still yields as 2 so the advantages that
+ 
+
+00:05:34.800 --> 00:05:37.909 align:start position:0%
+still yields as 2 so the advantages that
+Delta's<00:05:35.430><c> can</c><00:05:35.580><c> be</c><00:05:35.759><c> joined</c><00:05:36.030><c> together</c><00:05:36.289><c> ok</c><00:05:37.289><c> so</c>
+
+00:05:37.909 --> 00:05:37.919 align:start position:0%
+Delta's can be joined together ok so
+ 
+
+00:05:37.919 --> 00:05:40.700 align:start position:0%
+Delta's can be joined together ok so
+they're<00:05:38.039><c> easy</c><00:05:38.250><c> to</c><00:05:38.370><c> bar</c><00:05:38.610><c> for</c><00:05:38.820><c> you</c><00:05:38.909><c> can</c><00:05:39.680><c> buffer</c><00:05:40.680><c> a</c>
+
+00:05:40.700 --> 00:05:40.710 align:start position:0%
+they're easy to bar for you can buffer a
+ 
+
+00:05:40.710 --> 00:05:43.520 align:start position:0%
+they're easy to bar for you can buffer a
+bunch<00:05:40.919><c> of</c><00:05:41.039><c> Delta's</c><00:05:41.479><c> compressed</c><00:05:42.479><c> into</c><00:05:42.930><c> by</c>
+
+00:05:43.520 --> 00:05:43.530 align:start position:0%
+bunch of Delta's compressed into by
+ 
+
+00:05:43.530 --> 00:05:45.620 align:start position:0%
+bunch of Delta's compressed into by
+joining<00:05:43.800><c> them</c><00:05:44.039><c> you</c><00:05:44.729><c> compress</c><00:05:45.090><c> them</c><00:05:45.330><c> and</c><00:05:45.539><c> then</c>
+
+00:05:45.620 --> 00:05:45.630 align:start position:0%
+joining them you compress them and then
+ 
+
+00:05:45.630 --> 00:05:47.180 align:start position:0%
+joining them you compress them and then
+you<00:05:45.719><c> can</c><00:05:45.870><c> send</c><00:05:46.110><c> them</c><00:05:46.229><c> you</c><00:05:46.710><c> don't</c><00:05:46.889><c> have</c><00:05:47.039><c> to</c>
+
+00:05:47.180 --> 00:05:47.190 align:start position:0%
+you can send them you don't have to
+ 
+
+00:05:47.190 --> 00:05:49.760 align:start position:0%
+you can send them you don't have to
+buffer<00:05:47.460><c> all</c><00:05:48.060><c> the</c><00:05:48.419><c> up</c><00:05:48.479><c> as</c><00:05:49.020><c> you</c><00:05:49.349><c> do</c><00:05:49.500><c> in</c><00:05:49.680><c> the</c>
+
+00:05:49.760 --> 00:05:49.770 align:start position:0%
+buffer all the up as you do in the
+ 
+
+00:05:49.770 --> 00:05:51.370 align:start position:0%
+buffer all the up as you do in the
+operation<00:05:50.099><c> by</c><00:05:50.250><c> charities</c><00:05:50.699><c> you</c><00:05:50.849><c> don't</c><00:05:50.969><c> have</c><00:05:51.090><c> to</c>
+
+00:05:51.370 --> 00:05:51.380 align:start position:0%
+operation by charities you don't have to
+ 
+
+00:05:51.380 --> 00:05:54.320 align:start position:0%
+operation by charities you don't have to
+buffer<00:05:52.380><c> all</c><00:05:52.530><c> of</c><00:05:52.680><c> them</c><00:05:52.800><c> you</c><00:05:52.949><c> can</c><00:05:53.099><c> join</c><00:05:53.280><c> them</c><00:05:53.520><c> so</c>
+
+00:05:54.320 --> 00:05:54.330 align:start position:0%
+buffer all of them you can join them so
+ 
+
+00:05:54.330 --> 00:06:00.649 align:start position:0%
+buffer all of them you can join them so
+they<00:05:54.479><c> are</c><00:05:55.849><c> so</c><00:05:56.849><c> they</c><00:05:56.880><c> are</c><00:05:57.000><c> associative</c><00:05:57.599><c> also</c><00:05:59.659><c> so</c>
+
+00:06:00.649 --> 00:06:00.659 align:start position:0%
+they are so they are associative also so
+ 
+
+00:06:00.659 --> 00:06:03.140 align:start position:0%
+they are so they are associative also so
+doctor<00:06:01.020><c> based</c><00:06:01.199><c> charity</c><00:06:01.620><c> is</c><00:06:01.800><c> defined</c><00:06:02.159><c> by</c><00:06:02.340><c> state</c>
+
+00:06:03.140 --> 00:06:03.150 align:start position:0%
+doctor based charity is defined by state
+ 
+
+00:06:03.150 --> 00:06:07.490 align:start position:0%
+doctor based charity is defined by state
+set<00:06:04.580><c> initial</c><00:06:05.580><c> set</c><00:06:06.020><c> instead</c><00:06:07.020><c> of</c><00:06:07.139><c> mutator</c>
+
+00:06:07.490 --> 00:06:07.500 align:start position:0%
+set initial set instead of mutator
+ 
+
+00:06:07.500 --> 00:06:09.260 align:start position:0%
+set initial set instead of mutator
+functions<00:06:07.949><c> have</c><00:06:08.159><c> Delta</c><00:06:08.520><c> mutator</c><00:06:08.849><c> functions</c>
+
+00:06:09.260 --> 00:06:09.270 align:start position:0%
+functions have Delta mutator functions
+ 
+
+00:06:09.270 --> 00:06:12.620 align:start position:0%
+functions have Delta mutator functions
+that<00:06:09.330><c> return</c><00:06:09.479><c> deltas</c><00:06:10.050><c> and</c><00:06:10.289><c> you</c><00:06:11.250><c> have</c><00:06:11.460><c> a</c><00:06:12.030><c> joint</c>
+
+00:06:12.620 --> 00:06:12.630 align:start position:0%
+that return deltas and you have a joint
+ 
+
+00:06:12.630 --> 00:06:14.209 align:start position:0%
+that return deltas and you have a joint
+function<00:06:12.900><c> which</c><00:06:13.229><c> also</c><00:06:13.860><c> the</c><00:06:13.979><c> state-based</c>
+
+00:06:14.209 --> 00:06:14.219 align:start position:0%
+function which also the state-based
+ 
+
+00:06:14.219 --> 00:06:17.290 align:start position:0%
+function which also the state-based
+charities<00:06:14.880><c> have</c><00:06:15.180><c> and</c><00:06:15.539><c> something</c><00:06:16.289><c> that</c>
+
+00:06:17.290 --> 00:06:17.300 align:start position:0%
+charities have and something that
+ 
+
+00:06:17.300 --> 00:06:20.149 align:start position:0%
+charities have and something that
+returns<00:06:18.300><c> the</c><00:06:18.539><c> value</c><00:06:18.690><c> the</c><00:06:19.199><c> view</c><00:06:19.469><c> of</c><00:06:19.680><c> the</c>
+
+00:06:20.149 --> 00:06:20.159 align:start position:0%
+returns the value the view of the
+ 
+
+00:06:20.159 --> 00:06:27.890 align:start position:0%
+returns the value the view of the
+charity<00:06:20.699><c> so</c><00:06:23.900><c> so</c><00:06:24.900><c> an</c><00:06:25.139><c> example</c><00:06:25.940><c> based</c><00:06:26.940><c> on</c><00:06:27.210><c> on</c><00:06:27.389><c> the</c>
+
+00:06:27.890 --> 00:06:27.900 align:start position:0%
+charity so so an example based on on the
+ 
+
+00:06:27.900 --> 00:06:33.640 align:start position:0%
+charity so so an example based on on the
+previous<00:06:28.440><c> grow</c><00:06:29.400><c> only</c><00:06:29.669><c> counter</c><00:06:30.090><c> is</c><00:06:30.630><c> that</c><00:06:30.949><c> so</c>
+
+00:06:33.640 --> 00:06:33.650 align:start position:0%
+previous grow only counter is that so
+ 
+
+00:06:33.650 --> 00:06:37.000 align:start position:0%
+previous grow only counter is that so
+state<00:06:34.650><c> set</c><00:06:34.860><c> is</c><00:06:35.009><c> the</c><00:06:35.190><c> vector</c><00:06:35.550><c> of</c><00:06:35.729><c> integers</c>
+
+00:06:37.000 --> 00:06:37.010 align:start position:0%
+state set is the vector of integers
+ 
+
+00:06:37.010 --> 00:06:40.879 align:start position:0%
+state set is the vector of integers
+greater<00:06:38.389><c> or</c><00:06:39.389><c> equal</c><00:06:39.419><c> to</c><00:06:39.690><c> 0</c>
+
+00:06:40.879 --> 00:06:40.889 align:start position:0%
+greater or equal to 0
+ 
+
+00:06:40.889 --> 00:06:43.219 align:start position:0%
+greater or equal to 0
+she'll<00:06:41.009><c> set</c><00:06:41.219><c> is</c><00:06:41.400><c> this</c><00:06:41.819><c> vector</c><00:06:42.090><c> clock</c><00:06:42.419><c> and</c><00:06:42.689><c> the</c>
+
+00:06:43.219 --> 00:06:43.229 align:start position:0%
+she'll set is this vector clock and the
+ 
+
+00:06:43.229 --> 00:06:46.700 align:start position:0%
+she'll set is this vector clock and the
+Delta<00:06:43.499><c> mutator</c><00:06:43.800><c> function</c><00:06:44.370><c> is</c><00:06:45.469><c> just</c><00:06:46.469><c> an</c>
+
+00:06:46.700 --> 00:06:46.710 align:start position:0%
+Delta mutator function is just an
+ 
+
+00:06:46.710 --> 00:06:54.200 align:start position:0%
+Delta mutator function is just an
+increment<00:06:47.069><c> on</c><00:06:47.840><c> my</c><00:06:50.629><c> on</c><00:06:51.629><c> my</c><00:06:52.439><c> if</c><00:06:53.370><c> I'm</c><00:06:53.550><c> if</c><00:06:53.729><c> I'm</c><00:06:53.909><c> not</c>
+
+00:06:54.200 --> 00:06:54.210 align:start position:0%
+increment on my on my if I'm if I'm not
+ 
+
+00:06:54.210 --> 00:06:58.100 align:start position:0%
+increment on my on my if I'm if I'm not
+note<00:06:54.749><c> zero</c><00:06:55.680><c> I</c><00:06:55.949><c> only</c><00:06:56.430><c> send</c><00:06:57.180><c> the</c><00:06:57.659><c> value</c><00:06:57.900><c> of</c><00:06:57.960><c> this</c>
+
+00:06:58.100 --> 00:06:58.110 align:start position:0%
+note zero I only send the value of this
+ 
+
+00:06:58.110 --> 00:07:00.110 align:start position:0%
+note zero I only send the value of this
+one<00:06:58.289><c> okay</c><00:06:58.650><c> so</c><00:06:59.340><c> I</c><00:06:59.370><c> don't</c><00:06:59.580><c> have</c><00:06:59.789><c> to</c><00:06:59.879><c> set</c><00:07:00.029><c> the</c>
+
+00:07:00.110 --> 00:07:00.120 align:start position:0%
+one okay so I don't have to set the
+ 
+
+00:07:00.120 --> 00:07:02.540 align:start position:0%
+one okay so I don't have to set the
+whole<00:07:00.210><c> state</c><00:07:00.509><c> as</c><00:07:00.719><c> I</c><00:07:01.289><c> was</c><00:07:01.740><c> sending</c><00:07:01.979><c> before</c><00:07:02.340><c> I</c>
+
+00:07:02.540 --> 00:07:02.550 align:start position:0%
+whole state as I was sending before I
+ 
+
+00:07:02.550 --> 00:07:04.519 align:start position:0%
+whole state as I was sending before I
+just<00:07:02.879><c> send</c><00:07:03.090><c> an</c><00:07:03.360><c> update</c><00:07:03.509><c> to</c><00:07:03.810><c> my</c><00:07:03.960><c> state</c><00:07:04.229><c> that's</c><00:07:04.379><c> a</c>
+
+00:07:04.519 --> 00:07:04.529 align:start position:0%
+just send an update to my state that's a
+ 
+
+00:07:04.529 --> 00:07:07.610 align:start position:0%
+just send an update to my state that's a
+delta<00:07:04.860><c> okay</c><00:07:05.520><c> but</c><00:07:06.240><c> it's</c><00:07:06.960><c> not</c><00:07:07.199><c> an</c><00:07:07.319><c> operation</c>
+
+00:07:07.610 --> 00:07:07.620 align:start position:0%
+delta okay but it's not an operation
+ 
+
+00:07:07.620 --> 00:07:10.189 align:start position:0%
+delta okay but it's not an operation
+because<00:07:08.009><c> if</c><00:07:08.129><c> I</c><00:07:08.310><c> join</c><00:07:08.610><c> the</c><00:07:09.270><c> result</c><00:07:09.629><c> a</c><00:07:09.840><c> delta</c>
+
+00:07:10.189 --> 00:07:10.199 align:start position:0%
+because if I join the result a delta
+ 
+
+00:07:10.199 --> 00:07:14.149 align:start position:0%
+because if I join the result a delta
+with<00:07:10.830><c> the</c><00:07:11.340><c> set</c><00:07:11.969><c> the</c><00:07:12.240><c> my</c><00:07:12.629><c> States</c><00:07:13.199><c> I</c><00:07:13.439><c> still</c><00:07:13.979><c> get</c>
+
+00:07:14.149 --> 00:07:14.159 align:start position:0%
+with the set the my States I still get
+ 
+
+00:07:14.159 --> 00:07:20.390 align:start position:0%
+with the set the my States I still get
+my<00:07:14.189><c> state's</c><00:07:14.759><c> okay</c><00:07:17.330><c> so</c><00:07:18.330><c> the</c><00:07:18.449><c> join</c><00:07:18.719><c> is</c><00:07:19.400><c> very</c>
+
+00:07:20.390 --> 00:07:20.400 align:start position:0%
+my state's okay so the join is very
+ 
+
+00:07:20.400 --> 00:07:23.540 align:start position:0%
+my state's okay so the join is very
+similar<00:07:20.699><c> it's</c><00:07:21.509><c> the</c><00:07:21.659><c> same</c><00:07:21.870><c> join</c><00:07:22.349><c> as</c><00:07:22.949><c> a</c><00:07:22.979><c> state</c><00:07:23.400><c> by</c>
+
+00:07:23.540 --> 00:07:23.550 align:start position:0%
+similar it's the same join as a state by
+ 
+
+00:07:23.550 --> 00:07:26.779 align:start position:0%
+similar it's the same join as a state by
+security<00:07:24.860><c> okay</c><00:07:25.860><c> so</c><00:07:25.919><c> it's</c><00:07:26.219><c> the</c><00:07:26.310><c> point</c><00:07:26.550><c> wise</c>
+
+00:07:26.779 --> 00:07:26.789 align:start position:0%
+security okay so it's the point wise
+ 
+
+00:07:26.789 --> 00:07:32.929 align:start position:0%
+security okay so it's the point wise
+maximum<00:07:27.150><c> of</c><00:07:27.919><c> the</c><00:07:29.300><c> both</c><00:07:30.300><c> states</c><00:07:30.659><c> and</c><00:07:31.669><c> that's</c><00:07:32.669><c> it</c>
+
+00:07:32.929 --> 00:07:32.939 align:start position:0%
+maximum of the both states and that's it
+ 
+
+00:07:32.939 --> 00:07:36.559 align:start position:0%
+maximum of the both states and that's it
+and<00:07:33.270><c> so</c><00:07:33.589><c> all</c><00:07:34.589><c> this</c><00:07:34.800><c> to</c><00:07:35.009><c> tell</c><00:07:35.219><c> that</c><00:07:35.550><c> I</c><00:07:35.909><c> finished</c>
+
+00:07:36.559 --> 00:07:36.569 align:start position:0%
+and so all this to tell that I finished
+ 
+
+00:07:36.569 --> 00:07:39.290 align:start position:0%
+and so all this to tell that I finished
+the<00:07:36.839><c> first</c><00:07:37.250><c> JavaScript</c><00:07:38.250><c> implementation</c><00:07:38.939><c> of</c><00:07:39.060><c> a</c>
+
+00:07:39.290 --> 00:07:39.300 align:start position:0%
+the first JavaScript implementation of a
+ 
+
+00:07:39.300 --> 00:07:42.649 align:start position:0%
+the first JavaScript implementation of a
+replicated<00:07:40.110><c> growable</c><00:07:40.589><c> array</c><00:07:40.979><c> that</c><00:07:41.729><c> and</c><00:07:41.909><c> the</c>
+
+00:07:42.649 --> 00:07:42.659 align:start position:0%
+replicated growable array that and the
+ 
+
+00:07:42.659 --> 00:07:44.779 align:start position:0%
+replicated growable array that and the
+nice<00:07:42.900><c> thing</c><00:07:42.930><c> about</c><00:07:43.259><c> a</c><00:07:43.469><c> replicated</c><00:07:44.069><c> global</c>
+
+00:07:44.779 --> 00:07:44.789 align:start position:0%
+nice thing about a replicated global
+ 
+
+00:07:44.789 --> 00:07:52.369 align:start position:0%
+nice thing about a replicated global
+array<00:07:45.289><c> is</c><00:07:46.289><c> that</c><00:07:49.039><c> it</c><00:07:50.039><c> maintains</c><00:07:51.379><c> user</c>
+
+00:07:52.369 --> 00:07:52.379 align:start position:0%
+array is that it maintains user
+ 
+
+00:07:52.379 --> 00:07:57.490 align:start position:0%
+array is that it maintains user
+intention<00:07:53.270><c> so</c><00:07:54.270><c> when</c><00:07:54.449><c> there</c><00:07:54.659><c> is</c><00:07:54.710><c> conflict</c>
+
+00:07:57.490 --> 00:07:57.500 align:start position:0%
+intention so when there is conflict
+ 
+
+00:07:57.500 --> 00:08:00.800 align:start position:0%
+intention so when there is conflict
+let's<00:07:58.500><c> say</c><00:07:58.680><c> the</c><00:07:58.860><c> user</c><00:07:59.069><c> inputs</c><00:07:59.939><c> I</c><00:08:00.300><c> will</c>
+
+00:08:00.800 --> 00:08:00.810 align:start position:0%
+let's say the user inputs I will
+ 
+
+00:08:00.810 --> 00:08:03.800 align:start position:0%
+let's say the user inputs I will
+increase<00:08:01.020><c> this</c><00:08:01.430><c> these</c><00:08:02.430><c> are</c><00:08:02.580><c> the</c><00:08:02.669><c> tests</c><00:08:03.060><c> let's</c>
+
+00:08:03.800 --> 00:08:03.810 align:start position:0%
+increase this these are the tests let's
+ 
+
+00:08:03.810 --> 00:08:06.920 align:start position:0%
+increase this these are the tests let's
+say<00:08:04.050><c> that</c><00:08:04.229><c> user</c><00:08:04.560><c> you</c><00:08:05.009><c> have</c><00:08:05.909><c> two</c><00:08:06.149><c> replicas</c><00:08:06.629><c> okay</c>
+
+00:08:06.920 --> 00:08:06.930 align:start position:0%
+say that user you have two replicas okay
+ 
+
+00:08:06.930 --> 00:08:09.649 align:start position:0%
+say that user you have two replicas okay
+replicate<00:08:07.349><c> one</c><00:08:07.529><c> and</c><00:08:08.189><c> replica</c><00:08:08.639><c> -</c><00:08:08.819><c> let's</c><00:08:09.539><c> say</c>
+
+00:08:09.649 --> 00:08:09.659 align:start position:0%
+replicate one and replica - let's say
+ 
+
+00:08:09.659 --> 00:08:11.450 align:start position:0%
+replicate one and replica - let's say
+replica<00:08:09.990><c> one</c><00:08:10.139><c> wise</c><00:08:10.319><c> a</c><00:08:10.529><c> and</c><00:08:10.740><c> B</c><00:08:10.889><c> replicas</c><00:08:11.339><c> to</c>
+
+00:08:11.450 --> 00:08:11.460 align:start position:0%
+replica one wise a and B replicas to
+ 
+
+00:08:11.460 --> 00:08:15.230 align:start position:0%
+replica one wise a and B replicas to
+write<00:08:11.699><c> C</c><00:08:12.000><c> and</c><00:08:12.149><c> D</c><00:08:12.360><c> okay</c><00:08:13.189><c> in</c><00:08:14.189><c> their</c><00:08:14.759><c> concurrent</c>
+
+00:08:15.230 --> 00:08:15.240 align:start position:0%
+write C and D okay in their concurrent
+ 
+
+00:08:15.240 --> 00:08:17.899 align:start position:0%
+write C and D okay in their concurrent
+operations<00:08:15.449><c> and</c><00:08:15.990><c> when</c><00:08:16.500><c> the</c><00:08:16.949><c> direct</c><00:08:17.490><c> the</c>
+
+00:08:17.899 --> 00:08:17.909 align:start position:0%
+operations and when the direct the
+ 
+
+00:08:17.909 --> 00:08:24.829 align:start position:0%
+operations and when the direct the
+deltas<00:08:18.389><c> are</c><00:08:18.509><c> exchanged</c><00:08:22.729><c> it</c><00:08:23.729><c> both</c><00:08:24.449><c> of</c><00:08:24.479><c> them</c>
+
+00:08:24.829 --> 00:08:24.839 align:start position:0%
+deltas are exchanged it both of them
+ 
+
+00:08:24.839 --> 00:08:28.760 align:start position:0%
+deltas are exchanged it both of them
+could<00:08:25.110><c> converge</c><00:08:25.740><c> to</c><00:08:26.099><c> a</c><00:08:26.310><c> b</c><00:08:27.060><c> c</c><00:08:27.089><c> d</c><00:08:27.419><c> and</c><00:08:27.810><c> b</c><00:08:28.259><c> c</c><00:08:28.469><c> d</c><00:08:28.500><c> on</c>
+
+00:08:28.760 --> 00:08:28.770 align:start position:0%
+could converge to a b c d and b c d on
+ 
+
+00:08:28.770 --> 00:08:31.779 align:start position:0%
+could converge to a b c d and b c d on
+both<00:08:29.189><c> of</c><00:08:29.310><c> them</c><00:08:29.430><c> one</c><00:08:30.330><c> of</c><00:08:30.479><c> the</c><00:08:30.659><c> results</c><00:08:30.990><c> could</c><00:08:31.259><c> be</c>
+
+00:08:31.779 --> 00:08:31.789 align:start position:0%
+both of them one of the results could be
+ 
+
+00:08:31.789 --> 00:08:34.610 align:start position:0%
+both of them one of the results could be
+one<00:08:32.789><c> of</c><00:08:32.820><c> development</c><00:08:33.510><c> results</c><00:08:33.959><c> would</c><00:08:34.289><c> could</c>
+
+00:08:34.610 --> 00:08:34.620 align:start position:0%
+one of development results would could
+ 
+
+00:08:34.620 --> 00:08:38.300 align:start position:0%
+one of development results would could
+be<00:08:34.740><c> a</c><00:08:34.890><c> c</c><00:08:35.669><c> b</c><00:08:36.149><c> d</c><00:08:36.510><c> right</c><00:08:37.289><c> but</c><00:08:38.099><c> that</c><00:08:38.250><c> doesn't</c>
+
+00:08:38.300 --> 00:08:38.310 align:start position:0%
+be a c b d right but that doesn't
+ 
+
+00:08:38.310 --> 00:08:41.180 align:start position:0%
+be a c b d right but that doesn't
+preserve<00:08:39.120><c> the</c><00:08:39.360><c> intention</c><00:08:39.719><c> of</c><00:08:39.839><c> of</c><00:08:40.110><c> both</c><00:08:40.740><c> users</c>
+
+00:08:41.180 --> 00:08:41.190 align:start position:0%
+preserve the intention of of both users
+ 
+
+00:08:41.190 --> 00:08:43.790 align:start position:0%
+preserve the intention of of both users
+because<00:08:42.000><c> if</c><00:08:42.120><c> i</c><00:08:42.209><c> write</c><00:08:42.599><c> I</c><00:08:42.810><c> write</c><00:08:43.169><c> ours</c><00:08:43.560><c> here</c><00:08:43.709><c> at</c>
+
+00:08:43.790 --> 00:08:43.800 align:start position:0%
+because if i write I write ours here at
+ 
+
+00:08:43.800 --> 00:08:49.189 align:start position:0%
+because if i write I write ours here at
+Bob<00:08:44.959><c> I</c><00:08:45.959><c> want</c><00:08:46.949><c> to</c><00:08:47.250><c> convert</c><00:08:48.120><c> the</c><00:08:48.510><c> result</c><00:08:48.930><c> to</c><00:08:49.170><c> be</c>
+
+00:08:49.189 --> 00:08:49.199 align:start position:0%
+Bob I want to convert the result to be
+ 
+
+00:08:49.199 --> 00:08:51.230 align:start position:0%
+Bob I want to convert the result to be
+Alice<00:08:49.589><c> Bob</c><00:08:49.829><c> or</c><00:08:50.010><c> Bob</c><00:08:50.190><c> Alice</c><00:08:50.519><c> and</c><00:08:50.699><c> not</c><00:08:51.089><c> an</c>
+
+00:08:51.230 --> 00:08:51.240 align:start position:0%
+Alice Bob or Bob Alice and not an
+ 
+
+00:08:51.240 --> 00:08:53.840 align:start position:0%
+Alice Bob or Bob Alice and not an
+interleaving<00:08:51.810><c> of</c><00:08:51.930><c> the</c><00:08:52.290><c> characters</c>
+
+00:08:53.840 --> 00:08:53.850 align:start position:0%
+interleaving of the characters
+ 
+
+00:08:53.850 --> 00:08:57.769 align:start position:0%
+interleaving of the characters
+okay<00:08:54.240><c> so</c><00:08:54.779><c> yeah</c><00:08:54.959><c> so</c><00:08:55.170><c> that's</c><00:08:55.259><c> why</c><00:08:55.970><c> this</c><00:08:56.970><c> type</c><00:08:57.750><c> of</c>
+
+00:08:57.769 --> 00:08:57.779 align:start position:0%
+okay so yeah so that's why this type of
+ 
+
+00:08:57.779 --> 00:09:01.009 align:start position:0%
+okay so yeah so that's why this type of
+strategies<00:08:58.790><c> cool</c><00:08:59.790><c> for</c><00:09:00.029><c> text</c><00:09:00.329><c> editing</c><00:09:00.630><c> okay</c>
+
+00:09:01.009 --> 00:09:01.019 align:start position:0%
+strategies cool for text editing okay
+ 
+
+00:09:01.019 --> 00:09:04.999 align:start position:0%
+strategies cool for text editing okay
+and<00:09:01.699><c> so</c><00:09:03.230><c> as</c><00:09:04.230><c> far</c><00:09:04.350><c> as</c><00:09:04.470><c> I</c><00:09:04.589><c> know</c><00:09:04.709><c> this</c><00:09:04.860><c> is</c><00:09:04.980><c> the</c>
+
+00:09:04.999 --> 00:09:05.009 align:start position:0%
+and so as far as I know this is the
+ 
+
+00:09:05.009 --> 00:09:07.519 align:start position:0%
+and so as far as I know this is the
+first<00:09:05.220><c> implementation</c><00:09:05.670><c> of</c><00:09:05.880><c> a</c><00:09:06.060><c> delta</c><00:09:06.329><c> state</c><00:09:07.319><c> by</c>
+
+00:09:07.519 --> 00:09:07.529 align:start position:0%
+first implementation of a delta state by
+ 
+
+00:09:07.529 --> 00:09:11.150 align:start position:0%
+first implementation of a delta state by
+security<00:09:08.009><c> over</c><00:09:08.250><c> in</c><00:09:08.310><c> our</c><00:09:08.399><c> GA</c><00:09:08.639><c> and</c><00:09:09.199><c> and</c><00:09:10.199><c> the</c>
+
+00:09:11.150 --> 00:09:11.160 align:start position:0%
+security over in our GA and and the
+ 
+
+00:09:11.160 --> 00:09:19.840 align:start position:0%
+security over in our GA and and the
+tests<00:09:11.579><c> are</c><00:09:11.850><c> passing</c><00:09:12.569><c> so</c><00:09:13.459><c> yeah</c><00:09:16.430><c> and</c><00:09:17.509><c> that's</c><00:09:18.509><c> it</c>
+
+00:09:19.840 --> 00:09:19.850 align:start position:0%
+tests are passing so yeah and that's it
+ 
+
+00:09:19.850 --> 00:09:43.240 align:start position:0%
+tests are passing so yeah and that's it
+thank<00:09:20.850><c> you</c><00:09:21.000><c> Oh</c><00:09:25.399><c> any</c><00:09:26.399><c> question</c><00:09:39.410><c> is</c><00:09:40.410><c> it</c><00:09:40.589><c> too</c><00:09:40.680><c> much</c>
+
+00:09:43.240 --> 00:09:43.250 align:start position:0%
+ 
+ 
+
+00:09:43.250 --> 00:09:52.150 align:start position:0%
+ 
+yeah<00:09:44.569><c> you're</c><00:09:45.569><c> fragmented</c><00:09:46.079><c> yeah</c><00:09:46.410><c> okay</c>
+
+00:09:52.150 --> 00:09:52.160 align:start position:0%
+ 
+ 
+
+00:09:52.160 --> 00:09:56.269 align:start position:0%
+ 
+the<00:09:53.160><c> data</c><00:09:53.370><c> is</c><00:09:53.699><c> that</c><00:09:54.000><c> by</c><00:09:54.149><c> saying</c><00:09:54.360><c> okay</c><00:09:55.009><c> so</c><00:09:56.009><c> is</c>
+
+00:09:56.269 --> 00:09:56.279 align:start position:0%
+the data is that by saying okay so is
+ 
+
+00:09:56.279 --> 00:10:04.790 align:start position:0%
+the data is that by saying okay so is
+this<00:09:56.550><c> is</c><00:09:56.699><c> just</c><00:09:58.939><c> like</c><00:09:59.939><c> the</c><00:10:03.560><c> it's</c><00:10:04.560><c> not</c>
+
+00:10:04.790 --> 00:10:04.800 align:start position:0%
+this is just like the it's not
+ 
+
+00:10:04.800 --> 00:10:13.749 align:start position:0%
+this is just like the it's not
+documented<00:10:05.339><c> yet</c><00:10:06.769><c> so</c><00:10:07.769><c> here's</c><00:10:08.370><c> a</c><00:10:08.430><c> with</c><00:10:08.610><c> me</c><00:10:11.180><c> okay</c>
+
+00:10:13.749 --> 00:10:13.759 align:start position:0%
+documented yet so here's a with me okay
+ 
+
+00:10:13.759 --> 00:10:20.199 align:start position:0%
+documented yet so here's a with me okay
+the<00:10:14.759><c> test</c><00:10:15.509><c> could</c><00:10:15.839><c> be</c><00:10:15.870><c> something</c><00:10:16.620><c> like</c><00:10:16.699><c> so</c><00:10:17.699><c> I</c>
+
+00:10:20.199 --> 00:10:20.209 align:start position:0%
+ 
+ 
+
+00:10:20.209 --> 00:10:25.550 align:start position:0%
+ 
+think<00:10:21.209><c> you</c><00:10:21.420><c> saw</c><00:10:21.630><c> well</c><00:10:23.660><c> so</c><00:10:24.660><c> yeah</c><00:10:24.839><c> so</c><00:10:25.199><c> you</c><00:10:25.259><c> can</c>
+
+00:10:25.550 --> 00:10:25.560 align:start position:0%
+think you saw well so yeah so you can
+ 
+
+00:10:25.560 --> 00:10:29.329 align:start position:0%
+think you saw well so yeah so you can
+push<00:10:25.949><c> insert</c><00:10:26.579><c> that</c><00:10:26.850><c> remove</c><00:10:27.300><c> at</c><00:10:27.779><c> all</c><00:10:28.529><c> the</c><00:10:28.949><c> array</c>
+
+00:10:29.329 --> 00:10:29.339 align:start position:0%
+push insert that remove at all the array
+ 
+
+00:10:29.339 --> 00:10:32.809 align:start position:0%
+push insert that remove at all the array
+etc<00:10:29.910><c> way</c><00:10:30.089><c> things</c><00:10:30.870><c> this</c><00:10:31.470><c> is</c><00:10:31.680><c> just</c><00:10:31.709><c> the</c><00:10:32.399><c> RGA</c>
+
+00:10:32.809 --> 00:10:32.819 align:start position:0%
+etc way things this is just the RGA
+ 
+
+00:10:32.819 --> 00:10:35.240 align:start position:0%
+etc way things this is just the RGA
+there<00:10:33.060><c> are</c><00:10:33.120><c> other</c><00:10:33.560><c> charity</c><00:10:34.560><c> types</c><00:10:34.769><c> that</c><00:10:35.009><c> like</c>
+
+00:10:35.240 --> 00:10:35.250 align:start position:0%
+there are other charity types that like
+ 
+
+00:10:35.250 --> 00:10:37.759 align:start position:0%
+there are other charity types that like
+set<00:10:35.579><c> like</c><00:10:35.819><c> types</c><00:10:36.149><c> or</c><00:10:36.480><c> map</c><00:10:36.930><c> like</c><00:10:37.199><c> types</c><00:10:37.500><c> or</c>
+
+00:10:37.759 --> 00:10:37.769 align:start position:0%
+set like types or map like types or
+ 
+
+00:10:37.769 --> 00:10:39.949 align:start position:0%
+set like types or map like types or
+array<00:10:38.069><c> like</c><00:10:38.279><c> types</c><00:10:38.550><c> this</c><00:10:39.300><c> is</c><00:10:39.449><c> an</c><00:10:39.569><c> array</c><00:10:39.810><c> like</c>
+
+00:10:39.949 --> 00:10:39.959 align:start position:0%
+array like types this is an array like
+ 
+
+00:10:39.959 --> 00:10:45.740 align:start position:0%
+array like types this is an array like
+type<00:10:40.230><c> of</c><00:10:40.410><c> sequence</c><00:10:41.509><c> and</c><00:10:42.509><c> then</c><00:10:43.290><c> you</c><00:10:43.439><c> have</c><00:10:43.620><c> to</c><00:10:44.750><c> so</c>
+
+00:10:45.740 --> 00:10:45.750 align:start position:0%
+type of sequence and then you have to so
+ 
+
+00:10:45.750 --> 00:10:48.679 align:start position:0%
+type of sequence and then you have to so
+remove<00:10:46.079><c> by</c><00:10:46.620><c> push</c><00:10:47.009><c> and</c><00:10:47.370><c> then</c><00:10:48.180><c> you</c><00:10:48.360><c> get</c><00:10:48.540><c> the</c>
+
+00:10:48.679 --> 00:10:48.689 align:start position:0%
+remove by push and then you get the
+ 
+
+00:10:48.689 --> 00:10:53.300 align:start position:0%
+remove by push and then you get the
+value<00:10:49.579><c> which</c><00:10:50.579><c> computes</c><00:10:51.449><c> the</c><00:10:51.569><c> view</c><00:10:52.069><c> so</c><00:10:53.069><c> the</c>
+
+00:10:53.300 --> 00:10:53.310 align:start position:0%
+value which computes the view so the
+ 
+
+00:10:53.310 --> 00:11:03.220 align:start position:0%
+value which computes the view so the
+array<00:10:56.209><c> does</c><00:10:57.209><c> that</c><00:10:57.420><c> answer</c><00:10:57.600><c> your</c><00:10:57.870><c> question</c>
+
+00:11:03.220 --> 00:11:03.230 align:start position:0%
+ 
+ 
+
+00:11:03.230 --> 00:11:05.900 align:start position:0%
+ 
+yeah<00:11:04.230><c> there's</c><00:11:04.440><c> also</c><00:11:04.650><c> some</c><00:11:04.980><c> some</c><00:11:05.220><c> events</c><00:11:05.640><c> that</c>
+
+00:11:05.900 --> 00:11:05.910 align:start position:0%
+yeah there's also some some events that
+ 
+
+00:11:05.910 --> 00:11:08.930 align:start position:0%
+yeah there's also some some events that
+will<00:11:06.300><c> be</c><00:11:06.420><c> emitted</c><00:11:06.950><c> once</c><00:11:07.950><c> the</c><00:11:08.250><c> the</c><00:11:08.280><c> replica</c>
+
+00:11:08.930 --> 00:11:08.940 align:start position:0%
+will be emitted once the the replica
+ 
+
+00:11:08.940 --> 00:11:17.300 align:start position:0%
+will be emitted once the the replica
+updates<00:11:12.230><c> any</c><00:11:13.230><c> more</c><00:11:13.320><c> questions</c><00:11:13.620><c> no</c><00:11:16.070><c> okay</c><00:11:17.070><c> thank</c>
+
+00:11:17.300 --> 00:11:17.310 align:start position:0%
+updates any more questions no okay thank
+ 
+
+00:11:17.310 --> 00:11:19.370 align:start position:0%
+updates any more questions no okay thank
+you
+

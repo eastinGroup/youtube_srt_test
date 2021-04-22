@@ -1,0 +1,1088 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.560 --> 00:00:07.079 align:start position:0%
+ 
+I've<00:00:03.250><c> made</c><00:00:03.610><c> a</c><00:00:04.560><c> kind</c><00:00:05.560><c> of</c><00:00:05.620><c> a</c><00:00:05.710><c> walkthrough</c><00:00:06.250><c> of</c><00:00:06.460><c> how</c>
+
+00:00:07.079 --> 00:00:07.089 align:start position:0%
+I've made a kind of a walkthrough of how
+ 
+
+00:00:07.089 --> 00:00:10.699 align:start position:0%
+I've made a kind of a walkthrough of how
+to<00:00:07.149><c> go</c><00:00:07.540><c> about</c><00:00:07.569><c> deploying</c><00:00:08.230><c> a</c><00:00:08.820><c> personal</c><00:00:09.820><c> website</c>
+
+00:00:10.699 --> 00:00:10.709 align:start position:0%
+to go about deploying a personal website
+ 
+
+00:00:10.709 --> 00:00:14.640 align:start position:0%
+to go about deploying a personal website
+built<00:00:11.709><c> off</c><00:00:11.889><c> like</c><00:00:12.070><c> just</c><00:00:12.309><c> a</c><00:00:12.430><c> normal</c><00:00:12.940><c> static</c><00:00:13.650><c> you</c>
+
+00:00:14.640 --> 00:00:14.650 align:start position:0%
+built off like just a normal static you
+ 
+
+00:00:14.650 --> 00:00:17.519 align:start position:0%
+built off like just a normal static you
+know<00:00:14.740><c> templating</c><00:00:15.340><c> blog</c><00:00:15.760><c> templating</c><00:00:16.240><c> tool</c><00:00:17.109><c> and</c>
+
+00:00:17.519 --> 00:00:17.529 align:start position:0%
+know templating blog templating tool and
+ 
+
+00:00:17.529 --> 00:00:19.769 align:start position:0%
+know templating blog templating tool and
+I'd<00:00:18.250><c> made</c><00:00:18.759><c> it</c><00:00:18.910><c> and</c><00:00:19.060><c> figured</c><00:00:19.269><c> this</c><00:00:19.390><c> might</c><00:00:19.449><c> be</c><00:00:19.750><c> a</c>
+
+00:00:19.769 --> 00:00:19.779 align:start position:0%
+I'd made it and figured this might be a
+ 
+
+00:00:19.779 --> 00:00:21.810 align:start position:0%
+I'd made it and figured this might be a
+good<00:00:20.230><c> opportunity</c><00:00:20.439><c> for</c><00:00:20.980><c> folks</c><00:00:21.490><c> who</c><00:00:21.699><c> are</c>
+
+00:00:21.810 --> 00:00:21.820 align:start position:0%
+good opportunity for folks who are
+ 
+
+00:00:21.820 --> 00:00:24.659 align:start position:0%
+good opportunity for folks who are
+excited<00:00:22.390><c> about</c><00:00:22.630><c> ipfs</c><00:00:23.169><c> want</c><00:00:23.470><c> to</c><00:00:23.560><c> get</c><00:00:24.339><c> involved</c>
+
+00:00:24.659 --> 00:00:24.669 align:start position:0%
+excited about ipfs want to get involved
+ 
+
+00:00:24.669 --> 00:00:26.669 align:start position:0%
+excited about ipfs want to get involved
+with<00:00:24.759><c> it</c><00:00:24.880><c> putting</c><00:00:25.240><c> their</c><00:00:25.419><c> own</c><00:00:25.810><c> website</c><00:00:26.289><c> or</c>
+
+00:00:26.669 --> 00:00:26.679 align:start position:0%
+with it putting their own website or
+ 
+
+00:00:26.679 --> 00:00:29.099 align:start position:0%
+with it putting their own website or
+creating<00:00:27.249><c> a</c><00:00:27.400><c> really</c><00:00:27.699><c> easy</c><00:00:27.880><c> static</c><00:00:28.390><c> personal</c>
+
+00:00:29.099 --> 00:00:29.109 align:start position:0%
+creating a really easy static personal
+ 
+
+00:00:29.109 --> 00:00:31.800 align:start position:0%
+creating a really easy static personal
+webpage<00:00:29.609><c> for</c><00:00:30.609><c> the</c><00:00:30.730><c> Deep</c><00:00:30.880><c> Web</c><00:00:30.970><c> and</c><00:00:31.240><c> get</c><00:00:31.630><c> it</c><00:00:31.720><c> up</c>
+
+00:00:31.800 --> 00:00:31.810 align:start position:0%
+webpage for the Deep Web and get it up
+ 
+
+00:00:31.810 --> 00:00:33.630 align:start position:0%
+webpage for the Deep Web and get it up
+on<00:00:31.900><c> ipfs</c><00:00:32.349><c> just</c><00:00:32.860><c> just</c><00:00:33.010><c> see</c><00:00:33.160><c> what</c><00:00:33.310><c> that</c><00:00:33.430><c> process</c>
+
+00:00:33.630 --> 00:00:33.640 align:start position:0%
+on ipfs just just see what that process
+ 
+
+00:00:33.640 --> 00:00:36.000 align:start position:0%
+on ipfs just just see what that process
+is<00:00:33.940><c> it's</c><00:00:34.239><c> like</c><00:00:34.480><c> I</c><00:00:34.720><c> don't</c><00:00:34.840><c> know</c><00:00:34.990><c> 20</c><00:00:35.320><c> slides</c><00:00:35.590><c> of</c>
+
+00:00:36.000 --> 00:00:36.010 align:start position:0%
+is it's like I don't know 20 slides of
+ 
+
+00:00:36.010 --> 00:00:38.340 align:start position:0%
+is it's like I don't know 20 slides of
+like<00:00:36.240><c> point-and-click</c><00:00:37.240><c> I</c><00:00:37.570><c> thought</c><00:00:38.200><c> it</c><00:00:38.260><c> would</c>
+
+00:00:38.340 --> 00:00:38.350 align:start position:0%
+like point-and-click I thought it would
+ 
+
+00:00:38.350 --> 00:00:40.110 align:start position:0%
+like point-and-click I thought it would
+be<00:00:38.440><c> it'd</c><00:00:38.680><c> be</c><00:00:38.830><c> a</c><00:00:38.860><c> fun</c><00:00:39.070><c> place</c><00:00:39.250><c> for</c><00:00:39.280><c> people</c><00:00:39.820><c> to</c><00:00:39.970><c> see</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+be it'd be a fun place for people to see
+ 
+
+00:00:40.120 --> 00:00:42.780 align:start position:0%
+be it'd be a fun place for people to see
+that<00:00:40.560><c> awesome</c><00:00:41.560><c> so</c><00:00:41.740><c> here</c><00:00:41.950><c> is</c><00:00:42.070><c> my</c><00:00:42.250><c> handy</c><00:00:42.760><c> dandy</c>
+
+00:00:42.780 --> 00:00:42.790 align:start position:0%
+that awesome so here is my handy dandy
+ 
+
+00:00:42.790 --> 00:00:44.370 align:start position:0%
+that awesome so here is my handy dandy
+little<00:00:43.210><c> walkthrough</c><00:00:43.390><c> on</c><00:00:43.720><c> deploying</c><00:00:44.290><c> your</c>
+
+00:00:44.370 --> 00:00:44.380 align:start position:0%
+little walkthrough on deploying your
+ 
+
+00:00:44.380 --> 00:00:46.470 align:start position:0%
+little walkthrough on deploying your
+personal<00:00:44.680><c> website</c><00:00:44.830><c> using</c><00:00:45.550><c> forestry</c><00:00:46.120><c> Hugo</c>
+
+00:00:46.470 --> 00:00:46.480 align:start position:0%
+personal website using forestry Hugo
+ 
+
+00:00:46.480 --> 00:00:49.890 align:start position:0%
+personal website using forestry Hugo
+fleek<00:00:46.780><c> and</c><00:00:46.960><c> ipfs</c><00:00:47.910><c> the</c><00:00:48.910><c> real</c><00:00:49.150><c> main</c><00:00:49.600><c> heavy</c>
+
+00:00:49.890 --> 00:00:49.900 align:start position:0%
+fleek and ipfs the real main heavy
+ 
+
+00:00:49.900 --> 00:00:52.170 align:start position:0%
+fleek and ipfs the real main heavy
+lifters<00:00:50.350><c> in</c><00:00:50.650><c> this</c><00:00:50.860><c> are</c><00:00:51.130><c> forestry</c><00:00:51.790><c> in</c><00:00:51.910><c> fleek</c>
+
+00:00:52.170 --> 00:00:52.180 align:start position:0%
+lifters in this are forestry in fleek
+ 
+
+00:00:52.180 --> 00:00:55.590 align:start position:0%
+lifters in this are forestry in fleek
+and<00:00:53.400><c> starting</c><00:00:54.400><c> with</c><00:00:54.550><c> forestry</c><00:00:55.060><c> this</c><00:00:55.330><c> is</c><00:00:55.420><c> kind</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+and starting with forestry this is kind
+ 
+
+00:00:55.600 --> 00:00:57.930 align:start position:0%
+and starting with forestry this is kind
+of<00:00:55.630><c> how</c><00:00:55.780><c> you</c><00:00:55.840><c> go</c><00:00:56.080><c> about</c><00:00:56.170><c> it's</c><00:00:56.860><c> a</c><00:00:56.980><c> great</c><00:00:57.520><c> tool</c>
+
+00:00:57.930 --> 00:00:57.940 align:start position:0%
+of how you go about it's a great tool
+ 
+
+00:00:57.940 --> 00:01:00.510 align:start position:0%
+of how you go about it's a great tool
+that<00:00:57.970><c> you</c><00:00:58.210><c> can</c><00:00:58.390><c> use</c><00:00:58.630><c> for</c><00:00:59.080><c> finding</c><00:00:59.950><c> an</c>
+
+00:01:00.510 --> 00:01:00.520 align:start position:0%
+that you can use for finding an
+ 
+
+00:01:00.520 --> 00:01:03.810 align:start position:0%
+that you can use for finding an
+aesthetic<00:01:01.030><c> website</c><00:01:01.540><c> templates</c><00:01:02.100><c> and</c><00:01:03.100><c> so</c><00:01:03.310><c> it's</c>
+
+00:01:03.810 --> 00:01:03.820 align:start position:0%
+aesthetic website templates and so it's
+ 
+
+00:01:03.820 --> 00:01:05.520 align:start position:0%
+aesthetic website templates and so it's
+really<00:01:04.030><c> really</c><00:01:04.239><c> easy</c><00:01:04.360><c> you</c><00:01:04.869><c> have</c><00:01:05.170><c> over</c><00:01:05.379><c> there</c>
+
+00:01:05.520 --> 00:01:05.530 align:start position:0%
+really really easy you have over there
+ 
+
+00:01:05.530 --> 00:01:08.160 align:start position:0%
+really really easy you have over there
+click<00:01:05.890><c> start</c><00:01:06.549><c> select</c><00:01:07.390><c> a</c><00:01:07.479><c> starter</c><00:01:07.780><c> template</c>
+
+00:01:08.160 --> 00:01:08.170 align:start position:0%
+click start select a starter template
+ 
+
+00:01:08.170 --> 00:01:11.130 align:start position:0%
+click start select a starter template
+you<00:01:09.100><c> can</c><00:01:09.130><c> filter</c><00:01:09.609><c> by</c><00:01:10.060><c> like</c><00:01:10.270><c> you</c><00:01:10.659><c> know</c><00:01:10.749><c> which</c>
+
+00:01:11.130 --> 00:01:11.140 align:start position:0%
+you can filter by like you know which
+ 
+
+00:01:11.140 --> 00:01:12.539 align:start position:0%
+you can filter by like you know which
+which<00:01:11.590><c> of</c><00:01:11.710><c> the</c><00:01:11.829><c> many</c><00:01:11.950><c> things</c><00:01:12.070><c> you</c><00:01:12.189><c> want</c><00:01:12.280><c> to</c><00:01:12.369><c> use</c>
+
+00:01:12.539 --> 00:01:12.549 align:start position:0%
+which of the many things you want to use
+ 
+
+00:01:12.549 --> 00:01:15.480 align:start position:0%
+which of the many things you want to use
+there's<00:01:13.119><c> many</c><00:01:13.390><c> options</c><00:01:13.659><c> I</c><00:01:14.079><c> chose</c><00:01:14.289><c> Hugo</c><00:01:14.679><c> just</c>
+
+00:01:15.480 --> 00:01:15.490 align:start position:0%
+there's many options I chose Hugo just
+ 
+
+00:01:15.490 --> 00:01:17.399 align:start position:0%
+there's many options I chose Hugo just
+because<00:01:15.670><c> we</c><00:01:15.759><c> use</c><00:01:16.270><c> Hugo</c><00:01:16.600><c> a</c><00:01:16.630><c> lot</c><00:01:16.899><c> for</c><00:01:17.049><c> various</c>
+
+00:01:17.399 --> 00:01:17.409 align:start position:0%
+because we use Hugo a lot for various
+ 
+
+00:01:17.409 --> 00:01:19.499 align:start position:0%
+because we use Hugo a lot for various
+different<00:01:17.499><c> IP</c><00:01:17.890><c> fess</c><00:01:18.100><c> websites</c><00:01:18.490><c> and</c><00:01:18.729><c> chose</c><00:01:19.299><c> one</c>
+
+00:01:19.499 --> 00:01:19.509 align:start position:0%
+different IP fess websites and chose one
+ 
+
+00:01:19.509 --> 00:01:22.020 align:start position:0%
+different IP fess websites and chose one
+of<00:01:19.630><c> their</c><00:01:19.810><c> kind</c><00:01:20.679><c> of</c><00:01:20.770><c> portfolio</c><00:01:21.100><c> starter</c>
+
+00:01:22.020 --> 00:01:22.030 align:start position:0%
+of their kind of portfolio starter
+ 
+
+00:01:22.030 --> 00:01:24.330 align:start position:0%
+of their kind of portfolio starter
+templates<00:01:22.450><c> the</c><00:01:23.350><c> nice</c><00:01:23.530><c> thing</c><00:01:23.710><c> about</c><00:01:23.770><c> these</c><00:01:24.039><c> is</c>
+
+00:01:24.330 --> 00:01:24.340 align:start position:0%
+templates the nice thing about these is
+ 
+
+00:01:24.340 --> 00:01:26.399 align:start position:0%
+templates the nice thing about these is
+that<00:01:24.700><c> you</c><00:01:25.359><c> know</c><00:01:25.450><c> it's</c><00:01:25.569><c> all</c><00:01:25.749><c> it's</c><00:01:26.049><c> all</c><00:01:26.200><c> static</c>
+
+00:01:26.399 --> 00:01:26.409 align:start position:0%
+that you know it's all it's all static
+ 
+
+00:01:26.409 --> 00:01:28.770 align:start position:0%
+that you know it's all it's all static
+and<00:01:26.890><c> you</c><00:01:27.729><c> know</c><00:01:27.819><c> you</c><00:01:27.880><c> can</c><00:01:28.060><c> preview</c><00:01:28.270><c> it</c><00:01:28.420><c> you</c><00:01:28.630><c> can</c>
+
+00:01:28.770 --> 00:01:28.780 align:start position:0%
+and you know you can preview it you can
+ 
+
+00:01:28.780 --> 00:01:31.109 align:start position:0%
+and you know you can preview it you can
+decide<00:01:29.049><c> if</c><00:01:29.140><c> you</c><00:01:29.200><c> like</c><00:01:29.350><c> it</c><00:01:29.560><c> and</c><00:01:30.340><c> then</c><00:01:30.579><c> you</c><00:01:30.909><c> can</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+decide if you like it and then you can
+ 
+
+00:01:31.119 --> 00:01:34.859 align:start position:0%
+decide if you like it and then you can
+copy<00:01:31.810><c> it</c><00:01:32.020><c> to</c><00:01:32.289><c> github</c><00:01:32.770><c> and</c><00:01:32.950><c> so</c><00:01:33.340><c> voila</c><00:01:33.850><c> I</c><00:01:34.119><c> got</c><00:01:34.450><c> the</c>
+
+00:01:34.859 --> 00:01:34.869 align:start position:0%
+copy it to github and so voila I got the
+ 
+
+00:01:34.869 --> 00:01:37.050 align:start position:0%
+copy it to github and so voila I got the
+copy<00:01:35.259><c> of</c><00:01:35.530><c> the</c><00:01:35.799><c> Hugo</c><00:01:36.189><c> forestry</c><00:01:36.549><c> template</c><00:01:36.880><c> in</c>
+
+00:01:37.050 --> 00:01:37.060 align:start position:0%
+copy of the Hugo forestry template in
+ 
+
+00:01:37.060 --> 00:01:40.020 align:start position:0%
+copy of the Hugo forestry template in
+github<00:01:37.530><c> the</c><00:01:38.530><c> one</c><00:01:38.710><c> like</c><00:01:39.159><c> a</c><00:01:39.189><c> little</c><00:01:39.280><c> trick</c><00:01:39.729><c> with</c>
+
+00:01:40.020 --> 00:01:40.030 align:start position:0%
+github the one like a little trick with
+ 
+
+00:01:40.030 --> 00:01:42.959 align:start position:0%
+github the one like a little trick with
+with<00:01:40.479><c> Hugo</c><00:01:40.869><c> and</c><00:01:41.280><c> putting</c><00:01:42.280><c> Hugo</c><00:01:42.549><c> signs</c><00:01:42.759><c> up</c><00:01:42.880><c> on</c>
+
+00:01:42.959 --> 00:01:42.969 align:start position:0%
+with Hugo and putting Hugo signs up on
+ 
+
+00:01:42.969 --> 00:01:44.609 align:start position:0%
+with Hugo and putting Hugo signs up on
+ipfs<00:01:43.450><c> is</c><00:01:43.630><c> to</c><00:01:44.049><c> make</c><00:01:44.200><c> sure</c><00:01:44.319><c> that</c><00:01:44.409><c> you</c><00:01:44.499><c> have</c>
+
+00:01:44.609 --> 00:01:44.619 align:start position:0%
+ipfs is to make sure that you have
+ 
+
+00:01:44.619 --> 00:01:47.010 align:start position:0%
+ipfs is to make sure that you have
+relative<00:01:45.009><c> links</c><00:01:45.340><c> and</c><00:01:45.549><c> so</c><00:01:45.700><c> the</c><00:01:46.420><c> most</c><00:01:46.630><c> important</c>
+
+00:01:47.010 --> 00:01:47.020 align:start position:0%
+relative links and so the most important
+ 
+
+00:01:47.020 --> 00:01:48.449 align:start position:0%
+relative links and so the most important
+piece<00:01:47.139><c> here</c><00:01:47.170><c> is</c><00:01:47.499><c> hopping</c><00:01:47.859><c> into</c><00:01:48.009><c> the</c><00:01:48.189><c> the</c>
+
+00:01:48.449 --> 00:01:48.459 align:start position:0%
+piece here is hopping into the the
+ 
+
+00:01:48.459 --> 00:01:50.309 align:start position:0%
+piece here is hopping into the the
+config<00:01:48.909><c> file</c><00:01:49.119><c> and</c><00:01:49.329><c> making</c><00:01:49.899><c> sure</c><00:01:50.020><c> you</c><00:01:50.170><c> add</c>
+
+00:01:50.309 --> 00:01:50.319 align:start position:0%
+config file and making sure you add
+ 
+
+00:01:50.319 --> 00:01:53.669 align:start position:0%
+config file and making sure you add
+relative<00:01:50.920><c> URLs</c><00:01:51.549><c> equal</c><00:01:52.030><c> true</c><00:01:52.420><c> and</c><00:01:53.259><c> this</c><00:01:53.469><c> will</c>
+
+00:01:53.669 --> 00:01:53.679 align:start position:0%
+relative URLs equal true and this will
+ 
+
+00:01:53.679 --> 00:01:56.669 align:start position:0%
+relative URLs equal true and this will
+will<00:01:53.979><c> make</c><00:01:54.159><c> your</c><00:01:54.369><c> Hugo</c><00:01:55.319><c> site</c><00:01:56.319><c> work</c><00:01:56.530><c> really</c>
+
+00:01:56.669 --> 00:01:56.679 align:start position:0%
+will make your Hugo site work really
+ 
+
+00:01:56.679 --> 00:02:00.389 align:start position:0%
+will make your Hugo site work really
+well<00:01:56.829><c> on</c><00:01:56.889><c> ipfs</c><00:01:57.399><c> by</c><00:01:57.850><c> default</c><00:01:58.529><c> so</c><00:01:59.529><c> little</c>
+
+00:02:00.389 --> 00:02:00.399 align:start position:0%
+well on ipfs by default so little
+ 
+
+00:02:00.399 --> 00:02:03.690 align:start position:0%
+well on ipfs by default so little
+one-line<00:02:00.969><c> change</c><00:02:00.999><c> to</c><00:02:01.659><c> the</c><00:02:01.749><c> config</c><00:02:02.139><c> and</c><00:02:02.979><c> this</c>
+
+00:02:03.690 --> 00:02:03.700 align:start position:0%
+one-line change to the config and this
+ 
+
+00:02:03.700 --> 00:02:06.389 align:start position:0%
+one-line change to the config and this
+will<00:02:03.909><c> be</c><00:02:04.029><c> ready</c><00:02:04.359><c> to</c><00:02:04.719><c> go</c><00:02:04.990><c> you</c><00:02:05.740><c> can</c><00:02:05.770><c> preview</c><00:02:06.340><c> it</c>
+
+00:02:06.389 --> 00:02:06.399 align:start position:0%
+will be ready to go you can preview it
+ 
+
+00:02:06.399 --> 00:02:07.469 align:start position:0%
+will be ready to go you can preview it
+run<00:02:06.729><c> it</c><00:02:06.850><c> locally</c>
+
+00:02:07.469 --> 00:02:07.479 align:start position:0%
+run it locally
+ 
+
+00:02:07.479 --> 00:02:10.619 align:start position:0%
+run it locally
+voila<00:02:08.050><c> here's</c><00:02:08.440><c> my</c><00:02:08.619><c> local</c><00:02:09.580><c> machine</c><00:02:09.910><c> running</c>
+
+00:02:10.619 --> 00:02:10.629 align:start position:0%
+voila here's my local machine running
+ 
+
+00:02:10.629 --> 00:02:13.350 align:start position:0%
+voila here's my local machine running
+this<00:02:11.019><c> you</c><00:02:11.620><c> know</c><00:02:11.709><c> kind</c><00:02:11.860><c> of</c><00:02:11.980><c> this</c><00:02:12.970><c> is</c><00:02:13.090><c> now</c><00:02:13.209><c> like</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+this you know kind of this is now like
+ 
+
+00:02:13.360 --> 00:02:16.320 align:start position:0%
+this you know kind of this is now like
+three<00:02:13.629><c> clicks</c><00:02:13.959><c> I</c><00:02:14.170><c> think</c><00:02:14.500><c> and</c><00:02:14.709><c> I</c><00:02:14.799><c> have</c><00:02:14.980><c> a</c><00:02:15.489><c> low</c>
+
+00:02:16.320 --> 00:02:16.330 align:start position:0%
+three clicks I think and I have a low
+ 
+
+00:02:16.330 --> 00:02:18.570 align:start position:0%
+three clicks I think and I have a low
+goal<00:02:16.450><c> version</c><00:02:16.960><c> of</c><00:02:17.200><c> the</c><00:02:17.860><c> little</c><00:02:18.280><c> static</c>
+
+00:02:18.570 --> 00:02:18.580 align:start position:0%
+goal version of the little static
+ 
+
+00:02:18.580 --> 00:02:20.070 align:start position:0%
+goal version of the little static
+website<00:02:18.910><c> that</c><00:02:19.150><c> I'm</c><00:02:19.240><c> gonna</c><00:02:19.360><c> want</c><00:02:19.540><c> to</c><00:02:19.660><c> launch</c><00:02:19.810><c> on</c>
+
+00:02:20.070 --> 00:02:20.080 align:start position:0%
+website that I'm gonna want to launch on
+ 
+
+00:02:20.080 --> 00:02:24.360 align:start position:0%
+website that I'm gonna want to launch on
+ipfs<00:02:21.630><c> from</c><00:02:22.630><c> here</c><00:02:22.900><c> now</c><00:02:23.200><c> I</c><00:02:23.260><c> know</c><00:02:23.650><c> that</c><00:02:23.770><c> I</c><00:02:23.830><c> have</c><00:02:24.070><c> a</c>
+
+00:02:24.360 --> 00:02:24.370 align:start position:0%
+ipfs from here now I know that I have a
+ 
+
+00:02:24.370 --> 00:02:26.580 align:start position:0%
+ipfs from here now I know that I have a
+static<00:02:25.150><c> version</c><00:02:25.420><c> I</c><00:02:25.690><c> want</c><00:02:25.900><c> to</c><00:02:25.960><c> get</c><00:02:26.050><c> it</c><00:02:26.140><c> up</c><00:02:26.350><c> on</c>
+
+00:02:26.580 --> 00:02:26.590 align:start position:0%
+static version I want to get it up on
+ 
+
+00:02:26.590 --> 00:02:29.070 align:start position:0%
+static version I want to get it up on
+IDF<00:02:27.010><c> s4</c><00:02:27.760><c> that</c><00:02:27.790><c> I</c><00:02:27.880><c> used</c><00:02:28.150><c> fleek</c><00:02:28.420><c> since</c><00:02:28.750><c> like</c><00:02:28.960><c> is</c>
+
+00:02:29.070 --> 00:02:29.080 align:start position:0%
+IDF s4 that I used fleek since like is
+ 
+
+00:02:29.080 --> 00:02:31.320 align:start position:0%
+IDF s4 that I used fleek since like is
+super<00:02:29.620><c> super</c><00:02:29.890><c> easy</c><00:02:30.010><c> from</c><00:02:30.310><c> UX</c><00:02:30.580><c> perspective</c><00:02:30.820><c> and</c>
+
+00:02:31.320 --> 00:02:31.330 align:start position:0%
+super super easy from UX perspective and
+ 
+
+00:02:31.330 --> 00:02:33.060 align:start position:0%
+super super easy from UX perspective and
+if<00:02:31.420><c> the</c><00:02:31.570><c> aim</c><00:02:31.690><c> here</c><00:02:31.960><c> is</c><00:02:31.990><c> to</c><00:02:32.110><c> make</c><00:02:32.740><c> this</c><00:02:32.860><c> as</c>
+
+00:02:33.060 --> 00:02:33.070 align:start position:0%
+if the aim here is to make this as
+ 
+
+00:02:33.070 --> 00:02:35.670 align:start position:0%
+if the aim here is to make this as
+accessible<00:02:33.280><c> to</c><00:02:34.000><c> kind</c><00:02:34.570><c> of</c><00:02:34.630><c> people</c><00:02:35.500><c> who</c><00:02:35.590><c> are</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+accessible to kind of people who are
+ 
+
+00:02:35.680 --> 00:02:37.590 align:start position:0%
+accessible to kind of people who are
+getting<00:02:35.800><c> started</c><00:02:35.980><c> as</c><00:02:36.340><c> possible</c><00:02:36.760><c> that's</c><00:02:37.480><c> a</c>
+
+00:02:37.590 --> 00:02:37.600 align:start position:0%
+getting started as possible that's a
+ 
+
+00:02:37.600 --> 00:02:38.520 align:start position:0%
+getting started as possible that's a
+great<00:02:37.930><c> example</c>
+
+00:02:38.520 --> 00:02:38.530 align:start position:0%
+great example
+ 
+
+00:02:38.530 --> 00:02:40.620 align:start position:0%
+great example
+they<00:02:39.100><c> actually</c><00:02:39.460><c> literally</c><00:02:39.850><c> have</c><00:02:40.090><c> a</c><00:02:40.120><c> guide</c><00:02:40.360><c> for</c>
+
+00:02:40.620 --> 00:02:40.630 align:start position:0%
+they actually literally have a guide for
+ 
+
+00:02:40.630 --> 00:02:42.510 align:start position:0%
+they actually literally have a guide for
+using<00:02:40.990><c> Hugo</c><00:02:41.350><c> and</c><00:02:41.530><c> fleek</c><00:02:41.830><c> with</c><00:02:42.190><c> each</c><00:02:42.310><c> other</c>
+
+00:02:42.510 --> 00:02:42.520 align:start position:0%
+using Hugo and fleek with each other
+ 
+
+00:02:42.520 --> 00:02:46.410 align:start position:0%
+using Hugo and fleek with each other
+it's<00:02:43.270><c> really</c><00:02:43.510><c> useful</c><00:02:43.870><c> the</c><00:02:45.150><c> definitely</c><00:02:46.150><c> take</c><00:02:46.390><c> a</c>
+
+00:02:46.410 --> 00:02:46.420 align:start position:0%
+it's really useful the definitely take a
+ 
+
+00:02:46.420 --> 00:02:48.810 align:start position:0%
+it's really useful the definitely take a
+look<00:02:46.570><c> at</c><00:02:46.690><c> that</c><00:02:46.810><c> because</c><00:02:46.990><c> it</c><00:02:47.260><c> has</c><00:02:47.410><c> the</c><00:02:47.770><c> one</c><00:02:47.950><c> kind</c>
+
+00:02:48.810 --> 00:02:48.820 align:start position:0%
+look at that because it has the one kind
+ 
+
+00:02:48.820 --> 00:02:51.000 align:start position:0%
+look at that because it has the one kind
+of<00:02:48.940><c> little</c><00:02:49.420><c> trick</c><00:02:49.900><c> you</c><00:02:49.930><c> need</c><00:02:50.290><c> to</c><00:02:50.410><c> do</c><00:02:50.560><c> in</c><00:02:50.800><c> terms</c>
+
+00:02:51.000 --> 00:02:51.010 align:start position:0%
+of little trick you need to do in terms
+ 
+
+00:02:51.010 --> 00:02:53.790 align:start position:0%
+of little trick you need to do in terms
+of<00:02:51.190><c> setting</c><00:02:51.340><c> your</c><00:02:51.580><c> build</c><00:02:51.940><c> settings</c><00:02:52.590><c> but</c><00:02:53.590><c> for</c>
+
+00:02:53.790 --> 00:02:53.800 align:start position:0%
+of setting your build settings but for
+ 
+
+00:02:53.800 --> 00:02:56.190 align:start position:0%
+of setting your build settings but for
+me<00:02:53.890><c> I'd</c><00:02:54.130><c> already</c><00:02:54.670><c> deployed</c><00:02:55.270><c> previous</c><00:02:55.780><c> sites</c>
+
+00:02:56.190 --> 00:02:56.200 align:start position:0%
+me I'd already deployed previous sites
+ 
+
+00:02:56.200 --> 00:02:58.350 align:start position:0%
+me I'd already deployed previous sites
+with<00:02:56.530><c> leak</c><00:02:56.920><c> and</c><00:02:57.070><c> so</c><00:02:57.190><c> I</c><00:02:57.220><c> was</c><00:02:57.370><c> able</c><00:02:57.430><c> to</c><00:02:57.580><c> just</c><00:02:57.850><c> sign</c>
+
+00:02:58.350 --> 00:02:58.360 align:start position:0%
+with leak and so I was able to just sign
+ 
+
+00:02:58.360 --> 00:03:01.800 align:start position:0%
+with leak and so I was able to just sign
+in<00:02:58.709><c> connect</c><00:02:59.709><c> this</c><00:02:59.860><c> to</c><00:03:00.070><c> my</c><00:03:00.190><c> github</c><00:03:00.400><c> choose</c><00:03:01.330><c> the</c>
+
+00:03:01.800 --> 00:03:01.810 align:start position:0%
+in connect this to my github choose the
+ 
+
+00:03:01.810 --> 00:03:04.500 align:start position:0%
+in connect this to my github choose the
+repo<00:03:02.320><c> that</c><00:03:02.709><c> forestry</c><00:03:03.550><c> had</c><00:03:03.760><c> already</c><00:03:03.940><c> created</c>
+
+00:03:04.500 --> 00:03:04.510 align:start position:0%
+repo that forestry had already created
+ 
+
+00:03:04.510 --> 00:03:08.090 align:start position:0%
+repo that forestry had already created
+for<00:03:04.540><c> me</c><00:03:04.870><c> with</c><00:03:05.640><c> with</c><00:03:06.640><c> my</c><00:03:06.790><c> Hugo</c><00:03:07.120><c> template</c><00:03:07.480><c> in</c><00:03:07.660><c> it</c>
+
+00:03:08.090 --> 00:03:08.100 align:start position:0%
+for me with with my Hugo template in it
+ 
+
+00:03:08.100 --> 00:03:11.490 align:start position:0%
+for me with with my Hugo template in it
+select<00:03:09.100><c> that</c><00:03:09.340><c> and</c><00:03:09.959><c> then</c><00:03:10.959><c> I</c><00:03:11.020><c> was</c><00:03:11.230><c> kind</c><00:03:11.470><c> of</c>
+
+00:03:11.490 --> 00:03:11.500 align:start position:0%
+select that and then I was kind of
+ 
+
+00:03:11.500 --> 00:03:14.460 align:start position:0%
+select that and then I was kind of
+pretty<00:03:12.310><c> much</c><00:03:12.400><c> ready</c><00:03:12.700><c> to</c><00:03:12.760><c> go</c><00:03:12.880><c> the</c><00:03:13.540><c> one</c><00:03:13.750><c> trick</c><00:03:14.320><c> I</c>
+
+00:03:14.460 --> 00:03:14.470 align:start position:0%
+pretty much ready to go the one trick I
+ 
+
+00:03:14.470 --> 00:03:16.680 align:start position:0%
+pretty much ready to go the one trick I
+had<00:03:14.650><c> to</c><00:03:14.770><c> do</c><00:03:14.860><c> here</c><00:03:15.310><c> was</c><00:03:15.730><c> instead</c><00:03:16.090><c> of</c><00:03:16.150><c> using</c><00:03:16.450><c> the</c>
+
+00:03:16.680 --> 00:03:16.690 align:start position:0%
+had to do here was instead of using the
+ 
+
+00:03:16.690 --> 00:03:19.710 align:start position:0%
+had to do here was instead of using the
+normal<00:03:16.900><c> Hugo</c><00:03:17.560><c> build</c><00:03:17.890><c> command</c><00:03:18.340><c> I</c><00:03:19.120><c> had</c><00:03:19.600><c> to</c>
+
+00:03:19.710 --> 00:03:19.720 align:start position:0%
+normal Hugo build command I had to
+ 
+
+00:03:19.720 --> 00:03:22.229 align:start position:0%
+normal Hugo build command I had to
+remember<00:03:20.320><c> this</c><00:03:20.890><c> blog</c><00:03:21.370><c> post</c><00:03:21.400><c> that</c><00:03:21.760><c> I</c><00:03:21.880><c> looked</c><00:03:22.150><c> at</c>
+
+00:03:22.229 --> 00:03:22.239 align:start position:0%
+remember this blog post that I looked at
+ 
+
+00:03:22.239 --> 00:03:25.890 align:start position:0%
+remember this blog post that I looked at
+and<00:03:22.420><c> changed</c><00:03:23.170><c> my</c><00:03:23.290><c> build</c><00:03:23.470><c> command</c><00:03:23.890><c> to</c><00:03:24.880><c> a</c><00:03:25.390><c> kind</c>
+
+00:03:25.890 --> 00:03:25.900 align:start position:0%
+and changed my build command to a kind
+ 
+
+00:03:25.900 --> 00:03:28.740 align:start position:0%
+and changed my build command to a kind
+of<00:03:25.959><c> sub</c><00:03:26.320><c> module</c><00:03:26.680><c> update</c><00:03:27.310><c> in</c><00:03:27.610><c> it</c><00:03:27.790><c> and</c><00:03:28.600><c> this</c><00:03:28.690><c> is</c>
+
+00:03:28.740 --> 00:03:28.750 align:start position:0%
+of sub module update in it and this is
+ 
+
+00:03:28.750 --> 00:03:31.710 align:start position:0%
+of sub module update in it and this is
+just<00:03:29.050><c> making</c><00:03:29.620><c> sure</c><00:03:29.860><c> that</c><00:03:30.269><c> that</c><00:03:31.269><c> this</c><00:03:31.480><c> thing</c>
+
+00:03:31.710 --> 00:03:31.720 align:start position:0%
+just making sure that that this thing
+ 
+
+00:03:31.720 --> 00:03:33.690 align:start position:0%
+just making sure that that this thing
+compiles<00:03:32.260><c> and</c><00:03:32.440><c> shows</c><00:03:32.650><c> as</c><00:03:32.890><c> a</c><00:03:32.920><c> website</c><00:03:33.310><c> instead</c>
+
+00:03:33.690 --> 00:03:33.700 align:start position:0%
+compiles and shows as a website instead
+ 
+
+00:03:33.700 --> 00:03:36.630 align:start position:0%
+compiles and shows as a website instead
+of<00:03:33.820><c> as</c><00:03:33.970><c> like</c><00:03:34.120><c> the</c><00:03:34.180><c> straight</c><00:03:34.390><c> up</c><00:03:35.130><c> files</c><00:03:36.130><c> within</c>
+
+00:03:36.630 --> 00:03:36.640 align:start position:0%
+of as like the straight up files within
+ 
+
+00:03:36.640 --> 00:03:39.660 align:start position:0%
+of as like the straight up files within
+Hugo<00:03:37.269><c> so</c><00:03:37.959><c> that's</c><00:03:38.110><c> the</c><00:03:38.590><c> one</c><00:03:38.769><c> special</c><00:03:39.250><c> trick</c><00:03:39.550><c> you</c>
+
+00:03:39.660 --> 00:03:39.670 align:start position:0%
+Hugo so that's the one special trick you
+ 
+
+00:03:39.670 --> 00:03:41.210 align:start position:0%
+Hugo so that's the one special trick you
+need<00:03:39.790><c> to</c><00:03:39.940><c> do</c><00:03:40.060><c> to</c><00:03:40.239><c> know</c><00:03:40.390><c> if</c><00:03:40.570><c> you</c><00:03:40.690><c> go</c><00:03:40.840><c> and</c><00:03:40.959><c> fleek</c>
+
+00:03:41.210 --> 00:03:41.220 align:start position:0%
+need to do to know if you go and fleek
+ 
+
+00:03:41.220 --> 00:03:44.160 align:start position:0%
+need to do to know if you go and fleek
+from<00:03:42.220><c> there</c><00:03:42.400><c> was</c><00:03:42.730><c> super</c><00:03:43.030><c> easy</c><00:03:43.209><c> just</c><00:03:43.480><c> modified</c>
+
+00:03:44.160 --> 00:03:44.170 align:start position:0%
+from there was super easy just modified
+ 
+
+00:03:44.170 --> 00:03:48.090 align:start position:0%
+from there was super easy just modified
+this<00:03:44.380><c> and</c><00:03:45.570><c> click</c><00:03:46.570><c> deploy</c><00:03:46.840><c> site</c><00:03:47.110><c> it</c><00:03:47.650><c> took</c><00:03:47.920><c> like</c>
+
+00:03:48.090 --> 00:03:48.100 align:start position:0%
+this and click deploy site it took like
+ 
+
+00:03:48.100 --> 00:03:49.979 align:start position:0%
+this and click deploy site it took like
+I<00:03:48.400><c> think</c><00:03:48.850><c> it</c><00:03:48.910><c> was</c><00:03:49.030><c> like</c><00:03:49.090><c> a</c><00:03:49.150><c> minute</c><00:03:49.570><c> and</c><00:03:49.690><c> a</c><00:03:49.959><c> half</c>
+
+00:03:49.979 --> 00:03:49.989 align:start position:0%
+I think it was like a minute and a half
+ 
+
+00:03:49.989 --> 00:03:55.350 align:start position:0%
+I think it was like a minute and a half
+of<00:03:50.650><c> deploying</c><00:03:51.930><c> to</c><00:03:52.930><c> take</c><00:03:53.470><c> Hugo</c><00:03:53.739><c> and</c><00:03:54.180><c> voila</c><00:03:55.180><c> I</c>
+
+00:03:55.350 --> 00:03:55.360 align:start position:0%
+of deploying to take Hugo and voila I
+ 
+
+00:03:55.360 --> 00:03:58.650 align:start position:0%
+of deploying to take Hugo and voila I
+was<00:03:55.510><c> able</c><00:03:55.630><c> to</c><00:03:55.780><c> then</c><00:03:55.900><c> go</c><00:03:56.140><c> and</c><00:03:56.470><c> verify</c><00:03:56.800><c> it</c><00:03:57.070><c> on</c><00:03:57.970><c> on</c>
+
+00:03:58.650 --> 00:03:58.660 align:start position:0%
+was able to then go and verify it on on
+ 
+
+00:03:58.660 --> 00:04:01.530 align:start position:0%
+was able to then go and verify it on on
+fleek<00:03:59.170><c> that</c><00:03:59.680><c> it</c><00:03:59.769><c> was</c><00:03:59.920><c> running</c><00:04:00.280><c> and</c><00:04:00.459><c> voila</c><00:04:01.300><c> Here</c>
+
+00:04:01.530 --> 00:04:01.540 align:start position:0%
+fleek that it was running and voila Here
+ 
+
+00:04:01.540 --> 00:04:03.960 align:start position:0%
+fleek that it was running and voila Here
+I<00:04:01.570><c> am</c><00:04:01.660><c> fetching</c><00:04:02.170><c> this</c><00:04:02.320><c> from</c><00:04:02.680><c> from</c><00:04:03.310><c> fleex</c>
+
+00:04:03.960 --> 00:04:03.970 align:start position:0%
+I am fetching this from from fleex
+ 
+
+00:04:03.970 --> 00:04:06.750 align:start position:0%
+I am fetching this from from fleex
+gateway<00:04:04.570><c> where</c><00:04:04.870><c> fleek</c><00:04:05.200><c> is</c><00:04:05.320><c> hosting</c><00:04:05.680><c> this</c><00:04:05.830><c> on</c>
+
+00:04:06.750 --> 00:04:06.760 align:start position:0%
+gateway where fleek is hosting this on
+ 
+
+00:04:06.760 --> 00:04:09.300 align:start position:0%
+gateway where fleek is hosting this on
+IP<00:04:07.030><c> FS</c><00:04:07.390><c> and</c><00:04:07.660><c> and</c><00:04:08.410><c> I'm</c><00:04:08.560><c> able</c><00:04:08.739><c> to</c><00:04:08.830><c> fetch</c><00:04:08.950><c> it</c><00:04:09.100><c> from</c>
+
+00:04:09.300 --> 00:04:09.310 align:start position:0%
+IP FS and and I'm able to fetch it from
+ 
+
+00:04:09.310 --> 00:04:12.720 align:start position:0%
+IP FS and and I'm able to fetch it from
+from<00:04:10.239><c> them</c><00:04:10.450><c> and</c><00:04:11.380><c> I</c><00:04:11.440><c> can</c><00:04:11.590><c> navigate</c><00:04:11.769><c> around</c><00:04:12.040><c> go</c>
+
+00:04:12.720 --> 00:04:12.730 align:start position:0%
+from them and I can navigate around go
+ 
+
+00:04:12.730 --> 00:04:15.960 align:start position:0%
+from them and I can navigate around go
+to<00:04:12.760><c> the</c><00:04:12.850><c> blog</c><00:04:13.120><c> portfolio</c><00:04:14.100><c> other</c><00:04:15.100><c> pieces</c><00:04:15.459><c> other</c>
+
+00:04:15.960 --> 00:04:15.970 align:start position:0%
+to the blog portfolio other pieces other
+ 
+
+00:04:15.970 --> 00:04:19.409 align:start position:0%
+to the blog portfolio other pieces other
+pages<00:04:16.209><c> of</c><00:04:16.450><c> this</c><00:04:16.540><c> website</c><00:04:17.280><c> now</c><00:04:18.280><c> I</c><00:04:18.310><c> can</c><00:04:18.609><c> also</c><00:04:18.820><c> go</c>
+
+00:04:19.409 --> 00:04:19.419 align:start position:0%
+pages of this website now I can also go
+ 
+
+00:04:19.419 --> 00:04:22.080 align:start position:0%
+pages of this website now I can also go
+and<00:04:19.600><c> view</c><00:04:20.019><c> it</c><00:04:20.109><c> more</c><00:04:20.290><c> directly</c><00:04:20.500><c> on</c><00:04:20.709><c> ipfs</c><00:04:21.310><c> and</c><00:04:21.580><c> so</c>
+
+00:04:22.080 --> 00:04:22.090 align:start position:0%
+and view it more directly on ipfs and so
+ 
+
+00:04:22.090 --> 00:04:23.790 align:start position:0%
+and view it more directly on ipfs and so
+here<00:04:22.570><c> here</c><00:04:22.930><c> I</c><00:04:22.990><c> actually</c><00:04:23.169><c> am</c><00:04:23.440><c> grabbing</c><00:04:23.590><c> the</c>
+
+00:04:23.790 --> 00:04:23.800 align:start position:0%
+here here I actually am grabbing the
+ 
+
+00:04:23.800 --> 00:04:27.000 align:start position:0%
+here here I actually am grabbing the
+ipfs<00:04:24.340><c> URL</c><00:04:25.120><c> for</c><00:04:25.479><c> this</c><00:04:25.630><c> instead</c><00:04:26.080><c> of</c><00:04:26.140><c> kind</c><00:04:26.950><c> of</c>
+
+00:04:27.000 --> 00:04:27.010 align:start position:0%
+ipfs URL for this instead of kind of
+ 
+
+00:04:27.010 --> 00:04:28.500 align:start position:0%
+ipfs URL for this instead of kind of
+viewing<00:04:27.310><c> it</c><00:04:27.400><c> from</c><00:04:27.760><c> from</c><00:04:28.030><c> their</c><00:04:28.180><c> gateway</c><00:04:28.330><c> I'm</c>
+
+00:04:28.500 --> 00:04:28.510 align:start position:0%
+viewing it from from their gateway I'm
+ 
+
+00:04:28.510 --> 00:04:29.810 align:start position:0%
+viewing it from from their gateway I'm
+viewing<00:04:28.690><c> it</c><00:04:28.810><c> on</c><00:04:28.900><c> that</c><00:04:29.380><c> I</c><00:04:29.410><c> okay</c>
+
+00:04:29.810 --> 00:04:29.820 align:start position:0%
+viewing it on that I okay
+ 
+
+00:04:29.820 --> 00:04:33.260 align:start position:0%
+viewing it on that I okay
+Way<00:04:29.940><c> and</c><00:04:30.840><c> so</c><00:04:31.050><c> the</c><00:04:31.650><c> I</c><00:04:31.920><c> can</c><00:04:32.160><c> turn</c><00:04:32.400><c> on</c><00:04:32.430><c> my</c><00:04:32.610><c> local</c>
+
+00:04:33.260 --> 00:04:33.270 align:start position:0%
+Way and so the I can turn on my local
+ 
+
+00:04:33.270 --> 00:04:37.220 align:start position:0%
+Way and so the I can turn on my local
+companion<00:04:33.960><c> node</c><00:04:34.200><c> and</c><00:04:35.690><c> configure</c><00:04:36.690><c> this</c><00:04:36.960><c> and</c>
+
+00:04:37.220 --> 00:04:37.230 align:start position:0%
+companion node and configure this and
+ 
+
+00:04:37.230 --> 00:04:40.750 align:start position:0%
+companion node and configure this and
+then<00:04:38.010><c> I'm</c><00:04:38.160><c> able</c><00:04:38.370><c> to</c><00:04:38.550><c> actually</c><00:04:38.910><c> load</c><00:04:39.450><c> it</c><00:04:39.480><c> via</c><00:04:40.170><c> my</c>
+
+00:04:40.750 --> 00:04:40.760 align:start position:0%
+then I'm able to actually load it via my
+ 
+
+00:04:40.760 --> 00:04:43.730 align:start position:0%
+then I'm able to actually load it via my
+local<00:04:41.760><c> IP</c><00:04:42.060><c> FS</c><00:04:42.390><c> node</c><00:04:42.600><c> and</c><00:04:42.870><c> this</c><00:04:43.350><c> is</c><00:04:43.470><c> actually</c>
+
+00:04:43.730 --> 00:04:43.740 align:start position:0%
+local IP FS node and this is actually
+ 
+
+00:04:43.740 --> 00:04:46.820 align:start position:0%
+local IP FS node and this is actually
+before<00:04:43.890><c> I</c><00:04:44.130><c> had</c><00:04:44.310><c> updated</c><00:04:44.790><c> to</c><00:04:44.970><c> ipfs</c><00:04:45.480><c> 0.5</c><00:04:46.080><c> so</c><00:04:46.560><c> that</c>
+
+00:04:46.820 --> 00:04:46.830 align:start position:0%
+before I had updated to ipfs 0.5 so that
+ 
+
+00:04:46.830 --> 00:04:48.470 align:start position:0%
+before I had updated to ipfs 0.5 so that
+changes<00:04:47.250><c> around</c><00:04:47.400><c> these</c><00:04:47.640><c> URLs</c><00:04:47.970><c> a</c><00:04:48.120><c> little</c><00:04:48.330><c> bit</c>
+
+00:04:48.470 --> 00:04:48.480 align:start position:0%
+changes around these URLs a little bit
+ 
+
+00:04:48.480 --> 00:04:51.200 align:start position:0%
+changes around these URLs a little bit
+to<00:04:48.690><c> put</c><00:04:48.720><c> the</c><00:04:49.110><c> the</c><00:04:49.710><c> queuing</c><00:04:50.070><c> part</c><00:04:50.310><c> at</c><00:04:50.520><c> the</c><00:04:50.760><c> front</c>
+
+00:04:51.200 --> 00:04:51.210 align:start position:0%
+to put the the queuing part at the front
+ 
+
+00:04:51.210 --> 00:04:54.440 align:start position:0%
+to put the the queuing part at the front
+and<00:04:51.480><c> the</c><00:04:51.600><c> localhost</c><00:04:51.930><c> part</c><00:04:52.260><c> at</c><00:04:52.350><c> the</c><00:04:52.410><c> back</c><00:04:53.450><c> but</c>
+
+00:04:54.440 --> 00:04:54.450 align:start position:0%
+and the localhost part at the back but
+ 
+
+00:04:54.450 --> 00:04:55.820 align:start position:0%
+and the localhost part at the back but
+here<00:04:54.690><c> I</c><00:04:54.720><c> actually</c><00:04:54.930><c> have</c><00:04:55.200><c> like</c><00:04:55.290><c> an</c><00:04:55.440><c> IP</c><00:04:55.590><c> FS</c>
+
+00:04:55.820 --> 00:04:55.830 align:start position:0%
+here I actually have like an IP FS
+ 
+
+00:04:55.830 --> 00:05:00.230 align:start position:0%
+here I actually have like an IP FS
+enabled<00:04:56.370><c> local</c><00:04:56.700><c> node</c><00:04:56.850><c> and</c><00:04:58.250><c> success</c><00:04:59.250><c> within</c>
+
+00:05:00.230 --> 00:05:00.240 align:start position:0%
+enabled local node and success within
+ 
+
+00:05:00.240 --> 00:05:01.700 align:start position:0%
+enabled local node and success within
+like<00:05:00.630><c> I</c><00:05:00.900><c> don't</c><00:05:01.080><c> know</c><00:05:01.200><c> how</c><00:05:01.290><c> many</c><00:05:01.350><c> clicks</c><00:05:01.590><c> that</c>
+
+00:05:01.700 --> 00:05:01.710 align:start position:0%
+like I don't know how many clicks that
+ 
+
+00:05:01.710 --> 00:05:03.110 align:start position:0%
+like I don't know how many clicks that
+was<00:05:01.740><c> I</c><00:05:01.920><c> think</c><00:05:02.070><c> I</c><00:05:02.190><c> should</c><00:05:02.340><c> go</c><00:05:02.490><c> back</c><00:05:02.520><c> and</c><00:05:02.640><c> count</c>
+
+00:05:03.110 --> 00:05:03.120 align:start position:0%
+was I think I should go back and count
+ 
+
+00:05:03.120 --> 00:05:05.330 align:start position:0%
+was I think I should go back and count
+it's<00:05:03.300><c> like</c><00:05:03.420><c> 20</c><00:05:03.750><c> or</c><00:05:03.870><c> so</c><00:05:04.050><c> and</c><00:05:04.290><c> like</c><00:05:04.710><c> a</c><00:05:04.890><c> one-line</c>
+
+00:05:05.330 --> 00:05:05.340 align:start position:0%
+it's like 20 or so and like a one-line
+ 
+
+00:05:05.340 --> 00:05:08.210 align:start position:0%
+it's like 20 or so and like a one-line
+text<00:05:05.880><c> or</c><00:05:06.270><c> two</c><00:05:06.480><c> lines</c><00:05:06.690><c> of</c><00:05:06.840><c> text</c><00:05:06.900><c> entry</c><00:05:07.350><c> you're</c>
+
+00:05:08.210 --> 00:05:08.220 align:start position:0%
+text or two lines of text entry you're
+ 
+
+00:05:08.220 --> 00:05:10.460 align:start position:0%
+text or two lines of text entry you're
+able<00:05:08.490><c> to</c><00:05:08.520><c> go</c><00:05:08.730><c> from</c><00:05:09.060><c> static</c><00:05:09.630><c> static</c><00:05:10.110><c> site</c>
+
+00:05:10.460 --> 00:05:10.470 align:start position:0%
+able to go from static static site
+ 
+
+00:05:10.470 --> 00:05:13.310 align:start position:0%
+able to go from static static site
+creation<00:05:10.980><c> to</c><00:05:11.190><c> running</c><00:05:11.580><c> it</c><00:05:11.670><c> on</c><00:05:11.850><c> IP</c><00:05:12.090><c> of</c><00:05:12.270><c> s</c><00:05:12.390><c> and</c><00:05:13.200><c> so</c>
+
+00:05:13.310 --> 00:05:13.320 align:start position:0%
+creation to running it on IP of s and so
+ 
+
+00:05:13.320 --> 00:05:15.800 align:start position:0%
+creation to running it on IP of s and so
+definitely<00:05:13.740><c> it's</c><00:05:14.580><c> it</c><00:05:14.940><c> I</c><00:05:15.330><c> think</c><00:05:15.750><c> that</c>
+
+00:05:15.800 --> 00:05:15.810 align:start position:0%
+definitely it's it I think that
+ 
+
+00:05:15.810 --> 00:05:17.600 align:start position:0%
+definitely it's it I think that
+officially<00:05:16.530><c> qualifies</c><00:05:16.710><c> it</c><00:05:17.190><c> as</c><00:05:17.310><c> at</c><00:05:17.490><c> the</c><00:05:17.580><c> point</c>
+
+00:05:17.600 --> 00:05:17.610 align:start position:0%
+officially qualifies it as at the point
+ 
+
+00:05:17.610 --> 00:05:20.420 align:start position:0%
+officially qualifies it as at the point
+that<00:05:18.300><c> like</c><00:05:18.480><c> easy</c><00:05:18.750><c> enough</c><00:05:19.020><c> for</c><00:05:19.080><c> anyone</c><00:05:19.590><c> who</c>
+
+00:05:20.420 --> 00:05:20.430 align:start position:0%
+that like easy enough for anyone who
+ 
+
+00:05:20.430 --> 00:05:22.280 align:start position:0%
+that like easy enough for anyone who
+wants<00:05:20.730><c> to</c><00:05:20.790><c> deploy</c><00:05:21.060><c> anything</c><00:05:21.480><c> on</c><00:05:21.600><c> the</c><00:05:21.690><c> web</c><00:05:21.810><c> to</c>
+
+00:05:22.280 --> 00:05:22.290 align:start position:0%
+wants to deploy anything on the web to
+ 
+
+00:05:22.290 --> 00:05:24.620 align:start position:0%
+wants to deploy anything on the web to
+jump<00:05:22.890><c> over</c><00:05:23.130><c> and</c><00:05:23.280><c> use</c><00:05:23.460><c> these</c><00:05:24.180><c> sorts</c><00:05:24.420><c> of</c><00:05:24.480><c> tools</c>
+
+00:05:24.620 --> 00:05:24.630 align:start position:0%
+jump over and use these sorts of tools
+ 
+
+00:05:24.630 --> 00:05:26.480 align:start position:0%
+jump over and use these sorts of tools
+and<00:05:24.900><c> plug</c><00:05:25.170><c> them</c><00:05:25.290><c> together</c><00:05:25.440><c> really</c><00:05:25.800><c> easily</c><00:05:25.920><c> to</c>
+
+00:05:26.480 --> 00:05:26.490 align:start position:0%
+and plug them together really easily to
+ 
+
+00:05:26.490 --> 00:05:28.400 align:start position:0%
+and plug them together really easily to
+get<00:05:26.700><c> up</c><00:05:26.820><c> and</c><00:05:26.970><c> running</c><00:05:27.120><c> and</c><00:05:27.360><c> there's</c><00:05:28.080><c> a</c><00:05:28.140><c> lot</c><00:05:28.320><c> of</c>
+
+00:05:28.400 --> 00:05:28.410 align:start position:0%
+get up and running and there's a lot of
+ 
+
+00:05:28.410 --> 00:05:29.930 align:start position:0%
+get up and running and there's a lot of
+other<00:05:28.530><c> examples</c><00:05:28.710><c> of</c><00:05:29.190><c> people</c><00:05:29.370><c> who</c><00:05:29.670><c> are</c><00:05:29.700><c> dumping</c>
+
+00:05:29.930 --> 00:05:29.940 align:start position:0%
+other examples of people who are dumping
+ 
+
+00:05:29.940 --> 00:05:30.590 align:start position:0%
+other examples of people who are dumping
+into<00:05:30.090><c> the</c><00:05:30.180><c> space</c>
+
+00:05:30.590 --> 00:05:30.600 align:start position:0%
+into the space
+ 
+
+00:05:30.600 --> 00:05:32.450 align:start position:0%
+into the space
+the<00:05:31.290><c> the</c><00:05:31.620><c> Deep</c><00:05:31.770><c> log</c><00:05:31.980><c> is</c><00:05:32.130><c> I</c><00:05:32.220><c> think</c><00:05:32.310><c> another</c>
+
+00:05:32.450 --> 00:05:32.460 align:start position:0%
+the the Deep log is I think another
+ 
+
+00:05:32.460 --> 00:05:34.360 align:start position:0%
+the the Deep log is I think another
+example<00:05:32.760><c> of</c><00:05:33.240><c> how</c><00:05:33.420><c> quick</c><00:05:33.720><c> and</c><00:05:33.870><c> easy</c><00:05:33.960><c> it</c><00:05:34.140><c> can</c><00:05:34.290><c> be</c>
+
+00:05:34.360 --> 00:05:34.370 align:start position:0%
+example of how quick and easy it can be
+ 
+
+00:05:34.370 --> 00:05:37.340 align:start position:0%
+example of how quick and easy it can be
+unstoppable<00:05:35.370><c> domains</c><00:05:35.850><c> also</c><00:05:36.000><c> has</c><00:05:36.300><c> a</c><00:05:36.330><c> kind</c><00:05:36.840><c> of</c>
+
+00:05:37.340 --> 00:05:37.350 align:start position:0%
+unstoppable domains also has a kind of
+ 
+
+00:05:37.350 --> 00:05:38.810 align:start position:0%
+unstoppable domains also has a kind of
+template<00:05:37.740><c> websites</c><00:05:38.160><c> for</c><00:05:38.430><c> getting</c><00:05:38.640><c> up</c><00:05:38.700><c> and</c>
+
+00:05:38.810 --> 00:05:38.820 align:start position:0%
+template websites for getting up and
+ 
+
+00:05:38.820 --> 00:05:41.150 align:start position:0%
+template websites for getting up and
+running<00:05:38.910><c> on</c><00:05:39.120><c> the</c><00:05:39.150><c> d</c><00:05:39.330><c> website</c><00:05:39.660><c> and</c><00:05:40.590><c> so</c><00:05:40.740><c> lots</c><00:05:41.070><c> of</c>
+
+00:05:41.150 --> 00:05:41.160 align:start position:0%
+running on the d website and so lots of
+ 
+
+00:05:41.160 --> 00:05:42.710 align:start position:0%
+running on the d website and so lots of
+different<00:05:41.220><c> ways</c><00:05:41.580><c> to</c><00:05:41.610><c> do</c><00:05:42.120><c> this</c><00:05:42.240><c> but</c><00:05:42.480><c> I</c><00:05:42.510><c> thought</c>
+
+00:05:42.710 --> 00:05:42.720 align:start position:0%
+different ways to do this but I thought
+ 
+
+00:05:42.720 --> 00:05:44.720 align:start position:0%
+different ways to do this but I thought
+this<00:05:42.840><c> was</c><00:05:43.050><c> a</c><00:05:43.080><c> particularly</c><00:05:43.620><c> slick</c><00:05:44.220><c> and</c><00:05:44.460><c> an</c>
+
+00:05:44.720 --> 00:05:44.730 align:start position:0%
+this was a particularly slick and an
+ 
+
+00:05:44.730 --> 00:05:47.030 align:start position:0%
+this was a particularly slick and an
+easy<00:05:45.000><c> to</c><00:05:45.180><c> plug</c><00:05:45.540><c> these</c><00:05:45.660><c> two</c><00:05:46.380><c> tools</c><00:05:46.590><c> together</c>
+
+00:05:47.030 --> 00:05:47.040 align:start position:0%
+easy to plug these two tools together
+ 
+
+00:05:47.040 --> 00:05:49.460 align:start position:0%
+easy to plug these two tools together
+with<00:05:47.220><c> each</c><00:05:47.310><c> other</c>
+

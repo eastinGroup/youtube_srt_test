@@ -1,0 +1,832 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.439 --> 00:00:04.059 align:start position:0%
+ 
+hi<00:00:01.439><c> everybody</c><00:00:01.909><c> so</c><00:00:02.909><c> we're</c><00:00:03.419><c> gonna</c><00:00:03.540><c> look</c><00:00:03.780><c> at</c>
+
+00:00:04.059 --> 00:00:04.069 align:start position:0%
+hi everybody so we're gonna look at
+ 
+
+00:00:04.069 --> 00:00:07.610 align:start position:0%
+hi everybody so we're gonna look at
+private<00:00:05.069><c> networks</c><00:00:05.580><c> between</c><00:00:05.940><c> go</c><00:00:06.390><c> and</c><00:00:06.660><c> DSi</c><00:00:07.200><c> BFS</c>
+
+00:00:07.610 --> 00:00:07.620 align:start position:0%
+private networks between go and DSi BFS
+ 
+
+00:00:07.620 --> 00:00:10.549 align:start position:0%
+private networks between go and DSi BFS
+and<00:00:07.859><c> then</c><00:00:08.460><c> I</c><00:00:08.580><c> will</c><00:00:08.760><c> do</c><00:00:08.910><c> a</c><00:00:09.200><c> best</c><00:00:10.200><c> three</c><00:00:10.380><c> data</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+and then I will do a best three data
+ 
+
+00:00:10.559 --> 00:00:14.180 align:start position:0%
+and then I will do a best three data
+store<00:00:10.769><c> demo</c><00:00:11.269><c> so</c><00:00:12.590><c> we're</c><00:00:13.590><c> just</c><00:00:13.620><c> gonna</c><00:00:13.830><c> go</c><00:00:14.099><c> ahead</c>
+
+00:00:14.180 --> 00:00:14.190 align:start position:0%
+store demo so we're just gonna go ahead
+ 
+
+00:00:14.190 --> 00:00:18.290 align:start position:0%
+store demo so we're just gonna go ahead
+and<00:00:14.309><c> get</c><00:00:14.490><c> this</c><00:00:14.610><c> started</c><00:00:14.670><c> so</c><00:00:16.550><c> what</c><00:00:17.550><c> I</c><00:00:17.730><c> have</c><00:00:18.060><c> set</c>
+
+00:00:18.290 --> 00:00:18.300 align:start position:0%
+and get this started so what I have set
+ 
+
+00:00:18.300 --> 00:00:20.750 align:start position:0%
+and get this started so what I have set
+up<00:00:18.449><c> are</c><00:00:18.900><c> a</c><00:00:19.470><c> first</c><00:00:20.100><c> I'm</c><00:00:20.220><c> gonna</c><00:00:20.340><c> run</c><00:00:20.520><c> a</c><00:00:20.550><c> public</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+up are a first I'm gonna run a public
+ 
+
+00:00:20.760 --> 00:00:22.609 align:start position:0%
+up are a first I'm gonna run a public
+version<00:00:21.029><c> of</c><00:00:21.240><c> this</c><00:00:21.390><c> and</c><00:00:21.630><c> then</c><00:00:21.840><c> I</c><00:00:21.960><c> will</c><00:00:22.109><c> run</c><00:00:22.320><c> the</c>
+
+00:00:22.609 --> 00:00:22.619 align:start position:0%
+version of this and then I will run the
+ 
+
+00:00:22.619 --> 00:00:25.099 align:start position:0%
+version of this and then I will run the
+actual<00:00:22.859><c> private</c><00:00:23.640><c> version</c><00:00:23.789><c> and</c><00:00:24.150><c> so</c><00:00:24.779><c> this</c><00:00:24.960><c> is</c>
+
+00:00:25.099 --> 00:00:25.109 align:start position:0%
+actual private version and so this is
+ 
+
+00:00:25.109 --> 00:00:28.609 align:start position:0%
+actual private version and so this is
+going<00:00:25.260><c> to</c><00:00:25.350><c> be</c><00:00:25.560><c> a</c><00:00:25.769><c> Jas</c><00:00:26.550><c> and</c><00:00:26.970><c> a</c><00:00:27.510><c> go</c><00:00:27.779><c> node</c><00:00:27.990><c> talking</c>
+
+00:00:28.609 --> 00:00:28.619 align:start position:0%
+going to be a Jas and a go node talking
+ 
+
+00:00:28.619 --> 00:00:32.150 align:start position:0%
+going to be a Jas and a go node talking
+to<00:00:28.740><c> each</c><00:00:28.830><c> other</c><00:00:29.210><c> so</c><00:00:30.210><c> first</c><00:00:30.480><c> one</c><00:00:30.660><c> public</c><00:00:31.160><c> so</c>
+
+00:00:32.150 --> 00:00:32.160 align:start position:0%
+to each other so first one public so
+ 
+
+00:00:32.160 --> 00:00:34.819 align:start position:0%
+to each other so first one public so
+this<00:00:32.340><c> is</c><00:00:32.489><c> no</c><00:00:32.700><c> swarm</c><00:00:33.540><c> keys</c><00:00:33.809><c> it'll</c><00:00:34.680><c> take</c><00:00:34.800><c> a</c>
+
+00:00:34.819 --> 00:00:34.829 align:start position:0%
+this is no swarm keys it'll take a
+ 
+
+00:00:34.829 --> 00:00:36.860 align:start position:0%
+this is no swarm keys it'll take a
+second<00:00:35.219><c> to</c><00:00:35.340><c> boot</c><00:00:35.520><c> up</c><00:00:35.700><c> then</c><00:00:36.480><c> they're</c><00:00:36.600><c> gonna</c><00:00:36.690><c> run</c>
+
+00:00:36.860 --> 00:00:36.870 align:start position:0%
+second to boot up then they're gonna run
+ 
+
+00:00:36.870 --> 00:00:39.500 align:start position:0%
+second to boot up then they're gonna run
+so<00:00:37.559><c> what</c><00:00:37.980><c> we</c><00:00:38.160><c> can</c><00:00:38.610><c> see</c><00:00:38.910><c> here</c><00:00:38.940><c> at</c><00:00:39.270><c> the</c><00:00:39.360><c> beginning</c>
+
+00:00:39.500 --> 00:00:39.510 align:start position:0%
+so what we can see here at the beginning
+ 
+
+00:00:39.510 --> 00:00:42.049 align:start position:0%
+so what we can see here at the beginning
+of<00:00:39.719><c> the</c><00:00:39.809><c> traffic</c><00:00:40.170><c> this</c><00:00:40.290><c> is</c><00:00:40.350><c> normal</c><00:00:40.890><c> we</c><00:00:41.520><c> see</c><00:00:41.760><c> our</c>
+
+00:00:42.049 --> 00:00:42.059 align:start position:0%
+of the traffic this is normal we see our
+ 
+
+00:00:42.059 --> 00:00:45.470 align:start position:0%
+of the traffic this is normal we see our
+multi<00:00:42.930><c> stream</c><00:00:43.170><c> protocol</c><00:00:43.590><c> exchange</c><00:00:44.420><c> at</c><00:00:45.420><c> the</c>
+
+00:00:45.470 --> 00:00:45.480 align:start position:0%
+multi stream protocol exchange at the
+ 
+
+00:00:45.480 --> 00:00:46.549 align:start position:0%
+multi stream protocol exchange at the
+top<00:00:45.719><c> between</c><00:00:45.899><c> the</c><00:00:46.140><c> nodes</c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+top between the nodes
+ 
+
+00:00:46.559 --> 00:00:48.560 align:start position:0%
+top between the nodes
+and<00:00:46.649><c> then</c><00:00:46.829><c> it</c><00:00:46.950><c> goes</c><00:00:47.100><c> into</c><00:00:47.460><c> our</c><00:00:48.030><c> sick</c><00:00:48.390><c> IO</c>
+
+00:00:48.560 --> 00:00:48.570 align:start position:0%
+and then it goes into our sick IO
+ 
+
+00:00:48.570 --> 00:00:50.600 align:start position:0%
+and then it goes into our sick IO
+encryption<00:00:49.230><c> negotiation</c><00:00:49.890><c> and</c><00:00:50.100><c> then</c>
+
+00:00:50.600 --> 00:00:50.610 align:start position:0%
+encryption negotiation and then
+ 
+
+00:00:50.610 --> 00:00:52.939 align:start position:0%
+encryption negotiation and then
+everything's<00:00:51.030><c> encrypted</c><00:00:51.239><c> after</c><00:00:51.690><c> that</c><00:00:51.949><c> so</c>
+
+00:00:52.939 --> 00:00:52.949 align:start position:0%
+everything's encrypted after that so
+ 
+
+00:00:52.949 --> 00:00:55.060 align:start position:0%
+everything's encrypted after that so
+what<00:00:53.610><c> we</c><00:00:53.730><c> do</c><00:00:53.850><c> with</c><00:00:54.000><c> the</c><00:00:54.090><c> private</c><00:00:54.510><c> networks</c>
+
+00:00:55.060 --> 00:00:55.070 align:start position:0%
+what we do with the private networks
+ 
+
+00:00:55.070 --> 00:00:58.490 align:start position:0%
+what we do with the private networks
+which<00:00:56.070><c> will</c><00:00:56.100><c> run</c><00:00:56.430><c> now</c><00:00:56.640><c> and</c><00:00:57.170><c> I'll</c><00:00:58.170><c> just</c><00:00:58.320><c> go</c>
+
+00:00:58.490 --> 00:00:58.500 align:start position:0%
+which will run now and I'll just go
+ 
+
+00:00:58.500 --> 00:01:07.039 align:start position:0%
+which will run now and I'll just go
+ahead<00:00:58.649><c> and</c><00:00:58.770><c> restart</c><00:01:04.430><c> so</c><00:01:05.430><c> with</c><00:01:05.850><c> the</c><00:01:06.299><c> private</c>
+
+00:01:07.039 --> 00:01:07.049 align:start position:0%
+ahead and restart so with the private
+ 
+
+00:01:07.049 --> 00:01:08.960 align:start position:0%
+ahead and restart so with the private
+network<00:01:07.170><c> what</c><00:01:07.590><c> we're</c><00:01:07.770><c> doing</c><00:01:08.100><c> is</c><00:01:08.280><c> we</c><00:01:08.729><c> are</c>
+
+00:01:08.960 --> 00:01:08.970 align:start position:0%
+network what we're doing is we are
+ 
+
+00:01:08.970 --> 00:01:11.030 align:start position:0%
+network what we're doing is we are
+trying<00:01:09.240><c> to</c><00:01:09.450><c> leak</c><00:01:09.780><c> as</c><00:01:09.990><c> little</c><00:01:10.439><c> public</c>
+
+00:01:11.030 --> 00:01:11.040 align:start position:0%
+trying to leak as little public
+ 
+
+00:01:11.040 --> 00:01:13.219 align:start position:0%
+trying to leak as little public
+information<00:01:11.580><c> as</c><00:01:12.090><c> humanly</c><00:01:12.540><c> possible</c><00:01:12.990><c> or</c>
+
+00:01:13.219 --> 00:01:13.229 align:start position:0%
+information as humanly possible or
+ 
+
+00:01:13.229 --> 00:01:16.580 align:start position:0%
+information as humanly possible or
+robotically<00:01:13.890><c> possible</c><00:01:14.390><c> and</c><00:01:15.390><c> so</c><00:01:15.720><c> what</c><00:01:16.229><c> we</c><00:01:16.380><c> do</c>
+
+00:01:16.580 --> 00:01:16.590 align:start position:0%
+robotically possible and so what we do
+ 
+
+00:01:16.590 --> 00:01:19.969 align:start position:0%
+robotically possible and so what we do
+is<00:01:16.830><c> we</c><00:01:17.130><c> exchange</c><00:01:18.259><c> nonces</c><00:01:19.259><c> at</c><00:01:19.619><c> the</c><00:01:19.799><c> very</c>
+
+00:01:19.969 --> 00:01:19.979 align:start position:0%
+is we exchange nonces at the very
+ 
+
+00:01:19.979 --> 00:01:26.210 align:start position:0%
+is we exchange nonces at the very
+beginning<00:01:24.320><c> so</c><00:01:25.320><c> you</c><00:01:25.409><c> can</c><00:01:25.530><c> see</c><00:01:25.680><c> there's</c><00:01:26.070><c> no</c>
+
+00:01:26.210 --> 00:01:26.220 align:start position:0%
+beginning so you can see there's no
+ 
+
+00:01:26.220 --> 00:01:27.590 align:start position:0%
+beginning so you can see there's no
+multi-stream<00:01:26.790><c> you</c><00:01:26.909><c> don't</c><00:01:27.090><c> see</c><00:01:27.270><c> that</c><00:01:27.390><c> you</c>
+
+00:01:27.590 --> 00:01:27.600 align:start position:0%
+multi-stream you don't see that you
+ 
+
+00:01:27.600 --> 00:01:29.719 align:start position:0%
+multi-stream you don't see that you
+don't<00:01:27.750><c> see</c><00:01:27.900><c> the</c><00:01:28.020><c> sekai</c><00:01:28.320><c> Oh</c><00:01:28.460><c> everything</c><00:01:29.460><c> is</c>
+
+00:01:29.719 --> 00:01:29.729 align:start position:0%
+don't see the sekai Oh everything is
+ 
+
+00:01:29.729 --> 00:01:34.190 align:start position:0%
+don't see the sekai Oh everything is
+encrypted<00:01:30.390><c> after</c><00:01:31.049><c> a</c><00:01:31.890><c> 24</c><00:01:32.549><c> bite</c><00:01:32.729><c> nonce</c><00:01:33.570><c> exchange</c>
+
+00:01:34.190 --> 00:01:34.200 align:start position:0%
+encrypted after a 24 bite nonce exchange
+ 
+
+00:01:34.200 --> 00:01:35.590 align:start position:0%
+encrypted after a 24 bite nonce exchange
+which<00:01:34.409><c> we</c><00:01:34.530><c> see</c><00:01:34.680><c> at</c><00:01:34.890><c> the</c><00:01:35.009><c> very</c><00:01:35.040><c> beginning</c>
+
+00:01:35.590 --> 00:01:35.600 align:start position:0%
+which we see at the very beginning
+ 
+
+00:01:35.600 --> 00:01:39.289 align:start position:0%
+which we see at the very beginning
+here's<00:01:36.600><c> our</c><00:01:36.720><c> length</c><00:01:36.990><c> of</c><00:01:37.290><c> 24</c><00:01:37.710><c> bytes</c><00:01:38.030><c> both</c><00:01:39.030><c> notes</c>
+
+00:01:39.289 --> 00:01:39.299 align:start position:0%
+here's our length of 24 bytes both notes
+ 
+
+00:01:39.299 --> 00:01:40.190 align:start position:0%
+here's our length of 24 bytes both notes
+are<00:01:39.390><c> gonna</c><00:01:39.450><c> send</c><00:01:39.780><c> that</c><00:01:39.960><c> and</c><00:01:40.079><c> then</c>
+
+00:01:40.190 --> 00:01:40.200 align:start position:0%
+are gonna send that and then
+ 
+
+00:01:40.200 --> 00:01:43.550 align:start position:0%
+are gonna send that and then
+everything's<00:01:40.590><c> encrypted</c><00:01:41.390><c> I'm</c><00:01:42.390><c> gonna</c><00:01:42.570><c> run</c><00:01:42.840><c> the</c>
+
+00:01:43.550 --> 00:01:43.560 align:start position:0%
+everything's encrypted I'm gonna run the
+ 
+
+00:01:43.560 --> 00:01:46.280 align:start position:0%
+everything's encrypted I'm gonna run the
+Interop<00:01:44.220><c> tests</c><00:01:44.759><c> real</c><00:01:45.000><c> quick</c><00:01:45.210><c> so</c><00:01:45.689><c> what</c><00:01:45.930><c> we</c><00:01:46.079><c> have</c>
+
+00:01:46.280 --> 00:01:46.290 align:start position:0%
+Interop tests real quick so what we have
+ 
+
+00:01:46.290 --> 00:01:49.310 align:start position:0%
+Interop tests real quick so what we have
+for<00:01:46.590><c> the</c><00:01:46.710><c> interrupt</c><00:01:47.040><c> ESTs</c><00:01:47.460><c> is</c><00:01:48.020><c> we've</c><00:01:49.020><c> got</c>
+
+00:01:49.310 --> 00:01:49.320 align:start position:0%
+for the interrupt ESTs is we've got
+ 
+
+00:01:49.320 --> 00:01:52.280 align:start position:0%
+for the interrupt ESTs is we've got
+several<00:01:50.100><c> go</c><00:01:50.340><c> nodes</c><00:01:50.579><c> several</c><00:01:50.939><c> J's</c><00:01:51.149><c> needs</c><00:01:51.540><c> some</c>
+
+00:01:52.280 --> 00:01:52.290 align:start position:0%
+several go nodes several J's needs some
+ 
+
+00:01:52.290 --> 00:01:53.600 align:start position:0%
+several go nodes several J's needs some
+with<00:01:52.409><c> the</c><00:01:52.500><c> same</c><00:01:52.680><c> key</c><00:01:52.920><c> some</c><00:01:53.189><c> with</c><00:01:53.310><c> different</c>
+
+00:01:53.600 --> 00:01:53.610 align:start position:0%
+with the same key some with different
+ 
+
+00:01:53.610 --> 00:01:56.450 align:start position:0%
+with the same key some with different
+keys<00:01:53.759><c> some</c><00:01:54.030><c> public</c><00:01:54.450><c> and</c><00:01:55.100><c> we're</c><00:01:56.100><c> trying</c><00:01:56.310><c> to</c><00:01:56.369><c> get</c>
+
+00:01:56.450 --> 00:01:56.460 align:start position:0%
+keys some public and we're trying to get
+ 
+
+00:01:56.460 --> 00:01:58.910 align:start position:0%
+keys some public and we're trying to get
+them<00:01:56.670><c> to</c><00:01:56.700><c> make</c><00:01:57.570><c> sure</c><00:01:57.600><c> that</c><00:01:57.960><c> stuff</c><00:01:58.469><c> doesn't</c><00:01:58.799><c> do</c>
+
+00:01:58.910 --> 00:01:58.920 align:start position:0%
+them to make sure that stuff doesn't do
+ 
+
+00:01:58.920 --> 00:02:00.679 align:start position:0%
+them to make sure that stuff doesn't do
+what<00:01:59.070><c> it's</c><00:01:59.159><c> not</c><00:01:59.280><c> supposed</c><00:01:59.579><c> to</c><00:01:59.640><c> do</c><00:01:59.790><c> all</c><00:02:00.390><c> this</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+what it's not supposed to do all this
+ 
+
+00:02:00.689 --> 00:02:03.469 align:start position:0%
+what it's not supposed to do all this
+should<00:02:00.899><c> run</c><00:02:01.229><c> fairly</c><00:02:01.829><c> quickly</c><00:02:02.610><c> once</c><00:02:03.030><c> all</c><00:02:03.390><c> of</c>
+
+00:02:03.469 --> 00:02:03.479 align:start position:0%
+should run fairly quickly once all of
+ 
+
+00:02:03.479 --> 00:02:12.950 align:start position:0%
+should run fairly quickly once all of
+the<00:02:03.600><c> nodes</c><00:02:03.750><c> boot</c><00:02:04.049><c> up</c>
+
+00:02:12.950 --> 00:02:12.960 align:start position:0%
+ 
+ 
+
+00:02:12.960 --> 00:02:16.020 align:start position:0%
+ 
+so<00:02:13.960><c> we</c><00:02:14.230><c> CJ</c><00:02:14.800><c> s</c><00:02:14.860><c> 2j</c><00:02:15.070><c> s</c><00:02:15.280><c> with</c><00:02:15.430><c> the</c><00:02:15.460><c> same</c><00:02:15.700><c> private</c>
+
+00:02:16.020 --> 00:02:16.030 align:start position:0%
+so we CJ s 2j s with the same private
+ 
+
+00:02:16.030 --> 00:02:17.910 align:start position:0%
+so we CJ s 2j s with the same private
+network<00:02:16.300><c> key</c><00:02:16.510><c> we</c><00:02:16.750><c> see</c><00:02:16.930><c> go</c><00:02:17.170><c> to</c><00:02:17.230><c> J</c><00:02:17.530><c> s</c><00:02:17.650><c> with</c><00:02:17.860><c> the</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+network key we see go to J s with the
+ 
+
+00:02:17.920 --> 00:02:19.230 align:start position:0%
+network key we see go to J s with the
+same<00:02:18.130><c> private</c><00:02:18.460><c> network</c><00:02:18.730><c> key</c><00:02:18.910><c> what</c><00:02:19.090><c> they're</c>
+
+00:02:19.230 --> 00:02:19.240 align:start position:0%
+same private network key what they're
+ 
+
+00:02:19.240 --> 00:02:21.960 align:start position:0%
+same private network key what they're
+doing<00:02:19.540><c> is</c><00:02:19.660><c> they</c><00:02:19.810><c> are</c><00:02:19.840><c> we</c><00:02:20.830><c> put</c><00:02:21.070><c> data</c><00:02:21.250><c> into</c><00:02:21.580><c> one</c>
+
+00:02:21.960 --> 00:02:21.970 align:start position:0%
+doing is they are we put data into one
+ 
+
+00:02:21.970 --> 00:02:23.130 align:start position:0%
+doing is they are we put data into one
+of<00:02:22.090><c> the</c><00:02:22.180><c> nodes</c><00:02:22.360><c> and</c><00:02:22.540><c> then</c><00:02:22.690><c> we</c><00:02:22.780><c> pull</c><00:02:22.960><c> it</c><00:02:23.050><c> out</c>
+
+00:02:23.130 --> 00:02:23.140 align:start position:0%
+of the nodes and then we pull it out
+ 
+
+00:02:23.140 --> 00:02:24.780 align:start position:0%
+of the nodes and then we pull it out
+from<00:02:23.320><c> the</c><00:02:23.410><c> other</c><00:02:23.590><c> one</c><00:02:23.770><c> so</c><00:02:24.130><c> go</c><00:02:24.340><c> we</c><00:02:24.490><c> put</c><00:02:24.670><c> data</c>
+
+00:02:24.780 --> 00:02:24.790 align:start position:0%
+from the other one so go we put data
+ 
+
+00:02:24.790 --> 00:02:26.610 align:start position:0%
+from the other one so go we put data
+into<00:02:25.060><c> go</c><00:02:25.180><c> pull</c><00:02:25.480><c> it</c><00:02:25.570><c> out</c><00:02:25.630><c> with</c><00:02:25.780><c> gas</c><00:02:25.990><c> put</c><00:02:26.290><c> data</c><00:02:26.470><c> in</c>
+
+00:02:26.610 --> 00:02:26.620 align:start position:0%
+into go pull it out with gas put data in
+ 
+
+00:02:26.620 --> 00:02:27.810 align:start position:0%
+into go pull it out with gas put data in
+Jaspal<00:02:27.160><c> it</c><00:02:27.250><c> out</c><00:02:27.310><c> with</c><00:02:27.430><c> go</c>
+
+00:02:27.810 --> 00:02:27.820 align:start position:0%
+Jaspal it out with go
+ 
+
+00:02:27.820 --> 00:02:31.080 align:start position:0%
+Jaspal it out with go
+that's<00:02:28.270><c> totally</c><00:02:28.600><c> working</c><00:02:29.680><c> and</c><00:02:30.010><c> when</c><00:02:30.640><c> stuff</c>
+
+00:02:31.080 --> 00:02:31.090 align:start position:0%
+that's totally working and when stuff
+ 
+
+00:02:31.090 --> 00:02:32.310 align:start position:0%
+that's totally working and when stuff
+isn't<00:02:31.330><c> supposed</c><00:02:31.540><c> to</c><00:02:31.750><c> talk</c><00:02:31.930><c> to</c><00:02:32.050><c> each</c><00:02:32.170><c> other</c>
+
+00:02:32.310 --> 00:02:32.320 align:start position:0%
+isn't supposed to talk to each other
+ 
+
+00:02:32.320 --> 00:02:33.720 align:start position:0%
+isn't supposed to talk to each other
+they<00:02:32.770><c> don't</c><00:02:32.920><c> talk</c><00:02:33.070><c> to</c><00:02:33.130><c> each</c><00:02:33.250><c> other</c><00:02:33.490><c> yeah</c>
+
+00:02:33.720 --> 00:02:33.730 align:start position:0%
+they don't talk to each other yeah
+ 
+
+00:02:33.730 --> 00:02:38.730 align:start position:0%
+they don't talk to each other yeah
+they'll<00:02:34.000><c> past</c><00:02:36.090><c> so</c><00:02:37.090><c> go</c><00:02:37.600><c> already</c><00:02:37.840><c> has</c><00:02:38.290><c> private</c>
+
+00:02:38.730 --> 00:02:38.740 align:start position:0%
+they'll past so go already has private
+ 
+
+00:02:38.740 --> 00:02:41.130 align:start position:0%
+they'll past so go already has private
+network<00:02:39.040><c> support</c><00:02:39.580><c> um</c><00:02:40.000><c> J</c><00:02:40.450><c> s</c><00:02:40.630><c> we</c><00:02:40.930><c> should</c>
+
+00:02:41.130 --> 00:02:41.140 align:start position:0%
+network support um J s we should
+ 
+
+00:02:41.140 --> 00:02:45.810 align:start position:0%
+network support um J s we should
+actually<00:02:41.320><c> be</c><00:02:41.590><c> live</c><00:02:41.860><c> in</c><00:02:42.520><c> maybe</c><00:02:43.480><c> 31</c><00:02:44.700><c> but</c><00:02:45.700><c> it's</c>
+
+00:02:45.810 --> 00:02:45.820 align:start position:0%
+actually be live in maybe 31 but it's
+ 
+
+00:02:45.820 --> 00:02:49.650 align:start position:0%
+actually be live in maybe 31 but it's
+all<00:02:45.940><c> functioning</c><00:02:46.360><c> and</c><00:02:46.450><c> working</c><00:02:47.070><c> so</c><00:02:48.660><c> does</c>
+
+00:02:49.650 --> 00:02:49.660 align:start position:0%
+all functioning and working so does
+ 
+
+00:02:49.660 --> 00:02:50.820 align:start position:0%
+all functioning and working so does
+anybody<00:02:49.840><c> have</c><00:02:50.050><c> any</c><00:02:50.170><c> questions</c><00:02:50.560><c> about</c><00:02:50.680><c> that</c>
+
+00:02:50.820 --> 00:02:50.830 align:start position:0%
+anybody have any questions about that
+ 
+
+00:02:50.830 --> 00:03:10.260 align:start position:0%
+anybody have any questions about that
+before<00:02:51.070><c> I</c><00:02:51.250><c> transfer</c><00:02:51.730><c> into</c><00:02:52.510><c> s3</c>
+
+00:03:10.260 --> 00:03:10.270 align:start position:0%
+ 
+ 
+
+00:03:10.270 --> 00:03:14.970 align:start position:0%
+ 
+okay<00:03:11.430><c> so</c><00:03:12.430><c> now</c><00:03:13.000><c> moving</c><00:03:13.150><c> into</c><00:03:13.390><c> the</c><00:03:13.510><c> s3</c><00:03:14.200><c> datastore</c>
+
+00:03:14.970 --> 00:03:14.980 align:start position:0%
+okay so now moving into the s3 datastore
+ 
+
+00:03:14.980 --> 00:03:20.790 align:start position:0%
+okay so now moving into the s3 datastore
+so<00:03:16.320><c> jess</c><00:03:17.320><c> has</c><00:03:18.240><c> s3</c><00:03:19.240><c> datastore</c><00:03:19.690><c> support</c><00:03:20.200><c> now</c><00:03:20.410><c> and</c>
+
+00:03:20.790 --> 00:03:20.800 align:start position:0%
+so jess has s3 datastore support now and
+ 
+
+00:03:20.800 --> 00:03:24.900 align:start position:0%
+so jess has s3 datastore support now and
+you<00:03:21.010><c> can</c><00:03:21.130><c> use</c><00:03:21.280><c> it</c><00:03:21.460><c> and</c><00:03:21.580><c> it's</c><00:03:21.730><c> live</c><00:03:23.160><c> so</c><00:03:24.160><c> there</c><00:03:24.730><c> is</c>
+
+00:03:24.900 --> 00:03:24.910 align:start position:0%
+you can use it and it's live so there is
+ 
+
+00:03:24.910 --> 00:03:27.510 align:start position:0%
+you can use it and it's live so there is
+an<00:03:25.060><c> S</c><00:03:25.210><c> or</c><00:03:25.390><c> SP</c><00:03:26.050><c> datastore</c><00:03:26.440><c> repo</c><00:03:26.740><c> we're</c><00:03:27.340><c> just</c>
+
+00:03:27.510 --> 00:03:27.520 align:start position:0%
+an S or SP datastore repo we're just
+ 
+
+00:03:27.520 --> 00:03:29.430 align:start position:0%
+an S or SP datastore repo we're just
+going<00:03:27.700><c> to</c><00:03:27.760><c> run</c><00:03:28.090><c> this</c><00:03:28.240><c> right</c><00:03:28.630><c> now</c><00:03:28.780><c> I</c><00:03:28.810><c> just</c><00:03:29.020><c> have</c>
+
+00:03:29.430 --> 00:03:29.440 align:start position:0%
+going to run this right now I just have
+ 
+
+00:03:29.440 --> 00:03:33.350 align:start position:0%
+going to run this right now I just have
+a<00:03:29.730><c> bucket</c><00:03:30.780><c> running</c><00:03:31.780><c> Jacob</c><00:03:32.110><c> Hyun</c><00:03:32.260><c> Germany</c><00:03:32.650><c> and</c>
+
+00:03:33.350 --> 00:03:33.360 align:start position:0%
+a bucket running Jacob Hyun Germany and
+ 
+
+00:03:33.360 --> 00:03:36.180 align:start position:0%
+a bucket running Jacob Hyun Germany and
+just<00:03:34.360><c> a</c><00:03:34.450><c> temp</c><00:03:34.660><c> folder</c><00:03:34.840><c> because</c><00:03:35.170><c> you</c><00:03:35.830><c> know</c><00:03:35.950><c> data</c>
+
+00:03:36.180 --> 00:03:36.190 align:start position:0%
+just a temp folder because you know data
+ 
+
+00:03:36.190 --> 00:03:41.280 align:start position:0%
+just a temp folder because you know data
+permanence<00:03:38.940><c> so</c><00:03:39.940><c> I'm</c><00:03:40.150><c> just</c><00:03:40.270><c> gonna</c><00:03:40.390><c> run</c><00:03:40.690><c> this</c><00:03:40.960><c> on</c>
+
+00:03:41.280 --> 00:03:41.290 align:start position:0%
+permanence so I'm just gonna run this on
+ 
+
+00:03:41.290 --> 00:03:45.120 align:start position:0%
+permanence so I'm just gonna run this on
+full<00:03:41.800><c> debug</c><00:03:42.210><c> with</c><00:03:43.210><c> time</c><00:03:43.450><c> just</c><00:03:43.480><c> to</c><00:03:43.780><c> see</c><00:03:43.960><c> so</c><00:03:44.590><c> what</c>
+
+00:03:45.120 --> 00:03:45.130 align:start position:0%
+full debug with time just to see so what
+ 
+
+00:03:45.130 --> 00:03:46.860 align:start position:0%
+full debug with time just to see so what
+this<00:03:45.280><c> is</c><00:03:45.490><c> doing</c><00:03:45.700><c> you</c><00:03:46.030><c> see</c><00:03:46.210><c> an</c><00:03:46.300><c> error</c><00:03:46.510><c> here</c>
+
+00:03:46.860 --> 00:03:46.870 align:start position:0%
+this is doing you see an error here
+ 
+
+00:03:46.870 --> 00:03:48.810 align:start position:0%
+this is doing you see an error here
+that's<00:03:47.140><c> not</c><00:03:47.740><c> a</c><00:03:47.770><c> real</c><00:03:47.980><c> error</c><00:03:48.220><c> it's</c><00:03:48.490><c> because</c>
+
+00:03:48.810 --> 00:03:48.820 align:start position:0%
+that's not a real error it's because
+ 
+
+00:03:48.820 --> 00:03:50.310 align:start position:0%
+that's not a real error it's because
+it's<00:03:48.970><c> initializing</c><00:03:49.420><c> the</c><00:03:49.660><c> repo</c><00:03:49.960><c> so</c><00:03:50.080><c> this</c><00:03:50.230><c> is</c>
+
+00:03:50.310 --> 00:03:50.320 align:start position:0%
+it's initializing the repo so this is
+ 
+
+00:03:50.320 --> 00:03:51.540 align:start position:0%
+it's initializing the repo so this is
+gonna<00:03:50.410><c> take</c><00:03:50.500><c> a</c><00:03:50.650><c> little</c><00:03:50.860><c> bit</c><00:03:50.950><c> longer</c><00:03:51.160><c> the</c><00:03:51.340><c> first</c>
+
+00:03:51.540 --> 00:03:51.550 align:start position:0%
+gonna take a little bit longer the first
+ 
+
+00:03:51.550 --> 00:03:54.930 align:start position:0%
+gonna take a little bit longer the first
+time<00:03:51.790><c> that</c><00:03:52.450><c> repos</c><00:03:52.810><c> initialized</c><00:03:53.430><c> and</c><00:03:54.430><c> then</c><00:03:54.610><c> I'm</c>
+
+00:03:54.930 --> 00:03:54.940 align:start position:0%
+time that repos initialized and then I'm
+ 
+
+00:03:54.940 --> 00:03:58.440 align:start position:0%
+time that repos initialized and then I'm
+just<00:03:55.600><c> uploading</c><00:03:55.870><c> like</c><00:03:56.170><c> 25</c><00:03:56.680><c> random</c><00:03:57.450><c> kilobytes</c>
+
+00:03:58.440 --> 00:03:58.450 align:start position:0%
+just uploading like 25 random kilobytes
+ 
+
+00:03:58.450 --> 00:03:58.830 align:start position:0%
+just uploading like 25 random kilobytes
+of<00:03:58.570><c> data</c>
+
+00:03:58.830 --> 00:03:58.840 align:start position:0%
+of data
+ 
+
+00:03:58.840 --> 00:04:02.220 align:start position:0%
+of data
+nothing<00:03:59.680><c> super</c><00:03:59.830><c> huge</c><00:04:00.130><c> but</c><00:04:01.090><c> we</c><00:04:01.210><c> go</c><00:04:01.390><c> to</c><00:04:01.450><c> AZ</c><00:04:01.720><c> 3</c><00:04:01.930><c> and</c>
+
+00:04:02.220 --> 00:04:02.230 align:start position:0%
+nothing super huge but we go to AZ 3 and
+ 
+
+00:04:02.230 --> 00:04:04.770 align:start position:0%
+nothing super huge but we go to AZ 3 and
+we<00:04:02.290><c> refresh</c><00:04:02.710><c> and</c><00:04:03.700><c> we</c><00:04:03.820><c> have</c><00:04:03.970><c> it</c><00:04:04.240><c> nested</c><00:04:04.690><c> in</c>
+
+00:04:04.770 --> 00:04:04.780 align:start position:0%
+we refresh and we have it nested in
+ 
+
+00:04:04.780 --> 00:04:06.690 align:start position:0%
+we refresh and we have it nested in
+attempt<00:04:05.050><c> folder</c><00:04:05.350><c> in</c><00:04:05.560><c> our</c><00:04:05.620><c> ipfs</c><00:04:06.130><c> directory</c><00:04:06.520><c> and</c>
+
+00:04:06.690 --> 00:04:06.700 align:start position:0%
+attempt folder in our ipfs directory and
+ 
+
+00:04:06.700 --> 00:04:08.370 align:start position:0%
+attempt folder in our ipfs directory and
+we<00:04:06.820><c> see</c><00:04:07.030><c> our</c><00:04:07.180><c> blocks</c><00:04:07.480><c> our</c><00:04:07.750><c> data</c><00:04:07.930><c> store</c><00:04:08.140><c> all</c><00:04:08.350><c> of</c>
+
+00:04:08.370 --> 00:04:08.380 align:start position:0%
+we see our blocks our data store all of
+ 
+
+00:04:08.380 --> 00:04:10.830 align:start position:0%
+we see our blocks our data store all of
+our<00:04:08.470><c> config</c><00:04:09.100><c> inversion</c><00:04:09.520><c> if</c><00:04:10.210><c> I</c><00:04:10.420><c> run</c><00:04:10.660><c> this</c><00:04:10.780><c> again</c>
+
+00:04:10.830 --> 00:04:10.840 align:start position:0%
+our config inversion if I run this again
+ 
+
+00:04:10.840 --> 00:04:13.380 align:start position:0%
+our config inversion if I run this again
+you<00:04:11.440><c> know</c><00:04:11.500><c> it</c><00:04:11.620><c> took</c><00:04:11.770><c> like</c><00:04:11.950><c> 15</c><00:04:12.340><c> seconds</c><00:04:13.120><c> to</c><00:04:13.270><c> run</c>
+
+00:04:13.380 --> 00:04:13.390 align:start position:0%
+you know it took like 15 seconds to run
+ 
+
+00:04:13.390 --> 00:04:14.970 align:start position:0%
+you know it took like 15 seconds to run
+the<00:04:13.480><c> first</c><00:04:13.690><c> time</c><00:04:13.840><c> that's</c><00:04:14.380><c> including</c><00:04:14.800><c> node</c>
+
+00:04:14.970 --> 00:04:14.980 align:start position:0%
+the first time that's including node
+ 
+
+00:04:14.980 --> 00:04:18.030 align:start position:0%
+the first time that's including node
+boot<00:04:15.660><c> I'll</c><00:04:16.660><c> just</c><00:04:16.870><c> run</c><00:04:17.080><c> again</c><00:04:17.380><c> we</c><00:04:17.830><c> do</c><00:04:17.920><c> the</c>
+
+00:04:18.030 --> 00:04:18.040 align:start position:0%
+boot I'll just run again we do the
+ 
+
+00:04:18.040 --> 00:04:20.010 align:start position:0%
+boot I'll just run again we do the
+upload<00:04:18.250><c> this</c><00:04:18.970><c> is</c><00:04:19.120><c> uploading</c><00:04:19.570><c> and</c><00:04:19.720><c> pulling</c><00:04:19.960><c> you</c>
+
+00:04:20.010 --> 00:04:20.020 align:start position:0%
+upload this is uploading and pulling you
+ 
+
+00:04:20.020 --> 00:04:21.660 align:start position:0%
+upload this is uploading and pulling you
+back<00:04:20.049><c> and</c><00:04:20.680><c> then</c><00:04:20.770><c> verifying</c><00:04:21.190><c> that</c><00:04:21.370><c> I</c><00:04:21.400><c> got</c><00:04:21.580><c> the</c>
+
+00:04:21.660 --> 00:04:21.670 align:start position:0%
+back and then verifying that I got the
+ 
+
+00:04:21.670 --> 00:04:24.360 align:start position:0%
+back and then verifying that I got the
+data<00:04:21.790><c> that</c><00:04:21.970><c> I</c><00:04:22.030><c> put</c><00:04:22.180><c> up</c><00:04:22.270><c> there</c><00:04:22.300><c> so</c><00:04:22.960><c> it's</c><00:04:23.410><c> half</c>
+
+00:04:24.360 --> 00:04:24.370 align:start position:0%
+data that I put up there so it's half
+ 
+
+00:04:24.370 --> 00:04:26.610 align:start position:0%
+data that I put up there so it's half
+the<00:04:24.760><c> speed</c><00:04:25.090><c> so</c><00:04:25.450><c> it's</c><00:04:25.720><c> it's</c><00:04:26.020><c> pretty</c><00:04:26.140><c> quick</c><00:04:26.380><c> I</c>
+
+00:04:26.610 --> 00:04:26.620 align:start position:0%
+the speed so it's it's pretty quick I
+ 
+
+00:04:26.620 --> 00:04:27.750 align:start position:0%
+the speed so it's it's pretty quick I
+did<00:04:27.070><c> it</c>
+
+00:04:27.750 --> 00:04:27.760 align:start position:0%
+did it
+ 
+
+00:04:27.760 --> 00:04:29.940 align:start position:0%
+did it
+oregan<00:04:28.300><c> and</c><00:04:28.540><c> that</c><00:04:28.960><c> was</c><00:04:29.050><c> much</c><00:04:29.230><c> much</c><00:04:29.410><c> slower</c><00:04:29.710><c> so</c>
+
+00:04:29.940 --> 00:04:29.950 align:start position:0%
+oregan and that was much much slower so
+ 
+
+00:04:29.950 --> 00:04:41.090 align:start position:0%
+oregan and that was much much slower so
+I<00:04:29.980><c> changed</c><00:04:30.400><c> bucket</c><00:04:30.970><c> regions</c><00:04:31.560><c> so</c><00:04:32.560><c> that's</c><00:04:33.490><c> it</c>
+
+00:04:41.090 --> 00:04:41.100 align:start position:0%
+ 
+ 
+
+00:04:41.100 --> 00:04:47.580 align:start position:0%
+ 
+yes<00:04:44.580><c> so</c><00:04:45.580><c> a</c><00:04:45.610><c> lot</c><00:04:45.970><c> of</c><00:04:46.060><c> people</c><00:04:46.300><c> want</c><00:04:46.690><c> to</c><00:04:46.810><c> backup</c>
+
+00:04:47.580 --> 00:04:47.590 align:start position:0%
+yes so a lot of people want to backup
+ 
+
+00:04:47.590 --> 00:04:50.220 align:start position:0%
+yes so a lot of people want to backup
+information<00:04:48.220><c> and</c><00:04:48.670><c> put</c><00:04:48.880><c> it</c><00:04:48.910><c> on</c><00:04:49.000><c> s3</c><00:04:49.240><c> I'm</c><00:04:49.960><c> rather</c>
+
+00:04:50.220 --> 00:04:50.230 align:start position:0%
+information and put it on s3 I'm rather
+ 
+
+00:04:50.230 --> 00:04:51.570 align:start position:0%
+information and put it on s3 I'm rather
+than<00:04:50.410><c> having</c><00:04:50.560><c> it</c><00:04:50.650><c> all</c><00:04:50.770><c> locally</c><00:04:51.100><c> and</c><00:04:51.280><c> so</c><00:04:51.430><c> this</c>
+
+00:04:51.570 --> 00:04:51.580 align:start position:0%
+than having it all locally and so this
+ 
+
+00:04:51.580 --> 00:04:52.890 align:start position:0%
+than having it all locally and so this
+is<00:04:51.670><c> a</c><00:04:51.700><c> great</c><00:04:51.910><c> usage</c><00:04:52.240><c> for</c><00:04:52.420><c> that</c><00:04:52.480><c> so</c><00:04:52.750><c> you</c><00:04:52.810><c> can</c>
+
+00:04:52.890 --> 00:04:52.900 align:start position:0%
+is a great usage for that so you can
+ 
+
+00:04:52.900 --> 00:04:54.210 align:start position:0%
+is a great usage for that so you can
+just<00:04:53.020><c> stick</c><00:04:53.140><c> it</c><00:04:53.260><c> off</c><00:04:53.350><c> there</c><00:04:53.590><c> and</c><00:04:53.860><c> you</c><00:04:54.040><c> can</c>
+
+00:04:54.210 --> 00:04:54.220 align:start position:0%
+just stick it off there and you can
+ 
+
+00:04:54.220 --> 00:04:55.860 align:start position:0%
+just stick it off there and you can
+split<00:04:54.460><c> how</c><00:04:54.670><c> you</c><00:04:54.730><c> want</c><00:04:55.060><c> it</c><00:04:55.150><c> to</c><00:04:55.210><c> if</c><00:04:55.600><c> you</c><00:04:55.720><c> want</c>
+
+00:04:55.860 --> 00:04:55.870 align:start position:0%
+split how you want it to if you want
+ 
+
+00:04:55.870 --> 00:04:57.510 align:start position:0%
+split how you want it to if you want
+your<00:04:55.900><c> keys</c><00:04:56.140><c> or</c><00:04:56.320><c> your</c><00:04:56.410><c> data</c><00:04:56.560><c> store</c><00:04:56.740><c> locally</c><00:04:57.100><c> you</c>
+
+00:04:57.510 --> 00:04:57.520 align:start position:0%
+your keys or your data store locally you
+ 
+
+00:04:57.520 --> 00:04:59.700 align:start position:0%
+your keys or your data store locally you
+can<00:04:57.550><c> specify</c><00:04:57.880><c> where</c><00:04:58.450><c> and</c><00:04:58.990><c> what</c><00:04:59.230><c> you</c><00:04:59.260><c> want</c><00:04:59.590><c> up</c>
+
+00:04:59.700 --> 00:04:59.710 align:start position:0%
+can specify where and what you want up
+ 
+
+00:04:59.710 --> 00:05:03.030 align:start position:0%
+can specify where and what you want up
+there<00:05:00.450><c> so</c><00:05:01.450><c> and</c><00:05:01.900><c> we</c><00:05:02.140><c> also</c><00:05:02.290><c> support</c><00:05:02.530><c> custom</c>
+
+00:05:03.030 --> 00:05:03.040 align:start position:0%
+there so and we also support custom
+ 
+
+00:05:03.040 --> 00:05:06.030 align:start position:0%
+there so and we also support custom
+locks<00:05:03.280><c> now</c><00:05:03.490><c> in</c><00:05:03.900><c> datastore</c><00:05:04.900><c> because</c><00:05:05.800><c> that</c><00:05:05.920><c> was</c>
+
+00:05:06.030 --> 00:05:06.040 align:start position:0%
+locks now in datastore because that was
+ 
+
+00:05:06.040 --> 00:05:08.550 align:start position:0%
+locks now in datastore because that was
+one<00:05:06.160><c> of</c><00:05:06.190><c> the</c><00:05:06.310><c> things</c><00:05:06.460><c> we</c><00:05:06.670><c> needed</c><00:05:06.880><c> for</c><00:05:07.470><c> s3</c><00:05:08.470><c> to</c>
+
+00:05:08.550 --> 00:05:08.560 align:start position:0%
+one of the things we needed for s3 to
+ 
+
+00:05:08.560 --> 00:05:12.120 align:start position:0%
+one of the things we needed for s3 to
+work<00:05:08.680><c> properly</c><00:05:09.120><c> so</c>
+

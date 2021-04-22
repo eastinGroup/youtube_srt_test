@@ -1,0 +1,376 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:03.800 align:start position:0%
+ 
+so<00:00:00.930><c> Julian</c><00:00:01.800><c> is</c><00:00:01.920><c> not</c><00:00:02.100><c> yet</c><00:00:02.280><c> so</c><00:00:02.580><c> go</c><00:00:02.879><c> and</c><00:00:03.449><c> I</c><00:00:03.600><c> will</c>
+
+00:00:03.800 --> 00:00:03.810 align:start position:0%
+so Julian is not yet so go and I will
+ 
+
+00:00:03.810 --> 00:00:06.499 align:start position:0%
+so Julian is not yet so go and I will
+try<00:00:04.620><c> to</c><00:00:04.680><c> explain</c><00:00:05.100><c> what</c><00:00:05.279><c> the</c><00:00:05.370><c> problems</c><00:00:05.730><c> are</c><00:00:05.850><c> so</c>
+
+00:00:06.499 --> 00:00:06.509 align:start position:0%
+try to explain what the problems are so
+ 
+
+00:00:06.509 --> 00:00:07.970 align:start position:0%
+try to explain what the problems are so
+the<00:00:06.600><c> problem</c><00:00:06.839><c> seems</c><00:00:07.020><c> to</c><00:00:07.080><c> be</c><00:00:07.140><c> pop</c><00:00:07.350><c> sub</c><00:00:07.589><c> is</c><00:00:07.740><c> slow</c>
+
+00:00:07.970 --> 00:00:07.980 align:start position:0%
+the problem seems to be pop sub is slow
+ 
+
+00:00:07.980 --> 00:00:12.259 align:start position:0%
+the problem seems to be pop sub is slow
+and<00:00:08.570><c> it's</c><00:00:09.570><c> not</c><00:00:09.719><c> configurable</c><00:00:10.910><c> and</c><00:00:11.910><c> the</c>
+
+00:00:12.259 --> 00:00:12.269 align:start position:0%
+and it's not configurable and the
+ 
+
+00:00:12.269 --> 00:00:15.140 align:start position:0%
+and it's not configurable and the
+pub/sub<00:00:12.780><c> message</c><00:00:13.320><c> reveals</c><00:00:13.650><c> the</c><00:00:13.860><c> peer</c><00:00:14.009><c> ID</c><00:00:14.250><c> so</c>
+
+00:00:15.140 --> 00:00:15.150 align:start position:0%
+pub/sub message reveals the peer ID so
+ 
+
+00:00:15.150 --> 00:00:17.960 align:start position:0%
+pub/sub message reveals the peer ID so
+the<00:00:15.299><c> plan</c><00:00:15.480><c> was</c><00:00:15.750><c> that</c><00:00:16.609><c> pluggable</c><00:00:17.609><c> pops</c><00:00:17.789><c> are</c>
+
+00:00:17.960 --> 00:00:17.970 align:start position:0%
+the plan was that pluggable pops are
+ 
+
+00:00:17.970 --> 00:00:19.849 align:start position:0%
+the plan was that pluggable pops are
+protocol<00:00:18.390><c> maybe</c><00:00:18.930><c> which</c><00:00:19.170><c> is</c><00:00:19.289><c> application</c>
+
+00:00:19.849 --> 00:00:19.859 align:start position:0%
+protocol maybe which is application
+ 
+
+00:00:19.859 --> 00:00:21.620 align:start position:0%
+protocol maybe which is application
+specific<00:00:20.340><c> so</c><00:00:20.609><c> right</c><00:00:20.820><c> now</c><00:00:20.970><c> there's</c><00:00:21.180><c> a</c><00:00:21.240><c> default</c>
+
+00:00:21.620 --> 00:00:21.630 align:start position:0%
+specific so right now there's a default
+ 
+
+00:00:21.630 --> 00:00:24.109 align:start position:0%
+specific so right now there's a default
+so<00:00:22.260><c> if</c><00:00:22.350><c> you</c><00:00:22.410><c> have</c><00:00:22.529><c> a</c><00:00:22.560><c> pluggable</c><00:00:23.490><c> pub/sub</c>
+
+00:00:24.109 --> 00:00:24.119 align:start position:0%
+so if you have a pluggable pub/sub
+ 
+
+00:00:24.119 --> 00:00:26.089 align:start position:0%
+so if you have a pluggable pub/sub
+protocol<00:00:24.539><c> then</c><00:00:24.810><c> maybe</c><00:00:25.320><c> we</c><00:00:25.560><c> can</c><00:00:25.710><c> tune</c><00:00:25.920><c> it</c><00:00:26.070><c> for</c>
+
+00:00:26.089 --> 00:00:26.099 align:start position:0%
+protocol then maybe we can tune it for
+ 
+
+00:00:26.099 --> 00:00:29.630 align:start position:0%
+protocol then maybe we can tune it for
+applications<00:00:27.080><c> and</c><00:00:28.080><c> steal</c><00:00:28.859><c> data</c><00:00:29.070><c> pruning</c><00:00:29.490><c> so</c>
+
+00:00:29.630 --> 00:00:29.640 align:start position:0%
+applications and steal data pruning so
+ 
+
+00:00:29.640 --> 00:00:32.060 align:start position:0%
+applications and steal data pruning so
+we<00:00:29.730><c> get</c><00:00:29.880><c> a</c><00:00:29.910><c> message</c><00:00:30.269><c> and</c><00:00:30.830><c> sometimes</c><00:00:31.830><c> you</c><00:00:32.040><c> have</c>
+
+00:00:32.060 --> 00:00:32.070 align:start position:0%
+we get a message and sometimes you have
+ 
+
+00:00:32.070 --> 00:00:33.709 align:start position:0%
+we get a message and sometimes you have
+a<00:00:32.189><c> dynamic</c><00:00:32.430><c> app</c><00:00:32.820><c> so</c><00:00:33.030><c> you</c><00:00:33.180><c> have</c><00:00:33.329><c> a</c><00:00:33.360><c> stale</c>
+
+00:00:33.709 --> 00:00:33.719 align:start position:0%
+a dynamic app so you have a stale
+ 
+
+00:00:33.719 --> 00:00:35.209 align:start position:0%
+a dynamic app so you have a stale
+message<00:00:34.079><c> you</c><00:00:34.200><c> don't</c><00:00:34.350><c> want</c><00:00:34.530><c> that</c><00:00:34.680><c> too</c>
+
+00:00:35.209 --> 00:00:35.219 align:start position:0%
+message you don't want that too
+ 
+
+00:00:35.219 --> 00:00:37.370 align:start position:0%
+message you don't want that too
+it's<00:00:35.489><c> useless</c><00:00:35.730><c> so</c><00:00:36.030><c> we</c><00:00:36.149><c> don't</c><00:00:36.329><c> want</c><00:00:36.480><c> to</c><00:00:36.750><c> that</c><00:00:36.960><c> we</c>
+
+00:00:37.370 --> 00:00:37.380 align:start position:0%
+it's useless so we don't want to that we
+ 
+
+00:00:37.380 --> 00:00:40.220 align:start position:0%
+it's useless so we don't want to that we
+want<00:00:37.559><c> don't</c><00:00:37.950><c> want</c><00:00:38.040><c> to</c><00:00:38.160><c> propagate</c><00:00:38.399><c> that</c><00:00:38.760><c> and</c><00:00:39.230><c> if</c>
+
+00:00:40.220 --> 00:00:40.230 align:start position:0%
+want don't want to propagate that and if
+ 
+
+00:00:40.230 --> 00:00:41.600 align:start position:0%
+want don't want to propagate that and if
+you<00:00:40.350><c> have</c><00:00:40.469><c> a</c><00:00:40.500><c> more</c><00:00:40.680><c> structured</c><00:00:40.980><c> pop</c><00:00:41.399><c> sub</c>
+
+00:00:41.600 --> 00:00:41.610 align:start position:0%
+you have a more structured pop sub
+ 
+
+00:00:41.610 --> 00:00:44.959 align:start position:0%
+you have a more structured pop sub
+overlay<00:00:42.000><c> then</c><00:00:42.570><c> it</c><00:00:43.010><c> the</c><00:00:44.010><c> PRI</c><00:00:44.309><c> ID</c><00:00:44.460><c> which</c><00:00:44.820><c> is</c><00:00:44.910><c> in</c>
+
+00:00:44.959 --> 00:00:44.969 align:start position:0%
+overlay then it the PRI ID which is in
+ 
+
+00:00:44.969 --> 00:00:46.760 align:start position:0%
+overlay then it the PRI ID which is in
+the<00:00:45.059><c> pub</c><00:00:45.180><c> sub</c><00:00:45.360><c> message</c><00:00:45.660><c> that</c><00:00:46.140><c> can</c><00:00:46.350><c> be</c><00:00:46.500><c> used</c><00:00:46.649><c> to</c>
+
+00:00:46.760 --> 00:00:46.770 align:start position:0%
+the pub sub message that can be used to
+ 
+
+00:00:46.770 --> 00:00:50.959 align:start position:0%
+the pub sub message that can be used to
+dos<00:00:47.390><c> here</c><00:00:48.390><c> so</c><00:00:49.350><c> that</c><00:00:49.890><c> pops</c><00:00:50.460><c> up</c><00:00:50.579><c> message</c><00:00:50.850><c> should</c>
+
+00:00:50.959 --> 00:00:50.969 align:start position:0%
+dos here so that pops up message should
+ 
+
+00:00:50.969 --> 00:00:53.119 align:start position:0%
+dos here so that pops up message should
+be<00:00:51.030><c> without</c><00:00:51.329><c> the</c><00:00:51.539><c> PID</c><00:00:51.899><c> and</c><00:00:52.230><c> I</c><00:00:52.829><c> don't</c><00:00:52.949><c> know</c><00:00:53.010><c> what</c>
+
+00:00:53.119 --> 00:00:53.129 align:start position:0%
+be without the PID and I don't know what
+ 
+
+00:00:53.129 --> 00:00:56.090 align:start position:0%
+be without the PID and I don't know what
+the<00:00:53.219><c> last</c><00:00:53.340><c> thing</c><00:00:53.489><c> is</c><00:00:54.410><c> yeah</c><00:00:55.469><c> so</c><00:00:55.860><c> I'm</c><00:00:56.010><c> asking</c>
+
+00:00:56.090 --> 00:00:56.100 align:start position:0%
+the last thing is yeah so I'm asking
+ 
+
+00:00:56.100 --> 00:00:57.979 align:start position:0%
+the last thing is yeah so I'm asking
+about<00:00:56.309><c> there</c><00:00:56.550><c> pub/sub</c><00:00:57.390><c> messaging</c><00:00:57.420><c> without</c><00:00:57.960><c> a</c>
+
+00:00:57.979 --> 00:00:57.989 align:start position:0%
+about there pub/sub messaging without a
+ 
+
+00:00:57.989 --> 00:01:00.080 align:start position:0%
+about there pub/sub messaging without a
+peer<00:00:58.199><c> IDs</c><00:00:58.469><c> because</c><00:00:59.399><c> currently</c><00:00:59.670><c> we're</c>
+
+00:01:00.080 --> 00:01:00.090 align:start position:0%
+peer IDs because currently we're
+ 
+
+00:01:00.090 --> 00:01:01.610 align:start position:0%
+peer IDs because currently we're
+considering<00:01:00.420><c> about</c><00:01:00.629><c> there</c><00:01:00.840><c> and</c><00:01:01.020><c> in</c><00:01:01.140><c> an</c>
+
+00:01:01.610 --> 00:01:01.620 align:start position:0%
+considering about there and in an
+ 
+
+00:01:01.620 --> 00:01:03.830 align:start position:0%
+considering about there and in an
+ordinary<00:01:02.100><c> smote</c><00:01:02.520><c> like</c><00:01:02.850><c> when</c><00:01:03.030><c> you</c><00:01:03.420><c> don't</c><00:01:03.690><c> want</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+ordinary smote like when you don't want
+ 
+
+00:01:03.840 --> 00:01:05.600 align:start position:0%
+ordinary smote like when you don't want
+to<00:01:03.899><c> expose</c><00:01:04.199><c> what</c><00:01:04.500><c> you're</c><00:01:04.650><c> doing</c><00:01:04.979><c> through</c><00:01:05.430><c> the</c>
+
+00:01:05.600 --> 00:01:05.610 align:start position:0%
+to expose what you're doing through the
+ 
+
+00:01:05.610 --> 00:01:07.760 align:start position:0%
+to expose what you're doing through the
+pub<00:01:05.760><c> table</c><00:01:06.000><c> so</c><00:01:06.420><c> that</c><00:01:06.570><c> maybe</c><00:01:06.960><c> this</c><00:01:07.260><c> can</c><00:01:07.409><c> be</c><00:01:07.590><c> left</c>
+
+00:01:07.760 --> 00:01:07.770 align:start position:0%
+pub table so that maybe this can be left
+ 
+
+00:01:07.770 --> 00:01:09.469 align:start position:0%
+pub table so that maybe this can be left
+to<00:01:07.890><c> the</c><00:01:07.979><c> application</c><00:01:08.460><c> layer</c><00:01:08.490><c> to</c><00:01:08.880><c> decide</c><00:01:09.210><c> how</c>
+
+00:01:09.469 --> 00:01:09.479 align:start position:0%
+to the application layer to decide how
+ 
+
+00:01:09.479 --> 00:01:11.330 align:start position:0%
+to the application layer to decide how
+they<00:01:09.600><c> want</c><00:01:09.689><c> to</c><00:01:09.810><c> deal</c><00:01:09.930><c> with</c><00:01:09.960><c> peer</c><00:01:10.260><c> ID</c><00:01:10.439><c> and</c><00:01:11.189><c> the</c>
+
+00:01:11.330 --> 00:01:11.340 align:start position:0%
+they want to deal with peer ID and the
+ 
+
+00:01:11.340 --> 00:01:15.350 align:start position:0%
+they want to deal with peer ID and the
+last<00:01:11.580><c> one</c><00:01:11.850><c> is</c><00:01:12.540><c> is</c><00:01:13.170><c> that</c><00:01:13.640><c> because</c><00:01:14.640><c> we</c><00:01:14.880><c> currently</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+last one is is that because we currently
+ 
+
+00:01:15.360 --> 00:01:17.450 align:start position:0%
+last one is is that because we currently
+as<00:01:15.780><c> our</c><00:01:16.110><c> understanding</c><00:01:16.259><c> is</c><00:01:16.799><c> that</c><00:01:16.830><c> the</c><00:01:17.009><c> pub</c><00:01:17.250><c> sub</c>
+
+00:01:17.450 --> 00:01:17.460 align:start position:0%
+as our understanding is that the pub sub
+ 
+
+00:01:17.460 --> 00:01:19.370 align:start position:0%
+as our understanding is that the pub sub
+data<00:01:17.820><c> format</c><00:01:18.180><c> is</c><00:01:18.270><c> different</c><00:01:18.540><c> from</c><00:01:18.600><c> IP</c><00:01:18.810><c> NS</c><00:01:19.140><c> so</c>
+
+00:01:19.370 --> 00:01:19.380 align:start position:0%
+data format is different from IP NS so
+ 
+
+00:01:19.380 --> 00:01:21.380 align:start position:0%
+data format is different from IP NS so
+if<00:01:19.500><c> you</c><00:01:19.619><c> subscribe</c><00:01:19.920><c> to</c><00:01:20.130><c> our</c><00:01:20.280><c> MPLS</c><00:01:20.820><c> you</c><00:01:21.119><c> can't</c>
+
+00:01:21.380 --> 00:01:21.390 align:start position:0%
+if you subscribe to our MPLS you can't
+ 
+
+00:01:21.390 --> 00:01:25.249 align:start position:0%
+if you subscribe to our MPLS you can't
+reuse<00:01:22.020><c> your</c><00:01:22.820><c> result</c><00:01:23.820><c> from</c><00:01:24.000><c> there</c><00:01:24.330><c> pops</c><00:01:24.540><c> up</c><00:01:24.720><c> so</c>
+
+00:01:25.249 --> 00:01:25.259 align:start position:0%
+reuse your result from there pops up so
+ 
+
+00:01:25.259 --> 00:01:27.230 align:start position:0%
+reuse your result from there pops up so
+if<00:01:25.500><c> that</c><00:01:25.680><c> the</c><00:01:25.860><c> tape</c><00:01:26.070><c> format</c><00:01:26.729><c> can</c><00:01:26.909><c> be</c><00:01:27.000><c> shared</c>
+
+00:01:27.230 --> 00:01:27.240 align:start position:0%
+if that the tape format can be shared
+ 
+
+00:01:27.240 --> 00:01:28.580 align:start position:0%
+if that the tape format can be shared
+between<00:01:27.360><c> those</c><00:01:27.600><c> two</c><00:01:27.780><c> mechanisms</c><00:01:28.049><c> the</c>
+
+00:01:28.580 --> 00:01:28.590 align:start position:0%
+between those two mechanisms the
+ 
+
+00:01:28.590 --> 00:01:30.380 align:start position:0%
+between those two mechanisms the
+application<00:01:29.070><c> layer</c><00:01:29.189><c> can</c><00:01:29.430><c> kind</c><00:01:29.820><c> of</c><00:01:29.880><c> have</c><00:01:30.150><c> a</c><00:01:30.180><c> way</c>
+
+00:01:30.380 --> 00:01:30.390 align:start position:0%
+application layer can kind of have a way
+ 
+
+00:01:30.390 --> 00:01:33.469 align:start position:0%
+application layer can kind of have a way
+of<00:01:30.420><c> optimizers</c><00:01:31.409><c> mechanism</c><00:01:31.939><c> so</c><00:01:32.939><c> this</c><00:01:33.090><c> is</c><00:01:33.210><c> less</c>
+
+00:01:33.469 --> 00:01:33.479 align:start position:0%
+of optimizers mechanism so this is less
+ 
+
+00:01:33.479 --> 00:01:35.390 align:start position:0%
+of optimizers mechanism so this is less
+like<00:01:33.689><c> a</c><00:01:33.720><c> solution</c><00:01:34.500><c> but</c><00:01:34.650><c> kind</c><00:01:34.950><c> of</c><00:01:34.979><c> like</c><00:01:35.100><c> a</c><00:01:35.159><c> wish</c>
+
+00:01:35.390 --> 00:01:35.400 align:start position:0%
+like a solution but kind of like a wish
+ 
+
+00:01:35.400 --> 00:01:38.060 align:start position:0%
+like a solution but kind of like a wish
+list<00:01:35.610><c> of</c><00:01:35.880><c> what</c><00:01:36.509><c> we</c><00:01:36.689><c> think</c><00:01:37.079><c> if</c><00:01:37.290><c> we</c><00:01:37.320><c> can</c><00:01:37.770><c> have</c>
+
+00:01:38.060 --> 00:01:38.070 align:start position:0%
+list of what we think if we can have
+ 
+
+00:01:38.070 --> 00:01:40.219 align:start position:0%
+list of what we think if we can have
+that<00:01:38.430><c> will</c><00:01:38.759><c> make</c><00:01:39.060><c> building</c><00:01:39.509><c> the</c><00:01:39.750><c> dynamic</c>
+
+00:01:40.219 --> 00:01:40.229 align:start position:0%
+that will make building the dynamic
+ 
+
+00:01:40.229 --> 00:01:42.950 align:start position:0%
+that will make building the dynamic
+applications<00:01:40.740><c> better</c><00:01:41.299><c> and</c><00:01:42.299><c> I</c><00:01:42.479><c> think</c><00:01:42.840><c> we</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+applications better and I think we
+ 
+
+00:01:42.960 --> 00:01:44.630 align:start position:0%
+applications better and I think we
+deserve<00:01:43.079><c> the</c><00:01:43.320><c> trophy</c><00:01:43.619><c> because</c><00:01:43.740><c> I</c><00:01:43.920><c> deep</c><00:01:44.430><c> dive</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+deserve the trophy because I deep dive
+ 
+
+00:01:44.640 --> 00:01:47.420 align:start position:0%
+deserve the trophy because I deep dive
+was<00:01:44.790><c> so</c><00:01:44.970><c> deep</c><00:01:45.149><c> Satoshi</c><00:01:46.140><c> step</c><00:01:46.470><c> don't</c><00:01:46.649><c> step</c><00:01:47.280><c> do</c>
+
+00:01:47.420 --> 00:01:47.430 align:start position:0%
+was so deep Satoshi step don't step do
+ 
+
+00:01:47.430 --> 00:01:51.800 align:start position:0%
+was so deep Satoshi step don't step do
+into<00:01:47.610><c> it</c><00:01:47.700><c> and</c><00:01:47.880><c> was</c><00:01:48.060><c> never</c><00:01:48.210><c> seen</c><00:01:48.360><c> again</c>
+
+00:01:51.800 --> 00:01:51.810 align:start position:0%
+ 
+ 
+
+00:01:51.810 --> 00:01:56.180 align:start position:0%
+ 
+[Applause]
+

@@ -1,0 +1,432 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.330 --> 00:00:06.320 align:start position:0%
+ 
+okay<00:00:03.330><c> um</c><00:00:04.400><c> good</c><00:00:05.400><c> morning</c><00:00:05.730><c> everyone</c>
+
+00:00:06.320 --> 00:00:06.330 align:start position:0%
+okay um good morning everyone
+ 
+
+00:00:06.330 --> 00:00:08.900 align:start position:0%
+okay um good morning everyone
+I<00:00:06.359><c> think</c><00:00:07.350><c> Matilda</c><00:00:07.830><c> is</c><00:00:07.890><c> expressing</c><00:00:08.760><c> the</c>
+
+00:00:08.900 --> 00:00:08.910 align:start position:0%
+I think Matilda is expressing the
+ 
+
+00:00:08.910 --> 00:00:12.459 align:start position:0%
+I think Matilda is expressing the
+general<00:00:09.210><c> sentiment</c><00:00:09.719><c> of</c><00:00:09.900><c> our</c><00:00:10.080><c> entire</c><00:00:10.559><c> group</c>
+
+00:00:12.459 --> 00:00:12.469 align:start position:0%
+general sentiment of our entire group
+ 
+
+00:00:12.469 --> 00:00:15.519 align:start position:0%
+general sentiment of our entire group
+yes<00:00:13.469><c> so</c><00:00:13.620><c> we</c><00:00:13.769><c> talked</c><00:00:14.009><c> about</c><00:00:14.160><c> replicating</c><00:00:14.910><c> a</c>
+
+00:00:15.519 --> 00:00:15.529 align:start position:0%
+yes so we talked about replicating a
+ 
+
+00:00:15.529 --> 00:00:17.359 align:start position:0%
+yes so we talked about replicating a
+replication<00:00:16.529><c> protocol</c><00:00:17.039><c> what</c><00:00:17.250><c> is</c><00:00:17.340><c> a</c>
+
+00:00:17.359 --> 00:00:17.369 align:start position:0%
+replication protocol what is a
+ 
+
+00:00:17.369 --> 00:00:19.929 align:start position:0%
+replication protocol what is a
+replication<00:00:17.850><c> protocol</c><00:00:18.390><c> you</c><00:00:18.750><c> might</c><00:00:18.960><c> ask</c>
+
+00:00:19.929 --> 00:00:19.939 align:start position:0%
+replication protocol you might ask
+ 
+
+00:00:19.939 --> 00:00:23.870 align:start position:0%
+replication protocol you might ask
+so<00:00:20.939><c> a</c><00:00:21.270><c> replication</c><00:00:21.779><c> protocol</c><00:00:22.350><c> means</c><00:00:22.650><c> a</c><00:00:22.859><c> way</c><00:00:23.160><c> to</c>
+
+00:00:23.870 --> 00:00:23.880 align:start position:0%
+so a replication protocol means a way to
+ 
+
+00:00:23.880 --> 00:00:26.990 align:start position:0%
+so a replication protocol means a way to
+replicate<00:00:24.480><c> all</c><00:00:24.720><c> or</c><00:00:25.320><c> part</c><00:00:25.680><c> of</c><00:00:25.800><c> a</c><00:00:26.130><c> merkel</c><00:00:26.460><c> dag</c><00:00:26.670><c> in</c>
+
+00:00:26.990 --> 00:00:27.000 align:start position:0%
+replicate all or part of a merkel dag in
+ 
+
+00:00:27.000 --> 00:00:30.730 align:start position:0%
+replicate all or part of a merkel dag in
+an<00:00:27.560><c> untrusted</c><00:00:28.560><c> environment</c><00:00:29.279><c> ie</c><00:00:29.660><c> ipfs</c>
+
+00:00:30.730 --> 00:00:30.740 align:start position:0%
+an untrusted environment ie ipfs
+ 
+
+00:00:30.740 --> 00:00:34.910 align:start position:0%
+an untrusted environment ie ipfs
+starting<00:00:31.740><c> with</c><00:00:31.890><c> only</c><00:00:32.130><c> a</c><00:00:32.520><c> root</c><00:00:32.910><c> block</c><00:00:33.450><c> hash</c><00:00:33.930><c> how</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+starting with only a root block hash how
+ 
+
+00:00:34.920 --> 00:00:36.350 align:start position:0%
+starting with only a root block hash how
+do<00:00:34.980><c> we</c><00:00:35.160><c> move</c><00:00:35.460><c> DAGs</c>
+
+00:00:36.350 --> 00:00:36.360 align:start position:0%
+do we move DAGs
+ 
+
+00:00:36.360 --> 00:00:39.860 align:start position:0%
+do we move DAGs
+around<00:00:36.690><c> quickly</c><00:00:37.520><c> we</c><00:00:38.520><c> want</c><00:00:38.700><c> to</c><00:00:38.790><c> do</c><00:00:38.850><c> it</c><00:00:38.969><c> fast</c><00:00:39.300><c> we</c>
+
+00:00:39.860 --> 00:00:39.870 align:start position:0%
+around quickly we want to do it fast we
+ 
+
+00:00:39.870 --> 00:00:41.720 align:start position:0%
+around quickly we want to do it fast we
+want<00:00:40.020><c> to</c><00:00:40.079><c> optimize</c><00:00:40.350><c> both</c><00:00:40.770><c> latency</c><00:00:41.489><c> and</c>
+
+00:00:41.720 --> 00:00:41.730 align:start position:0%
+want to optimize both latency and
+ 
+
+00:00:41.730 --> 00:00:45.290 align:start position:0%
+want to optimize both latency and
+transfer<00:00:42.329><c> speed</c><00:00:42.690><c> we</c><00:00:43.440><c> need</c><00:00:43.620><c> to</c><00:00:43.860><c> utilize</c><00:00:44.489><c> the</c>
+
+00:00:45.290 --> 00:00:45.300 align:start position:0%
+transfer speed we need to utilize the
+ 
+
+00:00:45.300 --> 00:00:48.380 align:start position:0%
+transfer speed we need to utilize the
+distributed<00:00:46.020><c> nature</c><00:00:46.050><c> of</c><00:00:46.440><c> ipfs</c><00:00:47.430><c> to</c><00:00:48.059><c> make</c><00:00:48.239><c> it</c>
+
+00:00:48.380 --> 00:00:48.390 align:start position:0%
+distributed nature of ipfs to make it
+ 
+
+00:00:48.390 --> 00:00:51.770 align:start position:0%
+distributed nature of ipfs to make it
+even<00:00:49.170><c> faster</c><00:00:49.440><c> like</c><00:00:50.160><c> way</c><00:00:50.610><c> faster</c><00:00:51.270><c> than</c><00:00:51.300><c> like</c>
+
+00:00:51.770 --> 00:00:51.780 align:start position:0%
+even faster like way faster than like
+ 
+
+00:00:51.780 --> 00:00:55.209 align:start position:0%
+even faster like way faster than like
+all<00:00:52.320><c> you</c><00:00:52.829><c> know</c><00:00:52.879><c> yesterday's</c><00:00:53.879><c> news</c><00:00:54.210><c> of</c><00:00:54.449><c> HTTP</c>
+
+00:00:55.209 --> 00:00:55.219 align:start position:0%
+all you know yesterday's news of HTTP
+ 
+
+00:00:55.219 --> 00:00:59.029 align:start position:0%
+all you know yesterday's news of HTTP
+and<00:00:56.539><c> finally</c><00:00:57.539><c> it</c><00:00:58.020><c> would</c><00:00:58.109><c> be</c><00:00:58.260><c> nice</c><00:00:58.500><c> if</c><00:00:58.920><c> we</c><00:00:58.949><c> could</c>
+
+00:00:59.029 --> 00:00:59.039 align:start position:0%
+and finally it would be nice if we could
+ 
+
+00:00:59.039 --> 00:01:01.220 align:start position:0%
+and finally it would be nice if we could
+do<00:00:59.280><c> it</c><00:00:59.309><c> in</c><00:00:59.670><c> an</c><00:00:59.789><c> IP</c><00:00:59.969><c> FS</c><00:01:00.329><c> environment</c><00:01:00.930><c> where</c><00:01:01.140><c> it</c>
+
+00:01:01.220 --> 00:01:01.230 align:start position:0%
+do it in an IP FS environment where it
+ 
+
+00:01:01.230 --> 00:01:03.619 align:start position:0%
+do it in an IP FS environment where it
+wasn't<00:01:01.379><c> trivially</c><00:01:02.070><c> easy</c><00:01:02.100><c> to</c><00:01:02.699><c> DDoS</c><00:01:03.030><c> the</c><00:01:03.359><c> entire</c>
+
+00:01:03.619 --> 00:01:03.629 align:start position:0%
+wasn't trivially easy to DDoS the entire
+ 
+
+00:01:03.629 --> 00:01:06.820 align:start position:0%
+wasn't trivially easy to DDoS the entire
+network<00:01:04.430><c> because</c><00:01:05.430><c> that</c><00:01:05.549><c> would</c><00:01:05.640><c> be</c><00:01:05.700><c> a</c><00:01:05.729><c> bummer</c>
+
+00:01:06.820 --> 00:01:06.830 align:start position:0%
+network because that would be a bummer
+ 
+
+00:01:06.830 --> 00:01:11.090 align:start position:0%
+network because that would be a bummer
+so<00:01:07.830><c> we</c><00:01:08.580><c> talked</c><00:01:08.820><c> a</c><00:01:09.150><c> lot</c><00:01:09.540><c> about</c><00:01:09.600><c> it</c><00:01:10.049><c> and</c><00:01:10.920><c> these</c>
+
+00:01:11.090 --> 00:01:11.100 align:start position:0%
+so we talked a lot about it and these
+ 
+
+00:01:11.100 --> 00:01:13.460 align:start position:0%
+so we talked a lot about it and these
+two<00:01:11.340><c> were</c><00:01:11.610><c> like</c><00:01:11.880><c> super</c><00:01:12.450><c> awesome</c><00:01:12.750><c> in</c><00:01:13.260><c> like</c>
+
+00:01:13.460 --> 00:01:13.470 align:start position:0%
+two were like super awesome in like
+ 
+
+00:01:13.470 --> 00:01:15.230 align:start position:0%
+two were like super awesome in like
+rolling<00:01:13.979><c> along</c><00:01:14.250><c> with</c><00:01:14.460><c> a</c><00:01:14.490><c> complicated</c><00:01:14.850><c> problem</c>
+
+00:01:15.230 --> 00:01:15.240 align:start position:0%
+rolling along with a complicated problem
+ 
+
+00:01:15.240 --> 00:01:16.789 align:start position:0%
+rolling along with a complicated problem
+that<00:01:15.479><c> I</c><00:01:15.509><c> spend</c><00:01:15.810><c> most</c><00:01:16.110><c> of</c><00:01:16.290><c> my</c><00:01:16.350><c> time</c><00:01:16.439><c> thinking</c>
+
+00:01:16.789 --> 00:01:16.799 align:start position:0%
+that I spend most of my time thinking
+ 
+
+00:01:16.799 --> 00:01:19.820 align:start position:0%
+that I spend most of my time thinking
+about<00:01:17.009><c> and</c><00:01:17.369><c> they</c><00:01:18.360><c> had</c><00:01:18.570><c> awesome</c><00:01:18.900><c> ideas</c><00:01:19.530><c> and</c>
+
+00:01:19.820 --> 00:01:19.830 align:start position:0%
+about and they had awesome ideas and
+ 
+
+00:01:19.830 --> 00:01:22.039 align:start position:0%
+about and they had awesome ideas and
+helpful<00:01:20.250><c> suggestions</c><00:01:20.759><c> along</c><00:01:20.939><c> the</c><00:01:21.270><c> way</c><00:01:21.420><c> that</c>
+
+00:01:22.039 --> 00:01:22.049 align:start position:0%
+helpful suggestions along the way that
+ 
+
+00:01:22.049 --> 00:01:24.130 align:start position:0%
+helpful suggestions along the way that
+really<00:01:22.530><c> helped</c><00:01:22.799><c> us</c><00:01:22.860><c> get</c><00:01:23.040><c> to</c><00:01:23.189><c> a</c><00:01:23.220><c> cooler</c><00:01:23.520><c> place</c>
+
+00:01:24.130 --> 00:01:24.140 align:start position:0%
+really helped us get to a cooler place
+ 
+
+00:01:24.140 --> 00:01:27.020 align:start position:0%
+really helped us get to a cooler place
+and<00:01:25.140><c> so</c><00:01:25.409><c> one</c><00:01:25.860><c> solution</c><00:01:26.130><c> the</c><00:01:26.520><c> solution</c><00:01:26.759><c> that</c>
+
+00:01:27.020 --> 00:01:27.030 align:start position:0%
+and so one solution the solution that
+ 
+
+00:01:27.030 --> 00:01:29.749 align:start position:0%
+and so one solution the solution that
+we've<00:01:27.150><c> had</c><00:01:27.330><c> forever</c><00:01:27.750><c> is</c><00:01:28.259><c> bit</c><00:01:28.650><c> swap</c><00:01:28.890><c> which</c>
+
+00:01:29.749 --> 00:01:29.759 align:start position:0%
+we've had forever is bit swap which
+ 
+
+00:01:29.759 --> 00:01:32.749 align:start position:0%
+we've had forever is bit swap which
+allows<00:01:30.060><c> you</c><00:01:30.270><c> to</c><00:01:30.509><c> rip</c><00:01:31.350><c> replicate</c><00:01:32.159><c> a</c><00:01:32.189><c> dag</c><00:01:32.490><c> by</c>
+
+00:01:32.749 --> 00:01:32.759 align:start position:0%
+allows you to rip replicate a dag by
+ 
+
+00:01:32.759 --> 00:01:34.999 align:start position:0%
+allows you to rip replicate a dag by
+walking<00:01:33.210><c> it</c><00:01:33.329><c> block</c><00:01:33.630><c> by</c><00:01:33.810><c> block</c><00:01:34.020><c> and</c><00:01:34.470><c> which</c>
+
+00:01:34.999 --> 00:01:35.009 align:start position:0%
+walking it block by block and which
+ 
+
+00:01:35.009 --> 00:01:36.499 align:start position:0%
+walking it block by block and which
+makes<00:01:35.250><c> it</c><00:01:35.369><c> easy</c><00:01:35.520><c> to</c><00:01:35.670><c> verify</c><00:01:35.880><c> because</c><00:01:36.360><c> each</c>
+
+00:01:36.499 --> 00:01:36.509 align:start position:0%
+makes it easy to verify because each
+ 
+
+00:01:36.509 --> 00:01:38.390 align:start position:0%
+makes it easy to verify because each
+block<00:01:36.840><c> has</c><00:01:36.869><c> a</c><00:01:37.110><c> hash</c><00:01:37.409><c> and</c><00:01:37.799><c> you</c><00:01:37.860><c> can</c><00:01:38.040><c> bear</c><00:01:38.220><c> and</c>
+
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+block has a hash and you can bear and
+ 
+
+00:01:38.400 --> 00:01:40.280 align:start position:0%
+block has a hash and you can bear and
+hat<00:01:38.610><c> rehash</c><00:01:39.180><c> the</c><00:01:39.420><c> data</c><00:01:39.600><c> you</c><00:01:39.720><c> receive</c><00:01:40.079><c> and</c>
+
+00:01:40.280 --> 00:01:40.290 align:start position:0%
+hat rehash the data you receive and
+ 
+
+00:01:40.290 --> 00:01:41.840 align:start position:0%
+hat rehash the data you receive and
+verify<00:01:40.590><c> it's</c><00:01:40.770><c> correct</c><00:01:41.009><c> it's</c><00:01:41.520><c> easy</c><00:01:41.640><c> to</c>
+
+00:01:41.840 --> 00:01:41.850 align:start position:0%
+verify it's correct it's easy to
+ 
+
+00:01:41.850 --> 00:01:44.359 align:start position:0%
+verify it's correct it's easy to
+parallel<00:01:42.329><c> lies</c><00:01:42.509><c> works</c><00:01:43.259><c> really</c><00:01:43.560><c> well</c><00:01:43.740><c> for</c><00:01:43.799><c> wide</c>
+
+00:01:44.359 --> 00:01:44.369 align:start position:0%
+parallel lies works really well for wide
+ 
+
+00:01:44.369 --> 00:01:48.260 align:start position:0%
+parallel lies works really well for wide
+and<00:01:44.820><c> flat</c><00:01:45.060><c> graphs</c><00:01:45.890><c> but</c><00:01:47.119><c> particularly</c><00:01:48.119><c> for</c>
+
+00:01:48.260 --> 00:01:48.270 align:start position:0%
+and flat graphs but particularly for
+ 
+
+00:01:48.270 --> 00:01:50.179 align:start position:0%
+and flat graphs but particularly for
+long<00:01:48.570><c> and</c><00:01:48.780><c> narrow</c><00:01:48.960><c> graphs</c><00:01:49.320><c> there's</c><00:01:49.740><c> a</c><00:01:49.799><c> ton</c><00:01:50.159><c> of</c>
+
+00:01:50.179 --> 00:01:50.189 align:start position:0%
+long and narrow graphs there's a ton of
+ 
+
+00:01:50.189 --> 00:01:52.219 align:start position:0%
+long and narrow graphs there's a ton of
+latency<00:01:50.640><c> because</c><00:01:51.000><c> you</c><00:01:51.119><c> have</c><00:01:51.240><c> to</c><00:01:51.360><c> go</c><00:01:51.570><c> is</c><00:01:51.960><c> this</c>
+
+00:01:52.219 --> 00:01:52.229 align:start position:0%
+latency because you have to go is this
+ 
+
+00:01:52.229 --> 00:01:53.960 align:start position:0%
+latency because you have to go is this
+flag<00:01:52.590><c> mean</c><00:01:52.890><c> we're</c><00:01:53.040><c> done</c><00:01:53.189><c> all</c><00:01:53.460><c> right</c>
+
+00:01:53.960 --> 00:01:53.970 align:start position:0%
+flag mean we're done all right
+ 
+
+00:01:53.970 --> 00:01:56.120 align:start position:0%
+flag mean we're done all right
+grass<00:01:54.420><c> Inc</c><00:01:54.720><c> super-awesome</c><00:01:55.229><c> opposite</c><00:01:55.920><c> case</c>
+
+00:01:56.120 --> 00:01:56.130 align:start position:0%
+grass Inc super-awesome opposite case
+ 
+
+00:01:56.130 --> 00:01:58.999 align:start position:0%
+grass Inc super-awesome opposite case
+request<00:01:56.790><c> a</c><00:01:56.880><c> dag</c><00:01:57.060><c> by</c><00:01:57.630><c> in</c><00:01:58.229><c> a</c><00:01:58.350><c> query</c><00:01:58.860><c> language</c>
+
+00:01:58.999 --> 00:01:59.009 align:start position:0%
+request a dag by in a query language
+ 
+
+00:01:59.009 --> 00:02:00.679 align:start position:0%
+request a dag by in a query language
+works<00:01:59.670><c> really</c><00:01:59.850><c> well</c><00:02:00.030><c> for</c><00:02:00.090><c> deep</c><00:02:00.450><c> and</c><00:02:00.600><c> narrow</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+works really well for deep and narrow
+ 
+
+00:02:00.689 --> 00:02:03.380 align:start position:0%
+works really well for deep and narrow
+graphs<00:02:01.280><c> but</c><00:02:02.280><c> not</c><00:02:02.729><c> as</c><00:02:02.880><c> good</c><00:02:03.000><c> for</c><00:02:03.210><c> other</c><00:02:03.299><c> things</c>
+
+00:02:03.380 --> 00:02:03.390 align:start position:0%
+graphs but not as good for other things
+ 
+
+00:02:03.390 --> 00:02:05.929 align:start position:0%
+graphs but not as good for other things
+meanwhile<00:02:04.049><c> manifests</c><00:02:04.649><c> a</c><00:02:05.040><c> whole</c><00:02:05.549><c> new</c><00:02:05.729><c> thing</c>
+
+00:02:05.929 --> 00:02:05.939 align:start position:0%
+meanwhile manifests a whole new thing
+ 
+
+00:02:05.939 --> 00:02:08.330 align:start position:0%
+meanwhile manifests a whole new thing
+idea<00:02:06.630><c> taken</c><00:02:07.170><c> from</c><00:02:07.290><c> desync</c><00:02:07.710><c> someone</c><00:02:08.190><c> in</c><00:02:08.280><c> the</c>
+
+00:02:08.330 --> 00:02:08.340 align:start position:0%
+idea taken from desync someone in the
+ 
+
+00:02:08.340 --> 00:02:11.710 align:start position:0%
+idea taken from desync someone in the
+room<00:02:08.489><c> made</c><00:02:08.700><c> that</c><00:02:08.879><c> gay</c><00:02:09.229><c> cool</c><00:02:10.229><c> go</c><00:02:10.560><c> be</c><00:02:10.709><c> 5</c>
+
+00:02:11.710 --> 00:02:11.720 align:start position:0%
+room made that gay cool go be 5
+ 
+
+00:02:11.720 --> 00:02:14.200 align:start position:0%
+room made that gay cool go be 5
+and<00:02:11.960><c> you</c><00:02:12.800><c> might</c><00:02:13.010><c> what</c><00:02:13.310><c> might</c><00:02:13.580><c> be</c><00:02:13.790><c> able</c><00:02:13.940><c> to</c><00:02:14.030><c> help</c>
+
+00:02:14.200 --> 00:02:14.210 align:start position:0%
+and you might what might be able to help
+ 
+
+00:02:14.210 --> 00:02:15.400 align:start position:0%
+and you might what might be able to help
+you<00:02:14.300><c> optimize</c><00:02:14.420><c> all</c><00:02:14.810><c> these</c><00:02:14.990><c> things</c><00:02:15.170><c> and</c><00:02:15.320><c> choose</c>
+
+00:02:15.400 --> 00:02:15.410 align:start position:0%
+you optimize all these things and choose
+ 
+
+00:02:15.410 --> 00:02:16.840 align:start position:0%
+you optimize all these things and choose
+between<00:02:15.560><c> them</c><00:02:15.890><c> and</c><00:02:15.980><c> now</c><00:02:16.100><c> we're</c><00:02:16.220><c> done</c><00:02:16.250><c> so</c><00:02:16.760><c> we're</c>
+
+00:02:16.840 --> 00:02:16.850 align:start position:0%
+between them and now we're done so we're
+ 
+
+00:02:16.850 --> 00:02:18.100 align:start position:0%
+between them and now we're done so we're
+gonna<00:02:16.940><c> build</c><00:02:17.150><c> a</c><00:02:17.210><c> meta</c><00:02:17.390><c> protocol</c><00:02:17.780><c> it</c><00:02:17.870><c> does</c><00:02:17.990><c> all</c>
+
+00:02:18.100 --> 00:02:18.110 align:start position:0%
+gonna build a meta protocol it does all
+ 
+
+00:02:18.110 --> 00:02:22.510 align:start position:0%
+gonna build a meta protocol it does all
+the<00:02:18.200><c> things</c><00:02:20.890><c> sorry</c><00:02:21.890><c> I</c><00:02:21.950><c> missed</c><00:02:22.220><c> the</c><00:02:22.280><c> rule</c>
+
+00:02:22.510 --> 00:02:22.520 align:start position:0%
+the things sorry I missed the rule
+ 
+
+00:02:22.520 --> 00:02:25.000 align:start position:0%
+the things sorry I missed the rule
+section
+

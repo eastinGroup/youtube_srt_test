@@ -1,0 +1,2144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.089 --> 00:00:03.050 align:start position:0%
+ 
+welcome<00:00:01.020><c> to</c><00:00:01.290><c> another</c><00:00:01.439><c> video</c><00:00:01.709><c> in</c><00:00:02.190><c> this</c><00:00:02.820><c> video</c>
+
+00:00:03.050 --> 00:00:03.060 align:start position:0%
+welcome to another video in this video
+ 
+
+00:00:03.060 --> 00:00:05.030 align:start position:0%
+welcome to another video in this video
+you<00:00:03.600><c> will</c><00:00:03.629><c> learn</c><00:00:03.899><c> everything</c><00:00:04.140><c> you</c><00:00:04.740><c> need</c><00:00:04.890><c> to</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+you will learn everything you need to
+ 
+
+00:00:05.040 --> 00:00:07.550 align:start position:0%
+you will learn everything you need to
+know<00:00:05.069><c> about</c><00:00:05.400><c> implied</c><00:00:05.940><c> volatility</c><00:00:06.839><c> what</c>
+
+00:00:07.550 --> 00:00:07.560 align:start position:0%
+know about implied volatility what
+ 
+
+00:00:07.560 --> 00:00:10.070 align:start position:0%
+know about implied volatility what
+implied<00:00:07.950><c> volatility</c><00:00:08.730><c> rang</c><00:00:09.000><c> is</c><00:00:09.269><c> in</c><00:00:09.570><c> Wyatt</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+implied volatility rang is in Wyatt
+ 
+
+00:00:10.080 --> 00:00:14.209 align:start position:0%
+implied volatility rang is in Wyatt
+mattress<00:00:10.740><c> so</c><00:00:11.639><c> let's</c><00:00:11.849><c> get</c><00:00:12.030><c> started</c><00:00:13.009><c> first</c><00:00:14.009><c> of</c>
+
+00:00:14.209 --> 00:00:14.219 align:start position:0%
+mattress so let's get started first of
+ 
+
+00:00:14.219 --> 00:00:18.019 align:start position:0%
+mattress so let's get started first of
+all<00:00:14.460><c> what</c><00:00:15.210><c> is</c><00:00:15.420><c> implied</c><00:00:15.870><c> volatility</c><00:00:17.029><c> implied</c>
+
+00:00:18.019 --> 00:00:18.029 align:start position:0%
+all what is implied volatility implied
+ 
+
+00:00:18.029 --> 00:00:20.689 align:start position:0%
+all what is implied volatility implied
+volatility<00:00:18.810><c> can</c><00:00:19.109><c> be</c><00:00:19.260><c> derived</c><00:00:19.560><c> from</c><00:00:20.130><c> options</c>
+
+00:00:20.689 --> 00:00:20.699 align:start position:0%
+volatility can be derived from options
+ 
+
+00:00:20.699 --> 00:00:23.090 align:start position:0%
+volatility can be derived from options
+pricing<00:00:21.270><c> models</c><00:00:21.660><c> such</c><00:00:22.230><c> as</c><00:00:22.260><c> the</c><00:00:22.410><c> black</c><00:00:22.800><c> Scholes</c>
+
+00:00:23.090 --> 00:00:23.100 align:start position:0%
+pricing models such as the black Scholes
+ 
+
+00:00:23.100 --> 00:00:25.939 align:start position:0%
+pricing models such as the black Scholes
+options<00:00:23.820><c> pricing</c><00:00:24.330><c> model</c><00:00:24.689><c> it</c><00:00:25.320><c> can</c><00:00:25.590><c> be</c><00:00:25.710><c> thought</c>
+
+00:00:25.939 --> 00:00:25.949 align:start position:0%
+options pricing model it can be thought
+ 
+
+00:00:25.949 --> 00:00:28.279 align:start position:0%
+options pricing model it can be thought
+of<00:00:26.279><c> as</c><00:00:26.640><c> they</c><00:00:26.910><c> expected</c><00:00:27.630><c> likelihood</c><00:00:27.869><c> of</c>
+
+00:00:28.279 --> 00:00:28.289 align:start position:0%
+of as they expected likelihood of
+ 
+
+00:00:28.289 --> 00:00:30.710 align:start position:0%
+of as they expected likelihood of
+certain<00:00:29.220><c> price</c><00:00:29.519><c> changes</c><00:00:30.090><c> in</c><00:00:30.269><c> the</c><00:00:30.449><c> underlying</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+certain price changes in the underlying
+ 
+
+00:00:30.720 --> 00:00:35.450 align:start position:0%
+certain price changes in the underlying
+asset<00:00:31.349><c> but</c><00:00:32.099><c> what</c><00:00:32.340><c> does</c><00:00:32.610><c> that</c><00:00:32.640><c> mean</c><00:00:34.460><c> to</c>
+
+00:00:35.450 --> 00:00:35.460 align:start position:0%
+asset but what does that mean to
+ 
+
+00:00:35.460 --> 00:00:38.060 align:start position:0%
+asset but what does that mean to
+understand<00:00:36.000><c> this</c><00:00:36.270><c> let's</c><00:00:36.899><c> break</c><00:00:37.230><c> down</c><00:00:37.260><c> what</c>
+
+00:00:38.060 --> 00:00:38.070 align:start position:0%
+understand this let's break down what
+ 
+
+00:00:38.070 --> 00:00:40.970 align:start position:0%
+understand this let's break down what
+goes<00:00:38.309><c> into</c><00:00:38.640><c> an</c><00:00:39.000><c> options</c><00:00:39.390><c> price</c><00:00:39.739><c> the</c><00:00:40.739><c> black</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+goes into an options price the black
+ 
+
+00:00:40.980 --> 00:00:43.220 align:start position:0%
+goes into an options price the black
+Scholes<00:00:41.280><c> formula</c><00:00:41.600><c> uses</c><00:00:42.600><c> the</c><00:00:42.750><c> following</c>
+
+00:00:43.220 --> 00:00:43.230 align:start position:0%
+Scholes formula uses the following
+ 
+
+00:00:43.230 --> 00:00:45.549 align:start position:0%
+Scholes formula uses the following
+variables<00:00:43.559><c> to</c><00:00:44.010><c> calculate</c><00:00:44.579><c> an</c><00:00:44.760><c> options</c><00:00:45.149><c> price</c>
+
+00:00:45.549 --> 00:00:45.559 align:start position:0%
+variables to calculate an options price
+ 
+
+00:00:45.559 --> 00:00:49.250 align:start position:0%
+variables to calculate an options price
+the<00:00:46.559><c> underlying</c><00:00:47.070><c> price</c><00:00:47.460><c> the</c><00:00:48.390><c> strike</c><00:00:48.780><c> price</c>
+
+00:00:49.250 --> 00:00:49.260 align:start position:0%
+the underlying price the strike price
+ 
+
+00:00:49.260 --> 00:00:53.029 align:start position:0%
+the underlying price the strike price
+the<00:00:49.680><c> expiration</c><00:00:50.670><c> date</c><00:00:50.960><c> the</c><00:00:51.960><c> risk-free</c><00:00:52.440><c> rate</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+the expiration date the risk-free rate
+ 
+
+00:00:53.039 --> 00:00:57.920 align:start position:0%
+the expiration date the risk-free rate
+and<00:00:53.600><c> implied</c><00:00:54.600><c> volatility</c><00:00:56.360><c> the</c><00:00:57.360><c> first</c><00:00:57.690><c> two</c>
+
+00:00:57.920 --> 00:00:57.930 align:start position:0%
+and implied volatility the first two
+ 
+
+00:00:57.930 --> 00:01:00.529 align:start position:0%
+and implied volatility the first two
+factors<00:00:58.530><c> are</c><00:00:58.739><c> quite</c><00:00:59.309><c> obvious</c><00:00:59.820><c> because</c><00:01:00.210><c> they</c>
+
+00:01:00.529 --> 00:01:00.539 align:start position:0%
+factors are quite obvious because they
+ 
+
+00:01:00.539 --> 00:01:02.630 align:start position:0%
+factors are quite obvious because they
+determine<00:01:01.140><c> the</c><00:01:01.230><c> intrinsic</c><00:01:02.010><c> value</c><00:01:02.399><c> of</c><00:01:02.520><c> an</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+determine the intrinsic value of an
+ 
+
+00:01:02.640 --> 00:01:05.600 align:start position:0%
+determine the intrinsic value of an
+option<00:01:02.820><c> the</c><00:01:03.780><c> expiration</c><00:01:04.229><c> date</c><00:01:04.500><c> also</c><00:01:05.040><c> makes</c><00:01:05.489><c> a</c>
+
+00:01:05.600 --> 00:01:05.610 align:start position:0%
+option the expiration date also makes a
+ 
+
+00:01:05.610 --> 00:01:08.120 align:start position:0%
+option the expiration date also makes a
+lot<00:01:05.760><c> of</c><00:01:05.790><c> sense</c><00:01:06.180><c> as</c><00:01:06.420><c> more</c><00:01:07.110><c> time</c><00:01:07.470><c> to</c><00:01:07.680><c> expiration</c>
+
+00:01:08.120 --> 00:01:08.130 align:start position:0%
+lot of sense as more time to expiration
+ 
+
+00:01:08.130 --> 00:01:10.609 align:start position:0%
+lot of sense as more time to expiration
+gives<00:01:08.700><c> your</c><00:01:08.939><c> position</c><00:01:09.510><c> more</c><00:01:09.780><c> time</c><00:01:10.170><c> to</c><00:01:10.380><c> work</c>
+
+00:01:10.609 --> 00:01:10.619 align:start position:0%
+gives your position more time to work
+ 
+
+00:01:10.619 --> 00:01:13.460 align:start position:0%
+gives your position more time to work
+thus<00:01:11.369><c> time</c><00:01:12.060><c> to</c><00:01:12.270><c> expiration</c><00:01:12.750><c> should</c>
+
+00:01:13.460 --> 00:01:13.470 align:start position:0%
+thus time to expiration should
+ 
+
+00:01:13.470 --> 00:01:15.740 align:start position:0%
+thus time to expiration should
+definitely<00:01:14.070><c> affect</c><00:01:14.490><c> the</c><00:01:14.670><c> price</c><00:01:14.970><c> of</c><00:01:15.240><c> an</c><00:01:15.330><c> option</c>
+
+00:01:15.740 --> 00:01:15.750 align:start position:0%
+definitely affect the price of an option
+ 
+
+00:01:15.750 --> 00:01:18.950 align:start position:0%
+definitely affect the price of an option
+the<00:01:16.740><c> risk-free</c><00:01:17.159><c> rate</c><00:01:17.340><c> only</c><00:01:18.150><c> has</c><00:01:18.240><c> a</c><00:01:18.270><c> very</c><00:01:18.600><c> small</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+the risk-free rate only has a very small
+ 
+
+00:01:18.960 --> 00:01:21.380 align:start position:0%
+the risk-free rate only has a very small
+effect<00:01:19.200><c> on</c><00:01:19.619><c> an</c><00:01:19.740><c> options</c><00:01:20.100><c> price</c><00:01:20.159><c> and</c><00:01:20.700><c> doesn't</c>
+
+00:01:21.380 --> 00:01:21.390 align:start position:0%
+effect on an options price and doesn't
+ 
+
+00:01:21.390 --> 00:01:23.149 align:start position:0%
+effect on an options price and doesn't
+change<00:01:21.420><c> significantly</c><00:01:21.960><c> over</c><00:01:22.590><c> short</c><00:01:23.040><c> periods</c>
+
+00:01:23.149 --> 00:01:23.159 align:start position:0%
+change significantly over short periods
+ 
+
+00:01:23.159 --> 00:01:25.969 align:start position:0%
+change significantly over short periods
+of<00:01:23.610><c> time</c><00:01:23.720><c> therefore</c><00:01:24.720><c> it</c><00:01:25.080><c> can</c><00:01:25.290><c> be</c><00:01:25.320><c> ignored</c><00:01:25.740><c> for</c>
+
+00:01:25.969 --> 00:01:25.979 align:start position:0%
+of time therefore it can be ignored for
+ 
+
+00:01:25.979 --> 00:01:29.899 align:start position:0%
+of time therefore it can be ignored for
+now<00:01:26.720><c> last</c><00:01:27.720><c> but</c><00:01:28.080><c> not</c><00:01:28.200><c> least</c><00:01:28.470><c> the</c><00:01:28.890><c> volatility</c><00:01:29.700><c> of</c>
+
+00:01:29.899 --> 00:01:29.909 align:start position:0%
+now last but not least the volatility of
+ 
+
+00:01:29.909 --> 00:01:32.480 align:start position:0%
+now last but not least the volatility of
+the<00:01:30.000><c> underlying</c><00:01:30.210><c> asset</c><00:01:31.079><c> should</c><00:01:31.530><c> also</c><00:01:32.100><c> affect</c>
+
+00:01:32.480 --> 00:01:32.490 align:start position:0%
+the underlying asset should also affect
+ 
+
+00:01:32.490 --> 00:01:35.120 align:start position:0%
+the underlying asset should also affect
+the<00:01:32.610><c> options</c><00:01:33.030><c> price</c><00:01:33.329><c> because</c><00:01:34.140><c> more</c><00:01:34.470><c> volatile</c>
+
+00:01:35.120 --> 00:01:35.130 align:start position:0%
+the options price because more volatile
+ 
+
+00:01:35.130 --> 00:01:37.010 align:start position:0%
+the options price because more volatile
+assets<00:01:35.610><c> tend</c><00:01:36.000><c> to</c><00:01:36.210><c> give</c><00:01:36.420><c> an</c><00:01:36.509><c> options</c><00:01:36.960><c> trader</c>
+
+00:01:37.010 --> 00:01:37.020 align:start position:0%
+assets tend to give an options trader
+ 
+
+00:01:37.020 --> 00:01:40.429 align:start position:0%
+assets tend to give an options trader
+more<00:01:37.920><c> opportunity</c><00:01:38.820><c> to</c><00:01:39.420><c> profit</c><00:01:39.689><c> from</c><00:01:40.110><c> price</c>
+
+00:01:40.429 --> 00:01:40.439 align:start position:0%
+more opportunity to profit from price
+ 
+
+00:01:40.439 --> 00:01:41.060 align:start position:0%
+more opportunity to profit from price
+swings
+
+00:01:41.060 --> 00:01:41.070 align:start position:0%
+swings
+ 
+
+00:01:41.070 --> 00:01:43.969 align:start position:0%
+swings
+whereas<00:01:41.670><c> on</c><00:01:41.820><c> volatile</c><00:01:42.570><c> assets</c><00:01:43.079><c> have</c><00:01:43.409><c> limited</c>
+
+00:01:43.969 --> 00:01:43.979 align:start position:0%
+whereas on volatile assets have limited
+ 
+
+00:01:43.979 --> 00:01:47.780 align:start position:0%
+whereas on volatile assets have limited
+trading<00:01:44.460><c> opportunities</c><00:01:45.470><c> for</c><00:01:46.470><c> instance</c><00:01:46.950><c> a</c><00:01:47.189><c> far</c>
+
+00:01:47.780 --> 00:01:47.790 align:start position:0%
+trading opportunities for instance a far
+ 
+
+00:01:47.790 --> 00:01:50.120 align:start position:0%
+trading opportunities for instance a far
+out<00:01:48.060><c> of</c><00:01:48.329><c> the</c><00:01:48.450><c> money</c><00:01:48.659><c> option</c><00:01:49.140><c> is</c><00:01:49.350><c> far</c><00:01:49.890><c> more</c>
+
+00:01:50.120 --> 00:01:50.130 align:start position:0%
+out of the money option is far more
+ 
+
+00:01:50.130 --> 00:01:53.090 align:start position:0%
+out of the money option is far more
+likely<00:01:50.610><c> to</c><00:01:51.119><c> become</c><00:01:51.270><c> in</c><00:01:51.630><c> the</c><00:01:51.869><c> money</c><00:01:52.110><c> if</c><00:01:52.530><c> the</c>
+
+00:01:53.090 --> 00:01:53.100 align:start position:0%
+likely to become in the money if the
+ 
+
+00:01:53.100 --> 00:01:55.639 align:start position:0%
+likely to become in the money if the
+underlying<00:01:53.520><c> asset</c><00:01:54.000><c> is</c><00:01:54.149><c> very</c><00:01:54.420><c> volatile</c><00:01:55.049><c> then</c>
+
+00:01:55.639 --> 00:01:55.649 align:start position:0%
+underlying asset is very volatile then
+ 
+
+00:01:55.649 --> 00:02:00.080 align:start position:0%
+underlying asset is very volatile then
+if<00:01:55.920><c> it's</c><00:01:56.100><c> not</c><00:01:57.530><c> therefore</c><00:01:58.610><c> volatility</c><00:01:59.610><c> is</c><00:01:59.820><c> one</c>
+
+00:02:00.080 --> 00:02:00.090 align:start position:0%
+if it's not therefore volatility is one
+ 
+
+00:02:00.090 --> 00:02:02.420 align:start position:0%
+if it's not therefore volatility is one
+of<00:02:00.210><c> the</c><00:02:00.360><c> factors</c><00:02:00.930><c> used</c><00:02:01.530><c> to</c><00:02:01.890><c> calculate</c><00:02:02.399><c> a</c>
+
+00:02:02.420 --> 00:02:02.430 align:start position:0%
+of the factors used to calculate a
+ 
+
+00:02:02.430 --> 00:02:06.230 align:start position:0%
+of the factors used to calculate a
+theoretical<00:02:03.329><c> options</c><00:02:03.780><c> price</c><00:02:04.130><c> however</c><00:02:05.130><c> as</c><00:02:05.490><c> you</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+theoretical options price however as you
+ 
+
+00:02:06.240 --> 00:02:08.449 align:start position:0%
+theoretical options price however as you
+might<00:02:06.450><c> have</c><00:02:06.630><c> noticed</c><00:02:07.140><c> it's</c><00:02:07.409><c> fairly</c><00:02:07.829><c> easy</c><00:02:08.009><c> to</c>
+
+00:02:08.449 --> 00:02:08.459 align:start position:0%
+might have noticed it's fairly easy to
+ 
+
+00:02:08.459 --> 00:02:10.940 align:start position:0%
+might have noticed it's fairly easy to
+observe<00:02:08.879><c> and</c><00:02:09.209><c> measure</c><00:02:09.750><c> the</c><00:02:10.170><c> underlying</c><00:02:10.590><c> price</c>
+
+00:02:10.940 --> 00:02:10.950 align:start position:0%
+observe and measure the underlying price
+ 
+
+00:02:10.950 --> 00:02:14.400 align:start position:0%
+observe and measure the underlying price
+strike<00:02:11.879><c> price</c><00:02:12.209><c> and</c><00:02:12.450><c> times</c><00:02:13.290><c> we'll</c><00:02:13.470><c> explain</c>
+
+00:02:14.400 --> 00:02:14.410 align:start position:0%
+strike price and times we'll explain
+ 
+
+00:02:14.410 --> 00:02:16.860 align:start position:0%
+strike price and times we'll explain
+but<00:02:14.950><c> it's</c><00:02:15.100><c> not</c><00:02:15.340><c> as</c><00:02:15.580><c> straightforward</c><00:02:16.150><c> to</c>
+
+00:02:16.860 --> 00:02:16.870 align:start position:0%
+but it's not as straightforward to
+ 
+
+00:02:16.870 --> 00:02:19.320 align:start position:0%
+but it's not as straightforward to
+measure<00:02:17.140><c> the</c><00:02:17.560><c> volatility</c><00:02:18.340><c> of</c><00:02:18.550><c> the</c><00:02:18.700><c> security</c>
+
+00:02:19.320 --> 00:02:19.330 align:start position:0%
+measure the volatility of the security
+ 
+
+00:02:19.330 --> 00:02:22.310 align:start position:0%
+measure the volatility of the security
+especially<00:02:20.140><c> not</c><00:02:20.890><c> the</c><00:02:21.040><c> future</c><00:02:21.280><c> volatility</c>
+
+00:02:22.310 --> 00:02:22.320 align:start position:0%
+especially not the future volatility
+ 
+
+00:02:22.320 --> 00:02:25.530 align:start position:0%
+especially not the future volatility
+that's<00:02:23.320><c> why</c><00:02:23.710><c> models</c><00:02:24.520><c> such</c><00:02:25.000><c> as</c><00:02:25.030><c> the</c><00:02:25.180><c> black</c>
+
+00:02:25.530 --> 00:02:25.540 align:start position:0%
+that's why models such as the black
+ 
+
+00:02:25.540 --> 00:02:29.070 align:start position:0%
+that's why models such as the black
+Scholes<00:02:25.870><c> model</c><00:02:26.190><c> use</c><00:02:27.190><c> a</c><00:02:27.220><c> formula</c><00:02:28.030><c> to</c><00:02:28.080><c> determine</c>
+
+00:02:29.070 --> 00:02:29.080 align:start position:0%
+Scholes model use a formula to determine
+ 
+
+00:02:29.080 --> 00:02:31.710 align:start position:0%
+Scholes model use a formula to determine
+the<00:02:29.230><c> implied</c><00:02:29.620><c> volatility</c><00:02:30.250><c> from</c><00:02:31.030><c> the</c><00:02:31.210><c> options</c>
+
+00:02:31.710 --> 00:02:31.720 align:start position:0%
+the implied volatility from the options
+ 
+
+00:02:31.720 --> 00:02:34.080 align:start position:0%
+the implied volatility from the options
+price<00:02:32.020><c> instead</c><00:02:32.770><c> of</c><00:02:32.890><c> the</c><00:02:33.010><c> options</c><00:02:33.490><c> price</c><00:02:33.790><c> from</c>
+
+00:02:34.080 --> 00:02:34.090 align:start position:0%
+price instead of the options price from
+ 
+
+00:02:34.090 --> 00:02:37.140 align:start position:0%
+price instead of the options price from
+the<00:02:34.270><c> implied</c><00:02:34.570><c> volatility</c><00:02:35.080><c> an</c><00:02:36.090><c> options</c><00:02:37.090><c> price</c>
+
+00:02:37.140 --> 00:02:37.150 align:start position:0%
+the implied volatility an options price
+ 
+
+00:02:37.150 --> 00:02:39.930 align:start position:0%
+the implied volatility an options price
+can<00:02:37.840><c> be</c><00:02:37.870><c> observed</c><00:02:38.350><c> in</c><00:02:38.620><c> the</c><00:02:38.650><c> markets</c><00:02:39.250><c> together</c>
+
+00:02:39.930 --> 00:02:39.940 align:start position:0%
+can be observed in the markets together
+ 
+
+00:02:39.940 --> 00:02:42.480 align:start position:0%
+can be observed in the markets together
+with<00:02:40.210><c> all</c><00:02:40.480><c> the</c><00:02:40.510><c> other</c><00:02:40.840><c> factors</c><00:02:41.470><c> except</c><00:02:42.220><c> for</c>
+
+00:02:42.480 --> 00:02:42.490 align:start position:0%
+with all the other factors except for
+ 
+
+00:02:42.490 --> 00:02:45.360 align:start position:0%
+with all the other factors except for
+volatility<00:02:43.350><c> from</c><00:02:44.350><c> all</c><00:02:44.650><c> this</c><00:02:44.920><c> you</c><00:02:44.980><c> can</c>
+
+00:02:45.360 --> 00:02:45.370 align:start position:0%
+volatility from all this you can
+ 
+
+00:02:45.370 --> 00:02:48.180 align:start position:0%
+volatility from all this you can
+calculate<00:02:45.700><c> a</c><00:02:46.050><c> theoretical</c><00:02:47.050><c> volatility</c><00:02:47.800><c> value</c>
+
+00:02:48.180 --> 00:02:48.190 align:start position:0%
+calculate a theoretical volatility value
+ 
+
+00:02:48.190 --> 00:02:51.570 align:start position:0%
+calculate a theoretical volatility value
+this<00:02:48.910><c> volatility</c><00:02:49.480><c> value</c><00:02:50.140><c> is</c><00:02:50.500><c> implied</c><00:02:51.100><c> from</c>
+
+00:02:51.570 --> 00:02:51.580 align:start position:0%
+this volatility value is implied from
+ 
+
+00:02:51.580 --> 00:02:54.480 align:start position:0%
+this volatility value is implied from
+the<00:02:51.760><c> options</c><00:02:52.180><c> price</c><00:02:52.480><c> therefore</c><00:02:53.380><c> it's</c><00:02:54.040><c> called</c>
+
+00:02:54.480 --> 00:02:54.490 align:start position:0%
+the options price therefore it's called
+ 
+
+00:02:54.490 --> 00:02:58.470 align:start position:0%
+the options price therefore it's called
+implied<00:02:55.030><c> volatility</c><00:02:56.640><c> so</c><00:02:57.640><c> when</c><00:02:57.850><c> you</c><00:02:57.940><c> hear</c><00:02:58.210><c> in</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+implied volatility so when you hear in
+ 
+
+00:02:58.480 --> 00:03:00.840 align:start position:0%
+implied volatility so when you hear in
+some<00:02:58.510><c> financial</c><00:02:59.350><c> news</c><00:02:59.650><c> that</c><00:02:59.980><c> options</c><00:03:00.460><c> traders</c>
+
+00:03:00.840 --> 00:03:00.850 align:start position:0%
+some financial news that options traders
+ 
+
+00:03:00.850 --> 00:03:03.780 align:start position:0%
+some financial news that options traders
+are<00:03:01.060><c> expecting</c><00:03:01.810><c> upcoming</c><00:03:02.470><c> volatility</c><00:03:03.190><c> what</c>
+
+00:03:03.780 --> 00:03:03.790 align:start position:0%
+are expecting upcoming volatility what
+ 
+
+00:03:03.790 --> 00:03:05.820 align:start position:0%
+are expecting upcoming volatility what
+they're<00:03:04.030><c> really</c><00:03:04.300><c> saying</c><00:03:04.750><c> is</c><00:03:05.140><c> that</c><00:03:05.680><c> the</c>
+
+00:03:05.820 --> 00:03:05.830 align:start position:0%
+they're really saying is that the
+ 
+
+00:03:05.830 --> 00:03:08.670 align:start position:0%
+they're really saying is that the
+volatility<00:03:06.450><c> implied</c><00:03:07.450><c> by</c><00:03:07.750><c> the</c><00:03:07.810><c> current</c><00:03:08.260><c> option</c>
+
+00:03:08.670 --> 00:03:08.680 align:start position:0%
+volatility implied by the current option
+ 
+
+00:03:08.680 --> 00:03:11.420 align:start position:0%
+volatility implied by the current option
+prices<00:03:09.280><c> where</c><00:03:09.730><c> the</c><00:03:09.910><c> implied</c><00:03:10.180><c> volatility</c><00:03:11.080><c> is</c>
+
+00:03:11.420 --> 00:03:11.430 align:start position:0%
+prices where the implied volatility is
+ 
+
+00:03:11.430 --> 00:03:15.090 align:start position:0%
+prices where the implied volatility is
+relatively<00:03:12.430><c> high</c><00:03:13.320><c> note</c><00:03:14.320><c> that</c><00:03:14.710><c> implied</c>
+
+00:03:15.090 --> 00:03:15.100 align:start position:0%
+relatively high note that implied
+ 
+
+00:03:15.100 --> 00:03:18.150 align:start position:0%
+relatively high note that implied
+volatility<00:03:15.940><c> is</c><00:03:16.180><c> not</c><00:03:16.780><c> the</c><00:03:16.990><c> same</c><00:03:17.230><c> as</c><00:03:17.440><c> historical</c>
+
+00:03:18.150 --> 00:03:18.160 align:start position:0%
+volatility is not the same as historical
+ 
+
+00:03:18.160 --> 00:03:21.600 align:start position:0%
+volatility is not the same as historical
+volatility<00:03:19.200><c> historical</c><00:03:20.200><c> volatility</c><00:03:20.920><c> is</c><00:03:21.190><c> the</c>
+
+00:03:21.600 --> 00:03:21.610 align:start position:0%
+volatility historical volatility is the
+ 
+
+00:03:21.610 --> 00:03:24.600 align:start position:0%
+volatility historical volatility is the
+past<00:03:21.940><c> actual</c><00:03:22.840><c> volatility</c><00:03:23.290><c> and</c><00:03:23.800><c> it</c><00:03:24.190><c> does</c><00:03:24.370><c> not</c>
+
+00:03:24.600 --> 00:03:24.610 align:start position:0%
+past actual volatility and it does not
+ 
+
+00:03:24.610 --> 00:03:27.480 align:start position:0%
+past actual volatility and it does not
+affect<00:03:25.150><c> the</c><00:03:25.240><c> options</c><00:03:25.660><c> price</c><00:03:26.010><c> whereas</c><00:03:27.010><c> implied</c>
+
+00:03:27.480 --> 00:03:27.490 align:start position:0%
+affect the options price whereas implied
+ 
+
+00:03:27.490 --> 00:03:30.870 align:start position:0%
+affect the options price whereas implied
+volatility<00:03:28.330><c> does</c><00:03:29.160><c> furthermore</c><00:03:30.160><c> implied</c>
+
+00:03:30.870 --> 00:03:30.880 align:start position:0%
+volatility does furthermore implied
+ 
+
+00:03:30.880 --> 00:03:33.870 align:start position:0%
+volatility does furthermore implied
+volatility<00:03:31.600><c> is</c><00:03:31.840><c> a</c><00:03:31.900><c> purely</c><00:03:32.650><c> theoretical</c><00:03:32.950><c> value</c>
+
+00:03:33.870 --> 00:03:33.880 align:start position:0%
+volatility is a purely theoretical value
+ 
+
+00:03:33.880 --> 00:03:36.810 align:start position:0%
+volatility is a purely theoretical value
+therefore<00:03:34.620><c> implied</c><00:03:35.620><c> volatility</c><00:03:36.430><c> values</c>
+
+00:03:36.810 --> 00:03:36.820 align:start position:0%
+therefore implied volatility values
+ 
+
+00:03:36.820 --> 00:03:39.300 align:start position:0%
+therefore implied volatility values
+often<00:03:37.030><c> differ</c><00:03:37.660><c> from</c><00:03:38.320><c> the</c><00:03:38.470><c> actual</c><00:03:38.650><c> volatility</c>
+
+00:03:39.300 --> 00:03:39.310 align:start position:0%
+often differ from the actual volatility
+ 
+
+00:03:39.310 --> 00:03:42.650 align:start position:0%
+often differ from the actual volatility
+values<00:03:39.970><c> over</c><00:03:40.180><c> certain</c><00:03:40.630><c> time</c><00:03:41.080><c> periods</c>
+
+00:03:42.650 --> 00:03:42.660 align:start position:0%
+values over certain time periods
+ 
+
+00:03:42.660 --> 00:03:45.930 align:start position:0%
+values over certain time periods
+hopefully<00:03:43.660><c> this</c><00:03:44.200><c> helps</c><00:03:44.830><c> you</c><00:03:44.980><c> understand</c><00:03:45.550><c> what</c>
+
+00:03:45.930 --> 00:03:45.940 align:start position:0%
+hopefully this helps you understand what
+ 
+
+00:03:45.940 --> 00:03:49.140 align:start position:0%
+hopefully this helps you understand what
+implied<00:03:46.360><c> volatility</c><00:03:47.110><c> is</c><00:03:47.350><c> but</c><00:03:48.310><c> why</c><00:03:48.580><c> is</c><00:03:48.640><c> implied</c>
+
+00:03:49.140 --> 00:03:49.150 align:start position:0%
+implied volatility is but why is implied
+ 
+
+00:03:49.150 --> 00:03:53.220 align:start position:0%
+implied volatility is but why is implied
+volatility<00:03:49.930><c> even</c><00:03:50.230><c> important</c><00:03:51.810><c> first</c><00:03:52.810><c> of</c><00:03:53.020><c> all</c>
+
+00:03:53.220 --> 00:03:53.230 align:start position:0%
+volatility even important first of all
+ 
+
+00:03:53.230 --> 00:03:55.949 align:start position:0%
+volatility even important first of all
+it's<00:03:53.709><c> one</c><00:03:54.040><c> of</c><00:03:54.190><c> the</c><00:03:54.340><c> main</c><00:03:54.580><c> factors</c><00:03:55.270><c> affecting</c>
+
+00:03:55.949 --> 00:03:55.959 align:start position:0%
+it's one of the main factors affecting
+ 
+
+00:03:55.959 --> 00:03:58.920 align:start position:0%
+it's one of the main factors affecting
+an<00:03:56.080><c> options</c><00:03:56.440><c> price</c><00:03:56.610><c> this</c><00:03:57.610><c> alone</c><00:03:58.240><c> is</c><00:03:58.630><c> one</c>
+
+00:03:58.920 --> 00:03:58.930 align:start position:0%
+an options price this alone is one
+ 
+
+00:03:58.930 --> 00:04:00.990 align:start position:0%
+an options price this alone is one
+reason<00:03:59.170><c> why</c><00:03:59.590><c> you</c><00:03:59.650><c> as</c><00:04:00.220><c> an</c><00:04:00.520><c> options</c><00:04:00.940><c> trader</c>
+
+00:04:00.990 --> 00:04:01.000 align:start position:0%
+reason why you as an options trader
+ 
+
+00:04:01.000 --> 00:04:04.650 align:start position:0%
+reason why you as an options trader
+should<00:04:01.810><c> pay</c><00:04:02.020><c> attention</c><00:04:02.050><c> to</c><00:04:02.620><c> IV</c><00:04:03.660><c> furthermore</c>
+
+00:04:04.650 --> 00:04:04.660 align:start position:0%
+should pay attention to IV furthermore
+ 
+
+00:04:04.660 --> 00:04:07.530 align:start position:0%
+should pay attention to IV furthermore
+implied<00:04:05.470><c> volatility</c><00:04:06.250><c> can</c><00:04:06.730><c> give</c><00:04:06.910><c> you</c><00:04:07.000><c> insight</c>
+
+00:04:07.530 --> 00:04:07.540 align:start position:0%
+implied volatility can give you insight
+ 
+
+00:04:07.540 --> 00:04:10.620 align:start position:0%
+implied volatility can give you insight
+into<00:04:07.570><c> what</c><00:04:08.260><c> kind</c><00:04:08.620><c> of</c><00:04:08.740><c> volatility</c><00:04:09.310><c> the</c><00:04:10.180><c> market</c>
+
+00:04:10.620 --> 00:04:10.630 align:start position:0%
+into what kind of volatility the market
+ 
+
+00:04:10.630 --> 00:04:13.260 align:start position:0%
+into what kind of volatility the market
+is<00:04:10.750><c> expecting</c><00:04:11.410><c> you</c><00:04:12.190><c> can</c><00:04:12.400><c> compare</c><00:04:12.940><c> the</c>
+
+00:04:13.260 --> 00:04:13.270 align:start position:0%
+is expecting you can compare the
+ 
+
+00:04:13.270 --> 00:04:16.110 align:start position:0%
+is expecting you can compare the
+expected<00:04:13.840><c> volatility</c><00:04:14.290><c> to</c><00:04:15.040><c> your</c><00:04:15.190><c> own</c><00:04:15.370><c> analysis</c>
+
+00:04:16.110 --> 00:04:16.120 align:start position:0%
+expected volatility to your own analysis
+ 
+
+00:04:16.120 --> 00:04:18.449 align:start position:0%
+expected volatility to your own analysis
+and<00:04:16.359><c> potentially</c><00:04:17.230><c> build</c><00:04:17.500><c> a</c><00:04:17.620><c> position</c><00:04:18.100><c> around</c>
+
+00:04:18.449 --> 00:04:18.459 align:start position:0%
+and potentially build a position around
+ 
+
+00:04:18.459 --> 00:04:20.819 align:start position:0%
+and potentially build a position around
+the<00:04:18.609><c> difference</c><00:04:19.090><c> in</c><00:04:19.330><c> these</c><00:04:19.510><c> two</c>
+
+00:04:20.819 --> 00:04:20.829 align:start position:0%
+the difference in these two
+ 
+
+00:04:20.829 --> 00:04:23.309 align:start position:0%
+the difference in these two
+an<00:04:21.370><c> options</c><00:04:21.849><c> trader</c><00:04:21.909><c> should</c><00:04:22.300><c> always</c><00:04:22.750><c> look</c><00:04:23.199><c> at</c>
+
+00:04:23.309 --> 00:04:23.319 align:start position:0%
+an options trader should always look at
+ 
+
+00:04:23.319 --> 00:04:25.619 align:start position:0%
+an options trader should always look at
+implied<00:04:23.680><c> volatility</c><00:04:24.490><c> as</c><00:04:24.699><c> well</c><00:04:25.300><c> as</c><00:04:25.449><c> the</c>
+
+00:04:25.619 --> 00:04:25.629 align:start position:0%
+implied volatility as well as the
+ 
+
+00:04:25.629 --> 00:04:28.170 align:start position:0%
+implied volatility as well as the
+underlying<00:04:26.050><c> trading</c><00:04:26.560><c> price</c><00:04:26.940><c> expiration</c><00:04:27.940><c> date</c>
+
+00:04:28.170 --> 00:04:28.180 align:start position:0%
+underlying trading price expiration date
+ 
+
+00:04:28.180 --> 00:04:30.899 align:start position:0%
+underlying trading price expiration date
+and<00:04:28.389><c> strike</c><00:04:29.169><c> price</c><00:04:29.530><c> before</c><00:04:29.830><c> putting</c><00:04:30.639><c> on</c><00:04:30.879><c> a</c>
+
+00:04:30.899 --> 00:04:30.909 align:start position:0%
+and strike price before putting on a
+ 
+
+00:04:30.909 --> 00:04:34.740 align:start position:0%
+and strike price before putting on a
+position<00:04:32.039><c> it's</c><00:04:33.039><c> also</c><00:04:33.430><c> possible</c><00:04:34.240><c> to</c><00:04:34.449><c> use</c>
+
+00:04:34.740 --> 00:04:34.750 align:start position:0%
+position it's also possible to use
+ 
+
+00:04:34.750 --> 00:04:37.529 align:start position:0%
+position it's also possible to use
+implied<00:04:35.500><c> volatility</c><00:04:36.400><c> to</c><00:04:36.879><c> calculate</c><00:04:37.389><c> the</c>
+
+00:04:37.529 --> 00:04:37.539 align:start position:0%
+implied volatility to calculate the
+ 
+
+00:04:37.539 --> 00:04:39.809 align:start position:0%
+implied volatility to calculate the
+expected<00:04:37.810><c> price</c><00:04:38.500><c> range</c><00:04:38.889><c> of</c><00:04:39.159><c> an</c><00:04:39.340><c> underlying</c>
+
+00:04:39.809 --> 00:04:39.819 align:start position:0%
+expected price range of an underlying
+ 
+
+00:04:39.819 --> 00:04:42.570 align:start position:0%
+expected price range of an underlying
+asset<00:04:40.120><c> until</c><00:04:41.020><c> the</c><00:04:41.139><c> expiration</c><00:04:41.530><c> date</c><00:04:41.740><c> to</c>
+
+00:04:42.570 --> 00:04:42.580 align:start position:0%
+asset until the expiration date to
+ 
+
+00:04:42.580 --> 00:04:44.820 align:start position:0%
+asset until the expiration date to
+understand<00:04:43.120><c> this</c><00:04:43.360><c> let's</c><00:04:43.840><c> first</c><00:04:44.199><c> take</c><00:04:44.530><c> a</c><00:04:44.590><c> look</c>
+
+00:04:44.820 --> 00:04:44.830 align:start position:0%
+understand this let's first take a look
+ 
+
+00:04:44.830 --> 00:04:46.969 align:start position:0%
+understand this let's first take a look
+at<00:04:44.919><c> a</c><00:04:44.949><c> normal</c><00:04:45.430><c> distribution</c><00:04:45.610><c> diagram</c>
+
+00:04:46.969 --> 00:04:46.979 align:start position:0%
+at a normal distribution diagram
+ 
+
+00:04:46.979 --> 00:04:49.649 align:start position:0%
+at a normal distribution diagram
+depending<00:04:47.979><c> on</c><00:04:48.159><c> which</c><00:04:48.370><c> model</c><00:04:48.639><c> you</c><00:04:48.970><c> use</c><00:04:49.000><c> you</c>
+
+00:04:49.649 --> 00:04:49.659 align:start position:0%
+depending on which model you use you
+ 
+
+00:04:49.659 --> 00:04:51.960 align:start position:0%
+depending on which model you use you
+might<00:04:49.870><c> assume</c><00:04:50.289><c> that</c><00:04:50.650><c> stock</c><00:04:50.949><c> price</c><00:04:51.280><c> changes</c>
+
+00:04:51.960 --> 00:04:51.970 align:start position:0%
+might assume that stock price changes
+ 
+
+00:04:51.970 --> 00:04:55.050 align:start position:0%
+might assume that stock price changes
+are<00:04:52.210><c> distributed</c><00:04:53.139><c> like</c><00:04:53.289><c> this</c><00:04:53.819><c> that</c><00:04:54.819><c> would</c>
+
+00:04:55.050 --> 00:04:55.060 align:start position:0%
+are distributed like this that would
+ 
+
+00:04:55.060 --> 00:04:58.350 align:start position:0%
+are distributed like this that would
+mean<00:04:55.270><c> that</c><00:04:55.539><c> 68%</c><00:04:56.050><c> of</c><00:04:56.979><c> the</c><00:04:57.129><c> time</c><00:04:57.159><c> price</c><00:04:58.030><c> only</c>
+
+00:04:58.350 --> 00:04:58.360 align:start position:0%
+mean that 68% of the time price only
+ 
+
+00:04:58.360 --> 00:05:00.990 align:start position:0%
+mean that 68% of the time price only
+changed<00:04:58.990><c> slightly</c><00:04:59.229><c> and</c><00:04:59.650><c> the</c><00:05:00.159><c> bigger</c><00:05:00.430><c> a</c><00:05:00.580><c> price</c>
+
+00:05:00.990 --> 00:05:01.000 align:start position:0%
+changed slightly and the bigger a price
+ 
+
+00:05:01.000 --> 00:05:04.469 align:start position:0%
+changed slightly and the bigger a price
+move<00:05:01.330><c> is</c><00:05:01.629><c> the</c><00:05:02.229><c> less</c><00:05:02.469><c> likely</c><00:05:02.500><c> it</c><00:05:03.039><c> becomes</c><00:05:03.479><c> the</c>
+
+00:05:04.469 --> 00:05:04.479 align:start position:0%
+move is the less likely it becomes the
+ 
+
+00:05:04.479 --> 00:05:07.050 align:start position:0%
+move is the less likely it becomes the
+one<00:05:04.719><c> standard</c><00:05:05.259><c> deviation</c><00:05:05.409><c> move</c><00:05:06.069><c> for</c><00:05:06.789><c> less</c>
+
+00:05:07.050 --> 00:05:07.060 align:start position:0%
+one standard deviation move for less
+ 
+
+00:05:07.060 --> 00:05:09.149 align:start position:0%
+one standard deviation move for less
+happens<00:05:07.690><c> about</c><00:05:07.960><c> six</c><00:05:08.289><c> to</c><00:05:08.500><c> eight</c><00:05:08.530><c> percent</c><00:05:09.069><c> of</c>
+
+00:05:09.149 --> 00:05:09.159 align:start position:0%
+happens about six to eight percent of
+ 
+
+00:05:09.159 --> 00:05:11.730 align:start position:0%
+happens about six to eight percent of
+the<00:05:09.190><c> time</c><00:05:09.550><c> the</c><00:05:10.060><c> two</c><00:05:10.360><c> standard</c><00:05:10.840><c> deviation</c><00:05:11.500><c> move</c>
+
+00:05:11.730 --> 00:05:11.740 align:start position:0%
+the time the two standard deviation move
+ 
+
+00:05:11.740 --> 00:05:14.309 align:start position:0%
+the time the two standard deviation move
+where<00:05:12.159><c> anything</c><00:05:12.639><c> less</c><00:05:12.819><c> happens</c><00:05:13.419><c> about</c><00:05:13.659><c> 95</c>
+
+00:05:14.309 --> 00:05:14.319 align:start position:0%
+where anything less happens about 95
+ 
+
+00:05:14.319 --> 00:05:18.450 align:start position:0%
+where anything less happens about 95
+percent<00:05:14.770><c> of</c><00:05:14.919><c> the</c><00:05:15.069><c> time</c><00:05:15.099><c> and</c><00:05:15.460><c> so</c><00:05:16.090><c> on</c><00:05:16.860><c> this</c><00:05:17.860><c> isn't</c>
+
+00:05:18.450 --> 00:05:18.460 align:start position:0%
+percent of the time and so on this isn't
+ 
+
+00:05:18.460 --> 00:05:19.939 align:start position:0%
+percent of the time and so on this isn't
+necessarily<00:05:18.969><c> a</c><00:05:19.150><c> very</c><00:05:19.449><c> realistic</c>
+
+00:05:19.939 --> 00:05:19.949 align:start position:0%
+necessarily a very realistic
+ 
+
+00:05:19.949 --> 00:05:22.980 align:start position:0%
+necessarily a very realistic
+distribution<00:05:20.949><c> for</c><00:05:21.430><c> stock</c><00:05:21.699><c> prices</c><00:05:22.270><c> because</c>
+
+00:05:22.980 --> 00:05:22.990 align:start position:0%
+distribution for stock prices because
+ 
+
+00:05:22.990 --> 00:05:25.529 align:start position:0%
+distribution for stock prices because
+bigger<00:05:23.289><c> moves</c><00:05:23.650><c> happen</c><00:05:24.129><c> far</c><00:05:24.460><c> more</c><00:05:24.699><c> often</c><00:05:25.120><c> than</c>
+
+00:05:25.529 --> 00:05:25.539 align:start position:0%
+bigger moves happen far more often than
+ 
+
+00:05:25.539 --> 00:05:27.300 align:start position:0%
+bigger moves happen far more often than
+they<00:05:25.750><c> should</c><00:05:26.020><c> according</c><00:05:26.680><c> to</c><00:05:26.919><c> a</c><00:05:26.949><c> normal</c>
+
+00:05:27.300 --> 00:05:27.310 align:start position:0%
+they should according to a normal
+ 
+
+00:05:27.310 --> 00:05:30.629 align:start position:0%
+they should according to a normal
+distribution<00:05:28.409><c> furthermore</c><00:05:29.409><c> prices</c><00:05:30.370><c> can</c><00:05:30.610><c> move</c>
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+distribution furthermore prices can move
+ 
+
+00:05:30.639 --> 00:05:33.089 align:start position:0%
+distribution furthermore prices can move
+more<00:05:31.330><c> to</c><00:05:31.569><c> the</c><00:05:31.719><c> up</c><00:05:31.810><c> side</c><00:05:31.840><c> than</c><00:05:32.380><c> they</c><00:05:32.500><c> can</c><00:05:32.740><c> to</c><00:05:32.949><c> the</c>
+
+00:05:33.089 --> 00:05:33.099 align:start position:0%
+more to the up side than they can to the
+ 
+
+00:05:33.099 --> 00:05:36.330 align:start position:0%
+more to the up side than they can to the
+downside<00:05:34.199><c> nevertheless</c><00:05:35.199><c> a</c><00:05:35.770><c> normal</c>
+
+00:05:36.330 --> 00:05:36.340 align:start position:0%
+downside nevertheless a normal
+ 
+
+00:05:36.340 --> 00:05:38.760 align:start position:0%
+downside nevertheless a normal
+distribution<00:05:36.610><c> is</c><00:05:37.210><c> commonly</c><00:05:38.020><c> used</c><00:05:38.380><c> and</c><00:05:38.650><c> it</c>
+
+00:05:38.760 --> 00:05:38.770 align:start position:0%
+distribution is commonly used and it
+ 
+
+00:05:38.770 --> 00:05:40.920 align:start position:0%
+distribution is commonly used and it
+helps<00:05:39.159><c> to</c><00:05:39.340><c> understand</c><00:05:39.849><c> what</c><00:05:40.389><c> the</c><00:05:40.539><c> expected</c>
+
+00:05:40.920 --> 00:05:40.930 align:start position:0%
+helps to understand what the expected
+ 
+
+00:05:40.930 --> 00:05:44.490 align:start position:0%
+helps to understand what the expected
+move<00:05:41.409><c> of</c><00:05:41.680><c> the</c><00:05:41.919><c> stock</c><00:05:42.190><c> is</c><00:05:42.430><c> if</c><00:05:42.940><c> you</c><00:05:43.779><c> use</c><00:05:44.199><c> the</c>
+
+00:05:44.490 --> 00:05:44.500 align:start position:0%
+move of the stock is if you use the
+ 
+
+00:05:44.500 --> 00:05:46.860 align:start position:0%
+move of the stock is if you use the
+normal<00:05:44.919><c> distribution</c><00:05:45.330><c> you</c><00:05:46.330><c> can</c><00:05:46.569><c> calculate</c>
+
+00:05:46.860 --> 00:05:46.870 align:start position:0%
+normal distribution you can calculate
+ 
+
+00:05:46.870 --> 00:05:49.559 align:start position:0%
+normal distribution you can calculate
+the<00:05:47.440><c> expected</c><00:05:47.800><c> move</c><00:05:48.219><c> of</c><00:05:48.520><c> an</c><00:05:48.729><c> asset</c><00:05:49.120><c> through</c>
+
+00:05:49.559 --> 00:05:49.569 align:start position:0%
+the expected move of an asset through
+ 
+
+00:05:49.569 --> 00:05:53.129 align:start position:0%
+the expected move of an asset through
+this<00:05:49.779><c> formula</c><00:05:50.969><c> one</c><00:05:51.969><c> standard</c><00:05:52.509><c> deviation</c>
+
+00:05:53.129 --> 00:05:53.139 align:start position:0%
+this formula one standard deviation
+ 
+
+00:05:53.139 --> 00:05:56.339 align:start position:0%
+this formula one standard deviation
+equals<00:05:53.379><c> plus</c><00:05:54.370><c> or</c><00:05:54.639><c> minus</c><00:05:54.699><c> implied</c><00:05:55.539><c> volatility</c>
+
+00:05:56.339 --> 00:05:56.349 align:start position:0%
+equals plus or minus implied volatility
+ 
+
+00:05:56.349 --> 00:05:59.700 align:start position:0%
+equals plus or minus implied volatility
+times<00:05:57.219><c> the</c><00:05:57.639><c> underlying</c><00:05:58.180><c> price</c><00:05:58.569><c> times</c><00:05:59.500><c> the</c>
+
+00:05:59.700 --> 00:05:59.710 align:start position:0%
+times the underlying price times the
+ 
+
+00:05:59.710 --> 00:06:02.540 align:start position:0%
+times the underlying price times the
+square<00:06:00.310><c> root</c><00:06:00.340><c> of</c><00:06:00.580><c> the</c><00:06:01.419><c> time</c><00:06:01.719><c> to</c><00:06:01.960><c> expiration</c>
+
+00:06:02.540 --> 00:06:02.550 align:start position:0%
+square root of the time to expiration
+ 
+
+00:06:02.550 --> 00:06:07.529 align:start position:0%
+square root of the time to expiration
+divided<00:06:03.550><c> by</c><00:06:03.750><c> 365</c><00:06:05.490><c> two</c><00:06:06.490><c> standard</c><00:06:06.940><c> deviations</c>
+
+00:06:07.529 --> 00:06:07.539 align:start position:0%
+divided by 365 two standard deviations
+ 
+
+00:06:07.539 --> 00:06:09.839 align:start position:0%
+divided by 365 two standard deviations
+can<00:06:07.659><c> be</c><00:06:07.900><c> calculated</c><00:06:08.409><c> by</c><00:06:08.560><c> multiplying</c><00:06:09.039><c> the</c><00:06:09.610><c> one</c>
+
+00:06:09.839 --> 00:06:09.849 align:start position:0%
+can be calculated by multiplying the one
+ 
+
+00:06:09.849 --> 00:06:13.550 align:start position:0%
+can be calculated by multiplying the one
+standard<00:06:10.300><c> deviation</c><00:06:10.449><c> move</c><00:06:10.960><c> by</c><00:06:11.199><c> two</c><00:06:11.259><c> and</c><00:06:11.710><c> so</c><00:06:12.520><c> on</c>
+
+00:06:13.550 --> 00:06:13.560 align:start position:0%
+standard deviation move by two and so on
+ 
+
+00:06:13.560 --> 00:06:16.920 align:start position:0%
+standard deviation move by two and so on
+implied<00:06:14.560><c> volatility</c><00:06:15.340><c> is</c><00:06:15.610><c> normally</c><00:06:16.270><c> quoted</c><00:06:16.750><c> on</c>
+
+00:06:16.920 --> 00:06:16.930 align:start position:0%
+implied volatility is normally quoted on
+ 
+
+00:06:16.930 --> 00:06:19.980 align:start position:0%
+implied volatility is normally quoted on
+an<00:06:17.080><c> annualized</c><00:06:17.650><c> basis</c><00:06:18.310><c> that's</c><00:06:19.090><c> why</c><00:06:19.360><c> we</c><00:06:19.539><c> divide</c>
+
+00:06:19.980 --> 00:06:19.990 align:start position:0%
+an annualized basis that's why we divide
+ 
+
+00:06:19.990 --> 00:06:24.510 align:start position:0%
+an annualized basis that's why we divide
+the<00:06:20.409><c> time</c><00:06:20.740><c> to</c><00:06:20.919><c> expiration</c><00:06:21.250><c> by</c><00:06:22.440><c> 365</c><00:06:23.440><c> to</c><00:06:24.129><c> get</c><00:06:24.310><c> the</c>
+
+00:06:24.510 --> 00:06:24.520 align:start position:0%
+the time to expiration by 365 to get the
+ 
+
+00:06:24.520 --> 00:06:27.529 align:start position:0%
+the time to expiration by 365 to get the
+expected<00:06:25.389><c> range</c><00:06:25.690><c> until</c><00:06:26.349><c> the</c><00:06:26.529><c> expiration</c><00:06:26.919><c> date</c>
+
+00:06:27.529 --> 00:06:27.539 align:start position:0%
+expected range until the expiration date
+ 
+
+00:06:27.539 --> 00:06:30.629 align:start position:0%
+expected range until the expiration date
+let's<00:06:28.539><c> look</c><00:06:28.779><c> at</c><00:06:28.930><c> an</c><00:06:29.050><c> example</c><00:06:29.409><c> to</c><00:06:29.710><c> clarify</c><00:06:30.250><c> all</c>
+
+00:06:30.629 --> 00:06:30.639 align:start position:0%
+let's look at an example to clarify all
+ 
+
+00:06:30.639 --> 00:06:34.530 align:start position:0%
+let's look at an example to clarify all
+this<00:06:31.289><c> stock</c><00:06:32.289><c> XYZ</c><00:06:33.190><c> is</c><00:06:33.430><c> trading</c><00:06:33.880><c> at</c>
+
+00:06:34.530 --> 00:06:34.540 align:start position:0%
+this stock XYZ is trading at
+ 
+
+00:06:34.540 --> 00:06:37.110 align:start position:0%
+this stock XYZ is trading at
+dollars<00:06:34.960><c> we</c><00:06:35.620><c> will</c><00:06:35.800><c> first</c><00:06:36.100><c> look</c><00:06:36.340><c> at</c><00:06:36.490><c> an</c><00:06:36.610><c> option</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+dollars we will first look at an option
+ 
+
+00:06:37.120 --> 00:06:40.200 align:start position:0%
+dollars we will first look at an option
+with<00:06:37.600><c> 30</c><00:06:37.960><c> days</c><00:06:38.320><c> left</c><00:06:38.650><c> till</c><00:06:38.860><c> expiration</c><00:06:39.550><c> and</c><00:06:39.700><c> an</c>
+
+00:06:40.200 --> 00:06:40.210 align:start position:0%
+with 30 days left till expiration and an
+ 
+
+00:06:40.210 --> 00:06:44.190 align:start position:0%
+with 30 days left till expiration and an
+implied<00:06:40.570><c> volatility</c><00:06:41.440><c> of</c><00:06:41.680><c> 40%</c><00:06:42.870><c> so</c><00:06:43.870><c> the</c><00:06:43.990><c> one</c>
+
+00:06:44.190 --> 00:06:44.200 align:start position:0%
+implied volatility of 40% so the one
+ 
+
+00:06:44.200 --> 00:06:46.500 align:start position:0%
+implied volatility of 40% so the one
+standard<00:06:44.680><c> deviation</c><00:06:44.830><c> range</c><00:06:45.550><c> over</c><00:06:46.000><c> the</c><00:06:46.210><c> next</c>
+
+00:06:46.500 --> 00:06:46.510 align:start position:0%
+standard deviation range over the next
+ 
+
+00:06:46.510 --> 00:06:52.680 align:start position:0%
+standard deviation range over the next
+30<00:06:46.960><c> days</c><00:06:47.140><c> is</c><00:06:47.850><c> plus</c><00:06:48.850><c> minus</c><00:06:49.470><c> 0.4</c><00:06:50.470><c> times</c><00:06:51.690><c> 100</c>
+
+00:06:52.680 --> 00:06:52.690 align:start position:0%
+30 days is plus minus 0.4 times 100
+ 
+
+00:06:52.690 --> 00:06:56.370 align:start position:0%
+30 days is plus minus 0.4 times 100
+times<00:06:53.320><c> the</c><00:06:53.830><c> square</c><00:06:54.220><c> root</c><00:06:54.250><c> of</c><00:06:54.670><c> 30</c><00:06:55.600><c> divided</c><00:06:56.260><c> by</c>
+
+00:06:56.370 --> 00:06:56.380 align:start position:0%
+times the square root of 30 divided by
+ 
+
+00:06:56.380 --> 00:07:02.970 align:start position:0%
+times the square root of 30 divided by
+365<00:06:58.410><c> this</c><00:06:59.410><c> is</c><00:06:59.710><c> about</c><00:06:59.980><c> plus</c><00:07:00.700><c> minus</c><00:07:01.270><c> 11.5</c><00:07:01.980><c> which</c>
+
+00:07:02.970 --> 00:07:02.980 align:start position:0%
+365 this is about plus minus 11.5 which
+ 
+
+00:07:02.980 --> 00:07:05.370 align:start position:0%
+365 this is about plus minus 11.5 which
+means<00:07:03.340><c> the</c><00:07:03.790><c> one</c><00:07:04.090><c> standard</c><00:07:04.540><c> deviation</c><00:07:04.690><c> range</c>
+
+00:07:05.370 --> 00:07:05.380 align:start position:0%
+means the one standard deviation range
+ 
+
+00:07:05.380 --> 00:07:10.110 align:start position:0%
+means the one standard deviation range
+over<00:07:06.070><c> the</c><00:07:06.100><c> next</c><00:07:06.430><c> 30</c><00:07:06.820><c> days</c><00:07:07.120><c> is</c><00:07:07.980><c> 88.5</c><00:07:08.980><c> dollars</c><00:07:09.550><c> to</c>
+
+00:07:10.110 --> 00:07:10.120 align:start position:0%
+over the next 30 days is 88.5 dollars to
+ 
+
+00:07:10.120 --> 00:07:13.350 align:start position:0%
+over the next 30 days is 88.5 dollars to
+ill<00:07:10.420><c> 100</c><00:07:10.990><c> eleven</c><00:07:11.410><c> point</c><00:07:11.650><c> five</c><00:07:11.890><c> dollars</c><00:07:12.430><c> this</c>
+
+00:07:13.350 --> 00:07:13.360 align:start position:0%
+ill 100 eleven point five dollars this
+ 
+
+00:07:13.360 --> 00:07:16.350 align:start position:0%
+ill 100 eleven point five dollars this
+means<00:07:13.750><c> that</c><00:07:14.110><c> the</c><00:07:14.290><c> markets</c><00:07:14.860><c> expect</c><00:07:15.520><c> X</c><00:07:15.820><c> Y</c><00:07:16.090><c> Z's</c>
+
+00:07:16.350 --> 00:07:16.360 align:start position:0%
+means that the markets expect X Y Z's
+ 
+
+00:07:16.360 --> 00:07:20.760 align:start position:0%
+means that the markets expect X Y Z's
+price<00:07:16.810><c> to</c><00:07:17.440><c> stay</c><00:07:17.710><c> between</c><00:07:18.000><c> about</c><00:07:19.000><c> 88</c><00:07:19.660><c> and</c><00:07:19.990><c> 112</c>
+
+00:07:20.760 --> 00:07:20.770 align:start position:0%
+price to stay between about 88 and 112
+ 
+
+00:07:20.770 --> 00:07:23.550 align:start position:0%
+price to stay between about 88 and 112
+dollars<00:07:21.280><c> over</c><00:07:21.640><c> the</c><00:07:21.700><c> next</c><00:07:21.790><c> 30</c><00:07:22.300><c> days</c><00:07:22.630><c> with</c><00:07:23.290><c> about</c>
+
+00:07:23.550 --> 00:07:23.560 align:start position:0%
+dollars over the next 30 days with about
+ 
+
+00:07:23.560 --> 00:07:27.570 align:start position:0%
+dollars over the next 30 days with about
+60<00:07:24.190><c> AIDS</c><00:07:24.400><c> percent</c><00:07:25.060><c> probability</c><00:07:26.220><c> the</c><00:07:27.220><c> two</c>
+
+00:07:27.570 --> 00:07:27.580 align:start position:0%
+60 AIDS percent probability the two
+ 
+
+00:07:27.580 --> 00:07:30.110 align:start position:0%
+60 AIDS percent probability the two
+standard<00:07:28.120><c> deviation</c><00:07:28.720><c> move</c><00:07:28.930><c> would</c><00:07:29.470><c> be</c><00:07:29.500><c> up</c><00:07:29.800><c> to</c>
+
+00:07:30.110 --> 00:07:30.120 align:start position:0%
+standard deviation move would be up to
+ 
+
+00:07:30.120 --> 00:07:36.930 align:start position:0%
+standard deviation move would be up to
+123<00:07:31.120><c> dollars</c><00:07:31.600><c> were</c><00:07:31.960><c> down</c><00:07:32.320><c> to</c><00:07:32.910><c> $77</c><00:07:35.400><c> now</c><00:07:36.400><c> let's</c>
+
+00:07:36.930 --> 00:07:36.940 align:start position:0%
+123 dollars were down to $77 now let's
+ 
+
+00:07:36.940 --> 00:07:39.240 align:start position:0%
+123 dollars were down to $77 now let's
+take<00:07:37.210><c> a</c><00:07:37.240><c> look</c><00:07:37.480><c> at</c><00:07:37.750><c> the</c><00:07:37.870><c> same</c><00:07:38.140><c> stock</c><00:07:38.560><c> with</c><00:07:39.100><c> the</c>
+
+00:07:39.240 --> 00:07:39.250 align:start position:0%
+take a look at the same stock with the
+ 
+
+00:07:39.250 --> 00:07:41.970 align:start position:0%
+take a look at the same stock with the
+same<00:07:39.520><c> implied</c><00:07:39.910><c> volatility</c><00:07:40.690><c> but</c><00:07:41.200><c> 60</c><00:07:41.770><c> days</c>
+
+00:07:41.970 --> 00:07:41.980 align:start position:0%
+same implied volatility but 60 days
+ 
+
+00:07:41.980 --> 00:07:46.020 align:start position:0%
+same implied volatility but 60 days
+instead<00:07:42.400><c> of</c><00:07:42.550><c> 30</c><00:07:42.820><c> days</c><00:07:43.210><c> to</c><00:07:43.510><c> expiration</c><00:07:44.790><c> the</c><00:07:45.790><c> one</c>
+
+00:07:46.020 --> 00:07:46.030 align:start position:0%
+instead of 30 days to expiration the one
+ 
+
+00:07:46.030 --> 00:07:48.120 align:start position:0%
+instead of 30 days to expiration the one
+standard<00:07:46.480><c> deviation</c><00:07:46.660><c> range</c><00:07:47.260><c> would</c><00:07:47.590><c> now</c><00:07:47.830><c> be</c>
+
+00:07:48.120 --> 00:07:48.130 align:start position:0%
+standard deviation range would now be
+ 
+
+00:07:48.130 --> 00:07:52.800 align:start position:0%
+standard deviation range would now be
+about<00:07:48.850><c> 84</c><00:07:49.690><c> dollars</c><00:07:49.870><c> to</c><00:07:50.670><c> $116</c><00:07:51.670><c> the</c><00:07:52.510><c> two</c>
+
+00:07:52.800 --> 00:07:52.810 align:start position:0%
+about 84 dollars to $116 the two
+ 
+
+00:07:52.810 --> 00:07:56.090 align:start position:0%
+about 84 dollars to $116 the two
+standard<00:07:53.260><c> deviation</c><00:07:53.830><c> range</c><00:07:54.070><c> would</c><00:07:54.310><c> be</c><00:07:54.370><c> 68</c><00:07:55.150><c> to</c>
+
+00:07:56.090 --> 00:07:56.100 align:start position:0%
+standard deviation range would be 68 to
+ 
+
+00:07:56.100 --> 00:08:01.140 align:start position:0%
+standard deviation range would be 68 to
+$132<00:07:57.480><c> this</c><00:07:58.480><c> makes</c><00:07:58.810><c> sense</c><00:07:59.110><c> because</c><00:07:59.820><c> XYZ</c><00:08:00.820><c> can</c>
+
+00:08:01.140 --> 00:08:01.150 align:start position:0%
+$132 this makes sense because XYZ can
+ 
+
+00:08:01.150 --> 00:08:04.380 align:start position:0%
+$132 this makes sense because XYZ can
+obviously<00:08:01.600><c> move</c><00:08:01.990><c> much</c><00:08:02.350><c> more</c><00:08:02.710><c> in</c><00:08:03.010><c> 60</c><00:08:03.760><c> days</c><00:08:03.940><c> than</c>
+
+00:08:04.380 --> 00:08:04.390 align:start position:0%
+obviously move much more in 60 days than
+ 
+
+00:08:04.390 --> 00:08:08.760 align:start position:0%
+obviously move much more in 60 days than
+it<00:08:04.540><c> can</c><00:08:04.750><c> in</c><00:08:04.960><c> 30</c><00:08:05.260><c> days</c><00:08:06.840><c> note</c><00:08:07.840><c> that</c><00:08:08.230><c> all</c><00:08:08.440><c> of</c><00:08:08.590><c> this</c>
+
+00:08:08.760 --> 00:08:08.770 align:start position:0%
+it can in 30 days note that all of this
+ 
+
+00:08:08.770 --> 00:08:11.100 align:start position:0%
+it can in 30 days note that all of this
+assumes<00:08:09.340><c> that</c><00:08:09.550><c> the</c><00:08:09.820><c> distribution</c><00:08:10.660><c> of</c><00:08:10.810><c> stock</c>
+
+00:08:11.100 --> 00:08:11.110 align:start position:0%
+assumes that the distribution of stock
+ 
+
+00:08:11.110 --> 00:08:14.310 align:start position:0%
+assumes that the distribution of stock
+prices<00:08:11.680><c> is</c><00:08:11.860><c> normal</c><00:08:12.610><c> this</c><00:08:13.240><c> is</c><00:08:13.420><c> not</c><00:08:13.660><c> necessarily</c>
+
+00:08:14.310 --> 00:08:14.320 align:start position:0%
+prices is normal this is not necessarily
+ 
+
+00:08:14.320 --> 00:08:17.640 align:start position:0%
+prices is normal this is not necessarily
+a<00:08:14.560><c> very</c><00:08:14.890><c> realistic</c><00:08:15.400><c> assumption</c><00:08:16.380><c> therefore</c><00:08:17.380><c> in</c>
+
+00:08:17.640 --> 00:08:17.650 align:start position:0%
+a very realistic assumption therefore in
+ 
+
+00:08:17.650 --> 00:08:20.490 align:start position:0%
+a very realistic assumption therefore in
+practice<00:08:17.920><c> other</c><00:08:18.760><c> distributions</c><00:08:19.750><c> such</c><00:08:20.080><c> as</c><00:08:20.290><c> the</c>
+
+00:08:20.490 --> 00:08:20.500 align:start position:0%
+practice other distributions such as the
+ 
+
+00:08:20.500 --> 00:08:22.770 align:start position:0%
+practice other distributions such as the
+log<00:08:20.740><c> normal</c><00:08:21.190><c> distribution</c><00:08:21.250><c> or</c><00:08:21.940><c> other</c><00:08:22.420><c> ones</c>
+
+00:08:22.770 --> 00:08:22.780 align:start position:0%
+log normal distribution or other ones
+ 
+
+00:08:22.780 --> 00:08:25.710 align:start position:0%
+log normal distribution or other ones
+are<00:08:23.080><c> used</c><00:08:23.560><c> much</c><00:08:23.860><c> more</c><00:08:23.890><c> commonly</c><00:08:24.720><c> nevertheless</c>
+
+00:08:25.710 --> 00:08:25.720 align:start position:0%
+are used much more commonly nevertheless
+ 
+
+00:08:25.720 --> 00:08:28.860 align:start position:0%
+are used much more commonly nevertheless
+this<00:08:26.440><c> simplified</c><00:08:27.310><c> explanation</c><00:08:28.180><c> of</c><00:08:28.360><c> the</c>
+
+00:08:28.860 --> 00:08:28.870 align:start position:0%
+this simplified explanation of the
+ 
+
+00:08:28.870 --> 00:08:30.630 align:start position:0%
+this simplified explanation of the
+expected<00:08:29.410><c> move</c><00:08:29.590><c> should</c><00:08:30.010><c> give</c><00:08:30.220><c> you</c><00:08:30.340><c> a</c><00:08:30.370><c> good</c>
+
+00:08:30.630 --> 00:08:30.640 align:start position:0%
+expected move should give you a good
+ 
+
+00:08:30.640 --> 00:08:33.180 align:start position:0%
+expected move should give you a good
+idea<00:08:30.760><c> of</c><00:08:31.240><c> what</c><00:08:31.840><c> the</c><00:08:32.020><c> expected</c><00:08:32.500><c> move</c><00:08:32.650><c> is</c><00:08:32.890><c> and</c>
+
+00:08:33.180 --> 00:08:33.190 align:start position:0%
+idea of what the expected move is and
+ 
+
+00:08:33.190 --> 00:08:35.659 align:start position:0%
+idea of what the expected move is and
+how<00:08:33.610><c> you</c><00:08:33.669><c> can</c><00:08:33.910><c> use</c><00:08:34.150><c> it</c><00:08:34.180><c> for</c><00:08:34.570><c> your</c><00:08:34.750><c> trading</c>
+
+00:08:35.659 --> 00:08:35.669 align:start position:0%
+how you can use it for your trading
+ 
+
+00:08:35.669 --> 00:08:38.070 align:start position:0%
+how you can use it for your trading
+luckily<00:08:36.669><c> you</c><00:08:36.940><c> will</c><00:08:37.120><c> never</c><00:08:37.419><c> really</c><00:08:37.720><c> have</c><00:08:37.930><c> to</c>
+
+00:08:38.070 --> 00:08:38.080 align:start position:0%
+luckily you will never really have to
+ 
+
+00:08:38.080 --> 00:08:40.110 align:start position:0%
+luckily you will never really have to
+calculate<00:08:38.349><c> the</c><00:08:38.740><c> expected</c><00:08:39.040><c> move</c><00:08:39.400><c> yourself</c><00:08:39.910><c> as</c>
+
+00:08:40.110 --> 00:08:40.120 align:start position:0%
+calculate the expected move yourself as
+ 
+
+00:08:40.120 --> 00:08:43.320 align:start position:0%
+calculate the expected move yourself as
+most<00:08:40.750><c> good</c><00:08:41.140><c> broker</c><00:08:41.590><c> platforms</c><00:08:42.190><c> such</c><00:08:42.700><c> as</c><00:08:42.729><c> tasty</c>
+
+00:08:43.320 --> 00:08:43.330 align:start position:0%
+most good broker platforms such as tasty
+ 
+
+00:08:43.330 --> 00:08:46.230 align:start position:0%
+most good broker platforms such as tasty
+works<00:08:43.540><c> will</c><00:08:44.140><c> calculate</c><00:08:44.410><c> it</c><00:08:44.830><c> for</c><00:08:45.100><c> you</c>
+
+00:08:46.230 --> 00:08:46.240 align:start position:0%
+works will calculate it for you
+ 
+
+00:08:46.240 --> 00:08:49.390 align:start position:0%
+works will calculate it for you
+last<00:08:47.240><c> but</c><00:08:47.570><c> not</c><00:08:47.690><c> least</c><00:08:47.930><c> let's</c><00:08:48.470><c> break</c><00:08:48.800><c> down</c><00:08:48.830><c> what</c>
+
+00:08:49.390 --> 00:08:49.400 align:start position:0%
+last but not least let's break down what
+ 
+
+00:08:49.400 --> 00:08:53.230 align:start position:0%
+last but not least let's break down what
+implied<00:08:49.880><c> volatility</c><00:08:50.630><c> rank</c><00:08:50.930><c> is</c><00:08:51.490><c> by</c><00:08:52.490><c> now</c><00:08:52.760><c> you</c>
+
+00:08:53.230 --> 00:08:53.240 align:start position:0%
+implied volatility rank is by now you
+ 
+
+00:08:53.240 --> 00:08:55.150 align:start position:0%
+implied volatility rank is by now you
+have<00:08:53.360><c> hopefully</c><00:08:53.630><c> realized</c><00:08:54.380><c> that</c><00:08:54.770><c> implied</c>
+
+00:08:55.150 --> 00:08:55.160 align:start position:0%
+have hopefully realized that implied
+ 
+
+00:08:55.160 --> 00:08:57.610 align:start position:0%
+have hopefully realized that implied
+volatility<00:08:55.910><c> is</c><00:08:56.150><c> an</c><00:08:56.540><c> important</c><00:08:57.140><c> factor</c><00:08:57.590><c> to</c>
+
+00:08:57.610 --> 00:08:57.620 align:start position:0%
+volatility is an important factor to
+ 
+
+00:08:57.620 --> 00:09:00.220 align:start position:0%
+volatility is an important factor to
+look<00:08:57.920><c> at</c><00:08:58.100><c> when</c><00:08:58.520><c> trading</c><00:08:58.940><c> options</c><00:08:59.360><c> when</c>
+
+00:09:00.220 --> 00:09:00.230 align:start position:0%
+look at when trading options when
+ 
+
+00:09:00.230 --> 00:09:02.740 align:start position:0%
+look at when trading options when
+implied<00:09:00.560><c> volatility</c><00:09:01.310><c> is</c><00:09:01.430><c> high</c><00:09:01.670><c> options</c><00:09:02.630><c> are</c>
+
+00:09:02.740 --> 00:09:02.750 align:start position:0%
+implied volatility is high options are
+ 
+
+00:09:02.750 --> 00:09:04.540 align:start position:0%
+implied volatility is high options are
+priced<00:09:02.990><c> higher</c><00:09:03.440><c> and</c><00:09:03.800><c> when</c><00:09:04.190><c> implied</c>
+
+00:09:04.540 --> 00:09:04.550 align:start position:0%
+priced higher and when implied
+ 
+
+00:09:04.550 --> 00:09:06.790 align:start position:0%
+priced higher and when implied
+volatility<00:09:05.330><c> is</c><00:09:05.390><c> low</c><00:09:05.470><c> options</c><00:09:06.470><c> are</c><00:09:06.620><c> priced</c>
+
+00:09:06.790 --> 00:09:06.800 align:start position:0%
+volatility is low options are priced
+ 
+
+00:09:06.800 --> 00:09:10.270 align:start position:0%
+volatility is low options are priced
+lower<00:09:07.810><c> but</c><00:09:08.810><c> how</c><00:09:09.020><c> do</c><00:09:09.080><c> you</c><00:09:09.290><c> know</c><00:09:09.560><c> if</c><00:09:09.830><c> implied</c>
+
+00:09:10.270 --> 00:09:10.280 align:start position:0%
+lower but how do you know if implied
+ 
+
+00:09:10.280 --> 00:09:13.200 align:start position:0%
+lower but how do you know if implied
+volatility<00:09:11.000><c> is</c><00:09:11.030><c> high</c><00:09:11.360><c> or</c><00:09:11.690><c> low</c>
+
+00:09:13.200 --> 00:09:13.210 align:start position:0%
+volatility is high or low
+ 
+
+00:09:13.210 --> 00:09:17.350 align:start position:0%
+volatility is high or low
+for<00:09:14.210><c> instance</c><00:09:14.690><c> if</c><00:09:14.930><c> stock</c><00:09:15.620><c> XYZ</c><00:09:16.070><c> has</c><00:09:16.760><c> an</c><00:09:16.880><c> option</c>
+
+00:09:17.350 --> 00:09:17.360 align:start position:0%
+for instance if stock XYZ has an option
+ 
+
+00:09:17.360 --> 00:09:20.170 align:start position:0%
+for instance if stock XYZ has an option
+with<00:09:17.630><c> an</c><00:09:17.780><c> implied</c><00:09:18.110><c> volatility</c><00:09:18.890><c> of</c><00:09:19.100><c> 40%</c><00:09:19.970><c> and</c>
+
+00:09:20.170 --> 00:09:20.180 align:start position:0%
+with an implied volatility of 40% and
+ 
+
+00:09:20.180 --> 00:09:22.930 align:start position:0%
+with an implied volatility of 40% and
+stock<00:09:20.840><c> ABC</c><00:09:21.590><c> has</c><00:09:21.860><c> an</c><00:09:22.010><c> option</c><00:09:22.340><c> with</c><00:09:22.490><c> an</c><00:09:22.610><c> implied</c>
+
+00:09:22.930 --> 00:09:22.940 align:start position:0%
+stock ABC has an option with an implied
+ 
+
+00:09:22.940 --> 00:09:26.140 align:start position:0%
+stock ABC has an option with an implied
+volatility<00:09:23.720><c> level</c><00:09:24.020><c> of</c><00:09:24.170><c> 30%</c><00:09:24.940><c> what</c><00:09:25.940><c> does</c><00:09:26.120><c> that</c>
+
+00:09:26.140 --> 00:09:26.150 align:start position:0%
+volatility level of 30% what does that
+ 
+
+00:09:26.150 --> 00:09:29.140 align:start position:0%
+volatility level of 30% what does that
+mean<00:09:26.540><c> just</c><00:09:27.130><c> because</c><00:09:28.130><c> the</c><00:09:28.280><c> absolute</c><00:09:28.730><c> implied</c>
+
+00:09:29.140 --> 00:09:29.150 align:start position:0%
+mean just because the absolute implied
+ 
+
+00:09:29.150 --> 00:09:32.440 align:start position:0%
+mean just because the absolute implied
+volatility<00:09:29.900><c> value</c><00:09:30.290><c> of</c><00:09:30.470><c> XYZ</c><00:09:31.370><c> is</c><00:09:31.850><c> higher</c><00:09:32.150><c> than</c>
+
+00:09:32.440 --> 00:09:32.450 align:start position:0%
+volatility value of XYZ is higher than
+ 
+
+00:09:32.450 --> 00:09:35.290 align:start position:0%
+volatility value of XYZ is higher than
+of<00:09:32.630><c> ABC</c><00:09:33.290><c> we</c><00:09:34.010><c> can't</c><00:09:34.250><c> just</c><00:09:34.430><c> assume</c><00:09:34.850><c> that</c><00:09:35.090><c> it's</c>
+
+00:09:35.290 --> 00:09:35.300 align:start position:0%
+of ABC we can't just assume that it's
+ 
+
+00:09:35.300 --> 00:09:37.510 align:start position:0%
+of ABC we can't just assume that it's
+implied<00:09:35.630><c> volatility</c><00:09:36.320><c> is</c><00:09:36.350><c> higher</c><00:09:36.710><c> relative</c><00:09:37.220><c> to</c>
+
+00:09:37.510 --> 00:09:37.520 align:start position:0%
+implied volatility is higher relative to
+ 
+
+00:09:37.520 --> 00:09:40.030 align:start position:0%
+implied volatility is higher relative to
+itself<00:09:38.140><c> let</c><00:09:39.140><c> me</c><00:09:39.320><c> give</c><00:09:39.500><c> you</c><00:09:39.650><c> a</c><00:09:39.680><c> more</c><00:09:40.010><c> specific</c>
+
+00:09:40.030 --> 00:09:40.040 align:start position:0%
+itself let me give you a more specific
+ 
+
+00:09:40.040 --> 00:09:44.470 align:start position:0%
+itself let me give you a more specific
+example<00:09:40.640><c> to</c><00:09:41.210><c> clarify</c><00:09:41.570><c> this</c><00:09:42.100><c> let's</c><00:09:43.100><c> say</c><00:09:43.310><c> XYZ</c><00:09:44.240><c> is</c>
+
+00:09:44.470 --> 00:09:44.480 align:start position:0%
+example to clarify this let's say XYZ is
+ 
+
+00:09:44.480 --> 00:09:47.410 align:start position:0%
+example to clarify this let's say XYZ is
+usually<00:09:45.290><c> a</c><00:09:45.320><c> very</c><00:09:45.680><c> volatile</c><00:09:46.280><c> stock</c><00:09:46.670><c> and</c><00:09:46.910><c> has</c><00:09:47.300><c> an</c>
+
+00:09:47.410 --> 00:09:47.420 align:start position:0%
+usually a very volatile stock and has an
+ 
+
+00:09:47.420 --> 00:09:51.400 align:start position:0%
+usually a very volatile stock and has an
+average<00:09:47.630><c> implied</c><00:09:48.290><c> volatility</c><00:09:49.070><c> of</c><00:09:49.250><c> 70%</c><00:09:50.410><c> but</c>
+
+00:09:51.400 --> 00:09:51.410 align:start position:0%
+average implied volatility of 70% but
+ 
+
+00:09:51.410 --> 00:09:54.150 align:start position:0%
+average implied volatility of 70% but
+now<00:09:51.680><c> the</c><00:09:52.130><c> IV</c><00:09:52.640><c> dropped</c><00:09:53.060><c> down</c><00:09:53.240><c> to</c><00:09:53.480><c> 40</c><00:09:53.870><c> percent</c>
+
+00:09:54.150 --> 00:09:54.160 align:start position:0%
+now the IV dropped down to 40 percent
+ 
+
+00:09:54.160 --> 00:09:57.730 align:start position:0%
+now the IV dropped down to 40 percent
+whereas<00:09:55.160><c> ABC</c><00:09:55.940><c> tends</c><00:09:56.450><c> to</c><00:09:56.600><c> have</c><00:09:56.720><c> an</c><00:09:56.810><c> IV</c><00:09:57.230><c> level</c><00:09:57.590><c> of</c>
+
+00:09:57.730 --> 00:09:57.740 align:start position:0%
+whereas ABC tends to have an IV level of
+ 
+
+00:09:57.740 --> 00:10:00.640 align:start position:0%
+whereas ABC tends to have an IV level of
+around<00:09:58.370><c> 20</c><00:09:58.880><c> percent</c><00:09:59.030><c> most</c><00:09:59.540><c> of</c><00:09:59.690><c> the</c><00:09:59.810><c> time</c><00:10:00.050><c> but</c>
+
+00:10:00.640 --> 00:10:00.650 align:start position:0%
+around 20 percent most of the time but
+ 
+
+00:10:00.650 --> 00:10:03.280 align:start position:0%
+around 20 percent most of the time but
+now<00:10:00.800><c> it's</c><00:10:01.130><c> implied</c><00:10:01.640><c> volatility</c><00:10:02.360><c> has</c><00:10:02.600><c> gone</c><00:10:03.080><c> up</c>
+
+00:10:03.280 --> 00:10:03.290 align:start position:0%
+now it's implied volatility has gone up
+ 
+
+00:10:03.290 --> 00:10:07.300 align:start position:0%
+now it's implied volatility has gone up
+to<00:10:03.620><c> 30</c><00:10:03.890><c> percent</c><00:10:04.160><c> and</c><00:10:04.750><c> this</c><00:10:05.750><c> means</c><00:10:06.110><c> that</c><00:10:06.410><c> ABC's</c>
+
+00:10:07.300 --> 00:10:07.310 align:start position:0%
+to 30 percent and this means that ABC's
+ 
+
+00:10:07.310 --> 00:10:10.120 align:start position:0%
+to 30 percent and this means that ABC's
+implied<00:10:07.790><c> volatility</c><00:10:08.540><c> is</c><00:10:08.870><c> relatively</c><00:10:09.650><c> high</c>
+
+00:10:10.120 --> 00:10:10.130 align:start position:0%
+implied volatility is relatively high
+ 
+
+00:10:10.130 --> 00:10:13.210 align:start position:0%
+implied volatility is relatively high
+and<00:10:10.460><c> XYZ</c><00:10:11.360><c> is</c><00:10:11.660><c> implied</c><00:10:12.110><c> volatility</c><00:10:12.890><c> is</c>
+
+00:10:13.210 --> 00:10:13.220 align:start position:0%
+and XYZ is implied volatility is
+ 
+
+00:10:13.220 --> 00:10:16.270 align:start position:0%
+and XYZ is implied volatility is
+relatively<00:10:13.940><c> low</c><00:10:14.270><c> even</c><00:10:15.170><c> though</c><00:10:15.350><c> X</c><00:10:15.620><c> Y</c><00:10:15.980><c> Z's</c>
+
+00:10:16.270 --> 00:10:16.280 align:start position:0%
+relatively low even though X Y Z's
+ 
+
+00:10:16.280 --> 00:10:18.940 align:start position:0%
+relatively low even though X Y Z's
+absolute<00:10:16.970><c> volatility</c><00:10:17.750><c> is</c><00:10:18.140><c> greater</c><00:10:18.620><c> than</c>
+
+00:10:18.940 --> 00:10:18.950 align:start position:0%
+absolute volatility is greater than
+ 
+
+00:10:18.950 --> 00:10:22.810 align:start position:0%
+absolute volatility is greater than
+ABC's<00:10:19.640><c> I</c><00:10:20.170><c> hope</c><00:10:21.170><c> that</c><00:10:21.440><c> this</c><00:10:21.650><c> shows</c><00:10:22.010><c> that</c><00:10:22.340><c> it's</c>
+
+00:10:22.810 --> 00:10:22.820 align:start position:0%
+ABC's I hope that this shows that it's
+ 
+
+00:10:22.820 --> 00:10:24.730 align:start position:0%
+ABC's I hope that this shows that it's
+very<00:10:23.090><c> hard</c><00:10:23.450><c> to</c><00:10:23.630><c> compare</c><00:10:24.230><c> the</c><00:10:24.440><c> implied</c>
+
+00:10:24.730 --> 00:10:24.740 align:start position:0%
+very hard to compare the implied
+ 
+
+00:10:24.740 --> 00:10:27.310 align:start position:0%
+very hard to compare the implied
+volatilities<00:10:25.550><c> of</c><00:10:25.820><c> different</c><00:10:26.660><c> securities</c>
+
+00:10:27.310 --> 00:10:27.320 align:start position:0%
+volatilities of different securities
+ 
+
+00:10:27.320 --> 00:10:29.500 align:start position:0%
+volatilities of different securities
+because<00:10:27.800><c> different</c><00:10:28.280><c> securities</c><00:10:29.090><c> can</c><00:10:29.390><c> have</c>
+
+00:10:29.500 --> 00:10:29.510 align:start position:0%
+because different securities can have
+ 
+
+00:10:29.510 --> 00:10:32.160 align:start position:0%
+because different securities can have
+very<00:10:29.810><c> different</c><00:10:30.110><c> trading</c><00:10:30.560><c> characteristics</c>
+
+00:10:32.160 --> 00:10:32.170 align:start position:0%
+very different trading characteristics
+ 
+
+00:10:32.170 --> 00:10:35.500 align:start position:0%
+very different trading characteristics
+to<00:10:33.170><c> solve</c><00:10:33.440><c> this</c><00:10:33.680><c> problem</c><00:10:33.980><c> we</c><00:10:34.670><c> can</c><00:10:34.850><c> use</c><00:10:34.880><c> implied</c>
+
+00:10:35.500 --> 00:10:35.510 align:start position:0%
+to solve this problem we can use implied
+ 
+
+00:10:35.510 --> 00:10:39.220 align:start position:0%
+to solve this problem we can use implied
+volatility<00:10:36.290><c> rank</c><00:10:36.940><c> IV</c><00:10:37.940><c> rank</c><00:10:38.240><c> looks</c><00:10:38.930><c> at</c><00:10:39.080><c> the</c>
+
+00:10:39.220 --> 00:10:39.230 align:start position:0%
+volatility rank IV rank looks at the
+ 
+
+00:10:39.230 --> 00:10:41.980 align:start position:0%
+volatility rank IV rank looks at the
+past<00:10:39.500><c> year</c><00:10:39.980><c> of</c><00:10:40.100><c> implied</c><00:10:40.610><c> volatility</c><00:10:41.360><c> data</c><00:10:41.630><c> of</c>
+
+00:10:41.980 --> 00:10:41.990 align:start position:0%
+past year of implied volatility data of
+ 
+
+00:10:41.990 --> 00:10:44.320 align:start position:0%
+past year of implied volatility data of
+a<00:10:42.380><c> stock</c><00:10:42.680><c> and</c><00:10:42.920><c> then</c><00:10:43.400><c> tells</c><00:10:43.790><c> you</c><00:10:44.030><c> how</c><00:10:44.270><c> the</c>
+
+00:10:44.320 --> 00:10:44.330 align:start position:0%
+a stock and then tells you how the
+ 
+
+00:10:44.330 --> 00:10:48.070 align:start position:0%
+a stock and then tells you how the
+current<00:10:44.990><c> level</c><00:10:45.380><c> of</c><00:10:45.530><c> IV</c><00:10:46.310><c> is</c><00:10:46.690><c> relative</c><00:10:47.690><c> to</c><00:10:47.720><c> the</c>
+
+00:10:48.070 --> 00:10:48.080 align:start position:0%
+current level of IV is relative to the
+ 
+
+00:10:48.080 --> 00:10:53.830 align:start position:0%
+current level of IV is relative to the
+past<00:10:48.910><c> 365</c><00:10:49.910><c> days</c><00:10:50.770><c> IV</c><00:10:51.770><c> rank</c><00:10:52.130><c> is</c><00:10:52.580><c> always</c><00:10:53.210><c> a</c><00:10:53.390><c> value</c>
+
+00:10:53.830 --> 00:10:53.840 align:start position:0%
+past 365 days IV rank is always a value
+ 
+
+00:10:53.840 --> 00:10:57.340 align:start position:0%
+past 365 days IV rank is always a value
+between<00:10:54.050><c> 0</c><00:10:54.590><c> and</c><00:10:54.890><c> 100</c><00:10:55.820><c> 100</c><00:10:56.720><c> being</c><00:10:56.750><c> the</c><00:10:57.020><c> highest</c>
+
+00:10:57.340 --> 00:10:57.350 align:start position:0%
+between 0 and 100 100 being the highest
+ 
+
+00:10:57.350 --> 00:10:59.480 align:start position:0%
+between 0 and 100 100 being the highest
+and<00:10:57.680><c> 0</c><00:10:58.070><c> the</c><00:10:58.280><c> lowest</c><00:10:58.670><c> and</c><00:10:58.850><c> level</c><00:10:59.150><c> of</c>
+
+00:10:59.480 --> 00:10:59.490 align:start position:0%
+and 0 the lowest and level of
+ 
+
+00:10:59.490 --> 00:11:02.560 align:start position:0%
+and 0 the lowest and level of
+applied<00:10:59.670><c> volatility</c><00:11:00.450><c> over</c><00:11:00.660><c> the</c><00:11:01.200><c> past</c><00:11:01.500><c> year</c>
+
+00:11:02.560 --> 00:11:02.570 align:start position:0%
+applied volatility over the past year
+ 
+
+00:11:02.570 --> 00:11:07.190 align:start position:0%
+applied volatility over the past year
+here<00:11:03.570><c> is</c><00:11:03.690><c> a</c><00:11:03.720><c> brief</c><00:11:04.020><c> example</c><00:11:04.770><c> stock</c><00:11:05.760><c> ABC</c><00:11:06.690><c> has</c><00:11:06.990><c> an</c>
+
+00:11:07.190 --> 00:11:07.200 align:start position:0%
+here is a brief example stock ABC has an
+ 
+
+00:11:07.200 --> 00:11:10.820 align:start position:0%
+here is a brief example stock ABC has an
+IV<00:11:07.440><c> rank</c><00:11:07.980><c> of</c><00:11:08.190><c> 20</c><00:11:08.870><c> this</c><00:11:09.870><c> means</c><00:11:10.230><c> that</c><00:11:10.649><c> it's</c>
+
+00:11:10.820 --> 00:11:10.830 align:start position:0%
+IV rank of 20 this means that it's
+ 
+
+00:11:10.830 --> 00:11:13.490 align:start position:0%
+IV rank of 20 this means that it's
+implied<00:11:11.220><c> volatility</c><00:11:12.029><c> is</c><00:11:12.480><c> relatively</c><00:11:13.290><c> low</c>
+
+00:11:13.490 --> 00:11:13.500 align:start position:0%
+implied volatility is relatively low
+ 
+
+00:11:13.500 --> 00:11:15.260 align:start position:0%
+implied volatility is relatively low
+because<00:11:14.100><c> it</c><00:11:14.370><c> has</c><00:11:14.550><c> been</c><00:11:14.730><c> much</c><00:11:14.970><c> higher</c>
+
+00:11:15.260 --> 00:11:15.270 align:start position:0%
+because it has been much higher
+ 
+
+00:11:15.270 --> 00:11:18.139 align:start position:0%
+because it has been much higher
+throughout<00:11:15.810><c> the</c><00:11:16.050><c> past</c><00:11:16.290><c> year</c><00:11:16.709><c> therefore</c><00:11:17.550><c> you</c>
+
+00:11:18.139 --> 00:11:18.149 align:start position:0%
+throughout the past year therefore you
+ 
+
+00:11:18.149 --> 00:11:20.449 align:start position:0%
+throughout the past year therefore you
+can<00:11:18.330><c> assume</c><00:11:18.720><c> that</c><00:11:18.750><c> ABC's</c><00:11:19.709><c> options</c><00:11:20.279><c> are</c>
+
+00:11:20.449 --> 00:11:20.459 align:start position:0%
+can assume that ABC's options are
+ 
+
+00:11:20.459 --> 00:11:23.740 align:start position:0%
+can assume that ABC's options are
+relatively<00:11:21.390><c> cheap</c><00:11:21.779><c> compared</c><00:11:22.500><c> to</c><00:11:22.589><c> past</c><00:11:22.980><c> times</c>
+
+00:11:23.740 --> 00:11:23.750 align:start position:0%
+relatively cheap compared to past times
+ 
+
+00:11:23.750 --> 00:11:27.290 align:start position:0%
+relatively cheap compared to past times
+if<00:11:24.750><c> on</c><00:11:25.140><c> the</c><00:11:25.410><c> other</c><00:11:25.500><c> hand</c><00:11:25.649><c> IV</c><00:11:26.490><c> rank</c><00:11:26.760><c> would</c><00:11:27.000><c> be</c><00:11:27.209><c> at</c>
+
+00:11:27.290 --> 00:11:27.300 align:start position:0%
+if on the other hand IV rank would be at
+ 
+
+00:11:27.300 --> 00:11:30.260 align:start position:0%
+if on the other hand IV rank would be at
+100<00:11:28.110><c> you</c><00:11:28.680><c> know</c><00:11:28.860><c> that</c><00:11:29.100><c> ABC's</c><00:11:29.850><c> implied</c>
+
+00:11:30.260 --> 00:11:30.270 align:start position:0%
+100 you know that ABC's implied
+ 
+
+00:11:30.270 --> 00:11:33.050 align:start position:0%
+100 you know that ABC's implied
+volatility<00:11:31.050><c> has</c><00:11:31.260><c> never</c><00:11:31.890><c> been</c><00:11:32.160><c> higher</c><00:11:32.490><c> over</c>
+
+00:11:33.050 --> 00:11:33.060 align:start position:0%
+volatility has never been higher over
+ 
+
+00:11:33.060 --> 00:11:35.810 align:start position:0%
+volatility has never been higher over
+the<00:11:33.180><c> past</c><00:11:33.450><c> year</c><00:11:33.899><c> and</c><00:11:34.110><c> therefore</c><00:11:34.860><c> this</c><00:11:35.520><c> could</c>
+
+00:11:35.810 --> 00:11:35.820 align:start position:0%
+the past year and therefore this could
+ 
+
+00:11:35.820 --> 00:11:38.180 align:start position:0%
+the past year and therefore this could
+be<00:11:36.029><c> a</c><00:11:36.060><c> good</c><00:11:36.270><c> time</c><00:11:36.570><c> to</c><00:11:36.600><c> sell</c><00:11:37.140><c> options</c><00:11:37.649><c> because</c>
+
+00:11:38.180 --> 00:11:38.190 align:start position:0%
+be a good time to sell options because
+ 
+
+00:11:38.190 --> 00:11:42.470 align:start position:0%
+be a good time to sell options because
+they<00:11:38.370><c> are</c><00:11:38.520><c> very</c><00:11:38.790><c> expensive</c><00:11:41.209><c> summed</c><00:11:42.209><c> up</c>
+
+00:11:42.470 --> 00:11:42.480 align:start position:0%
+they are very expensive summed up
+ 
+
+00:11:42.480 --> 00:11:45.199 align:start position:0%
+they are very expensive summed up
+implied<00:11:43.410><c> volatility</c><00:11:44.130><c> rank</c><00:11:44.399><c> brings</c><00:11:44.910><c> some</c>
+
+00:11:45.199 --> 00:11:45.209 align:start position:0%
+implied volatility rank brings some
+ 
+
+00:11:45.209 --> 00:11:49.910 align:start position:0%
+implied volatility rank brings some
+context<00:11:46.020><c> to</c><00:11:46.170><c> implied</c><00:11:46.649><c> volatility</c><00:11:48.770><c> here</c><00:11:49.770><c> is</c>
+
+00:11:49.910 --> 00:11:49.920 align:start position:0%
+context to implied volatility here is
+ 
+
+00:11:49.920 --> 00:11:51.980 align:start position:0%
+context to implied volatility here is
+the<00:11:50.130><c> formula</c><00:11:50.550><c> that</c><00:11:50.970><c> is</c><00:11:51.060><c> most</c><00:11:51.360><c> commonly</c><00:11:51.870><c> used</c>
+
+00:11:51.980 --> 00:11:51.990 align:start position:0%
+the formula that is most commonly used
+ 
+
+00:11:51.990 --> 00:11:56.000 align:start position:0%
+the formula that is most commonly used
+to<00:11:52.470><c> calculate</c><00:11:52.740><c> IV</c><00:11:53.430><c> rank</c><00:11:54.050><c> the</c><00:11:55.050><c> current</c><00:11:55.500><c> IV</c>
+
+00:11:56.000 --> 00:11:56.010 align:start position:0%
+to calculate IV rank the current IV
+ 
+
+00:11:56.010 --> 00:12:00.440 align:start position:0%
+to calculate IV rank the current IV
+level<00:11:56.430><c> minus</c><00:11:57.270><c> the</c><00:11:57.600><c> 52-week</c><00:11:58.260><c> IV</c><00:11:58.980><c> low</c><00:11:59.450><c> divided</c>
+
+00:12:00.440 --> 00:12:00.450 align:start position:0%
+level minus the 52-week IV low divided
+ 
+
+00:12:00.450 --> 00:12:04.670 align:start position:0%
+level minus the 52-week IV low divided
+by<00:12:00.630><c> the</c><00:12:00.690><c> 52-week</c><00:12:01.680><c> IV</c><00:12:02.430><c> high</c><00:12:02.779><c> minus</c><00:12:03.779><c> the</c><00:12:04.020><c> 52-week</c>
+
+00:12:04.670 --> 00:12:04.680 align:start position:0%
+by the 52-week IV high minus the 52-week
+ 
+
+00:12:04.680 --> 00:12:08.120 align:start position:0%
+by the 52-week IV high minus the 52-week
+IV<00:12:05.550><c> low</c><00:12:05.820><c> and</c><00:12:06.149><c> all</c><00:12:07.050><c> of</c><00:12:07.170><c> this</c><00:12:07.380><c> is</c><00:12:07.589><c> multiplied</c><00:12:08.100><c> by</c>
+
+00:12:08.120 --> 00:12:08.130 align:start position:0%
+IV low and all of this is multiplied by
+ 
+
+00:12:08.130 --> 00:12:12.500 align:start position:0%
+IV low and all of this is multiplied by
+100<00:12:08.730><c> to</c><00:12:09.149><c> get</c><00:12:09.300><c> the</c><00:12:09.450><c> IV</c><00:12:09.810><c> rank</c><00:12:10.610><c> note</c><00:12:11.610><c> that</c><00:12:12.149><c> some</c>
+
+00:12:12.500 --> 00:12:12.510 align:start position:0%
+100 to get the IV rank note that some
+ 
+
+00:12:12.510 --> 00:12:14.750 align:start position:0%
+100 to get the IV rank note that some
+brokers<00:12:12.839><c> often</c><00:12:13.470><c> filter</c><00:12:13.860><c> out</c><00:12:13.980><c> very</c><00:12:14.250><c> extreme</c>
+
+00:12:14.750 --> 00:12:14.760 align:start position:0%
+brokers often filter out very extreme
+ 
+
+00:12:14.760 --> 00:12:17.030 align:start position:0%
+brokers often filter out very extreme
+implied<00:12:15.209><c> volatility</c><00:12:15.930><c> values</c><00:12:16.350><c> from</c><00:12:16.680><c> the</c><00:12:16.800><c> past</c>
+
+00:12:17.030 --> 00:12:17.040 align:start position:0%
+implied volatility values from the past
+ 
+
+00:12:17.040 --> 00:12:20.630 align:start position:0%
+implied volatility values from the past
+52<00:12:17.670><c> weeks</c><00:12:17.940><c> so</c><00:12:18.570><c> that</c><00:12:18.600><c> IV</c><00:12:19.200><c> rank</c><00:12:19.470><c> isn't</c><00:12:19.770><c> skewed</c><00:12:20.370><c> or</c>
+
+00:12:20.630 --> 00:12:20.640 align:start position:0%
+52 weeks so that IV rank isn't skewed or
+ 
+
+00:12:20.640 --> 00:12:23.720 align:start position:0%
+52 weeks so that IV rank isn't skewed or
+distorted<00:12:21.360><c> by</c><00:12:21.510><c> these</c><00:12:21.690><c> values</c><00:12:21.930><c> and</c><00:12:22.730><c> don't</c>
+
+00:12:23.720 --> 00:12:23.730 align:start position:0%
+distorted by these values and don't
+ 
+
+00:12:23.730 --> 00:12:25.730 align:start position:0%
+distorted by these values and don't
+worry<00:12:24.000><c> you</c><00:12:24.420><c> won't</c><00:12:24.570><c> have</c><00:12:24.839><c> to</c><00:12:25.020><c> calculate</c><00:12:25.260><c> this</c>
+
+00:12:25.730 --> 00:12:25.740 align:start position:0%
+worry you won't have to calculate this
+ 
+
+00:12:25.740 --> 00:12:28.430 align:start position:0%
+worry you won't have to calculate this
+yourself<00:12:26.279><c> because</c><00:12:26.940><c> once</c><00:12:27.180><c> again</c><00:12:27.390><c> most</c><00:12:28.140><c> good</c>
+
+00:12:28.430 --> 00:12:28.440 align:start position:0%
+yourself because once again most good
+ 
+
+00:12:28.440 --> 00:12:31.579 align:start position:0%
+yourself because once again most good
+brokers<00:12:28.980><c> will</c><00:12:29.190><c> do</c><00:12:29.339><c> this</c><00:12:29.520><c> for</c><00:12:29.820><c> you</c><00:12:30.589><c> taystee</c>
+
+00:12:31.579 --> 00:12:31.589 align:start position:0%
+brokers will do this for you taystee
+ 
+
+00:12:31.589 --> 00:12:33.769 align:start position:0%
+brokers will do this for you taystee
+works<00:12:31.800><c> for</c><00:12:32.130><c> instance</c><00:12:32.490><c> even</c><00:12:32.880><c> allows</c><00:12:33.420><c> you</c><00:12:33.600><c> to</c>
+
+00:12:33.769 --> 00:12:33.779 align:start position:0%
+works for instance even allows you to
+ 
+
+00:12:33.779 --> 00:12:37.130 align:start position:0%
+works for instance even allows you to
+scan<00:12:34.260><c> and</c><00:12:34.529><c> filter</c><00:12:35.040><c> securities</c><00:12:35.730><c> by</c><00:12:36.240><c> IV</c><00:12:36.810><c> rank</c>
+
+00:12:37.130 --> 00:12:37.140 align:start position:0%
+scan and filter securities by IV rank
+ 
+
+00:12:37.140 --> 00:12:40.060 align:start position:0%
+scan and filter securities by IV rank
+this<00:12:37.860><c> is</c><00:12:38.040><c> one</c><00:12:38.220><c> of</c><00:12:38.250><c> the</c><00:12:38.490><c> easiest</c><00:12:38.970><c> ways</c><00:12:39.360><c> to</c><00:12:39.390><c> find</c>
+
+00:12:40.060 --> 00:12:40.070 align:start position:0%
+this is one of the easiest ways to find
+ 
+
+00:12:40.070 --> 00:12:43.160 align:start position:0%
+this is one of the easiest ways to find
+securities<00:12:41.070><c> with</c><00:12:41.490><c> very</c><00:12:41.820><c> low</c><00:12:42.149><c> or</c><00:12:42.450><c> very</c><00:12:42.510><c> high</c>
+
+00:12:43.160 --> 00:12:43.170 align:start position:0%
+securities with very low or very high
+ 
+
+00:12:43.170 --> 00:12:46.970 align:start position:0%
+securities with very low or very high
+implied<00:12:43.680><c> volatility</c><00:12:44.430><c> values</c><00:12:45.920><c> if</c><00:12:46.920><c> you</c>
+
+00:12:46.970 --> 00:12:46.980 align:start position:0%
+implied volatility values if you
+ 
+
+00:12:46.980 --> 00:12:49.430 align:start position:0%
+implied volatility values if you
+currently<00:12:47.610><c> do</c><00:12:47.910><c> not</c><00:12:47.940><c> have</c><00:12:48.180><c> a</c><00:12:48.480><c> broker</c><00:12:48.839><c> platform</c>
+
+00:12:49.430 --> 00:12:49.440 align:start position:0%
+currently do not have a broker platform
+ 
+
+00:12:49.440 --> 00:12:52.460 align:start position:0%
+currently do not have a broker platform
+that<00:12:49.709><c> supports</c><00:12:49.880><c> IV</c><00:12:50.880><c> rank</c><00:12:51.120><c> or</c><00:12:51.630><c> other</c><00:12:51.839><c> features</c>
+
+00:12:52.460 --> 00:12:52.470 align:start position:0%
+that supports IV rank or other features
+ 
+
+00:12:52.470 --> 00:12:54.590 align:start position:0%
+that supports IV rank or other features
+related<00:12:53.100><c> to</c><00:12:53.130><c> implied</c><00:12:53.610><c> volatility</c><00:12:54.360><c> I</c>
+
+00:12:54.590 --> 00:12:54.600 align:start position:0%
+related to implied volatility I
+ 
+
+00:12:54.600 --> 00:12:57.740 align:start position:0%
+related to implied volatility I
+personally<00:12:55.760><c> highly</c><00:12:56.760><c> recommend</c><00:12:57.270><c> taystee</c>
+
+00:12:57.740 --> 00:12:57.750 align:start position:0%
+personally highly recommend taystee
+ 
+
+00:12:57.750 --> 00:12:58.280 align:start position:0%
+personally highly recommend taystee
+works
+
+00:12:58.280 --> 00:12:58.290 align:start position:0%
+works
+ 
+
+00:12:58.290 --> 00:13:01.190 align:start position:0%
+works
+they<00:12:58.980><c> are</c><00:12:59.190><c> my</c><00:12:59.339><c> favorite</c><00:12:59.670><c> broker</c><00:13:00.120><c> and</c><00:13:00.570><c> you</c><00:13:01.050><c> can</c>
+
+00:13:01.190 --> 00:13:01.200 align:start position:0%
+they are my favorite broker and you can
+ 
+
+00:13:01.200 --> 00:13:03.470 align:start position:0%
+they are my favorite broker and you can
+check<00:13:01.410><c> out</c><00:13:01.620><c> my</c><00:13:01.829><c> full</c><00:13:02.100><c> review</c><00:13:02.160><c> of</c><00:13:02.760><c> tasty</c><00:13:03.240><c> works</c>
+
+00:13:03.470 --> 00:13:03.480 align:start position:0%
+check out my full review of tasty works
+ 
+
+00:13:03.480 --> 00:13:08.490 align:start position:0%
+check out my full review of tasty works
+in<00:13:03.690><c> the</c><00:13:04.050><c> description</c><00:13:04.620><c> below</c>
+
+00:13:08.490 --> 00:13:08.500 align:start position:0%
+ 
+ 
+
+00:13:08.500 --> 00:13:11.710 align:start position:0%
+ 
+otherwise<00:13:09.500><c> thanks</c><00:13:10.460><c> so</c><00:13:10.640><c> much</c><00:13:10.670><c> for</c><00:13:11.090><c> watching</c><00:13:11.510><c> I</c>
+
+00:13:11.710 --> 00:13:11.720 align:start position:0%
+otherwise thanks so much for watching I
+ 
+
+00:13:11.720 --> 00:13:13.780 align:start position:0%
+otherwise thanks so much for watching I
+really<00:13:11.960><c> hope</c><00:13:12.410><c> that</c><00:13:12.770><c> this</c><00:13:12.950><c> video</c><00:13:13.190><c> could</c><00:13:13.550><c> help</c>
+
+00:13:13.780 --> 00:13:13.790 align:start position:0%
+really hope that this video could help
+ 
+
+00:13:13.790 --> 00:13:15.820 align:start position:0%
+really hope that this video could help
+you<00:13:14.000><c> understand</c><00:13:14.510><c> implied</c><00:13:14.900><c> volatility</c><00:13:15.650><c> and</c>
+
+00:13:15.820 --> 00:13:15.830 align:start position:0%
+you understand implied volatility and
+ 
+
+00:13:15.830 --> 00:13:19.270 align:start position:0%
+you understand implied volatility and
+how<00:13:16.340><c> implied</c><00:13:16.760><c> volatility</c><00:13:17.540><c> rank</c><00:13:17.750><c> works</c><00:13:18.280><c> make</c>
+
+00:13:19.270 --> 00:13:19.280 align:start position:0%
+how implied volatility rank works make
+ 
+
+00:13:19.280 --> 00:13:20.950 align:start position:0%
+how implied volatility rank works make
+sure<00:13:19.520><c> to</c><00:13:19.730><c> subscribe</c><00:13:19.940><c> for</c><00:13:20.450><c> more</c><00:13:20.510><c> trading</c>
+
+00:13:20.950 --> 00:13:20.960 align:start position:0%
+sure to subscribe for more trading
+ 
+
+00:13:20.960 --> 00:13:23.530 align:start position:0%
+sure to subscribe for more trading
+related<00:13:21.500><c> videos</c><00:13:21.860><c> and</c><00:13:22.100><c> see</c><00:13:22.910><c> you</c><00:13:23.060><c> in</c><00:13:23.150><c> the</c><00:13:23.270><c> next</c>
+
+00:13:23.530 --> 00:13:23.540 align:start position:0%
+related videos and see you in the next
+ 
+
+00:13:23.540 --> 00:13:25.720 align:start position:0%
+related videos and see you in the next
+one
+

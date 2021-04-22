@@ -1,0 +1,1496 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.329 --> 00:00:03.180 align:start position:0%
+ 
+I'm<00:00:02.320><c> going</c><00:00:02.469><c> to</c><00:00:02.530><c> talk</c><00:00:02.620><c> to</c><00:00:02.710><c> you</c><00:00:02.770><c> about</c><00:00:02.860><c> streaming</c>
+
+00:00:03.180 --> 00:00:03.190 align:start position:0%
+I'm going to talk to you about streaming
+ 
+
+00:00:03.190 --> 00:00:06.870 align:start position:0%
+I'm going to talk to you about streaming
+it<00:00:03.340><c> of</c><00:00:03.459><c> intervals</c><00:00:04.090><c> in</c><00:00:04.390><c> in</c><00:00:05.200><c> je</c><00:00:05.680><c> s</c><00:00:05.800><c> and</c><00:00:06.160><c> J</c><00:00:06.519><c> si</c><00:00:06.760><c> via</c>
+
+00:00:06.870 --> 00:00:06.880 align:start position:0%
+it of intervals in in je s and J si via
+ 
+
+00:00:06.880 --> 00:00:08.370 align:start position:0%
+it of intervals in in je s and J si via
+this<00:00:07.000><c> I'm</c><00:00:07.359><c> going</c><00:00:07.510><c> to</c><00:00:07.569><c> explain</c><00:00:07.840><c> a</c><00:00:07.899><c> little</c><00:00:08.200><c> bit</c>
+
+00:00:08.370 --> 00:00:08.380 align:start position:0%
+this I'm going to explain a little bit
+ 
+
+00:00:08.380 --> 00:00:10.830 align:start position:0%
+this I'm going to explain a little bit
+about<00:00:08.670><c> the</c><00:00:09.670><c> types</c><00:00:09.940><c> of</c><00:00:10.120><c> these</c><00:00:10.300><c> sources</c>
+
+00:00:10.830 --> 00:00:10.840 align:start position:0%
+about the types of these sources
+ 
+
+00:00:10.840 --> 00:00:15.390 align:start position:0%
+about the types of these sources
+transform<00:00:11.410><c> sinks</c><00:00:11.740><c> and</c><00:00:11.860><c> duplex</c><00:00:12.220><c> is</c><00:00:12.519><c> and</c><00:00:14.400><c> that's</c>
+
+00:00:15.390 --> 00:00:15.400 align:start position:0%
+transform sinks and duplex is and that's
+ 
+
+00:00:15.400 --> 00:00:17.810 align:start position:0%
+transform sinks and duplex is and that's
+all<00:00:15.610><c> for</c><00:00:15.790><c> now</c><00:00:15.820><c> and</c><00:00:16.090><c> so</c><00:00:16.750><c> it</c><00:00:16.960><c> all</c><00:00:17.109><c> started</c><00:00:17.499><c> with</c>
+
+00:00:17.810 --> 00:00:17.820 align:start position:0%
+all for now and so it all started with
+ 
+
+00:00:17.820 --> 00:00:20.550 align:start position:0%
+all for now and so it all started with
+iterators<00:00:18.839><c> and</c><00:00:19.839><c> lots</c><00:00:20.140><c> of</c><00:00:20.230><c> things</c><00:00:20.349><c> in</c>
+
+00:00:20.550 --> 00:00:20.560 align:start position:0%
+iterators and lots of things in
+ 
+
+00:00:20.560 --> 00:00:23.489 align:start position:0%
+iterators and lots of things in
+JavaScript<00:00:20.769><c> are</c><00:00:21.689><c> iterable</c><00:00:22.720><c> at</c><00:00:22.869><c> the</c><00:00:23.169><c> moment</c>
+
+00:00:23.489 --> 00:00:23.499 align:start position:0%
+JavaScript are iterable at the moment
+ 
+
+00:00:23.499 --> 00:00:27.059 align:start position:0%
+JavaScript are iterable at the moment
+like<00:00:24.339><c> sets</c><00:00:24.730><c> maps</c><00:00:25.060><c> and</c><00:00:25.390><c> arrays</c><00:00:25.769><c> so</c><00:00:26.769><c> typically</c>
+
+00:00:27.059 --> 00:00:27.069 align:start position:0%
+like sets maps and arrays so typically
+ 
+
+00:00:27.069 --> 00:00:29.909 align:start position:0%
+like sets maps and arrays so typically
+you'd<00:00:27.339><c> have</c><00:00:27.519><c> like</c><00:00:27.759><c> some</c><00:00:28.599><c> things</c><00:00:28.810><c> like</c><00:00:29.109><c> some</c>
+
+00:00:29.909 --> 00:00:29.919 align:start position:0%
+you'd have like some things like some
+ 
+
+00:00:29.919 --> 00:00:36.869 align:start position:0%
+you'd have like some things like some
+data<00:00:34.680><c> and</c><00:00:35.680><c> if</c><00:00:36.100><c> you</c><00:00:36.250><c> wanted</c><00:00:36.430><c> to</c><00:00:36.550><c> get</c><00:00:36.699><c> an</c>
+
+00:00:36.869 --> 00:00:36.879 align:start position:0%
+data and if you wanted to get an
+ 
+
+00:00:36.879 --> 00:00:40.169 align:start position:0%
+data and if you wanted to get an
+iterable<00:00:37.359><c> out</c><00:00:38.350><c> of</c><00:00:38.769><c> your</c><00:00:38.980><c> data</c><00:00:39.250><c> you</c><00:00:39.730><c> just</c><00:00:40.000><c> call</c>
+
+00:00:40.169 --> 00:00:40.179 align:start position:0%
+iterable out of your data you just call
+ 
+
+00:00:40.179 --> 00:00:49.110 align:start position:0%
+iterable out of your data you just call
+the<00:00:40.620><c> function</c><00:00:41.620><c> for</c><00:00:41.829><c> it</c><00:00:41.920><c> so</c><00:00:47.640><c> you</c><00:00:48.640><c> treat</c><00:00:48.910><c> it</c><00:00:48.940><c> and</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+the function for it so you treat it and
+ 
+
+00:00:49.120 --> 00:00:50.669 align:start position:0%
+the function for it so you treat it and
+that<00:00:49.239><c> will</c><00:00:49.329><c> give</c><00:00:49.420><c> you</c><00:00:49.539><c> back</c><00:00:49.690><c> an</c><00:00:49.929><c> iterator</c><00:00:50.350><c> and</c>
+
+00:00:50.669 --> 00:00:50.679 align:start position:0%
+that will give you back an iterator and
+ 
+
+00:00:50.679 --> 00:00:52.919 align:start position:0%
+that will give you back an iterator and
+then<00:00:51.039><c> with</c><00:00:51.190><c> that</c><00:00:51.370><c> you</c><00:00:51.550><c> can</c><00:00:51.699><c> just</c><00:00:51.730><c> call</c><00:00:52.179><c> next</c>
+
+00:00:52.919 --> 00:00:52.929 align:start position:0%
+then with that you can just call next
+ 
+
+00:00:52.929 --> 00:00:55.619 align:start position:0%
+then with that you can just call next
+and<00:00:53.140><c> you</c><00:00:53.559><c> can</c><00:00:53.710><c> call</c><00:00:53.949><c> that</c><00:00:54.129><c> until</c><00:00:55.030><c> it's</c><00:00:55.329><c> done</c>
+
+00:00:55.619 --> 00:00:55.629 align:start position:0%
+and you can call that until it's done
+ 
+
+00:00:55.629 --> 00:00:58.079 align:start position:0%
+and you can call that until it's done
+and<00:00:55.839><c> I</c><00:00:56.289><c> get</c><00:00:56.499><c> out</c><00:00:56.679><c> the</c><00:00:56.920><c> values</c><00:00:57.280><c> I</c><00:00:57.609><c> get</c><00:00:57.789><c> back</c><00:00:57.969><c> an</c>
+
+00:00:58.079 --> 00:00:58.089 align:start position:0%
+and I get out the values I get back an
+ 
+
+00:00:58.089 --> 00:00:59.549 align:start position:0%
+and I get out the values I get back an
+object<00:00:58.480><c> which</c><00:00:58.749><c> tells</c><00:00:59.079><c> me</c><00:00:59.199><c> if</c><00:00:59.289><c> it's</c><00:00:59.379><c> done</c><00:00:59.440><c> or</c>
+
+00:00:59.549 --> 00:00:59.559 align:start position:0%
+object which tells me if it's done or
+ 
+
+00:00:59.559 --> 00:01:01.229 align:start position:0%
+object which tells me if it's done or
+not<00:00:59.710><c> but</c><00:01:00.280><c> it</c><00:01:00.370><c> was</c><00:01:00.460><c> to</c><00:01:00.550><c> get</c><00:01:00.640><c> the</c><00:01:00.730><c> values</c><00:01:01.030><c> out</c><00:01:01.179><c> of</c>
+
+00:01:01.229 --> 00:01:01.239 align:start position:0%
+not but it was to get the values out of
+ 
+
+00:01:01.239 --> 00:01:03.060 align:start position:0%
+not but it was to get the values out of
+that<00:01:01.510><c> array</c><00:01:02.079><c> and</c><00:01:02.289><c> then</c><00:01:02.350><c> I</c><00:01:02.440><c> can</c><00:01:02.589><c> keep</c><00:01:02.710><c> calling</c>
+
+00:01:03.060 --> 00:01:03.070 align:start position:0%
+that array and then I can keep calling
+ 
+
+00:01:03.070 --> 00:01:05.100 align:start position:0%
+that array and then I can keep calling
+that<00:01:03.190><c> until</c><00:01:03.519><c> until</c><00:01:04.449><c> it's</c><00:01:04.720><c> done</c>
+
+00:01:05.100 --> 00:01:05.110 align:start position:0%
+that until until it's done
+ 
+
+00:01:05.110 --> 00:01:07.350 align:start position:0%
+that until until it's done
+and<00:01:05.800><c> it's</c><00:01:06.160><c> also</c><00:01:06.370><c> kind</c><00:01:06.670><c> of</c><00:01:06.700><c> cool</c><00:01:06.880><c> because</c><00:01:07.060><c> I</c><00:01:07.300><c> can</c>
+
+00:01:07.350 --> 00:01:07.360 align:start position:0%
+and it's also kind of cool because I can
+ 
+
+00:01:07.360 --> 00:01:15.510 align:start position:0%
+and it's also kind of cool because I can
+use<00:01:07.600><c> it</c><00:01:07.630><c> in</c><00:01:07.870><c> in</c><00:01:08.380><c> for</c><00:01:08.680><c> loops</c><00:01:10.950><c> and</c><00:01:11.950><c> then</c><00:01:13.950><c> and</c><00:01:14.950><c> and</c>
+
+00:01:15.510 --> 00:01:15.520 align:start position:0%
+use it in in for loops and then and and
+ 
+
+00:01:15.520 --> 00:01:17.820 align:start position:0%
+use it in in for loops and then and and
+what<00:01:15.940><c> the</c><00:01:16.390><c> for</c><00:01:16.600><c> loop</c><00:01:16.780><c> will</c><00:01:16.960><c> do</c><00:01:17.140><c> was</c><00:01:17.440><c> it</c><00:01:17.710><c> will</c>
+
+00:01:17.820 --> 00:01:17.830 align:start position:0%
+what the for loop will do was it will
+ 
+
+00:01:17.830 --> 00:01:19.470 align:start position:0%
+what the for loop will do was it will
+unpack<00:01:18.220><c> that</c><00:01:18.400><c> object</c><00:01:18.760><c> that</c><00:01:18.850><c> it</c><00:01:18.940><c> gets</c><00:01:19.060><c> back</c><00:01:19.240><c> and</c>
+
+00:01:19.470 --> 00:01:19.480 align:start position:0%
+unpack that object that it gets back and
+ 
+
+00:01:19.480 --> 00:01:21.900 align:start position:0%
+unpack that object that it gets back and
+give<00:01:19.600><c> me</c><00:01:19.750><c> the</c><00:01:19.900><c> value</c><00:01:20.260><c> so</c><00:01:21.070><c> I</c><00:01:21.100><c> don't</c><00:01:21.340><c> I</c><00:01:21.550><c> don't</c><00:01:21.700><c> get</c>
+
+00:01:21.900 --> 00:01:21.910 align:start position:0%
+give me the value so I don't I don't get
+ 
+
+00:01:21.910 --> 00:01:23.880 align:start position:0%
+give me the value so I don't I don't get
+that<00:01:22.060><c> value</c><00:01:22.810><c> done</c><00:01:23.050><c> thing</c><00:01:23.410><c> I</c><00:01:23.530><c> just</c><00:01:23.560><c> get</c><00:01:23.800><c> the</c>
+
+00:01:23.880 --> 00:01:23.890 align:start position:0%
+that value done thing I just get the
+ 
+
+00:01:23.890 --> 00:01:26.490 align:start position:0%
+that value done thing I just get the
+value<00:01:24.220><c> and</c><00:01:24.460><c> it</c><00:01:24.880><c> automatically</c><00:01:25.420><c> finishes</c><00:01:26.410><c> the</c>
+
+00:01:26.490 --> 00:01:26.500 align:start position:0%
+value and it automatically finishes the
+ 
+
+00:01:26.500 --> 00:01:28.530 align:start position:0%
+value and it automatically finishes the
+loop<00:01:26.650><c> when</c><00:01:26.860><c> everything</c><00:01:27.160><c> is</c><00:01:27.280><c> done</c><00:01:27.430><c> and</c><00:01:28.150><c> I</c><00:01:28.210><c> get</c><00:01:28.270><c> I</c>
+
+00:01:28.530 --> 00:01:28.540 align:start position:0%
+loop when everything is done and I get I
+ 
+
+00:01:28.540 --> 00:01:30.690 align:start position:0%
+loop when everything is done and I get I
+get<00:01:28.780><c> the</c><00:01:28.810><c> values</c><00:01:29.170><c> which</c><00:01:29.380><c> is</c><00:01:29.500><c> great</c><00:01:29.710><c> so</c><00:01:30.550><c> that's</c>
+
+00:01:30.690 --> 00:01:30.700 align:start position:0%
+get the values which is great so that's
+ 
+
+00:01:30.700 --> 00:01:32.970 align:start position:0%
+get the values which is great so that's
+iterators<00:01:31.690><c> or</c><00:01:32.110><c> iterables</c>
+
+00:01:32.970 --> 00:01:32.980 align:start position:0%
+iterators or iterables
+ 
+
+00:01:32.980 --> 00:01:35.640 align:start position:0%
+iterators or iterables
+and<00:01:33.640><c> then</c><00:01:33.910><c> what</c><00:01:34.510><c> happened</c><00:01:34.870><c> is</c><00:01:35.050><c> that</c><00:01:35.230><c> async</c>
+
+00:01:35.640 --> 00:01:35.650 align:start position:0%
+and then what happened is that async
+ 
+
+00:01:35.650 --> 00:01:38.880 align:start position:0%
+and then what happened is that async
+Ettore<00:01:35.950><c> iterators</c><00:01:36.850><c> came</c><00:01:37.060><c> along</c><00:01:37.300><c> and</c><00:01:38.170><c> and</c>
+
+00:01:38.880 --> 00:01:38.890 align:start position:0%
+Ettore iterators came along and and
+ 
+
+00:01:38.890 --> 00:01:41.520 align:start position:0%
+Ettore iterators came along and and
+instead<00:01:39.640><c> of</c><00:01:39.700><c> next</c><00:01:40.140><c> returning</c><00:01:41.140><c> an</c><00:01:41.200><c> object</c>
+
+00:01:41.520 --> 00:01:41.530 align:start position:0%
+instead of next returning an object
+ 
+
+00:01:41.530 --> 00:01:44.400 align:start position:0%
+instead of next returning an object
+that's<00:01:41.680><c> just</c><00:01:42.070><c> done</c><00:01:42.820><c> and</c><00:01:43.180><c> the</c><00:01:43.570><c> value</c><00:01:43.600><c> it</c>
+
+00:01:44.400 --> 00:01:44.410 align:start position:0%
+that's just done and the value it
+ 
+
+00:01:44.410 --> 00:01:48.500 align:start position:0%
+that's just done and the value it
+returns<00:01:44.650><c> a</c><00:01:45.130><c> promise</c><00:01:45.310><c> of</c><00:01:46.080><c> that</c><00:01:47.080><c> object</c><00:01:47.290><c> so</c><00:01:48.010><c> now</c>
+
+00:01:48.500 --> 00:01:48.510 align:start position:0%
+returns a promise of that object so now
+ 
+
+00:01:48.510 --> 00:01:50.850 align:start position:0%
+returns a promise of that object so now
+our<00:01:49.510><c> thing</c><00:01:50.230><c> that</c><00:01:50.410><c> we're</c><00:01:50.530><c> getting</c><00:01:50.710><c> data</c>
+
+00:01:50.850 --> 00:01:50.860 align:start position:0%
+our thing that we're getting data
+ 
+
+00:01:50.860 --> 00:01:52.890 align:start position:0%
+our thing that we're getting data
+relative<00:01:51.220><c> can</c><00:01:51.730><c> asynchronously</c><00:01:52.540><c> give</c><00:01:52.780><c> us</c>
+
+00:01:52.890 --> 00:01:52.900 align:start position:0%
+relative can asynchronously give us
+ 
+
+00:01:52.900 --> 00:01:55.650 align:start position:0%
+relative can asynchronously give us
+things<00:01:53.080><c> and</c><00:01:53.980><c> so</c><00:01:54.340><c> what</c><00:01:54.610><c> else</c><00:01:54.790><c> do</c><00:01:55.030><c> we</c><00:01:55.090><c> know</c><00:01:55.360><c> that</c>
+
+00:01:55.650 --> 00:01:55.660 align:start position:0%
+things and so what else do we know that
+ 
+
+00:01:55.660 --> 00:01:58.460 align:start position:0%
+things and so what else do we know that
+yield<00:01:55.900><c> things</c><00:01:56.260><c> asynchronously</c><00:01:56.520><c> and</c><00:01:57.520><c> streams</c>
+
+00:01:58.460 --> 00:01:58.470 align:start position:0%
+yield things asynchronously and streams
+ 
+
+00:01:58.470 --> 00:02:02.280 align:start position:0%
+yield things asynchronously and streams
+so<00:01:59.730><c> what</c><00:02:00.730><c> we</c><00:02:00.820><c> can</c><00:02:00.940><c> do</c><00:02:01.120><c> now</c><00:02:01.360><c> is</c><00:02:01.390><c> we</c><00:02:01.810><c> can</c><00:02:01.840><c> use</c><00:02:02.260><c> a</c>
+
+00:02:02.280 --> 00:02:02.290 align:start position:0%
+so what we can do now is we can use a
+ 
+
+00:02:02.290 --> 00:02:05.070 align:start position:0%
+so what we can do now is we can use a
+language<00:02:02.740><c> native</c><00:02:03.280><c> thing</c><00:02:03.550><c> to</c><00:02:04.180><c> stream</c><00:02:04.540><c> data</c>
+
+00:02:05.070 --> 00:02:05.080 align:start position:0%
+language native thing to stream data
+ 
+
+00:02:05.080 --> 00:02:07.080 align:start position:0%
+language native thing to stream data
+without<00:02:05.410><c> any</c><00:02:05.590><c> libraries</c><00:02:06.190><c> in</c><00:02:06.340><c> the</c><00:02:06.430><c> browser</c><00:02:06.610><c> so</c>
+
+00:02:07.080 --> 00:02:07.090 align:start position:0%
+without any libraries in the browser so
+ 
+
+00:02:07.090 --> 00:02:09.840 align:start position:0%
+without any libraries in the browser so
+that's<00:02:07.720><c> super</c><00:02:08.319><c> fun</c><00:02:08.590><c> and</c><00:02:08.769><c> it's</c><00:02:08.979><c> really</c><00:02:09.099><c> easy</c><00:02:09.369><c> I</c>
+
+00:02:09.840 --> 00:02:09.850 align:start position:0%
+that's super fun and it's really easy I
+ 
+
+00:02:09.850 --> 00:02:12.570 align:start position:0%
+that's super fun and it's really easy I
+so<00:02:10.690><c> this</c><00:02:10.840><c> is</c><00:02:11.020><c> a</c><00:02:11.200><c> an</c><00:02:11.710><c> iterable</c><00:02:12.160><c> that</c><00:02:12.370><c> I</c><00:02:12.400><c> made</c>
+
+00:02:12.570 --> 00:02:12.580 align:start position:0%
+so this is a an iterable that I made
+ 
+
+00:02:12.580 --> 00:02:14.910 align:start position:0%
+so this is a an iterable that I made
+called<00:02:12.940><c> which</c><00:02:13.480><c> I</c><00:02:13.780><c> called</c><00:02:14.170><c> infinite</c><00:02:14.620><c> Rand</c>
+
+00:02:14.910 --> 00:02:14.920 align:start position:0%
+called which I called infinite Rand
+ 
+
+00:02:14.920 --> 00:02:18.750 align:start position:0%
+called which I called infinite Rand
+because<00:02:15.250><c> it</c><00:02:15.400><c> it</c><00:02:16.020><c> it</c><00:02:17.020><c> yields</c><00:02:17.620><c> a</c><00:02:17.800><c> random</c><00:02:18.430><c> numbers</c>
+
+00:02:18.750 --> 00:02:18.760 align:start position:0%
+because it it it yields a random numbers
+ 
+
+00:02:18.760 --> 00:02:23.370 align:start position:0%
+because it it it yields a random numbers
+forever<00:02:20.099><c> so</c><00:02:21.099><c> that's</c><00:02:21.250><c> kind</c><00:02:21.550><c> of</c><00:02:21.580><c> cool</c><00:02:21.700><c> and</c><00:02:22.569><c> what</c>
+
+00:02:23.370 --> 00:02:23.380 align:start position:0%
+forever so that's kind of cool and what
+ 
+
+00:02:23.380 --> 00:02:26.100 align:start position:0%
+forever so that's kind of cool and what
+you<00:02:23.560><c> all</c><00:02:23.709><c> you</c><00:02:23.830><c> can</c><00:02:24.010><c> do</c><00:02:24.190><c> with</c><00:02:24.640><c> with</c><00:02:25.300><c> async</c>
+
+00:02:26.100 --> 00:02:26.110 align:start position:0%
+you all you can do with with async
+ 
+
+00:02:26.110 --> 00:02:27.839 align:start position:0%
+you all you can do with with async
+iterables<00:02:26.590><c> is</c><00:02:26.709><c> you</c><00:02:26.860><c> can</c><00:02:26.950><c> use</c><00:02:27.130><c> a</c><00:02:27.160><c> for</c><00:02:27.459><c> a</c><00:02:27.640><c> wait</c>
+
+00:02:27.839 --> 00:02:27.849 align:start position:0%
+iterables is you can use a for a wait
+ 
+
+00:02:27.849 --> 00:02:31.140 align:start position:0%
+iterables is you can use a for a wait
+loops<00:02:28.840><c> and</c><00:02:29.650><c> then</c><00:02:29.770><c> I</c><00:02:29.830><c> can</c><00:02:30.010><c> just</c><00:02:30.190><c> get</c><00:02:30.370><c> every</c>
+
+00:02:31.140 --> 00:02:31.150 align:start position:0%
+loops and then I can just get every
+ 
+
+00:02:31.150 --> 00:02:33.270 align:start position:0%
+loops and then I can just get every
+value<00:02:31.480><c> so</c><00:02:31.660><c> this</c><00:02:31.780><c> is</c><00:02:31.930><c> the</c><00:02:32.080><c> iterator</c><00:02:32.739><c> we're</c>
+
+00:02:33.270 --> 00:02:33.280 align:start position:0%
+value so this is the iterator we're
+ 
+
+00:02:33.280 --> 00:02:35.040 align:start position:0%
+value so this is the iterator we're
+saying<00:02:33.430><c> every</c><00:02:33.610><c> give</c><00:02:33.760><c> me</c><00:02:33.850><c> every</c><00:02:34.420><c> value</c><00:02:34.750><c> out</c><00:02:34.989><c> of</c>
+
+00:02:35.040 --> 00:02:35.050 align:start position:0%
+saying every give me every value out of
+ 
+
+00:02:35.050 --> 00:02:37.470 align:start position:0%
+saying every give me every value out of
+this<00:02:35.380><c> infinite</c><00:02:35.680><c> random</c><00:02:36.160><c> and</c><00:02:36.850><c> it</c><00:02:37.150><c> will</c><00:02:37.270><c> just</c>
+
+00:02:37.470 --> 00:02:37.480 align:start position:0%
+this infinite random and it will just
+ 
+
+00:02:37.480 --> 00:02:39.840 align:start position:0%
+this infinite random and it will just
+keep<00:02:37.720><c> chugging</c><00:02:38.319><c> and</c><00:02:38.739><c> chugging</c><00:02:39.400><c> and</c><00:02:39.640><c> chugging</c>
+
+00:02:39.840 --> 00:02:39.850 align:start position:0%
+keep chugging and chugging and chugging
+ 
+
+00:02:39.850 --> 00:02:41.790 align:start position:0%
+keep chugging and chugging and chugging
+and<00:02:40.180><c> giving</c><00:02:40.420><c> me</c><00:02:40.540><c> random</c><00:02:41.080><c> values</c><00:02:41.470><c> so</c><00:02:41.650><c> let's</c>
+
+00:02:41.790 --> 00:02:41.800 align:start position:0%
+and giving me random values so let's
+ 
+
+00:02:41.800 --> 00:02:43.620 align:start position:0%
+and giving me random values so let's
+have<00:02:41.950><c> a</c><00:02:41.980><c> look</c><00:02:42.130><c> I</c><00:02:42.519><c> can</c><00:02:43.030><c> just</c><00:02:43.150><c> place</c><00:02:43.300><c> this</c><00:02:43.390><c> into</c>
+
+00:02:43.620 --> 00:02:43.630 align:start position:0%
+have a look I can just place this into
+ 
+
+00:02:43.630 --> 00:02:45.559 align:start position:0%
+have a look I can just place this into
+here<00:02:43.780><c> and</c><00:02:44.620><c> it</c><00:02:44.830><c> will</c><00:02:44.920><c> just</c><00:02:45.099><c> kind</c><00:02:45.340><c> of</c>
+
+00:02:45.559 --> 00:02:45.569 align:start position:0%
+here and it will just kind of
+ 
+
+00:02:45.569 --> 00:02:48.620 align:start position:0%
+here and it will just kind of
+occasionally<00:02:46.569><c> spurt</c><00:02:47.380><c> out</c><00:02:47.620><c> some</c><00:02:48.130><c> random</c>
+
+00:02:48.620 --> 00:02:48.630 align:start position:0%
+occasionally spurt out some random
+ 
+
+00:02:48.630 --> 00:02:51.330 align:start position:0%
+occasionally spurt out some random
+random<00:02:49.630><c> values</c><00:02:49.930><c> which</c><00:02:50.230><c> is</c><00:02:50.350><c> cool</c><00:02:50.530><c> it's</c><00:02:51.280><c> just</c>
+
+00:02:51.330 --> 00:02:51.340 align:start position:0%
+random values which is cool it's just
+ 
+
+00:02:51.340 --> 00:02:54.809 align:start position:0%
+random values which is cool it's just
+easy<00:02:51.760><c> because</c><00:02:52.330><c> streaming</c><00:02:53.170><c> is</c><00:02:53.410><c> now</c><00:02:53.680><c> like</c><00:02:54.069><c> it's</c>
+
+00:02:54.809 --> 00:02:54.819 align:start position:0%
+easy because streaming is now like it's
+ 
+
+00:02:54.819 --> 00:02:57.600 align:start position:0%
+easy because streaming is now like it's
+a<00:02:54.970><c> for</c><00:02:55.269><c> loop</c><00:02:55.510><c> it</c><00:02:56.230><c> like</c><00:02:56.650><c> you</c><00:02:57.160><c> don't</c><00:02:57.370><c> you</c><00:02:57.459><c> no</c>
+
+00:02:57.600 --> 00:02:57.610 align:start position:0%
+a for loop it like you don't you no
+ 
+
+00:02:57.610 --> 00:02:59.400 align:start position:0%
+a for loop it like you don't you no
+longer<00:02:57.730><c> have</c><00:02:58.030><c> to</c><00:02:58.239><c> think</c><00:02:58.269><c> about</c><00:02:58.690><c> like</c><00:02:58.930><c> nodejs</c>
+
+00:02:59.400 --> 00:02:59.410 align:start position:0%
+longer have to think about like nodejs
+ 
+
+00:02:59.410 --> 00:03:01.410 align:start position:0%
+longer have to think about like nodejs
+streams<00:02:59.860><c> and</c><00:03:00.130><c> like</c><00:03:00.280><c> attaching</c><00:03:00.760><c> data</c><00:03:00.970><c> events</c>
+
+00:03:01.410 --> 00:03:01.420 align:start position:0%
+streams and like attaching data events
+ 
+
+00:03:01.420 --> 00:03:03.690 align:start position:0%
+streams and like attaching data events
+and<00:03:01.569><c> touching</c><00:03:01.900><c> end</c><00:03:02.200><c> events</c><00:03:02.920><c> and</c><00:03:03.130><c> piping</c><00:03:03.549><c> them</c>
+
+00:03:03.690 --> 00:03:03.700 align:start position:0%
+and touching end events and piping them
+ 
+
+00:03:03.700 --> 00:03:05.460 align:start position:0%
+and touching end events and piping them
+to<00:03:03.790><c> places</c><00:03:04.120><c> and</c><00:03:04.390><c> stuff</c><00:03:04.780><c> like</c><00:03:04.930><c> that</c><00:03:05.080><c> it's</c><00:03:05.230><c> it's</c>
+
+00:03:05.460 --> 00:03:05.470 align:start position:0%
+to places and stuff like that it's it's
+ 
+
+00:03:05.470 --> 00:03:07.559 align:start position:0%
+to places and stuff like that it's it's
+it's<00:03:06.310><c> just</c><00:03:06.459><c> a</c><00:03:06.610><c> for</c><00:03:06.790><c> loop</c><00:03:06.910><c> this</c><00:03:07.090><c> is</c><00:03:07.209><c> one</c><00:03:07.420><c> of</c><00:03:07.510><c> the</c>
+
+00:03:07.559 --> 00:03:07.569 align:start position:0%
+it's just a for loop this is one of the
+ 
+
+00:03:07.569 --> 00:03:08.670 align:start position:0%
+it's just a for loop this is one of the
+first<00:03:07.750><c> things</c><00:03:07.959><c> you</c><00:03:08.080><c> learn</c><00:03:08.110><c> when</c><00:03:08.319><c> you're</c><00:03:08.620><c> a</c>
+
+00:03:08.670 --> 00:03:08.680 align:start position:0%
+first things you learn when you're a
+ 
+
+00:03:08.680 --> 00:03:12.330 align:start position:0%
+first things you learn when you're a
+programmer<00:03:09.040><c> and</c><00:03:09.540><c> so</c><00:03:10.540><c> alright</c><00:03:11.290><c> that's</c><00:03:12.069><c> great</c>
+
+00:03:12.330 --> 00:03:12.340 align:start position:0%
+programmer and so alright that's great
+ 
+
+00:03:12.340 --> 00:03:15.449 align:start position:0%
+programmer and so alright that's great
+umm<00:03:12.519><c> but</c><00:03:13.269><c> wait</c><00:03:13.450><c> a</c><00:03:13.480><c> minute</c><00:03:13.630><c> we</c><00:03:14.350><c> it's</c><00:03:15.040><c> not</c><00:03:15.160><c> just</c>
+
+00:03:15.449 --> 00:03:15.459 align:start position:0%
+umm but wait a minute we it's not just
+ 
+
+00:03:15.459 --> 00:03:17.640 align:start position:0%
+umm but wait a minute we it's not just
+we<00:03:16.060><c> didn't</c><00:03:16.299><c> just</c><00:03:16.450><c> read</c><00:03:16.750><c> from</c><00:03:16.930><c> streams</c><00:03:17.319><c> we</c><00:03:17.500><c> also</c>
+
+00:03:17.640 --> 00:03:17.650 align:start position:0%
+we didn't just read from streams we also
+ 
+
+00:03:17.650 --> 00:03:20.640 align:start position:0%
+we didn't just read from streams we also
+write<00:03:18.160><c> to</c><00:03:18.190><c> them</c><00:03:18.549><c> and</c><00:03:18.580><c> we</c><00:03:19.480><c> also</c><00:03:19.630><c> have</c><00:03:20.230><c> streams</c>
+
+00:03:20.640 --> 00:03:20.650 align:start position:0%
+write to them and we also have streams
+ 
+
+00:03:20.650 --> 00:03:22.770 align:start position:0%
+write to them and we also have streams
+that<00:03:20.890><c> can</c><00:03:21.160><c> take</c><00:03:21.519><c> some</c><00:03:21.549><c> data</c><00:03:21.940><c> and</c><00:03:22.180><c> transform</c><00:03:22.660><c> it</c>
+
+00:03:22.770 --> 00:03:22.780 align:start position:0%
+that can take some data and transform it
+ 
+
+00:03:22.780 --> 00:03:24.569 align:start position:0%
+that can take some data and transform it
+and<00:03:22.930><c> spit</c><00:03:23.500><c> out</c><00:03:23.530><c> some</c><00:03:23.859><c> data</c><00:03:23.980><c> and</c><00:03:24.280><c> then</c><00:03:24.370><c> in</c>
+
+00:03:24.569 --> 00:03:24.579 align:start position:0%
+and spit out some data and then in
+ 
+
+00:03:24.579 --> 00:03:26.970 align:start position:0%
+and spit out some data and then in
+network<00:03:25.000><c> stuff</c><00:03:25.359><c> we</c><00:03:25.780><c> have</c><00:03:25.959><c> duplex</c><00:03:26.380><c> streams</c><00:03:26.769><c> so</c>
+
+00:03:26.970 --> 00:03:26.980 align:start position:0%
+network stuff we have duplex streams so
+ 
+
+00:03:26.980 --> 00:03:29.370 align:start position:0%
+network stuff we have duplex streams so
+we<00:03:27.070><c> can</c><00:03:27.250><c> have</c><00:03:27.970><c> kind</c><00:03:28.299><c> of</c><00:03:28.390><c> not</c><00:03:28.630><c> really</c><00:03:28.930><c> connected</c>
+
+00:03:29.370 --> 00:03:29.380 align:start position:0%
+we can have kind of not really connected
+ 
+
+00:03:29.380 --> 00:03:31.560 align:start position:0%
+we can have kind of not really connected
+data<00:03:29.530><c> to</c><00:03:29.859><c> servers</c><00:03:30.340><c> and</c><00:03:30.519><c> back</c><00:03:30.670><c> and</c><00:03:30.880><c> vice-versa</c>
+
+00:03:31.560 --> 00:03:31.570 align:start position:0%
+data to servers and back and vice-versa
+ 
+
+00:03:31.570 --> 00:03:33.870 align:start position:0%
+data to servers and back and vice-versa
+so<00:03:32.049><c> we</c><00:03:32.500><c> need</c><00:03:32.620><c> the</c><00:03:32.709><c> whole</c><00:03:32.859><c> family</c><00:03:33.280><c> of</c><00:03:33.489><c> streams</c>
+
+00:03:33.870 --> 00:03:33.880 align:start position:0%
+so we need the whole family of streams
+ 
+
+00:03:33.880 --> 00:03:36.599 align:start position:0%
+so we need the whole family of streams
+and<00:03:34.350><c> so</c><00:03:35.350><c> sources</c><00:03:35.799><c> is</c><00:03:35.920><c> what</c><00:03:36.070><c> I've</c><00:03:36.190><c> been</c><00:03:36.310><c> talking</c>
+
+00:03:36.599 --> 00:03:36.609 align:start position:0%
+and so sources is what I've been talking
+ 
+
+00:03:36.609 --> 00:03:39.000 align:start position:0%
+and so sources is what I've been talking
+about<00:03:36.670><c> so</c><00:03:36.970><c> far</c><00:03:37.000><c> it's</c><00:03:37.390><c> just</c><00:03:37.480><c> a</c><00:03:37.930><c> it's</c><00:03:38.410><c> just</c><00:03:38.859><c> an</c>
+
+00:03:39.000 --> 00:03:39.010 align:start position:0%
+about so far it's just a it's just an
+ 
+
+00:03:39.010 --> 00:03:41.819 align:start position:0%
+about so far it's just a it's just an
+async<00:03:39.579><c> iterable</c><00:03:40.320><c> so</c><00:03:41.320><c> that's</c><00:03:41.500><c> what</c><00:03:41.650><c> we've</c>
+
+00:03:41.819 --> 00:03:41.829 align:start position:0%
+async iterable so that's what we've
+ 
+
+00:03:41.829 --> 00:03:44.190 align:start position:0%
+async iterable so that's what we've
+called<00:03:41.980><c> a</c><00:03:42.100><c> source</c><00:03:42.340><c> a</c><00:03:42.670><c> sync</c><00:03:43.390><c> is</c><00:03:43.690><c> just</c><00:03:44.049><c> a</c>
+
+00:03:44.190 --> 00:03:44.200 align:start position:0%
+called a source a sync is just a
+ 
+
+00:03:44.200 --> 00:03:47.789 align:start position:0%
+called a source a sync is just a
+function<00:03:45.000><c> so</c><00:03:46.000><c> here</c><00:03:46.570><c> we've</c><00:03:46.750><c> got</c><00:03:46.930><c> like</c><00:03:47.079><c> a</c><00:03:47.109><c> logger</c>
+
+00:03:47.789 --> 00:03:47.799 align:start position:0%
+function so here we've got like a logger
+ 
+
+00:03:47.799 --> 00:03:50.580 align:start position:0%
+function so here we've got like a logger
+sync<00:03:48.400><c> and</c><00:03:48.670><c> it</c><00:03:49.209><c> the</c><00:03:49.660><c> function</c><00:03:50.200><c> is</c><00:03:50.320><c> just</c><00:03:50.350><c> a</c>
+
+00:03:50.580 --> 00:03:50.590 align:start position:0%
+sync and it the function is just a
+ 
+
+00:03:50.590 --> 00:03:52.800 align:start position:0%
+sync and it the function is just a
+function<00:03:50.620><c> and</c><00:03:51.100><c> it</c><00:03:51.459><c> takes</c><00:03:51.790><c> a</c><00:03:52.060><c> source</c><00:03:52.390><c> and</c><00:03:52.720><c> then</c>
+
+00:03:52.800 --> 00:03:52.810 align:start position:0%
+function and it takes a source and then
+ 
+
+00:03:52.810 --> 00:03:54.150 align:start position:0%
+function and it takes a source and then
+it<00:03:52.930><c> does</c><00:03:53.140><c> something</c><00:03:53.440><c> with</c><00:03:53.560><c> it</c><00:03:53.590><c> it</c><00:03:53.980><c> usually</c>
+
+00:03:54.150 --> 00:03:54.160 align:start position:0%
+it does something with it it usually
+ 
+
+00:03:54.160 --> 00:03:55.860 align:start position:0%
+it does something with it it usually
+consumes<00:03:54.670><c> it</c><00:03:54.850><c> because</c><00:03:55.090><c> otherwise</c><00:03:55.450><c> it's</c><00:03:55.690><c> a</c><00:03:55.750><c> bit</c>
+
+00:03:55.860 --> 00:03:55.870 align:start position:0%
+consumes it because otherwise it's a bit
+ 
+
+00:03:55.870 --> 00:03:57.599 align:start position:0%
+consumes it because otherwise it's a bit
+useless<00:03:55.989><c> and</c><00:03:56.799><c> then</c><00:03:56.920><c> optionally</c><00:03:57.310><c> it</c><00:03:57.489><c> can</c>
+
+00:03:57.599 --> 00:03:57.609 align:start position:0%
+useless and then optionally it can
+ 
+
+00:03:57.609 --> 00:03:59.400 align:start position:0%
+useless and then optionally it can
+return<00:03:57.850><c> something</c><00:03:58.120><c> so</c><00:03:58.390><c> this</c><00:03:58.540><c> is</c><00:03:58.720><c> this</c><00:03:58.959><c> logger</c>
+
+00:03:59.400 --> 00:03:59.410 align:start position:0%
+return something so this is this logger
+ 
+
+00:03:59.410 --> 00:04:02.729 align:start position:0%
+return something so this is this logger
+sync<00:04:00.010><c> takes</c><00:04:00.910><c> the</c><00:04:01.030><c> source</c><00:04:01.269><c> iterates</c><00:04:02.260><c> over</c><00:04:02.410><c> it</c>
+
+00:04:02.729 --> 00:04:02.739 align:start position:0%
+sync takes the source iterates over it
+ 
+
+00:04:02.739 --> 00:04:04.650 align:start position:0%
+sync takes the source iterates over it
+and<00:04:02.859><c> logs</c><00:04:03.370><c> out</c><00:04:03.579><c> each</c><00:04:03.790><c> value</c><00:04:04.060><c> is</c><00:04:04.269><c> kind</c><00:04:04.480><c> of</c><00:04:04.510><c> like</c>
+
+00:04:04.650 --> 00:04:04.660 align:start position:0%
+and logs out each value is kind of like
+ 
+
+00:04:04.660 --> 00:04:06.599 align:start position:0%
+and logs out each value is kind of like
+what<00:04:04.810><c> we</c><00:04:04.930><c> did</c><00:04:05.109><c> just</c><00:04:05.319><c> a</c><00:04:05.829><c> second</c><00:04:06.069><c> ago</c><00:04:06.190><c> with</c><00:04:06.459><c> the</c>
+
+00:04:06.599 --> 00:04:06.609 align:start position:0%
+what we did just a second ago with the
+ 
+
+00:04:06.609 --> 00:04:08.940 align:start position:0%
+what we did just a second ago with the
+random<00:04:07.390><c> random</c><00:04:08.140><c> thing</c><00:04:08.290><c> but</c><00:04:08.470><c> we've</c><00:04:08.680><c> kind</c><00:04:08.920><c> of</c>
+
+00:04:08.940 --> 00:04:08.950 align:start position:0%
+random random thing but we've kind of
+ 
+
+00:04:08.950 --> 00:04:14.039 align:start position:0%
+random random thing but we've kind of
+formalized<00:04:09.430><c> it</c><00:04:09.670><c> as</c><00:04:09.819><c> a</c><00:04:10.150><c> thing</c><00:04:10.889><c> a</c><00:04:12.329><c> transform</c><00:04:13.329><c> is</c>
+
+00:04:14.039 --> 00:04:14.049 align:start position:0%
+formalized it as a thing a transform is
+ 
+
+00:04:14.049 --> 00:04:16.949 align:start position:0%
+formalized it as a thing a transform is
+is<00:04:14.440><c> a</c><00:04:14.889><c> kind</c><00:04:15.639><c> of</c><00:04:15.670><c> sync</c><00:04:15.910><c> and</c><00:04:16.090><c> a</c><00:04:16.359><c> source</c><00:04:16.630><c> because</c>
+
+00:04:16.949 --> 00:04:16.959 align:start position:0%
+is a kind of sync and a source because
+ 
+
+00:04:16.959 --> 00:04:19.920 align:start position:0%
+is a kind of sync and a source because
+it<00:04:17.440><c> takes</c><00:04:17.769><c> it</c><00:04:18.609><c> so</c><00:04:18.850><c> this</c><00:04:19.000><c> is</c><00:04:19.060><c> our</c><00:04:19.269><c> transform</c><00:04:19.780><c> the</c>
+
+00:04:19.920 --> 00:04:19.930 align:start position:0%
+it takes it so this is our transform the
+ 
+
+00:04:19.930 --> 00:04:22.770 align:start position:0%
+it takes it so this is our transform the
+doubler<00:04:20.260><c> thing</c><00:04:20.470><c> here</c><00:04:20.709><c> and</c><00:04:21.549><c> it</c><00:04:21.729><c> it</c><00:04:22.090><c> takes</c><00:04:22.510><c> a</c>
+
+00:04:22.770 --> 00:04:22.780 align:start position:0%
+doubler thing here and it it takes a
+ 
+
+00:04:22.780 --> 00:04:25.920 align:start position:0%
+doubler thing here and it it takes a
+source<00:04:23.020><c> and</c><00:04:23.979><c> it</c><00:04:24.640><c> returns</c><00:04:25.120><c> so</c><00:04:25.419><c> I'm</c><00:04:25.659><c> not</c><00:04:25.810><c> gonna</c>
+
+00:04:25.920 --> 00:04:25.930 align:start position:0%
+source and it returns so I'm not gonna
+ 
+
+00:04:25.930 --> 00:04:28.529 align:start position:0%
+source and it returns so I'm not gonna
+get<00:04:26.020><c> into</c><00:04:26.200><c> generators</c><00:04:26.830><c> but</c><00:04:27.419><c> generators</c><00:04:28.419><c> when</c>
+
+00:04:28.529 --> 00:04:28.539 align:start position:0%
+get into generators but generators when
+ 
+
+00:04:28.539 --> 00:04:28.890 align:start position:0%
+get into generators but generators when
+you<00:04:28.599><c> call</c>
+
+00:04:28.890 --> 00:04:28.900 align:start position:0%
+you call
+ 
+
+00:04:28.900 --> 00:04:31.740 align:start position:0%
+you call
+they<00:04:29.110><c> will</c><00:04:29.290><c> return</c><00:04:29.620><c> you</c><00:04:29.890><c> a</c><00:04:29.920><c> and</c><00:04:30.880><c> in</c><00:04:31.540><c> this</c>
+
+00:04:31.740 --> 00:04:31.750 align:start position:0%
+they will return you a and in this
+ 
+
+00:04:31.750 --> 00:04:33.360 align:start position:0%
+they will return you a and in this
+because<00:04:31.960><c> an</c><00:04:32.110><c> async</c><00:04:32.440><c> generates</c><00:04:32.860><c> it</c><00:04:32.980><c> or</c><00:04:33.100><c> return</c>
+
+00:04:33.360 --> 00:04:33.370 align:start position:0%
+because an async generates it or return
+ 
+
+00:04:33.370 --> 00:04:36.210 align:start position:0%
+because an async generates it or return
+you<00:04:33.460><c> an</c><00:04:33.580><c> async</c><00:04:33.940><c> iterable</c><00:04:34.480><c> and</c><00:04:35.260><c> what</c><00:04:35.740><c> we</c><00:04:35.830><c> what</c>
+
+00:04:36.210 --> 00:04:36.220 align:start position:0%
+you an async iterable and what we what
+ 
+
+00:04:36.220 --> 00:04:38.010 align:start position:0%
+you an async iterable and what we what
+it<00:04:36.340><c> does</c><00:04:36.490><c> is</c><00:04:36.610><c> it</c><00:04:36.700><c> just</c><00:04:36.730><c> suspends</c><00:04:37.330><c> a</c><00:04:37.420><c> execution</c>
+
+00:04:38.010 --> 00:04:38.020 align:start position:0%
+it does is it just suspends a execution
+ 
+
+00:04:38.020 --> 00:04:41.310 align:start position:0%
+it does is it just suspends a execution
+of<00:04:38.140><c> function</c><00:04:38.500><c> until</c><00:04:38.740><c> it</c><00:04:38.860><c> anyways</c><00:04:39.790><c> matter</c><00:04:40.320><c> the</c>
+
+00:04:41.310 --> 00:04:41.320 align:start position:0%
+of function until it anyways matter the
+ 
+
+00:04:41.320 --> 00:04:45.060 align:start position:0%
+of function until it anyways matter the
+point<00:04:41.530><c> is</c><00:04:42.090><c> it</c><00:04:43.090><c> it</c><00:04:43.750><c> takes</c><00:04:44.110><c> a</c><00:04:44.290><c> source</c><00:04:44.500><c> and</c><00:04:44.800><c> it</c>
+
+00:04:45.060 --> 00:04:45.070 align:start position:0%
+point is it it takes a source and it
+ 
+
+00:04:45.070 --> 00:04:47.280 align:start position:0%
+point is it it takes a source and it
+returns<00:04:45.580><c> an</c><00:04:45.910><c> async</c><00:04:46.210><c> iterable</c><00:04:46.690><c> so</c><00:04:46.900><c> it's</c><00:04:47.020><c> just</c><00:04:47.200><c> a</c>
+
+00:04:47.280 --> 00:04:47.290 align:start position:0%
+returns an async iterable so it's just a
+ 
+
+00:04:47.290 --> 00:04:48.980 align:start position:0%
+returns an async iterable so it's just a
+function<00:04:47.650><c> that</c><00:04:47.680><c> returns</c><00:04:47.830><c> an</c><00:04:48.250><c> async</c><00:04:48.490><c> iterable</c>
+
+00:04:48.980 --> 00:04:48.990 align:start position:0%
+function that returns an async iterable
+ 
+
+00:04:48.990 --> 00:04:50.640 align:start position:0%
+function that returns an async iterable
+so<00:04:49.990><c> that's</c><00:04:50.140><c> kind</c><00:04:50.260><c> of</c><00:04:50.290><c> cool</c><00:04:50.350><c> that's</c><00:04:50.590><c> a</c>
+
+00:04:50.640 --> 00:04:50.650 align:start position:0%
+so that's kind of cool that's a
+ 
+
+00:04:50.650 --> 00:04:52.710 align:start position:0%
+so that's kind of cool that's a
+transform<00:04:51.130><c> and</c><00:04:51.370><c> then</c><00:04:51.730><c> we</c><00:04:51.820><c> have</c><00:04:51.940><c> duplex</c><00:04:52.390><c> which</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+transform and then we have duplex which
+ 
+
+00:04:52.720 --> 00:04:54.810 align:start position:0%
+transform and then we have duplex which
+is<00:04:52.870><c> kind</c><00:04:53.050><c> of</c><00:04:53.140><c> the</c><00:04:53.230><c> weird</c><00:04:53.410><c> one</c><00:04:53.640><c> because</c><00:04:54.640><c> it's</c>
+
+00:04:54.810 --> 00:04:54.820 align:start position:0%
+is kind of the weird one because it's
+ 
+
+00:04:54.820 --> 00:04:57.540 align:start position:0%
+is kind of the weird one because it's
+actually<00:04:54.970><c> an</c><00:04:55.180><c> object</c><00:04:55.540><c> which</c><00:04:56.410><c> has</c><00:04:56.440><c> a</c><00:04:56.980><c> source</c>
+
+00:04:57.540 --> 00:04:57.550 align:start position:0%
+actually an object which has a source
+ 
+
+00:04:57.550 --> 00:05:00.270 align:start position:0%
+actually an object which has a source
+and<00:04:57.910><c> a</c><00:04:58.090><c> sink</c><00:04:58.170><c> and</c><00:04:59.170><c> it's</c><00:04:59.740><c> kind</c><00:05:00.040><c> of</c><00:05:00.100><c> like</c><00:05:00.250><c> a</c>
+
+00:05:00.270 --> 00:05:00.280 align:start position:0%
+and a sink and it's kind of like a
+ 
+
+00:05:00.280 --> 00:05:02.670 align:start position:0%
+and a sink and it's kind of like a
+transform<00:05:00.760><c> like</c><00:05:00.910><c> you</c><00:05:01.000><c> can</c><00:05:01.180><c> model</c><00:05:01.570><c> a</c><00:05:01.810><c> transform</c>
+
+00:05:02.670 --> 00:05:02.680 align:start position:0%
+transform like you can model a transform
+ 
+
+00:05:02.680 --> 00:05:05.880 align:start position:0%
+transform like you can model a transform
+as<00:05:02.890><c> a</c><00:05:02.950><c> duplex</c><00:05:03.520><c> that</c><00:05:04.180><c> where</c><00:05:05.050><c> these</c><00:05:05.380><c> two</c><00:05:05.680><c> things</c>
+
+00:05:05.880 --> 00:05:05.890 align:start position:0%
+as a duplex that where these two things
+ 
+
+00:05:05.890 --> 00:05:08.850 align:start position:0%
+as a duplex that where these two things
+are<00:05:06.130><c> connected</c><00:05:06.460><c> in</c><00:05:07.000><c> some</c><00:05:07.240><c> way</c><00:05:07.420><c> so</c><00:05:08.290><c> kind</c><00:05:08.650><c> of</c><00:05:08.710><c> fun</c>
+
+00:05:08.850 --> 00:05:08.860 align:start position:0%
+are connected in some way so kind of fun
+ 
+
+00:05:08.860 --> 00:05:10.680 align:start position:0%
+are connected in some way so kind of fun
+and<00:05:09.430><c> then</c><00:05:09.580><c> so</c><00:05:09.760><c> what</c><00:05:09.940><c> you</c><00:05:10.090><c> will</c><00:05:10.210><c> typically</c><00:05:10.510><c> do</c>
+
+00:05:10.680 --> 00:05:10.690 align:start position:0%
+and then so what you will typically do
+ 
+
+00:05:10.690 --> 00:05:12.780 align:start position:0%
+and then so what you will typically do
+because<00:05:10.900><c> I'm</c><00:05:11.110><c> I</c><00:05:11.410><c> didn't</c><00:05:12.190><c> show</c><00:05:12.310><c> you</c><00:05:12.370><c> the</c><00:05:12.580><c> things</c>
+
+00:05:12.780 --> 00:05:12.790 align:start position:0%
+because I'm I didn't show you the things
+ 
+
+00:05:12.790 --> 00:05:15.800 align:start position:0%
+because I'm I didn't show you the things
+I<00:05:13.000><c> mean</c><00:05:13.510><c> so</c><00:05:14.260><c> what</c><00:05:14.380><c> we</c><00:05:14.500><c> can</c><00:05:14.620><c> do</c><00:05:14.740><c> here</c><00:05:14.980><c> I</c><00:05:15.040><c> can</c><00:05:15.310><c> just</c>
+
+00:05:15.800 --> 00:05:15.810 align:start position:0%
+I mean so what we can do here I can just
+ 
+
+00:05:15.810 --> 00:05:18.210 align:start position:0%
+I mean so what we can do here I can just
+take<00:05:16.810><c> these</c><00:05:16.930><c> so</c><00:05:17.440><c> this</c><00:05:17.590><c> is</c><00:05:17.710><c> the</c><00:05:17.770><c> transform</c>
+
+00:05:18.210 --> 00:05:18.220 align:start position:0%
+take these so this is the transform
+ 
+
+00:05:18.220 --> 00:05:22.200 align:start position:0%
+take these so this is the transform
+which<00:05:18.430><c> doubles</c><00:05:19.030><c> my</c><00:05:19.920><c> randomness</c><00:05:20.920><c> so</c><00:05:21.640><c> if</c><00:05:22.120><c> I</c>
+
+00:05:22.200 --> 00:05:22.210 align:start position:0%
+which doubles my randomness so if I
+ 
+
+00:05:22.210 --> 00:05:25.170 align:start position:0%
+which doubles my randomness so if I
+paste<00:05:22.390><c> that</c><00:05:22.540><c> in</c><00:05:22.720><c> instead</c><00:05:23.680><c> of</c><00:05:23.830><c> getting</c><00:05:24.180><c> like</c>
+
+00:05:25.170 --> 00:05:25.180 align:start position:0%
+paste that in instead of getting like
+ 
+
+00:05:25.180 --> 00:05:27.930 align:start position:0%
+paste that in instead of getting like
+zero<00:05:25.480><c> dot</c><00:05:25.690><c> values</c><00:05:26.050><c> I'll</c><00:05:26.230><c> get</c><00:05:26.410><c> doubled</c><00:05:27.070><c> doubled</c>
+
+00:05:27.930 --> 00:05:27.940 align:start position:0%
+zero dot values I'll get doubled doubled
+ 
+
+00:05:27.940 --> 00:05:32.610 align:start position:0%
+zero dot values I'll get doubled doubled
+randoms<00:05:28.450><c> and</c><00:05:29.400><c> so</c><00:05:30.400><c> that's</c><00:05:30.850><c> kind</c><00:05:31.000><c> of</c><00:05:31.060><c> fun</c><00:05:31.620><c> there</c>
+
+00:05:32.610 --> 00:05:32.620 align:start position:0%
+randoms and so that's kind of fun there
+ 
+
+00:05:32.620 --> 00:05:34.650 align:start position:0%
+randoms and so that's kind of fun there
+we<00:05:32.680><c> go</c><00:05:32.830><c> and</c><00:05:32.980><c> then</c><00:05:33.340><c> so</c><00:05:33.460><c> often</c><00:05:33.940><c> you</c><00:05:34.090><c> kind</c><00:05:34.300><c> of</c><00:05:34.360><c> want</c>
+
+00:05:34.650 --> 00:05:34.660 align:start position:0%
+we go and then so often you kind of want
+ 
+
+00:05:34.660 --> 00:05:36.900 align:start position:0%
+we go and then so often you kind of want
+and<00:05:34.840><c> some</c><00:05:35.770><c> utilities</c><00:05:36.340><c> and</c><00:05:36.460><c> things</c><00:05:36.670><c> for</c>
+
+00:05:36.900 --> 00:05:36.910 align:start position:0%
+and some utilities and things for
+ 
+
+00:05:36.910 --> 00:05:40.260 align:start position:0%
+and some utilities and things for
+working<00:05:37.300><c> with</c><00:05:37.540><c> async</c><00:05:38.140><c> iterators</c><00:05:38.560><c> because</c><00:05:39.270><c> one</c>
+
+00:05:40.260 --> 00:05:40.270 align:start position:0%
+working with async iterators because one
+ 
+
+00:05:40.270 --> 00:05:42.090 align:start position:0%
+working with async iterators because one
+of<00:05:40.300><c> the</c><00:05:40.420><c> most</c><00:05:40.540><c> useful</c><00:05:40.780><c> things</c><00:05:40.960><c> that</c><00:05:41.260><c> you</c><00:05:41.950><c> might</c>
+
+00:05:42.090 --> 00:05:42.100 align:start position:0%
+of the most useful things that you might
+ 
+
+00:05:42.100 --> 00:05:44.490 align:start position:0%
+of the most useful things that you might
+want<00:05:42.520><c> is</c><00:05:42.730><c> pipe</c><00:05:43.150><c> because</c><00:05:43.540><c> you</c><00:05:43.690><c> you</c><00:05:44.110><c> kind</c><00:05:44.440><c> of</c>
+
+00:05:44.490 --> 00:05:44.500 align:start position:0%
+want is pipe because you you kind of
+ 
+
+00:05:44.500 --> 00:05:46.860 align:start position:0%
+want is pipe because you you kind of
+sometimes<00:05:44.920><c> have</c><00:05:45.370><c> these</c><00:05:45.730><c> pipelines</c><00:05:46.600><c> of</c>
+
+00:05:46.860 --> 00:05:46.870 align:start position:0%
+sometimes have these pipelines of
+ 
+
+00:05:46.870 --> 00:05:48.480 align:start position:0%
+sometimes have these pipelines of
+streams<00:05:47.320><c> that</c><00:05:47.470><c> you</c><00:05:47.560><c> kind</c><00:05:47.770><c> of</c><00:05:47.800><c> want</c><00:05:47.980><c> to</c><00:05:48.280><c> keep</c>
+
+00:05:48.480 --> 00:05:48.490 align:start position:0%
+streams that you kind of want to keep
+ 
+
+00:05:48.490 --> 00:05:50.880 align:start position:0%
+streams that you kind of want to keep
+separate<00:05:49.300><c> as</c><00:05:49.480><c> different</c><00:05:49.930><c> different</c><00:05:50.650><c> kind</c><00:05:50.830><c> of</c>
+
+00:05:50.880 --> 00:05:50.890 align:start position:0%
+separate as different different kind of
+ 
+
+00:05:50.890 --> 00:05:53.730 align:start position:0%
+separate as different different kind of
+discrete<00:05:51.310><c> pieces</c><00:05:51.760><c> of</c><00:05:52.030><c> functionality</c><00:05:52.720><c> but</c><00:05:52.930><c> you</c>
+
+00:05:53.730 --> 00:05:53.740 align:start position:0%
+discrete pieces of functionality but you
+ 
+
+00:05:53.740 --> 00:05:56.070 align:start position:0%
+discrete pieces of functionality but you
+don't<00:05:53.980><c> want</c><00:05:54.190><c> to</c><00:05:54.280><c> have</c><00:05:54.430><c> to</c><00:05:54.610><c> like</c><00:05:54.880><c> like</c><00:05:55.600><c> stuff</c>
+
+00:05:56.070 --> 00:05:56.080 align:start position:0%
+don't want to have to like like stuff
+ 
+
+00:05:56.080 --> 00:05:58.260 align:start position:0%
+don't want to have to like like stuff
+like<00:05:56.170><c> this</c><00:05:56.290><c> where</c><00:05:56.830><c> we've</c><00:05:56.950><c> got</c><00:05:57.070><c> we've</c><00:05:57.370><c> got</c><00:05:57.400><c> this</c>
+
+00:05:58.260 --> 00:05:58.270 align:start position:0%
+like this where we've got we've got this
+ 
+
+00:05:58.270 --> 00:06:01.800 align:start position:0%
+like this where we've got we've got this
+the<00:05:58.830><c> the</c><00:05:59.830><c> the</c><00:06:00.190><c> source</c><00:06:00.700><c> is</c><00:06:01.120><c> being</c><00:06:01.300><c> passed</c><00:06:01.540><c> into</c>
+
+00:06:01.800 --> 00:06:01.810 align:start position:0%
+the the the source is being passed into
+ 
+
+00:06:01.810 --> 00:06:03.330 align:start position:0%
+the the the source is being passed into
+the<00:06:01.990><c> doubler</c><00:06:02.350><c> they're</c><00:06:02.740><c> being</c><00:06:02.890><c> passed</c><00:06:03.040><c> into</c>
+
+00:06:03.330 --> 00:06:03.340 align:start position:0%
+the doubler they're being passed into
+ 
+
+00:06:03.340 --> 00:06:05.670 align:start position:0%
+the doubler they're being passed into
+the<00:06:03.520><c> logger</c><00:06:03.960><c> like</c><00:06:04.960><c> you</c><00:06:05.110><c> just</c><00:06:05.260><c> have</c><00:06:05.410><c> this</c><00:06:05.500><c> big</c>
+
+00:06:05.670 --> 00:06:05.680 align:start position:0%
+the logger like you just have this big
+ 
+
+00:06:05.680 --> 00:06:07.560 align:start position:0%
+the logger like you just have this big
+long<00:06:05.740><c> like</c><00:06:06.250><c> function</c><00:06:06.760><c> cool</c><00:06:06.970><c> chain</c><00:06:07.240><c> and</c><00:06:07.450><c> it's</c>
+
+00:06:07.560 --> 00:06:07.570 align:start position:0%
+long like function cool chain and it's
+ 
+
+00:06:07.570 --> 00:06:09.120 align:start position:0%
+long like function cool chain and it's
+actually<00:06:07.870><c> a</c><00:06:07.900><c> little</c><00:06:08.020><c> bit</c><00:06:08.230><c> easier</c><00:06:08.350><c> to</c><00:06:08.770><c> see</c><00:06:08.980><c> it</c>
+
+00:06:09.120 --> 00:06:09.130 align:start position:0%
+actually a little bit easier to see it
+ 
+
+00:06:09.130 --> 00:06:11.430 align:start position:0%
+actually a little bit easier to see it
+as<00:06:09.340><c> as</c><00:06:09.840><c> something</c><00:06:10.840><c> like</c><00:06:11.050><c> this</c>
+
+00:06:11.430 --> 00:06:11.440 align:start position:0%
+as as something like this
+ 
+
+00:06:11.440 --> 00:06:14.730 align:start position:0%
+as as something like this
+so<00:06:11.530><c> we</c><00:06:11.710><c> can</c><00:06:12.060><c> we</c><00:06:13.060><c> can</c><00:06:13.270><c> use</c><00:06:13.480><c> a</c><00:06:13.690><c> thing</c><00:06:14.410><c> called</c><00:06:14.530><c> pipe</c>
+
+00:06:14.730 --> 00:06:14.740 align:start position:0%
+so we can we can use a thing called pipe
+ 
+
+00:06:14.740 --> 00:06:18.120 align:start position:0%
+so we can we can use a thing called pipe
+and<00:06:15.490><c> then</c><00:06:15.610><c> other</c><00:06:15.790><c> utilities</c><00:06:16.300><c> like</c><00:06:16.740><c> the</c><00:06:17.740><c> the</c>
+
+00:06:18.120 --> 00:06:18.130 align:start position:0%
+and then other utilities like the the
+ 
+
+00:06:18.130 --> 00:06:19.650 align:start position:0%
+and then other utilities like the the
+just<00:06:18.430><c> modules</c><00:06:18.790><c> that</c><00:06:18.910><c> we</c><00:06:19.000><c> create</c><00:06:19.270><c> it</c><00:06:19.390><c> stands</c>
+
+00:06:19.650 --> 00:06:19.660 align:start position:0%
+just modules that we create it stands
+ 
+
+00:06:19.660 --> 00:06:22.710 align:start position:0%
+just modules that we create it stands
+for<00:06:19.750><c> iterable</c><00:06:20.440><c> like</c><00:06:21.340><c> last</c><00:06:21.610><c> really</c><00:06:22.360><c> useful</c>
+
+00:06:22.710 --> 00:06:22.720 align:start position:0%
+for iterable like last really useful
+ 
+
+00:06:22.720 --> 00:06:25.200 align:start position:0%
+for iterable like last really useful
+when<00:06:22.900><c> so</c><00:06:23.800><c> I</c><00:06:23.830><c> bet</c><00:06:24.070><c> has</c><00:06:24.190><c> a</c><00:06:24.370><c> Dinge</c><00:06:24.670><c> a</c><00:06:24.790><c> cyberfest</c>
+
+00:06:25.200 --> 00:06:25.210 align:start position:0%
+when so I bet has a Dinge a cyberfest
+ 
+
+00:06:25.210 --> 00:06:28.620 align:start position:0%
+when so I bet has a Dinge a cyberfest
+now<00:06:25.450><c> is</c><00:06:25.690><c> a</c><00:06:26.160><c> it's</c><00:06:27.160><c> it</c><00:06:27.520><c> returns</c><00:06:27.940><c> an</c><00:06:28.270><c> async</c>
+
+00:06:28.620 --> 00:06:28.630 align:start position:0%
+now is a it's it returns an async
+ 
+
+00:06:28.630 --> 00:06:30.660 align:start position:0%
+now is a it's it returns an async
+iterable<00:06:29.080><c> and</c><00:06:29.230><c> actually</c><00:06:30.040><c> when</c><00:06:30.220><c> you</c><00:06:30.250><c> add</c><00:06:30.490><c> stuff</c>
+
+00:06:30.660 --> 00:06:30.670 align:start position:0%
+iterable and actually when you add stuff
+ 
+
+00:06:30.670 --> 00:06:32.880 align:start position:0%
+iterable and actually when you add stuff
+to<00:06:30.820><c> ipfs</c><00:06:31.450><c> you</c><00:06:31.840><c> can't</c><00:06:32.080><c> if</c><00:06:32.260><c> you're</c><00:06:32.440><c> adding</c><00:06:32.710><c> lots</c>
+
+00:06:32.880 --> 00:06:32.890 align:start position:0%
+to ipfs you can't if you're adding lots
+ 
+
+00:06:32.890 --> 00:06:35.550 align:start position:0%
+to ipfs you can't if you're adding lots
+of<00:06:33.040><c> files</c><00:06:33.250><c> you</c><00:06:33.520><c> want</c><00:06:33.760><c> the</c><00:06:33.940><c> last</c><00:06:34.240><c> item</c><00:06:35.110><c> from</c><00:06:35.410><c> the</c>
+
+00:06:35.550 --> 00:06:35.560 align:start position:0%
+of files you want the last item from the
+ 
+
+00:06:35.560 --> 00:06:37.200 align:start position:0%
+of files you want the last item from the
+iturra<00:06:35.920><c> iterator</c><00:06:36.340><c> so</c><00:06:36.580><c> you</c><00:06:36.640><c> might</c><00:06:36.850><c> want</c><00:06:37.030><c> to</c><00:06:37.060><c> use</c>
+
+00:06:37.200 --> 00:06:37.210 align:start position:0%
+iturra iterator so you might want to use
+ 
+
+00:06:37.210 --> 00:06:40.910 align:start position:0%
+iturra iterator so you might want to use
+that<00:06:37.390><c> it</c><00:06:37.930><c> target</c><00:06:38.830><c> has</c><00:06:38.950><c> get</c><00:06:39.190><c> returns</c><00:06:39.640><c> tar</c>
+
+00:06:40.910 --> 00:06:40.920 align:start position:0%
+that it target has get returns tar
+ 
+
+00:06:40.920 --> 00:06:44.510 align:start position:0%
+that it target has get returns tar
+and<00:06:42.900><c> updater</c><00:06:43.500><c> you</c><00:06:43.680><c> have</c><00:06:43.800><c> to</c><00:06:43.890><c> antar</c><00:06:44.220><c> it</c><00:06:44.400><c> or</c>
+
+00:06:44.510 --> 00:06:44.520 align:start position:0%
+and updater you have to antar it or
+ 
+
+00:06:44.520 --> 00:06:47.720 align:start position:0%
+and updater you have to antar it or
+pack<00:06:45.390><c> it</c><00:06:45.600><c> either</c><00:06:46.170><c> way</c><00:06:46.290><c> it</c><00:06:46.830><c> Claude</c><00:06:47.160><c> is</c><00:06:47.370><c> useful</c>
+
+00:06:47.720 --> 00:06:47.730 align:start position:0%
+pack it either way it Claude is useful
+ 
+
+00:06:47.730 --> 00:06:50.240 align:start position:0%
+pack it either way it Claude is useful
+when<00:06:47.880><c> you're</c><00:06:48.030><c> you</c><00:06:48.630><c> want</c><00:06:48.810><c> to</c><00:06:48.960><c> add</c><00:06:49.320><c> like</c><00:06:49.830><c> files</c>
+
+00:06:50.240 --> 00:06:50.250 align:start position:0%
+when you're you want to add like files
+ 
+
+00:06:50.250 --> 00:06:52.700 align:start position:0%
+when you're you want to add like files
+from<00:06:50.460><c> your</c><00:06:50.520><c> file</c><00:06:50.820><c> system</c><00:06:51.270><c> and</c><00:06:52.050><c> it</c><00:06:52.350><c> might</c><00:06:52.530><c> want</c>
+
+00:06:52.700 --> 00:06:52.710 align:start position:0%
+from your file system and it might want
+ 
+
+00:06:52.710 --> 00:06:54.290 align:start position:0%
+from your file system and it might want
+to<00:06:52.740><c> global</c><00:06:53.130><c> rule</c><00:06:53.250><c> files</c><00:06:53.550><c> and</c><00:06:53.910><c> it</c><00:06:54.000><c> just</c><00:06:54.150><c> gives</c>
+
+00:06:54.290 --> 00:06:54.300 align:start position:0%
+to global rule files and it just gives
+ 
+
+00:06:54.300 --> 00:06:56.720 align:start position:0%
+to global rule files and it just gives
+you<00:06:54.420><c> back</c><00:06:54.600><c> stuff</c><00:06:55.470><c> and</c><00:06:55.680><c> often</c><00:06:56.040><c> what</c><00:06:56.220><c> we</c><00:06:56.340><c> do</c><00:06:56.520><c> in</c>
+
+00:06:56.720 --> 00:06:56.730 align:start position:0%
+you back stuff and often what we do in
+ 
+
+00:06:56.730 --> 00:06:59.870 align:start position:0%
+you back stuff and often what we do in
+ipfs<00:06:57.150><c> is</c><00:06:57.270><c> prefix</c><00:06:57.660><c> things</c><00:06:57.870><c> with</c><00:06:58.160><c> variants</c><00:06:59.160><c> and</c>
+
+00:06:59.870 --> 00:06:59.880 align:start position:0%
+ipfs is prefix things with variants and
+ 
+
+00:06:59.880 --> 00:07:02.180 align:start position:0%
+ipfs is prefix things with variants and
+so<00:06:59.940><c> you</c><00:07:00.720><c> might</c><00:07:00.900><c> want</c><00:07:01.140><c> some</c><00:07:01.470><c> utilities</c><00:07:02.010><c> like</c>
+
+00:07:02.180 --> 00:07:02.190 align:start position:0%
+so you might want some utilities like
+ 
+
+00:07:02.190 --> 00:07:02.480 align:start position:0%
+so you might want some utilities like
+that
+
+00:07:02.480 --> 00:07:02.490 align:start position:0%
+that
+ 
+
+00:07:02.490 --> 00:07:04.850 align:start position:0%
+that
+so<00:07:03.090><c> we</c><00:07:03.180><c> made</c><00:07:03.300><c> loads</c><00:07:03.450><c> of</c><00:07:03.630><c> these</c><00:07:03.720><c> in</c><00:07:04.320><c> the</c><00:07:04.500><c> process</c>
+
+00:07:04.850 --> 00:07:04.860 align:start position:0%
+so we made loads of these in the process
+ 
+
+00:07:04.860 --> 00:07:07.550 align:start position:0%
+so we made loads of these in the process
+of<00:07:04.950><c> async/await</c><00:07:05.310><c> and</c><00:07:06.150><c> then</c><00:07:06.300><c> i</c><00:07:06.390><c> made</c><00:07:07.140><c> a</c><00:07:07.170><c> list</c><00:07:07.410><c> of</c>
+
+00:07:07.550 --> 00:07:07.560 align:start position:0%
+of async/await and then i made a list of
+ 
+
+00:07:07.560 --> 00:07:10.160 align:start position:0%
+of async/await and then i made a list of
+them<00:07:07.740><c> at</c><00:07:07.950><c> awesome</c><00:07:08.850><c> because</c><00:07:09.240><c> they</c><00:07:09.810><c> are</c><00:07:09.960><c> all</c>
+
+00:07:10.160 --> 00:07:10.170 align:start position:0%
+them at awesome because they are all
+ 
+
+00:07:10.170 --> 00:07:12.350 align:start position:0%
+them at awesome because they are all
+awesome<00:07:10.440><c> what's</c><00:07:11.160><c> really</c><00:07:11.820><c> awesome</c><00:07:11.850><c> is</c><00:07:12.300><c> that</c>
+
+00:07:12.350 --> 00:07:12.360 align:start position:0%
+awesome what's really awesome is that
+ 
+
+00:07:12.360 --> 00:07:14.060 align:start position:0%
+awesome what's really awesome is that
+there's<00:07:12.810><c> a</c><00:07:12.900><c> lot</c><00:07:13.200><c> of</c><00:07:13.290><c> these</c><00:07:13.440><c> a</c><00:07:13.740><c> lot</c><00:07:13.920><c> of</c><00:07:13.980><c> these</c>
+
+00:07:14.060 --> 00:07:14.070 align:start position:0%
+there's a lot of these a lot of these
+ 
+
+00:07:14.070 --> 00:07:15.200 align:start position:0%
+there's a lot of these a lot of these
+utilities<00:07:14.580><c> are</c><00:07:14.670><c> going</c><00:07:14.700><c> to</c><00:07:14.850><c> be</c><00:07:14.910><c> kind</c><00:07:15.090><c> of</c>
+
+00:07:15.200 --> 00:07:15.210 align:start position:0%
+utilities are going to be kind of
+ 
+
+00:07:15.210 --> 00:07:18.710 align:start position:0%
+utilities are going to be kind of
+defunct<00:07:15.600><c> because</c><00:07:16.460><c> actually</c><00:07:17.460><c> async</c><00:07:18.240><c> iterators</c>
+
+00:07:18.710 --> 00:07:18.720 align:start position:0%
+defunct because actually async iterators
+ 
+
+00:07:18.720 --> 00:07:22.700 align:start position:0%
+defunct because actually async iterators
+I<00:07:18.960><c> like</c><00:07:19.530><c> what</c><00:07:19.830><c> they</c><00:07:20.730><c> are</c><00:07:20.970><c> due</c><00:07:21.480><c> to</c><00:07:21.960><c> get</c><00:07:22.380><c> there's</c>
+
+00:07:22.700 --> 00:07:22.710 align:start position:0%
+I like what they are due to get there's
+ 
+
+00:07:22.710 --> 00:07:25.910 align:start position:0%
+I like what they are due to get there's
+a<00:07:22.830><c> proposal</c><00:07:23.340><c> for</c><00:07:23.970><c> them</c><00:07:24.120><c> to</c><00:07:24.390><c> get</c><00:07:24.570><c> a</c><00:07:25.230><c> whole</c><00:07:25.770><c> lot</c>
+
+00:07:25.910 --> 00:07:25.920 align:start position:0%
+a proposal for them to get a whole lot
+ 
+
+00:07:25.920 --> 00:07:27.500 align:start position:0%
+a proposal for them to get a whole lot
+of<00:07:25.950><c> utilities</c><00:07:26.520><c> so</c><00:07:26.670><c> you'll</c><00:07:26.790><c> just</c><00:07:26.850><c> be</c><00:07:27.120><c> able</c><00:07:27.390><c> to</c>
+
+00:07:27.500 --> 00:07:27.510 align:start position:0%
+of utilities so you'll just be able to
+ 
+
+00:07:27.510 --> 00:07:30.830 align:start position:0%
+of utilities so you'll just be able to
+so<00:07:27.900><c> for</c><00:07:28.230><c> like</c><00:07:29.040><c> there's</c><00:07:29.460><c> a</c><00:07:29.520><c> utility</c><00:07:30.240><c> called</c><00:07:30.630><c> it</c>
+
+00:07:30.830 --> 00:07:30.840 align:start position:0%
+so for like there's a utility called it
+ 
+
+00:07:30.840 --> 00:07:33.320 align:start position:0%
+so for like there's a utility called it
+all<00:07:31.050><c> which</c><00:07:31.380><c> collects</c><00:07:31.740><c> all</c><00:07:32.100><c> of</c><00:07:32.160><c> the</c><00:07:32.700><c> items</c><00:07:33.210><c> in</c>
+
+00:07:33.320 --> 00:07:33.330 align:start position:0%
+all which collects all of the items in
+ 
+
+00:07:33.330 --> 00:07:35.510 align:start position:0%
+all which collects all of the items in
+an<00:07:33.480><c> iterable</c><00:07:33.810><c> like</c><00:07:34.140><c> buffers</c><00:07:34.410><c> them</c><00:07:34.560><c> up</c><00:07:34.680><c> and</c><00:07:34.890><c> but</c>
+
+00:07:35.510 --> 00:07:35.520 align:start position:0%
+an iterable like buffers them up and but
+ 
+
+00:07:35.520 --> 00:07:39.140 align:start position:0%
+an iterable like buffers them up and but
+I<00:07:35.850><c> think</c><00:07:36.690><c> iterables</c><00:07:37.410><c> will</c><00:07:37.800><c> have</c><00:07:38.370><c> like</c><00:07:38.700><c> a</c><00:07:38.730><c> two</c>
+
+00:07:39.140 --> 00:07:39.150 align:start position:0%
+I think iterables will have like a two
+ 
+
+00:07:39.150 --> 00:07:40.820 align:start position:0%
+I think iterables will have like a two
+array<00:07:39.450><c> function</c><00:07:40.050><c> that</c><00:07:40.170><c> you</c><00:07:40.260><c> can</c><00:07:40.290><c> just</c><00:07:40.560><c> await</c>
+
+00:07:40.820 --> 00:07:40.830 align:start position:0%
+array function that you can just await
+ 
+
+00:07:40.830 --> 00:07:43.970 align:start position:0%
+array function that you can just await
+on<00:07:41.040><c> and</c><00:07:41.280><c> then</c><00:07:41.820><c> and</c><00:07:42.810><c> that</c><00:07:43.140><c> would</c><00:07:43.290><c> do</c><00:07:43.500><c> it</c><00:07:43.620><c> for</c><00:07:43.650><c> you</c>
+
+00:07:43.970 --> 00:07:43.980 align:start position:0%
+on and then and that would do it for you
+ 
+
+00:07:43.980 --> 00:07:45.230 align:start position:0%
+on and then and that would do it for you
+and<00:07:44.100><c> then</c><00:07:44.220><c> you</c><00:07:44.310><c> wouldn't</c><00:07:44.580><c> need</c><00:07:44.730><c> you</c><00:07:45.060><c> don't</c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+and then you wouldn't need you don't
+ 
+
+00:07:45.240 --> 00:07:46.460 align:start position:0%
+and then you wouldn't need you don't
+need<00:07:45.390><c> the</c><00:07:45.570><c> modules</c><00:07:45.960><c> you</c><00:07:46.020><c> don't</c><00:07:46.140><c> need</c><00:07:46.230><c> half</c><00:07:46.380><c> of</c>
+
+00:07:46.460 --> 00:07:46.470 align:start position:0%
+need the modules you don't need half of
+ 
+
+00:07:46.470 --> 00:07:48.640 align:start position:0%
+need the modules you don't need half of
+them<00:07:46.590><c> so</c><00:07:46.910><c> some</c><00:07:47.910><c> of</c><00:07:47.970><c> them</c><00:07:48.090><c> are</c><00:07:48.150><c> temporary</c><00:07:48.510><c> but</c>
+
+00:07:48.640 --> 00:07:48.650 align:start position:0%
+them so some of them are temporary but
+ 
+
+00:07:48.650 --> 00:07:51.860 align:start position:0%
+them so some of them are temporary but
+yeah<00:07:49.650><c> anyway</c><00:07:50.040><c> and</c><00:07:50.760><c> so</c><00:07:50.970><c> streaming</c><00:07:51.420><c> iterables</c>
+
+00:07:51.860 --> 00:07:51.870 align:start position:0%
+yeah anyway and so streaming iterables
+ 
+
+00:07:51.870 --> 00:07:53.720 align:start position:0%
+yeah anyway and so streaming iterables
+as<00:07:52.080><c> I've</c><00:07:52.200><c> explained</c><00:07:52.500><c> them</c><00:07:52.620><c> they're</c><00:07:52.860><c> really</c>
+
+00:07:53.720 --> 00:07:53.730 align:start position:0%
+as I've explained them they're really
+ 
+
+00:07:53.730 --> 00:07:55.280 align:start position:0%
+as I've explained them they're really
+quickly<00:07:54.000><c> in</c><00:07:54.510><c> hopefully</c><00:07:54.900><c> less</c><00:07:55.020><c> than</c><00:07:55.140><c> five</c>
+
+00:07:55.280 --> 00:07:55.290 align:start position:0%
+quickly in hopefully less than five
+ 
+
+00:07:55.290 --> 00:07:57.800 align:start position:0%
+quickly in hopefully less than five
+minutes<00:07:55.410><c> I</c><00:07:56.040><c> kind</c><00:07:56.700><c> of</c><00:07:56.760><c> underpin</c><00:07:57.390><c> all</c><00:07:57.600><c> of</c><00:07:57.750><c> the</c>
+
+00:07:57.800 --> 00:07:57.810 align:start position:0%
+minutes I kind of underpin all of the
+ 
+
+00:07:57.810 --> 00:08:00.560 align:start position:0%
+minutes I kind of underpin all of the
+streaming<00:07:58.050><c> in</c><00:07:58.260><c> JSI</c><00:07:58.830><c> bfsd</c><00:07:59.160><c> asleep</c><00:07:59.580><c> p2p</c><00:07:59.910><c> and</c><00:08:00.030><c> III</c>
+
+00:08:00.560 --> 00:08:00.570 align:start position:0%
+streaming in JSI bfsd asleep p2p and III
+ 
+
+00:08:00.570 --> 00:08:04.960 align:start position:0%
+streaming in JSI bfsd asleep p2p and III
+LD<00:08:00.900><c> as</c><00:08:01.020><c> well</c><00:08:01.200><c> and</c><00:08:02.070><c> that's</c><00:08:02.790><c> all</c><00:08:03.120><c> I</c><00:08:03.150><c> have</c>
+
+00:08:04.960 --> 00:08:04.970 align:start position:0%
+LD as well and that's all I have
+ 
+
+00:08:04.970 --> 00:08:08.519 align:start position:0%
+LD as well and that's all I have
+[Applause]
+

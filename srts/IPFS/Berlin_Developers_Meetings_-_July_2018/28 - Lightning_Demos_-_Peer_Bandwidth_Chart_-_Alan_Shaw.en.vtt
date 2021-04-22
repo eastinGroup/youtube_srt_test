@@ -1,0 +1,408 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.399 --> 00:00:08.150 align:start position:0%
+ 
+hello<00:00:03.470><c> breathing</c><00:00:04.470><c> right</c><00:00:04.799><c> in</c><00:00:04.980><c> your</c><00:00:05.100><c> ears</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+ 
+ 
+
+00:00:08.160 --> 00:00:11.650 align:start position:0%
+ 
+so<00:00:08.700><c> this</c><00:00:08.910><c> is</c><00:00:09.240><c> what</c><00:00:09.840><c> you're</c><00:00:09.960><c> looking</c><00:00:10.200><c> at</c><00:00:10.290><c> is</c><00:00:10.500><c> a</c>
+
+00:00:11.650 --> 00:00:11.660 align:start position:0%
+so this is what you're looking at is a
+ 
+
+00:00:11.660 --> 00:00:14.450 align:start position:0%
+so this is what you're looking at is a
+chart<00:00:12.660><c> and</c><00:00:12.900><c> it's</c><00:00:13.049><c> showing</c><00:00:13.230><c> the</c><00:00:13.559><c> total</c><00:00:14.070><c> amount</c>
+
+00:00:14.450 --> 00:00:14.460 align:start position:0%
+chart and it's showing the total amount
+ 
+
+00:00:14.460 --> 00:00:16.519 align:start position:0%
+chart and it's showing the total amount
+of<00:00:14.610><c> bandwidth</c><00:00:15.059><c> that's</c><00:00:15.299><c> going</c><00:00:15.599><c> into</c><00:00:15.870><c> and</c><00:00:16.410><c> out</c>
+
+00:00:16.519 --> 00:00:16.529 align:start position:0%
+of bandwidth that's going into and out
+ 
+
+00:00:16.529 --> 00:00:20.840 align:start position:0%
+of bandwidth that's going into and out
+of<00:00:16.590><c> my</c><00:00:16.980><c> running</c><00:00:17.490><c> I</c><00:00:17.699><c> go</c><00:00:18.000><c> ipfs</c><00:00:18.480><c> node</c><00:00:19.369><c> and</c><00:00:20.369><c> also</c>
+
+00:00:20.840 --> 00:00:20.850 align:start position:0%
+of my running I go ipfs node and also
+ 
+
+00:00:20.850 --> 00:00:23.390 align:start position:0%
+of my running I go ipfs node and also
+underneath<00:00:21.390><c> there's</c><00:00:21.810><c> a</c><00:00:21.930><c> table</c><00:00:22.410><c> width</c><00:00:22.920><c> which</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+underneath there's a table width which
+ 
+
+00:00:23.400 --> 00:00:25.580 align:start position:0%
+underneath there's a table width which
+is<00:00:23.430><c> showing</c><00:00:23.820><c> on</c><00:00:24.000><c> a</c><00:00:24.029><c> per</c><00:00:24.269><c> pair</c><00:00:24.510><c> basis</c><00:00:24.960><c> the</c>
+
+00:00:25.580 --> 00:00:25.590 align:start position:0%
+is showing on a per pair basis the
+ 
+
+00:00:25.590 --> 00:00:28.310 align:start position:0%
+is showing on a per pair basis the
+bandwidth<00:00:26.240><c> that's</c><00:00:27.240><c> going</c><00:00:27.720><c> in</c><00:00:27.840><c> out</c><00:00:27.960><c> of</c><00:00:28.140><c> those</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+bandwidth that's going in out of those
+ 
+
+00:00:28.320 --> 00:00:34.490 align:start position:0%
+bandwidth that's going in out of those
+guys<00:00:29.300><c> and</c><00:00:30.500><c> that's</c><00:00:31.500><c> super</c><00:00:32.250><c> cool</c><00:00:33.079><c> it's</c><00:00:34.079><c> using</c>
+
+00:00:34.490 --> 00:00:34.500 align:start position:0%
+guys and that's super cool it's using
+ 
+
+00:00:34.500 --> 00:00:38.500 align:start position:0%
+guys and that's super cool it's using
+this<00:00:34.620><c> stats</c><00:00:35.070><c> bandwidth</c><00:00:35.670><c> stats</c><00:00:35.910><c> API</c><00:00:36.570><c> and</c><00:00:37.460><c> it</c>
+
+00:00:38.500 --> 00:00:38.510 align:start position:0%
+this stats bandwidth stats API and it
+ 
+
+00:00:38.510 --> 00:00:42.350 align:start position:0%
+this stats bandwidth stats API and it
+automatically<00:00:39.510><c> updates</c><00:00:39.719><c> it</c><00:00:40.500><c> uses</c><00:00:41.239><c> window</c><00:00:42.239><c> dot</c>
+
+00:00:42.350 --> 00:00:42.360 align:start position:0%
+automatically updates it uses window dot
+ 
+
+00:00:42.360 --> 00:00:45.529 align:start position:0%
+automatically updates it uses window dot
+ipfs<00:00:42.989><c> which</c><00:00:43.320><c> is</c><00:00:43.500><c> provided</c><00:00:44.040><c> by</c><00:00:44.219><c> companion</c><00:00:44.910><c> so</c>
+
+00:00:45.529 --> 00:00:45.539 align:start position:0%
+ipfs which is provided by companion so
+ 
+
+00:00:45.539 --> 00:00:49.639 align:start position:0%
+ipfs which is provided by companion so
+companion<00:00:46.379><c> will</c><00:00:46.559><c> put</c><00:00:46.800><c> a</c><00:00:47.539><c> an</c><00:00:48.539><c> IP</c><00:00:48.809><c> FS</c><00:00:49.140><c> objects</c><00:00:49.559><c> on</c>
+
+00:00:49.639 --> 00:00:49.649 align:start position:0%
+companion will put a an IP FS objects on
+ 
+
+00:00:49.649 --> 00:00:53.720 align:start position:0%
+companion will put a an IP FS objects on
+the<00:00:49.739><c> window</c><00:00:50.039><c> which</c><00:00:50.750><c> which</c><00:00:51.750><c> looks</c><00:00:52.379><c> like</c><00:00:52.530><c> an</c><00:00:53.280><c> IP</c>
+
+00:00:53.720 --> 00:00:53.730 align:start position:0%
+the window which which looks like an IP
+ 
+
+00:00:53.730 --> 00:00:56.170 align:start position:0%
+the window which which looks like an IP
+FS<00:00:54.149><c> node</c><00:00:54.660><c> which</c><00:00:54.930><c> you</c><00:00:55.079><c> can</c><00:00:55.230><c> use</c><00:00:55.469><c> to</c><00:00:55.500><c> talk</c><00:00:55.980><c> to</c>
+
+00:00:56.170 --> 00:00:56.180 align:start position:0%
+FS node which you can use to talk to
+ 
+
+00:00:56.180 --> 00:00:59.180 align:start position:0%
+FS node which you can use to talk to
+your<00:00:57.180><c> goai</c><00:00:57.480><c> PFS</c><00:00:58.199><c> daemon</c><00:00:58.680><c> running</c><00:00:58.829><c> in</c><00:00:59.100><c> the</c>
+
+00:00:59.180 --> 00:00:59.190 align:start position:0%
+your goai PFS daemon running in the
+ 
+
+00:00:59.190 --> 00:01:01.880 align:start position:0%
+your goai PFS daemon running in the
+background<00:00:59.370><c> or</c><00:00:59.930><c> companion</c><00:01:00.930><c> will</c><00:01:01.199><c> also</c><00:01:01.559><c> if</c><00:01:01.739><c> you</c>
+
+00:01:01.880 --> 00:01:01.890 align:start position:0%
+background or companion will also if you
+ 
+
+00:01:01.890 --> 00:01:06.080 align:start position:0%
+background or companion will also if you
+want<00:01:02.129><c> run</c><00:01:02.699><c> a</c><00:01:02.969><c> JSI</c><00:01:03.480><c> PFS</c><00:01:03.930><c> node</c><00:01:04.290><c> directly</c><00:01:04.559><c> in</c><00:01:05.159><c> you</c>
+
+00:01:06.080 --> 00:01:06.090 align:start position:0%
+want run a JSI PFS node directly in you
+ 
+
+00:01:06.090 --> 00:01:08.060 align:start position:0%
+want run a JSI PFS node directly in you
+in<00:01:06.360><c> the</c><00:01:06.510><c> browser</c><00:01:06.720><c> for</c><00:01:07.380><c> you</c><00:01:07.439><c> to</c><00:01:07.590><c> talk</c><00:01:07.740><c> to</c><00:01:07.979><c> you</c>
+
+00:01:08.060 --> 00:01:08.070 align:start position:0%
+in the browser for you to talk to you
+ 
+
+00:01:08.070 --> 00:01:09.800 align:start position:0%
+in the browser for you to talk to you
+and<00:01:08.220><c> you</c><00:01:08.460><c> can</c><00:01:08.640><c> swap</c><00:01:08.939><c> them</c><00:01:09.119><c> in</c><00:01:09.240><c> and</c><00:01:09.390><c> out</c><00:01:09.450><c> and</c>
+
+00:01:09.800 --> 00:01:09.810 align:start position:0%
+and you can swap them in and out and
+ 
+
+00:01:09.810 --> 00:01:12.260 align:start position:0%
+and you can swap them in and out and
+talk<00:01:09.990><c> to</c><00:01:10.140><c> those</c><00:01:10.260><c> directly</c><00:01:10.770><c> but</c><00:01:11.520><c> winded</c><00:01:11.760><c> ipfs</c>
+
+00:01:12.260 --> 00:01:12.270 align:start position:0%
+talk to those directly but winded ipfs
+ 
+
+00:01:12.270 --> 00:01:14.480 align:start position:0%
+talk to those directly but winded ipfs
+so<00:01:12.630><c> i</c><00:01:12.659><c> professors</c><00:01:13.110><c> put</c><00:01:13.290><c> on</c><00:01:13.439><c> window</c><00:01:13.740><c> of</c><00:01:13.950><c> every</c>
+
+00:01:14.480 --> 00:01:14.490 align:start position:0%
+so i professors put on window of every
+ 
+
+00:01:14.490 --> 00:01:18.050 align:start position:0%
+so i professors put on window of every
+page<00:01:14.700><c> and</c><00:01:15.170><c> and</c><00:01:16.170><c> so</c><00:01:16.979><c> yeah</c><00:01:17.220><c> that's</c><00:01:17.700><c> happening</c><00:01:18.000><c> on</c>
+
+00:01:18.050 --> 00:01:18.060 align:start position:0%
+page and and so yeah that's happening on
+ 
+
+00:01:18.060 --> 00:01:19.700 align:start position:0%
+page and and so yeah that's happening on
+this<00:01:18.180><c> pages</c><00:01:18.540><c> it's</c><00:01:18.720><c> just</c><00:01:18.960><c> querying</c><00:01:19.290><c> that</c><00:01:19.380><c> node</c>
+
+00:01:19.700 --> 00:01:19.710 align:start position:0%
+this pages it's just querying that node
+ 
+
+00:01:19.710 --> 00:01:22.730 align:start position:0%
+this pages it's just querying that node
+and<00:01:20.009><c> and</c><00:01:20.460><c> graphing</c><00:01:21.060><c> out</c><00:01:21.180><c> the</c><00:01:21.380><c> total</c><00:01:22.380><c> bandwidth</c>
+
+00:01:22.730 --> 00:01:22.740 align:start position:0%
+and and graphing out the total bandwidth
+ 
+
+00:01:22.740 --> 00:01:25.600 align:start position:0%
+and and graphing out the total bandwidth
+for<00:01:23.220><c> this</c><00:01:23.340><c> node</c><00:01:23.750><c> updating</c><00:01:24.750><c> every</c><00:01:24.990><c> few</c><00:01:25.170><c> seconds</c>
+
+00:01:25.600 --> 00:01:25.610 align:start position:0%
+for this node updating every few seconds
+ 
+
+00:01:25.610 --> 00:01:28.700 align:start position:0%
+for this node updating every few seconds
+this<00:01:26.610><c> this</c><00:01:27.240><c> list</c><00:01:27.479><c> it</c><00:01:27.630><c> would</c><00:01:27.689><c> be</c><00:01:27.810><c> rad</c><00:01:27.990><c> if</c><00:01:28.290><c> we</c>
+
+00:01:28.700 --> 00:01:28.710 align:start position:0%
+this this list it would be rad if we
+ 
+
+00:01:28.710 --> 00:01:30.440 align:start position:0%
+this this list it would be rad if we
+swept<00:01:29.220><c> them</c><00:01:29.310><c> well</c><00:01:29.790><c> it</c><00:01:29.909><c> what</c><00:01:30.030><c> I</c><00:01:30.060><c> did</c><00:01:30.240><c> when</c><00:01:30.360><c> I</c>
+
+00:01:30.440 --> 00:01:30.450 align:start position:0%
+swept them well it what I did when I
+ 
+
+00:01:30.450 --> 00:01:33.380 align:start position:0%
+swept them well it what I did when I
+first<00:01:30.659><c> built</c><00:01:30.990><c> this</c><00:01:31.259><c> was</c><00:01:31.500><c> I</c><00:01:31.979><c> got</c><00:01:32.939><c> the</c><00:01:33.090><c> list</c><00:01:33.240><c> of</c>
+
+00:01:33.380 --> 00:01:33.390 align:start position:0%
+first built this was I got the list of
+ 
+
+00:01:33.390 --> 00:01:34.550 align:start position:0%
+first built this was I got the list of
+the<00:01:33.509><c> peers</c><00:01:33.750><c> all</c><00:01:33.900><c> of</c><00:01:34.020><c> the</c><00:01:34.079><c> peers</c><00:01:34.259><c> that</c><00:01:34.380><c> we</c><00:01:34.439><c> knew</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+the peers all of the peers that we knew
+ 
+
+00:01:34.560 --> 00:01:36.530 align:start position:0%
+the peers all of the peers that we knew
+about<00:01:34.590><c> like</c><00:01:34.920><c> nearly</c><00:01:35.159><c> a</c><00:01:35.220><c> thousand</c><00:01:35.579><c> and</c><00:01:36.299><c> then</c>
+
+00:01:36.530 --> 00:01:36.540 align:start position:0%
+about like nearly a thousand and then
+ 
+
+00:01:36.540 --> 00:01:39.170 align:start position:0%
+about like nearly a thousand and then
+the<00:01:37.350><c> API</c><00:01:37.560><c> is</c><00:01:37.890><c> like</c><00:01:38.250><c> you</c><00:01:38.369><c> can</c><00:01:38.549><c> ask</c><00:01:38.759><c> for</c><00:01:39.090><c> a</c>
+
+00:01:39.170 --> 00:01:39.180 align:start position:0%
+the API is like you can ask for a
+ 
+
+00:01:39.180 --> 00:01:41.510 align:start position:0%
+the API is like you can ask for a
+bandwidth<00:01:39.540><c> for</c><00:01:39.780><c> a</c><00:01:39.810><c> particular</c><00:01:40.140><c> peer</c><00:01:40.590><c> so</c><00:01:41.220><c> it's</c>
+
+00:01:41.510 --> 00:01:41.520 align:start position:0%
+bandwidth for a particular peer so it's
+ 
+
+00:01:41.520 --> 00:01:43.190 align:start position:0%
+bandwidth for a particular peer so it's
+just<00:01:41.640><c> like</c><00:01:41.759><c> yeah</c><00:01:41.909><c> thousand</c><00:01:42.450><c> requests</c><00:01:42.930><c> to</c><00:01:43.079><c> my</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+just like yeah thousand requests to my
+ 
+
+00:01:43.200 --> 00:01:45.350 align:start position:0%
+just like yeah thousand requests to my
+IVFs<00:01:43.500><c> node</c><00:01:43.920><c> for</c><00:01:44.220><c> the</c><00:01:44.340><c> bandwidth</c><00:01:44.700><c> of</c><00:01:44.729><c> every</c><00:01:45.090><c> two</c>
+
+00:01:45.350 --> 00:01:45.360 align:start position:0%
+IVFs node for the bandwidth of every two
+ 
+
+00:01:45.360 --> 00:01:49.149 align:start position:0%
+IVFs node for the bandwidth of every two
+seconds<00:01:45.810><c> please</c><00:01:46.140><c> and</c><00:01:47.040><c> that</c><00:01:47.250><c> wasn't</c><00:01:47.430><c> great</c><00:01:47.640><c> so</c>
+
+00:01:49.149 --> 00:01:49.159 align:start position:0%
+seconds please and that wasn't great so
+ 
+
+00:01:49.159 --> 00:01:51.620 align:start position:0%
+seconds please and that wasn't great so
+so<00:01:50.159><c> this</c><00:01:50.280><c> kind</c><00:01:50.520><c> of</c><00:01:50.579><c> steps</c><00:01:50.880><c> through</c><00:01:51.149><c> them</c><00:01:51.360><c> so</c>
+
+00:01:51.620 --> 00:01:51.630 align:start position:0%
+so this kind of steps through them so
+ 
+
+00:01:51.630 --> 00:01:53.719 align:start position:0%
+so this kind of steps through them so
+it's<00:01:51.750><c> not</c><00:01:51.810><c> so</c><00:01:52.140><c> unlike</c><00:01:52.649><c> you</c><00:01:53.009><c> know</c><00:01:53.130><c> with</c><00:01:53.250><c> top</c><00:01:53.460><c> you</c>
+
+00:01:53.719 --> 00:01:53.729 align:start position:0%
+it's not so unlike you know with top you
+ 
+
+00:01:53.729 --> 00:01:55.160 align:start position:0%
+it's not so unlike you know with top you
+you<00:01:53.970><c> basically</c><00:01:54.149><c> get</c><00:01:54.509><c> everything</c><00:01:54.780><c> updates</c>
+
+00:01:55.160 --> 00:01:55.170 align:start position:0%
+you basically get everything updates
+ 
+
+00:01:55.170 --> 00:01:58.069 align:start position:0%
+you basically get everything updates
+like<00:01:56.000><c> like</c><00:01:57.000><c> you</c><00:01:57.299><c> don't</c><00:01:57.479><c> get</c><00:01:57.659><c> that</c><00:01:57.840><c> with</c><00:01:57.960><c> this</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+like like you don't get that with this
+ 
+
+00:01:58.079 --> 00:02:00.649 align:start position:0%
+like like you don't get that with this
+that's<00:01:58.380><c> not</c><00:01:58.469><c> quite</c><00:01:58.860><c> right</c><00:01:59.729><c> so</c><00:02:00.060><c> it'd</c><00:02:00.149><c> be</c><00:02:00.270><c> red</c><00:02:00.479><c> if</c>
+
+00:02:00.649 --> 00:02:00.659 align:start position:0%
+that's not quite right so it'd be red if
+ 
+
+00:02:00.659 --> 00:02:04.490 align:start position:0%
+that's not quite right so it'd be red if
+the<00:02:00.780><c> API</c><00:02:01.079><c> was</c><00:02:01.409><c> if</c><00:02:01.710><c> I</c><00:02:02.100><c> could</c><00:02:02.159><c> just</c><00:02:02.549><c> say</c><00:02:02.960><c> give</c><00:02:03.960><c> one</c>
+
+00:02:04.490 --> 00:02:04.500 align:start position:0%
+the API was if I could just say give one
+ 
+
+00:02:04.500 --> 00:02:08.540 align:start position:0%
+the API was if I could just say give one
+call<00:02:04.799><c> for</c><00:02:05.759><c> like</c><00:02:06.360><c> a</c><00:02:06.390><c> stream</c><00:02:06.990><c> of</c><00:02:07.369><c> like</c><00:02:08.369><c> the</c>
+
+00:02:08.540 --> 00:02:08.550 align:start position:0%
+call for like a stream of like the
+ 
+
+00:02:08.550 --> 00:02:12.199 align:start position:0%
+call for like a stream of like the
+bandwidth<00:02:08.940><c> for</c><00:02:09.420><c> every</c><00:02:09.720><c> single</c><00:02:10.050><c> node</c><00:02:10.910><c> that's</c><00:02:11.910><c> I</c>
+
+00:02:12.199 --> 00:02:12.209 align:start position:0%
+bandwidth for every single node that's I
+ 
+
+00:02:12.209 --> 00:02:13.640 align:start position:0%
+bandwidth for every single node that's I
+think<00:02:12.390><c> for</c><00:02:12.599><c> the</c><00:02:12.690><c> future</c>
+
+00:02:13.640 --> 00:02:13.650 align:start position:0%
+think for the future
+ 
+
+00:02:13.650 --> 00:02:15.440 align:start position:0%
+think for the future
+the<00:02:13.890><c> yeah</c><00:02:14.040><c> so</c><00:02:14.069><c> I</c><00:02:14.610><c> just</c><00:02:14.790><c> kind</c><00:02:14.909><c> of</c><00:02:14.940><c> hack</c><00:02:15.090><c> discover</c>
+
+00:02:15.440 --> 00:02:15.450 align:start position:0%
+the yeah so I just kind of hack discover
+ 
+
+00:02:15.450 --> 00:02:18.680 align:start position:0%
+the yeah so I just kind of hack discover
+and<00:02:16.670><c> there</c><00:02:17.670><c> will</c><00:02:17.970><c> hopefully</c><00:02:18.150><c> be</c><00:02:18.420><c> something</c>
+
+00:02:18.680 --> 00:02:18.690 align:start position:0%
+and there will hopefully be something
+ 
+
+00:02:18.690 --> 00:02:20.930 align:start position:0%
+and there will hopefully be something
+like<00:02:18.780><c> this</c><00:02:18.900><c> in</c><00:02:19.080><c> the</c><00:02:19.140><c> new</c><00:02:19.260><c> web</c><00:02:19.590><c> UI</c><00:02:19.830><c> ins</c><00:02:20.700><c> on</c><00:02:20.879><c> the</c>
+
+00:02:20.930 --> 00:02:20.940 align:start position:0%
+like this in the new web UI ins on the
+ 
+
+00:02:20.940 --> 00:02:26.420 align:start position:0%
+like this in the new web UI ins on the
+Status<00:02:21.269><c> page</c><00:02:21.409><c> and</c><00:02:22.409><c> I</c><00:02:25.069><c> think</c><00:02:26.069><c> that's</c><00:02:26.220><c> all</c><00:02:26.340><c> I</c>
+
+00:02:26.420 --> 00:02:26.430 align:start position:0%
+Status page and I think that's all I
+ 
+
+00:02:26.430 --> 00:02:29.220 align:start position:0%
+Status page and I think that's all I
+have<00:02:26.549><c> to</c><00:02:26.670><c> say</c>
+
+00:02:29.220 --> 00:02:29.230 align:start position:0%
+ 
+ 
+
+00:02:29.230 --> 00:02:32.330 align:start position:0%
+ 
+[Applause]
+

@@ -1,0 +1,2360 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.480 --> 00:00:03.350 align:start position:0%
+ 
+i'm<00:00:02.800><c> uh</c>
+
+00:00:03.350 --> 00:00:03.360 align:start position:0%
+i'm uh
+ 
+
+00:00:03.360 --> 00:00:06.309 align:start position:0%
+i'm uh
+the<00:00:03.600><c> blockchain</c><00:00:04.000><c> developer</c><00:00:04.480><c> of</c><00:00:04.640><c> litecoin</c><00:00:05.839><c> and</c>
+
+00:00:06.309 --> 00:00:06.319 align:start position:0%
+the blockchain developer of litecoin and
+ 
+
+00:00:06.319 --> 00:00:07.349 align:start position:0%
+the blockchain developer of litecoin and
+i'm<00:00:06.560><c> working</c><00:00:06.960><c> on</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+i'm working on
+ 
+
+00:00:07.359 --> 00:00:10.150 align:start position:0%
+i'm working on
+uh<00:00:08.400><c> our</c><00:00:08.639><c> blockchain</c><00:00:09.120><c> called</c><00:00:09.360><c> litecoin</c><00:00:09.840><c> chain</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+uh our blockchain called litecoin chain
+ 
+
+00:00:10.160 --> 00:00:12.629 align:start position:0%
+uh our blockchain called litecoin chain
+which<00:00:10.400><c> is</c><00:00:10.559><c> a</c><00:00:10.719><c> cosmos</c><00:00:11.120><c> sdk</c><00:00:11.599><c> based</c><00:00:12.000><c> blockchain</c>
+
+00:00:12.629 --> 00:00:12.639 align:start position:0%
+which is a cosmos sdk based blockchain
+ 
+
+00:00:12.639 --> 00:00:14.870 align:start position:0%
+which is a cosmos sdk based blockchain
+so<00:00:12.880><c> my</c><00:00:13.040><c> topic</c><00:00:13.440><c> is</c><00:00:13.679><c> connecting</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+so my topic is connecting
+ 
+
+00:00:14.880 --> 00:00:17.430 align:start position:0%
+so my topic is connecting
+some<00:00:15.200><c> uh</c><00:00:15.440><c> translating</c><00:00:16.000><c> cosmetic</c><00:00:16.560><c> sdk</c><00:00:17.119><c> based</c>
+
+00:00:17.430 --> 00:00:17.440 align:start position:0%
+some uh translating cosmetic sdk based
+ 
+
+00:00:17.440 --> 00:00:19.750 align:start position:0%
+some uh translating cosmetic sdk based
+blockchain<00:00:17.840><c> to</c><00:00:18.160><c> ipfs</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+blockchain to ipfs
+ 
+
+00:00:19.760 --> 00:00:23.269 align:start position:0%
+blockchain to ipfs
+and<00:00:20.160><c> this</c><00:00:20.400><c> talk</c><00:00:20.720><c> is</c><00:00:22.560><c> this</c><00:00:22.800><c> sharing</c><00:00:23.119><c> is</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+and this talk is this sharing is
+ 
+
+00:00:23.279 --> 00:00:25.670 align:start position:0%
+and this talk is this sharing is
+basically<00:00:23.840><c> a</c><00:00:24.160><c> very</c><00:00:24.480><c> quick</c><00:00:24.800><c> introduction</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+basically a very quick introduction
+ 
+
+00:00:25.680 --> 00:00:29.669 align:start position:0%
+basically a very quick introduction
+of<00:00:26.080><c> uh</c><00:00:26.560><c> the</c><00:00:27.519><c> case</c><00:00:27.840><c> study</c><00:00:28.320><c> on</c><00:00:28.640><c> uh</c><00:00:28.960><c> which</c><00:00:29.199><c> is</c><00:00:29.359><c> now</c>
+
+00:00:29.669 --> 00:00:29.679 align:start position:0%
+of uh the case study on uh which is now
+ 
+
+00:00:29.679 --> 00:00:30.310 align:start position:0%
+of uh the case study on uh which is now
+on<00:00:29.840><c> the</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+on the
+ 
+
+00:00:30.320 --> 00:00:34.150 align:start position:0%
+on the
+ipfs<00:00:30.880><c> documents</c><00:00:31.439><c> thanks</c><00:00:31.679><c> to</c><00:00:31.840><c> the</c><00:00:32.160><c> ipfs</c><00:00:32.719><c> team</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+ipfs documents thanks to the ipfs team
+ 
+
+00:00:34.160 --> 00:00:36.389 align:start position:0%
+ipfs documents thanks to the ipfs team
+so<00:00:34.800><c> if</c><00:00:34.880><c> you</c><00:00:35.040><c> want</c><00:00:35.280><c> more</c><00:00:35.520><c> details</c><00:00:35.920><c> you</c><00:00:36.000><c> can</c><00:00:36.160><c> read</c>
+
+00:00:36.389 --> 00:00:36.399 align:start position:0%
+so if you want more details you can read
+ 
+
+00:00:36.399 --> 00:00:38.069 align:start position:0%
+so if you want more details you can read
+the<00:00:36.800><c> uh</c>
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+the uh
+ 
+
+00:00:38.079 --> 00:00:41.270 align:start position:0%
+the uh
+read<00:00:38.320><c> the</c><00:00:38.559><c> case</c><00:00:38.800><c> study</c><00:00:40.640><c> yeah</c><00:00:40.879><c> so</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+read the case study yeah so
+ 
+
+00:00:41.280 --> 00:00:45.990 align:start position:0%
+read the case study yeah so
+let's<00:00:41.520><c> get</c><00:00:41.760><c> started</c><00:00:43.200><c> so</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+ 
+ 
+
+00:00:46.000 --> 00:00:48.069 align:start position:0%
+ 
+first<00:00:46.399><c> uh</c><00:00:46.640><c> let</c><00:00:46.800><c> me</c><00:00:46.879><c> introduce</c><00:00:47.360><c> what</c><00:00:47.600><c> is</c><00:00:47.840><c> a</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+first uh let me introduce what is a
+ 
+
+00:00:48.079 --> 00:00:49.430 align:start position:0%
+first uh let me introduce what is a
+cosmos<00:00:48.559><c> sdk</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+cosmos sdk
+ 
+
+00:00:49.440 --> 00:00:53.430 align:start position:0%
+cosmos sdk
+cosmetic<00:00:49.840><c> sdk</c><00:00:50.480><c> is</c><00:00:51.840><c> an</c><00:00:52.079><c> sdk</c><00:00:52.640><c> uh</c><00:00:52.960><c> not</c><00:00:53.120><c> developed</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+cosmetic sdk is an sdk uh not developed
+ 
+
+00:00:53.440 --> 00:00:54.229 align:start position:0%
+cosmetic sdk is an sdk uh not developed
+by<00:00:53.680><c> us</c><00:00:53.920><c> but</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+by us but
+ 
+
+00:00:54.239 --> 00:00:58.229 align:start position:0%
+by us but
+by<00:00:54.399><c> the</c><00:00:54.559><c> cosmos</c><00:00:55.039><c> team</c><00:00:56.160><c> which</c><00:00:56.399><c> is</c><00:00:56.559><c> for</c><00:00:56.840><c> easily</c>
+
+00:00:58.229 --> 00:00:58.239 align:start position:0%
+by the cosmos team which is for easily
+ 
+
+00:00:58.239 --> 00:01:00.069 align:start position:0%
+by the cosmos team which is for easily
+developing<00:00:58.800><c> application</c><00:00:59.440><c> specific</c>
+
+00:01:00.069 --> 00:01:00.079 align:start position:0%
+developing application specific
+ 
+
+00:01:00.079 --> 00:01:02.069 align:start position:0%
+developing application specific
+blockchains<00:01:01.199><c> uh</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+blockchains uh
+ 
+
+00:01:02.079 --> 00:01:05.670 align:start position:0%
+blockchains uh
+it<00:01:02.320><c> provides</c><00:01:02.879><c> many</c><00:01:03.440><c> modules</c><00:01:04.000><c> that</c><00:01:04.400><c> are</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+it provides many modules that are
+ 
+
+00:01:05.680 --> 00:01:07.510 align:start position:0%
+it provides many modules that are
+many<00:01:06.000><c> blockchains</c><00:01:06.479><c> would</c><00:01:06.640><c> like</c><00:01:06.880><c> to</c><00:01:07.040><c> have</c><00:01:07.360><c> for</c>
+
+00:01:07.510 --> 00:01:07.520 align:start position:0%
+many blockchains would like to have for
+ 
+
+00:01:07.520 --> 00:01:10.230 align:start position:0%
+many blockchains would like to have for
+example<00:01:08.159><c> defining</c><00:01:08.720><c> a</c><00:01:09.200><c> token</c>
+
+00:01:10.230 --> 00:01:10.240 align:start position:0%
+example defining a token
+ 
+
+00:01:10.240 --> 00:01:13.510 align:start position:0%
+example defining a token
+or<00:01:10.640><c> having</c><00:01:10.960><c> governance</c><00:01:11.600><c> or</c><00:01:11.840><c> having</c><00:01:12.240><c> a</c><00:01:12.960><c> staking</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+or having governance or having a staking
+ 
+
+00:01:13.520 --> 00:01:14.310 align:start position:0%
+or having governance or having a staking
+so<00:01:13.760><c> that</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+so that
+ 
+
+00:01:14.320 --> 00:01:16.149 align:start position:0%
+so that
+the<00:01:14.560><c> blockchain</c><00:01:14.880><c> can</c><00:01:15.119><c> run</c><00:01:15.360><c> on</c><00:01:15.600><c> a</c><00:01:15.759><c> proof</c><00:01:16.000><c> of</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+the blockchain can run on a proof of
+ 
+
+00:01:16.159 --> 00:01:17.350 align:start position:0%
+the blockchain can run on a proof of
+stake
+
+00:01:17.350 --> 00:01:17.360 align:start position:0%
+stake
+ 
+
+00:01:17.360 --> 00:01:20.710 align:start position:0%
+stake
+so<00:01:17.920><c> uh</c><00:01:18.479><c> and</c><00:01:18.640><c> then</c><00:01:19.119><c> developers</c><00:01:19.759><c> can</c><00:01:20.320><c> make</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+so uh and then developers can make
+ 
+
+00:01:20.720 --> 00:01:24.070 align:start position:0%
+so uh and then developers can make
+their<00:01:21.040><c> own</c><00:01:21.439><c> uh</c><00:01:21.920><c> modules</c><00:01:22.960><c> so</c><00:01:23.200><c> that</c><00:01:23.439><c> uh</c><00:01:23.759><c> whether</c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+their own uh modules so that uh whether
+ 
+
+00:01:24.080 --> 00:01:25.350 align:start position:0%
+their own uh modules so that uh whether
+we
+
+00:01:25.350 --> 00:01:25.360 align:start position:0%
+we
+ 
+
+00:01:25.360 --> 00:01:26.870 align:start position:0%
+we
+for<00:01:25.520><c> the</c><00:01:25.680><c> functionality</c><00:01:26.400><c> of</c><00:01:26.479><c> their</c><00:01:26.720><c> own</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+for the functionality of their own
+ 
+
+00:01:26.880 --> 00:01:28.950 align:start position:0%
+for the functionality of their own
+blockchain<00:01:27.439><c> so</c><00:01:27.680><c> that</c><00:01:28.320><c> it</c><00:01:28.479><c> is</c>
+
+00:01:28.950 --> 00:01:28.960 align:start position:0%
+blockchain so that it is
+ 
+
+00:01:28.960 --> 00:01:30.630 align:start position:0%
+blockchain so that it is
+called<00:01:29.200><c> the</c><00:01:29.520><c> application</c><00:01:30.159><c> specific</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+called the application specific
+ 
+
+00:01:30.640 --> 00:01:32.069 align:start position:0%
+called the application specific
+blockchain<00:01:31.200><c> which</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+blockchain which
+ 
+
+00:01:32.079 --> 00:01:34.310 align:start position:0%
+blockchain which
+the<00:01:32.320><c> application</c><00:01:33.040><c> is</c><00:01:33.280><c> actually</c><00:01:33.680><c> the</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+the application is actually the
+ 
+
+00:01:34.320 --> 00:01:35.749 align:start position:0%
+the application is actually the
+application<00:01:34.880><c> logic</c><00:01:35.360><c> of</c>
+
+00:01:35.749 --> 00:01:35.759 align:start position:0%
+application logic of
+ 
+
+00:01:35.759 --> 00:01:39.429 align:start position:0%
+application logic of
+what<00:01:36.000><c> the</c><00:01:36.159><c> developer</c><00:01:36.640><c> wants</c><00:01:38.000><c> and</c><00:01:38.479><c> uh</c>
+
+00:01:39.429 --> 00:01:39.439 align:start position:0%
+what the developer wants and uh
+ 
+
+00:01:39.439 --> 00:01:41.590 align:start position:0%
+what the developer wants and uh
+here<00:01:39.680><c> are</c><00:01:39.840><c> some</c><00:01:40.079><c> chains</c><00:01:40.479><c> that</c><00:01:40.799><c> is</c><00:01:41.040><c> using</c>
+
+00:01:41.590 --> 00:01:41.600 align:start position:0%
+here are some chains that is using
+ 
+
+00:01:41.600 --> 00:01:42.789 align:start position:0%
+here are some chains that is using
+cosmos<00:01:42.079><c> sdk</c>
+
+00:01:42.789 --> 00:01:42.799 align:start position:0%
+cosmos sdk
+ 
+
+00:01:42.799 --> 00:01:45.190 align:start position:0%
+cosmos sdk
+uh<00:01:43.040><c> the</c><00:01:43.200><c> cosmis</c><00:01:43.680><c> hub</c><00:01:44.000><c> which</c><00:01:44.240><c> the</c><00:01:44.560><c> token</c><00:01:44.960><c> is</c>
+
+00:01:45.190 --> 00:01:45.200 align:start position:0%
+uh the cosmis hub which the token is
+ 
+
+00:01:45.200 --> 00:01:46.310 align:start position:0%
+uh the cosmis hub which the token is
+atom
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+atom
+ 
+
+00:01:46.320 --> 00:01:49.350 align:start position:0%
+atom
+uh<00:01:47.439><c> and</c><00:01:47.680><c> also</c><00:01:47.840><c> the</c><00:01:48.000><c> finance</c><00:01:48.479><c> chain</c><00:01:48.960><c> uh</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+uh and also the finance chain uh
+ 
+
+00:01:49.360 --> 00:01:52.469 align:start position:0%
+uh and also the finance chain uh
+this<00:01:49.520><c> one</c><00:01:49.759><c> should</c><00:01:49.920><c> be</c><00:01:50.240><c> quite</c><00:01:50.560><c> famous</c><00:01:51.600><c> and</c><00:01:51.920><c> also</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+this one should be quite famous and also
+ 
+
+00:01:52.479 --> 00:01:55.270 align:start position:0%
+this one should be quite famous and also
+iris<00:01:52.880><c> snatch</c><00:01:53.439><c> and</c><00:01:53.680><c> band</c><00:01:54.000><c> protocol</c><00:01:54.720><c> these</c><00:01:55.040><c> are</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+iris snatch and band protocol these are
+ 
+
+00:01:55.280 --> 00:01:56.149 align:start position:0%
+iris snatch and band protocol these are
+some<00:01:55.520><c> famous</c>
+
+00:01:56.149 --> 00:01:56.159 align:start position:0%
+some famous
+ 
+
+00:01:56.159 --> 00:01:58.950 align:start position:0%
+some famous
+blockchains<00:01:56.719><c> using</c><00:01:58.000><c> based</c><00:01:58.320><c> on</c><00:01:58.479><c> the</c><00:01:58.640><c> block</c>
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+blockchains using based on the block
+ 
+
+00:01:58.960 --> 00:02:00.950 align:start position:0%
+blockchains using based on the block
+cosmos<00:01:59.439><c> sdk</c><00:01:59.920><c> so</c><00:02:00.159><c> they</c><00:02:00.320><c> have</c><00:02:00.560><c> similar</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+cosmos sdk so they have similar
+ 
+
+00:02:00.960 --> 00:02:02.389 align:start position:0%
+cosmos sdk so they have similar
+interfaces
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+interfaces
+ 
+
+00:02:02.399 --> 00:02:06.469 align:start position:0%
+interfaces
+and<00:02:04.479><c> yeah</c><00:02:04.719><c> they</c><00:02:04.799><c> have</c><00:02:04.960><c> similarities</c><00:02:05.840><c> on</c><00:02:06.000><c> their</c>
+
+00:02:06.469 --> 00:02:06.479 align:start position:0%
+and yeah they have similarities on their
+ 
+
+00:02:06.479 --> 00:02:09.430 align:start position:0%
+and yeah they have similarities on their
+codebase<00:02:07.040><c> too</c><00:02:08.080><c> and</c><00:02:08.479><c> of</c><00:02:08.640><c> course</c><00:02:09.280><c> our</c>
+
+00:02:09.430 --> 00:02:09.440 align:start position:0%
+codebase too and of course our
+ 
+
+00:02:09.440 --> 00:02:11.190 align:start position:0%
+codebase too and of course our
+blockchain<00:02:10.000><c> litecoin</c><00:02:10.399><c> chain</c><00:02:10.640><c> is</c><00:02:10.800><c> also</c>
+
+00:02:11.190 --> 00:02:11.200 align:start position:0%
+blockchain litecoin chain is also
+ 
+
+00:02:11.200 --> 00:02:14.949 align:start position:0%
+blockchain litecoin chain is also
+defined<00:02:12.080><c> also</c><00:02:12.640><c> developed</c><00:02:13.760><c> based</c><00:02:14.160><c> on</c>
+
+00:02:14.949 --> 00:02:14.959 align:start position:0%
+defined also developed based on
+ 
+
+00:02:14.959 --> 00:02:18.790 align:start position:0%
+defined also developed based on
+cosmos<00:02:15.440><c> sdk</c><00:02:17.280><c> so</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+cosmos sdk so
+ 
+
+00:02:18.800 --> 00:02:20.710 align:start position:0%
+cosmos sdk so
+you<00:02:18.959><c> can</c><00:02:19.120><c> go</c><00:02:19.280><c> to</c><00:02:19.440><c> the</c><00:02:19.599><c> cosmos</c><00:02:20.080><c> website</c><00:02:20.560><c> for</c>
+
+00:02:20.710 --> 00:02:20.720 align:start position:0%
+you can go to the cosmos website for
+ 
+
+00:02:20.720 --> 00:02:24.390 align:start position:0%
+you can go to the cosmos website for
+more<00:02:21.120><c> uh</c><00:02:21.360><c> details</c><00:02:21.840><c> on</c><00:02:22.000><c> that</c>
+
+00:02:24.390 --> 00:02:24.400 align:start position:0%
+ 
+ 
+
+00:02:24.400 --> 00:02:26.869 align:start position:0%
+ 
+and<00:02:24.640><c> for</c><00:02:24.959><c> blockchain</c><00:02:25.440><c> like</c><00:02:25.680><c> on</c><00:02:25.840><c> chang</c><00:02:26.480><c> it</c><00:02:26.640><c> is</c><00:02:26.800><c> a</c>
+
+00:02:26.869 --> 00:02:26.879 align:start position:0%
+and for blockchain like on chang it is a
+ 
+
+00:02:26.879 --> 00:02:28.710 align:start position:0%
+and for blockchain like on chang it is a
+blockchain<00:02:27.520><c> uh</c>
+
+00:02:28.710 --> 00:02:28.720 align:start position:0%
+blockchain uh
+ 
+
+00:02:28.720 --> 00:02:30.309 align:start position:0%
+blockchain uh
+specified<00:02:29.360><c> on</c><00:02:29.520><c> content</c><00:02:29.840><c> related</c>
+
+00:02:30.309 --> 00:02:30.319 align:start position:0%
+specified on content related
+ 
+
+00:02:30.319 --> 00:02:32.550 align:start position:0%
+specified on content related
+functionalities<00:02:31.519><c> for</c><00:02:31.680><c> example</c><00:02:32.080><c> we</c><00:02:32.239><c> define</c>
+
+00:02:32.550 --> 00:02:32.560 align:start position:0%
+functionalities for example we define
+ 
+
+00:02:32.560 --> 00:02:34.070 align:start position:0%
+functionalities for example we define
+the<00:02:32.640><c> token</c><00:02:33.040><c> litecoin</c><00:02:33.519><c> which</c><00:02:33.840><c> is</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+the token litecoin which is
+ 
+
+00:02:34.080 --> 00:02:37.990 align:start position:0%
+the token litecoin which is
+uh<00:02:34.800><c> distributed</c><00:02:35.599><c> to</c><00:02:36.879><c> distributed</c><00:02:37.599><c> content</c>
+
+00:02:37.990 --> 00:02:38.000 align:start position:0%
+uh distributed to distributed content
+ 
+
+00:02:38.000 --> 00:02:39.990 align:start position:0%
+uh distributed to distributed content
+creators<00:02:38.560><c> in</c><00:02:38.640><c> order</c><00:02:38.879><c> to</c><00:02:39.040><c> reward</c>
+
+00:02:39.990 --> 00:02:40.000 align:start position:0%
+creators in order to reward
+ 
+
+00:02:40.000 --> 00:02:44.630 align:start position:0%
+creators in order to reward
+content<00:02:40.400><c> creators</c><00:02:41.599><c> and</c><00:02:42.160><c> uh</c><00:02:42.800><c> currency</c>
+
+00:02:44.630 --> 00:02:44.640 align:start position:0%
+content creators and uh currency
+ 
+
+00:02:44.640 --> 00:02:47.750 align:start position:0%
+content creators and uh currency
+we're<00:02:44.879><c> developing</c><00:02:45.360><c> a</c><00:02:45.519><c> function</c><00:02:45.920><c> called</c><00:02:46.239><c> iscn</c>
+
+00:02:47.750 --> 00:02:47.760 align:start position:0%
+we're developing a function called iscn
+ 
+
+00:02:47.760 --> 00:02:50.869 align:start position:0%
+we're developing a function called iscn
+which<00:02:48.080><c> is</c><00:02:48.319><c> a</c><00:02:48.800><c> called</c><00:02:49.200><c> international</c><00:02:50.160><c> standard</c>
+
+00:02:50.869 --> 00:02:50.879 align:start position:0%
+which is a called international standard
+ 
+
+00:02:50.879 --> 00:02:54.630 align:start position:0%
+which is a called international standard
+content<00:02:51.360><c> number</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+ 
+ 
+
+00:02:54.640 --> 00:02:57.190 align:start position:0%
+ 
+if<00:02:54.800><c> you</c><00:02:54.879><c> go</c><00:02:55.040><c> to</c><00:02:55.200><c> library</c><00:02:55.920><c> you</c><00:02:56.080><c> will</c><00:02:56.640><c> read</c><00:02:56.879><c> books</c>
+
+00:02:57.190 --> 00:02:57.200 align:start position:0%
+if you go to library you will read books
+ 
+
+00:02:57.200 --> 00:02:58.390 align:start position:0%
+if you go to library you will read books
+you<00:02:57.360><c> will</c><00:02:57.519><c> notice</c><00:02:57.920><c> that</c>
+
+00:02:58.390 --> 00:02:58.400 align:start position:0%
+you will notice that
+ 
+
+00:02:58.400 --> 00:03:01.509 align:start position:0%
+you will notice that
+the<00:02:58.560><c> books</c><00:02:58.879><c> all</c><00:02:59.120><c> have</c><00:03:00.480><c> isbn</c>
+
+00:03:01.509 --> 00:03:01.519 align:start position:0%
+the books all have isbn
+ 
+
+00:03:01.519 --> 00:03:04.550 align:start position:0%
+the books all have isbn
+international<00:03:02.959><c> standard</c><00:03:03.440><c> book</c><00:03:03.680><c> number</c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+international standard book number
+ 
+
+00:03:04.560 --> 00:03:06.550 align:start position:0%
+international standard book number
+and<00:03:04.720><c> we</c><00:03:04.879><c> borrow</c><00:03:05.200><c> the</c><00:03:05.440><c> idea</c><00:03:05.840><c> and</c><00:03:06.239><c> want</c><00:03:06.400><c> to</c>
+
+00:03:06.550 --> 00:03:06.560 align:start position:0%
+and we borrow the idea and want to
+ 
+
+00:03:06.560 --> 00:03:07.910 align:start position:0%
+and we borrow the idea and want to
+generalize<00:03:07.200><c> it</c><00:03:07.440><c> for</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+generalize it for
+ 
+
+00:03:07.920 --> 00:03:10.309 align:start position:0%
+generalize it for
+all<00:03:08.080><c> contents</c><00:03:08.560><c> on</c><00:03:08.640><c> the</c><00:03:08.800><c> internet</c><00:03:09.280><c> so</c><00:03:09.440><c> that</c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+all contents on the internet so that
+ 
+
+00:03:10.319 --> 00:03:11.030 align:start position:0%
+all contents on the internet so that
+people
+
+00:03:11.030 --> 00:03:11.040 align:start position:0%
+people
+ 
+
+00:03:11.040 --> 00:03:14.390 align:start position:0%
+people
+content<00:03:11.360><c> creators</c><00:03:12.159><c> like</c><00:03:12.560><c> video</c><00:03:12.959><c> creators</c><00:03:13.519><c> or</c>
+
+00:03:14.390 --> 00:03:14.400 align:start position:0%
+content creators like video creators or
+ 
+
+00:03:14.400 --> 00:03:18.149 align:start position:0%
+content creators like video creators or
+writers<00:03:14.879><c> who</c><00:03:15.040><c> write</c><00:03:15.280><c> articles</c><00:03:17.120><c> uh</c><00:03:17.840><c> can</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+writers who write articles uh can
+ 
+
+00:03:18.159 --> 00:03:19.509 align:start position:0%
+writers who write articles uh can
+register<00:03:18.640><c> their</c><00:03:18.879><c> content</c>
+
+00:03:19.509 --> 00:03:19.519 align:start position:0%
+register their content
+ 
+
+00:03:19.519 --> 00:03:23.190 align:start position:0%
+register their content
+and<00:03:19.680><c> their</c><00:03:19.840><c> content</c><00:03:20.239><c> metadata</c><00:03:21.519><c> uh</c><00:03:22.080><c> on</c>
+
+00:03:23.190 --> 00:03:23.200 align:start position:0%
+and their content metadata uh on
+ 
+
+00:03:23.200 --> 00:03:27.190 align:start position:0%
+and their content metadata uh on
+a<00:03:23.360><c> blockchain</c><00:03:24.480><c> and</c><00:03:24.560><c> then</c><00:03:24.879><c> as</c><00:03:25.280><c> uh</c><00:03:25.680><c> given</c><00:03:26.080><c> uh</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+a blockchain and then as uh given uh
+ 
+
+00:03:27.200 --> 00:03:29.750 align:start position:0%
+a blockchain and then as uh given uh
+given<00:03:27.599><c> an</c><00:03:27.760><c> id</c><00:03:28.159><c> for</c><00:03:28.400><c> their</c><00:03:28.560><c> content</c><00:03:29.040><c> so</c><00:03:29.280><c> that</c>
+
+00:03:29.750 --> 00:03:29.760 align:start position:0%
+given an id for their content so that
+ 
+
+00:03:29.760 --> 00:03:31.670 align:start position:0%
+given an id for their content so that
+others<00:03:30.159><c> can</c><00:03:30.400><c> distribute</c><00:03:30.959><c> this</c>
+
+00:03:31.670 --> 00:03:31.680 align:start position:0%
+others can distribute this
+ 
+
+00:03:31.680 --> 00:03:33.990 align:start position:0%
+others can distribute this
+i<00:03:31.920><c> can</c><00:03:32.080><c> recognize</c><00:03:32.720><c> it</c><00:03:33.280><c> attributes</c><00:03:33.840><c> the</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+i can recognize it attributes the
+ 
+
+00:03:34.000 --> 00:03:34.949 align:start position:0%
+i can recognize it attributes the
+contents<00:03:34.560><c> by</c>
+
+00:03:34.949 --> 00:03:34.959 align:start position:0%
+contents by
+ 
+
+00:03:34.959 --> 00:03:38.470 align:start position:0%
+contents by
+this<00:03:35.280><c> id</c><00:03:36.480><c> just</c><00:03:36.720><c> like</c><00:03:36.879><c> the</c>
+
+00:03:38.470 --> 00:03:38.480 align:start position:0%
+this id just like the
+ 
+
+00:03:38.480 --> 00:03:40.869 align:start position:0%
+this id just like the
+the<00:03:38.720><c> isbn</c><00:03:39.440><c> that</c><00:03:39.680><c> you</c><00:03:39.840><c> can</c><00:03:40.000><c> search</c><00:03:40.480><c> and</c><00:03:40.640><c> or</c>
+
+00:03:40.869 --> 00:03:40.879 align:start position:0%
+the isbn that you can search and or
+ 
+
+00:03:40.879 --> 00:03:42.470 align:start position:0%
+the isbn that you can search and or
+identify<00:03:41.360><c> a</c><00:03:41.519><c> book</c><00:03:41.840><c> using</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+identify a book using
+ 
+
+00:03:42.480 --> 00:03:47.830 align:start position:0%
+identify a book using
+the<00:03:42.640><c> number</c><00:03:44.560><c> and</c><00:03:44.959><c> then</c><00:03:45.440><c> uh</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+ 
+ 
+
+00:03:47.840 --> 00:03:50.070 align:start position:0%
+ 
+if<00:03:48.000><c> you</c><00:03:48.159><c> have</c><00:03:48.400><c> uh</c><00:03:48.640><c> we</c><00:03:48.799><c> have</c><00:03:49.040><c> content</c><00:03:49.440><c> metadata</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+if you have uh we have content metadata
+ 
+
+00:03:50.080 --> 00:03:52.789 align:start position:0%
+if you have uh we have content metadata
+storing<00:03:50.400><c> on</c><00:03:50.640><c> chain</c><00:03:50.959><c> therefore</c><00:03:51.360><c> we</c><00:03:51.519><c> want</c><00:03:51.760><c> to</c><00:03:52.000><c> uh</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+storing on chain therefore we want to uh
+ 
+
+00:03:52.799 --> 00:03:56.309 align:start position:0%
+storing on chain therefore we want to uh
+we<00:03:52.959><c> want</c><00:03:53.360><c> it</c><00:03:53.599><c> to</c><00:03:53.760><c> be</c><00:03:54.000><c> uh</c><00:03:54.640><c> more</c><00:03:55.280><c> uh</c><00:03:55.599><c> searchable</c>
+
+00:03:56.309 --> 00:03:56.319 align:start position:0%
+we want it to be uh more uh searchable
+ 
+
+00:03:56.319 --> 00:03:57.350 align:start position:0%
+we want it to be uh more uh searchable
+and
+
+00:03:57.350 --> 00:03:57.360 align:start position:0%
+and
+ 
+
+00:03:57.360 --> 00:04:00.630 align:start position:0%
+and
+accessible<00:03:58.080><c> from</c><00:03:58.400><c> uh</c><00:03:59.360><c> everywhere</c><00:04:00.080><c> anywhere</c>
+
+00:04:00.630 --> 00:04:00.640 align:start position:0%
+accessible from uh everywhere anywhere
+ 
+
+00:04:00.640 --> 00:04:01.190 align:start position:0%
+accessible from uh everywhere anywhere
+on<00:04:00.720><c> the</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+on the
+ 
+
+00:04:01.200 --> 00:04:04.710 align:start position:0%
+on the
+internet<00:04:02.879><c> so</c><00:04:03.200><c> we</c><00:04:03.360><c> think</c><00:04:03.599><c> that</c><00:04:03.760><c> ipfs</c><00:04:04.480><c> is</c><00:04:04.640><c> a</c>
+
+00:04:04.710 --> 00:04:04.720 align:start position:0%
+internet so we think that ipfs is a
+ 
+
+00:04:04.720 --> 00:04:05.110 align:start position:0%
+internet so we think that ipfs is a
+great
+
+00:04:05.110 --> 00:04:05.120 align:start position:0%
+great
+ 
+
+00:04:05.120 --> 00:04:07.830 align:start position:0%
+great
+network<00:04:05.599><c> for</c><00:04:05.760><c> distributing</c><00:04:06.480><c> these</c><00:04:06.720><c> data</c><00:04:07.599><c> so</c>
+
+00:04:07.830 --> 00:04:07.840 align:start position:0%
+network for distributing these data so
+ 
+
+00:04:07.840 --> 00:04:08.789 align:start position:0%
+network for distributing these data so
+that<00:04:08.080><c> we</c><00:04:08.239><c> think</c><00:04:08.480><c> that</c>
+
+00:04:08.789 --> 00:04:08.799 align:start position:0%
+that we think that
+ 
+
+00:04:08.799 --> 00:04:15.429 align:start position:0%
+that we think that
+uh<00:04:09.200><c> if</c><00:04:09.680><c> uh</c><00:04:11.519><c> if</c><00:04:11.680><c> we</c><00:04:11.840><c> can</c><00:04:12.000><c> use</c><00:04:12.239><c> ipfs</c><00:04:12.879><c> to</c><00:04:13.120><c> access</c>
+
+00:04:15.429 --> 00:04:15.439 align:start position:0%
+uh if uh if we can use ipfs to access
+ 
+
+00:04:15.439 --> 00:04:17.749 align:start position:0%
+uh if uh if we can use ipfs to access
+the<00:04:15.599><c> iscn</c><00:04:16.160><c> metadata</c><00:04:16.880><c> then</c><00:04:17.280><c> that</c><00:04:17.440><c> would</c><00:04:17.600><c> be</c><00:04:17.680><c> a</c>
+
+00:04:17.749 --> 00:04:17.759 align:start position:0%
+the iscn metadata then that would be a
+ 
+
+00:04:17.759 --> 00:04:19.189 align:start position:0%
+the iscn metadata then that would be a
+good<00:04:18.000><c> idea</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+good idea
+ 
+
+00:04:19.199 --> 00:04:22.550 align:start position:0%
+good idea
+so<00:04:19.759><c> i</c><00:04:19.840><c> would</c><00:04:20.079><c> like</c><00:04:20.239><c> to</c><00:04:20.560><c> uh</c><00:04:21.440><c> we</c>
+
+00:04:22.550 --> 00:04:22.560 align:start position:0%
+so i would like to uh we
+ 
+
+00:04:22.560 --> 00:04:24.070 align:start position:0%
+so i would like to uh we
+would<00:04:22.720><c> like</c><00:04:22.880><c> to</c><00:04:23.120><c> implement</c><00:04:23.440><c> this</c><00:04:23.680><c> idea</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+would like to implement this idea
+ 
+
+00:04:24.080 --> 00:04:28.710 align:start position:0%
+would like to implement this idea
+through<00:04:24.320><c> the</c><00:04:25.440><c> top</c><00:04:25.680><c> ends</c><00:04:26.000><c> of</c><00:04:26.840><c> ipfs</c>
+
+00:04:28.710 --> 00:04:28.720 align:start position:0%
+through the top ends of ipfs
+ 
+
+00:04:28.720 --> 00:04:31.030 align:start position:0%
+through the top ends of ipfs
+the<00:04:28.880><c> main</c><00:04:29.199><c> implementation</c><00:04:29.919><c> of</c><00:04:30.080><c> ipfs</c><00:04:30.639><c> is</c><00:04:30.800><c> go</c>
+
+00:04:31.030 --> 00:04:31.040 align:start position:0%
+the main implementation of ipfs is go
+ 
+
+00:04:31.040 --> 00:04:31.830 align:start position:0%
+the main implementation of ipfs is go
+ipfs
+
+00:04:31.830 --> 00:04:31.840 align:start position:0%
+ipfs
+ 
+
+00:04:31.840 --> 00:04:35.110 align:start position:0%
+ipfs
+and<00:04:32.000><c> it</c><00:04:32.160><c> supports</c><00:04:32.639><c> plugins</c>
+
+00:04:35.110 --> 00:04:35.120 align:start position:0%
+and it supports plugins
+ 
+
+00:04:35.120 --> 00:04:37.510 align:start position:0%
+and it supports plugins
+basically<00:04:35.600><c> there</c><00:04:35.759><c> are</c><00:04:35.919><c> two</c><00:04:36.080><c> types</c><00:04:36.320><c> of</c><00:04:36.479><c> plugins</c>
+
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+basically there are two types of plugins
+ 
+
+00:04:37.520 --> 00:04:38.790 align:start position:0%
+basically there are two types of plugins
+one<00:04:37.759><c> is</c><00:04:37.919><c> datastore</c>
+
+00:04:38.790 --> 00:04:38.800 align:start position:0%
+one is datastore
+ 
+
+00:04:38.800 --> 00:04:42.710 align:start position:0%
+one is datastore
+which<00:04:39.120><c> defines</c><00:04:40.160><c> how</c><00:04:40.400><c> to</c><00:04:40.880><c> store</c><00:04:41.280><c> or</c><00:04:41.440><c> load</c><00:04:41.840><c> data</c>
+
+00:04:42.710 --> 00:04:42.720 align:start position:0%
+which defines how to store or load data
+ 
+
+00:04:42.720 --> 00:04:45.189 align:start position:0%
+which defines how to store or load data
+just<00:04:42.960><c> like</c><00:04:43.199><c> uh</c><00:04:43.840><c> for</c><00:04:44.000><c> example</c><00:04:44.400><c> which</c><00:04:44.720><c> backend</c>
+
+00:04:45.189 --> 00:04:45.199 align:start position:0%
+just like uh for example which backend
+ 
+
+00:04:45.199 --> 00:04:46.550 align:start position:0%
+just like uh for example which backend
+of<00:04:45.280><c> database</c>
+
+00:04:46.550 --> 00:04:46.560 align:start position:0%
+of database
+ 
+
+00:04:46.560 --> 00:04:50.070 align:start position:0%
+of database
+is<00:04:47.360><c> are</c><00:04:47.520><c> being</c><00:04:47.840><c> used</c><00:04:49.280><c> by</c><00:04:49.440><c> default</c><00:04:49.840><c> it</c><00:04:49.919><c> should</c>
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+is are being used by default it should
+ 
+
+00:04:50.080 --> 00:04:51.110 align:start position:0%
+is are being used by default it should
+be<00:04:50.240><c> level</c><00:04:50.560><c> db</c>
+
+00:04:51.110 --> 00:04:51.120 align:start position:0%
+be level db
+ 
+
+00:04:51.120 --> 00:04:54.469 align:start position:0%
+be level db
+which<00:04:51.360><c> is</c><00:04:51.520><c> a</c><00:04:52.240><c> very</c><00:04:52.560><c> quick</c><00:04:52.800><c> database</c><00:04:53.360><c> anyway</c>
+
+00:04:54.469 --> 00:04:54.479 align:start position:0%
+which is a very quick database anyway
+ 
+
+00:04:54.479 --> 00:04:57.909 align:start position:0%
+which is a very quick database anyway
+and<00:04:54.800><c> another</c><00:04:55.120><c> type</c><00:04:55.360><c> of</c><00:04:55.520><c> plugin</c><00:04:55.919><c> is</c><00:04:56.240><c> uh</c><00:04:57.280><c> ipld</c>
+
+00:04:57.909 --> 00:04:57.919 align:start position:0%
+and another type of plugin is uh ipld
+ 
+
+00:04:57.919 --> 00:04:59.990 align:start position:0%
+and another type of plugin is uh ipld
+plugins<00:04:58.400><c> which</c><00:04:58.639><c> defines</c><00:04:59.120><c> how</c><00:04:59.280><c> to</c><00:04:59.520><c> interpret</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+plugins which defines how to interpret
+ 
+
+00:05:00.000 --> 00:05:01.029 align:start position:0%
+plugins which defines how to interpret
+data
+
+00:05:01.029 --> 00:05:01.039 align:start position:0%
+data
+ 
+
+00:05:01.039 --> 00:05:03.350 align:start position:0%
+data
+uh<00:05:01.440><c> actually</c><00:05:01.840><c> previous</c><00:05:02.639><c> speakers</c><00:05:03.120><c> have</c>
+
+00:05:03.350 --> 00:05:03.360 align:start position:0%
+uh actually previous speakers have
+ 
+
+00:05:03.360 --> 00:05:05.270 align:start position:0%
+uh actually previous speakers have
+already<00:05:03.680><c> talked</c><00:05:03.919><c> about</c>
+
+00:05:05.270 --> 00:05:05.280 align:start position:0%
+already talked about
+ 
+
+00:05:05.280 --> 00:05:09.270 align:start position:0%
+already talked about
+how<00:05:05.440><c> they</c><00:05:05.680><c> use</c><00:05:06.160><c> ipld</c><00:05:06.720><c> or</c><00:05:06.880><c> expanded</c><00:05:07.919><c> so</c>
+
+00:05:09.270 --> 00:05:09.280 align:start position:0%
+how they use ipld or expanded so
+ 
+
+00:05:09.280 --> 00:05:11.590 align:start position:0%
+how they use ipld or expanded so
+i<00:05:09.440><c> think</c><00:05:09.680><c> you</c><00:05:09.919><c> understand</c><00:05:10.320><c> that</c><00:05:10.880><c> maybe</c><00:05:11.360><c> even</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+i think you understand that maybe even
+ 
+
+00:05:11.600 --> 00:05:13.189 align:start position:0%
+i think you understand that maybe even
+more<00:05:11.759><c> than</c><00:05:11.919><c> me</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+more than me
+ 
+
+00:05:13.199 --> 00:05:17.510 align:start position:0%
+more than me
+so<00:05:13.600><c> uh</c><00:05:13.919><c> we</c><00:05:14.160><c> made</c><00:05:14.400><c> two</c><00:05:14.639><c> plugins</c><00:05:15.199><c> for</c><00:05:15.680><c> that</c><00:05:16.080><c> uh</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+so uh we made two plugins for that uh
+ 
+
+00:05:17.520 --> 00:05:20.870 align:start position:0%
+so uh we made two plugins for that uh
+for<00:05:17.759><c> our</c><00:05:17.919><c> purpose</c><00:05:18.479><c> one</c><00:05:18.800><c> is</c><00:05:18.960><c> the</c><00:05:19.440><c> cosmos</c><00:05:20.000><c> d</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+for our purpose one is the cosmos d
+ 
+
+00:05:20.880 --> 00:05:24.230 align:start position:0%
+for our purpose one is the cosmos d
+which<00:05:21.120><c> is</c><00:05:21.360><c> a</c><00:05:21.840><c> data</c><00:05:22.240><c> store</c><00:05:22.720><c> uh</c>
+
+00:05:24.230 --> 00:05:24.240 align:start position:0%
+which is a data store uh
+ 
+
+00:05:24.240 --> 00:05:28.390 align:start position:0%
+which is a data store uh
+for<00:05:24.560><c> carrying</c><00:05:24.960><c> cosmos</c><00:05:25.600><c> sdk</c><00:05:26.240><c> later</c>
+
+00:05:28.390 --> 00:05:28.400 align:start position:0%
+for carrying cosmos sdk later
+ 
+
+00:05:28.400 --> 00:05:30.790 align:start position:0%
+for carrying cosmos sdk later
+originally<00:05:29.120><c> we</c><00:05:29.280><c> want</c><00:05:29.440><c> to</c><00:05:29.759><c> embed</c><00:05:30.240><c> it</c><00:05:30.400><c> into</c><00:05:30.720><c> the</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+originally we want to embed it into the
+ 
+
+00:05:30.800 --> 00:05:31.990 align:start position:0%
+originally we want to embed it into the
+blockchain
+
+00:05:31.990 --> 00:05:32.000 align:start position:0%
+blockchain
+ 
+
+00:05:32.000 --> 00:05:33.830 align:start position:0%
+blockchain
+so<00:05:32.160><c> that</c><00:05:32.320><c> it</c><00:05:32.479><c> can</c><00:05:32.720><c> share</c><00:05:32.880><c> the</c><00:05:33.039><c> database</c><00:05:33.600><c> with</c>
+
+00:05:33.830 --> 00:05:33.840 align:start position:0%
+so that it can share the database with
+ 
+
+00:05:33.840 --> 00:05:35.749 align:start position:0%
+so that it can share the database with
+the<00:05:34.479><c> block</c>
+
+00:05:35.749 --> 00:05:35.759 align:start position:0%
+the block
+ 
+
+00:05:35.759 --> 00:05:37.350 align:start position:0%
+the block
+with<00:05:35.919><c> the</c><00:05:36.080><c> blockchain</c><00:05:36.479><c> code</c><00:05:36.720><c> so</c><00:05:36.880><c> that</c><00:05:37.039><c> you</c><00:05:37.120><c> can</c>
+
+00:05:37.350 --> 00:05:37.360 align:start position:0%
+with the blockchain code so that you can
+ 
+
+00:05:37.360 --> 00:05:39.110 align:start position:0%
+with the blockchain code so that you can
+directly<00:05:37.919><c> read</c><00:05:38.320><c> the</c><00:05:38.479><c> blockchain</c>
+
+00:05:39.110 --> 00:05:39.120 align:start position:0%
+directly read the blockchain
+ 
+
+00:05:39.120 --> 00:05:41.909 align:start position:0%
+directly read the blockchain
+just<00:05:39.440><c> like</c><00:05:40.639><c> the</c><00:05:40.800><c> blockchain</c><00:05:41.120><c> database</c><00:05:41.680><c> just</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+just like the blockchain database just
+ 
+
+00:05:41.919 --> 00:05:42.469 align:start position:0%
+just like the blockchain database just
+like
+
+00:05:42.469 --> 00:05:42.479 align:start position:0%
+like
+ 
+
+00:05:42.479 --> 00:05:45.749 align:start position:0%
+like
+when<00:05:42.639><c> you're</c><00:05:42.960><c> using</c><00:05:44.000><c> leveldb</c><00:05:44.960><c> level</c>
+
+00:05:45.749 --> 00:05:45.759 align:start position:0%
+when you're using leveldb level
+ 
+
+00:05:45.759 --> 00:05:48.390 align:start position:0%
+when you're using leveldb level
+db<00:05:46.160><c> datastore</c><00:05:46.960><c> it</c><00:05:47.120><c> will</c><00:05:47.440><c> directly</c><00:05:47.919><c> read</c><00:05:48.080><c> the</c>
+
+00:05:48.390 --> 00:05:48.400 align:start position:0%
+db datastore it will directly read the
+ 
+
+00:05:48.400 --> 00:05:49.510 align:start position:0%
+db datastore it will directly read the
+leveldb
+
+00:05:49.510 --> 00:05:49.520 align:start position:0%
+leveldb
+ 
+
+00:05:49.520 --> 00:05:53.670 align:start position:0%
+leveldb
+but<00:05:49.680><c> we</c><00:05:49.840><c> find</c><00:05:50.080><c> that</c><00:05:50.800><c> in</c><00:05:50.960><c> cosmos</c><00:05:51.360><c> sdk</c><00:05:52.080><c> uh</c>
+
+00:05:53.670 --> 00:05:53.680 align:start position:0%
+but we find that in cosmos sdk uh
+ 
+
+00:05:53.680 --> 00:05:55.909 align:start position:0%
+but we find that in cosmos sdk uh
+these<00:05:53.919><c> databases</c><00:05:54.880><c> are</c><00:05:55.039><c> actually</c><00:05:55.360><c> assumed</c><00:05:55.759><c> to</c>
+
+00:05:55.909 --> 00:05:55.919 align:start position:0%
+these databases are actually assumed to
+ 
+
+00:05:55.919 --> 00:05:56.950 align:start position:0%
+these databases are actually assumed to
+be<00:05:56.080><c> a</c>
+
+00:05:56.950 --> 00:05:56.960 align:start position:0%
+be a
+ 
+
+00:05:56.960 --> 00:06:00.070 align:start position:0%
+be a
+kind<00:05:57.199><c> of</c><00:05:57.360><c> single</c><00:05:57.759><c> thread</c><00:05:58.000><c> this</c><00:05:58.240><c> so</c><00:05:58.400><c> that</c><00:05:58.639><c> uh</c>
+
+00:06:00.070 --> 00:06:00.080 align:start position:0%
+kind of single thread this so that uh
+ 
+
+00:06:00.080 --> 00:06:02.870 align:start position:0%
+kind of single thread this so that uh
+it's<00:06:00.319><c> not</c><00:06:00.560><c> quite</c><00:06:01.039><c> possible</c><00:06:01.520><c> to</c><00:06:01.759><c> share</c><00:06:02.080><c> the</c>
+
+00:06:02.870 --> 00:06:02.880 align:start position:0%
+it's not quite possible to share the
+ 
+
+00:06:02.880 --> 00:06:04.790 align:start position:0%
+it's not quite possible to share the
+database<00:06:03.440><c> instance</c><00:06:03.919><c> with</c><00:06:04.160><c> the</c><00:06:04.240><c> plugin</c>
+
+00:06:04.790 --> 00:06:04.800 align:start position:0%
+database instance with the plugin
+ 
+
+00:06:04.800 --> 00:06:06.070 align:start position:0%
+database instance with the plugin
+without
+
+00:06:06.070 --> 00:06:06.080 align:start position:0%
+without
+ 
+
+00:06:06.080 --> 00:06:08.550 align:start position:0%
+without
+say<00:06:06.319><c> breaking</c><00:06:06.720><c> the</c><00:06:06.880><c> logs</c><00:06:07.280><c> or</c><00:06:07.520><c> concurrent</c><00:06:08.000><c> ss</c>
+
+00:06:08.550 --> 00:06:08.560 align:start position:0%
+say breaking the logs or concurrent ss
+ 
+
+00:06:08.560 --> 00:06:09.990 align:start position:0%
+say breaking the logs or concurrent ss
+limitations
+
+00:06:09.990 --> 00:06:10.000 align:start position:0%
+limitations
+ 
+
+00:06:10.000 --> 00:06:13.270 align:start position:0%
+limitations
+so<00:06:11.520><c> then</c><00:06:11.759><c> we</c><00:06:11.919><c> think</c><00:06:12.160><c> that</c><00:06:12.479><c> uh</c>
+
+00:06:13.270 --> 00:06:13.280 align:start position:0%
+so then we think that uh
+ 
+
+00:06:13.280 --> 00:06:16.710 align:start position:0%
+so then we think that uh
+we<00:06:13.440><c> need</c><00:06:13.600><c> to</c><00:06:13.759><c> be</c><00:06:14.000><c> more</c><00:06:14.240><c> generalized</c><00:06:14.880><c> so</c><00:06:15.120><c> that</c>
+
+00:06:16.710 --> 00:06:16.720 align:start position:0%
+we need to be more generalized so that
+ 
+
+00:06:16.720 --> 00:06:20.790 align:start position:0%
+we need to be more generalized so that
+so<00:06:16.880><c> that</c><00:06:17.520><c> it</c><00:06:17.680><c> is</c><00:06:18.400><c> less</c><00:06:18.720><c> intrusive</c><00:06:19.520><c> and</c><00:06:19.759><c> then</c>
+
+00:06:20.790 --> 00:06:20.800 align:start position:0%
+so that it is less intrusive and then
+ 
+
+00:06:20.800 --> 00:06:23.670 align:start position:0%
+so that it is less intrusive and then
+and<00:06:21.199><c> uh</c><00:06:21.600><c> multiple</c><00:06:22.000><c> implementers</c><00:06:22.800><c> of</c><00:06:23.039><c> the</c>
+
+00:06:23.670 --> 00:06:23.680 align:start position:0%
+and uh multiple implementers of the
+ 
+
+00:06:23.680 --> 00:06:25.029 align:start position:0%
+and uh multiple implementers of the
+module<00:06:24.000><c> developers</c><00:06:24.560><c> of</c><00:06:24.720><c> the</c>
+
+00:06:25.029 --> 00:06:25.039 align:start position:0%
+module developers of the
+ 
+
+00:06:25.039 --> 00:06:28.790 align:start position:0%
+module developers of the
+cosmos<00:06:25.440><c> sdk</c><00:06:25.919><c> could</c><00:06:26.080><c> be</c><00:06:26.400><c> uh</c>
+
+00:06:28.790 --> 00:06:28.800 align:start position:0%
+ 
+ 
+
+00:06:28.800 --> 00:06:32.390 align:start position:0%
+ 
+could<00:06:28.960><c> be</c><00:06:29.440><c> easily</c><00:06:29.919><c> in</c><00:06:30.240><c> uh</c><00:06:31.440><c> easily</c><00:06:31.840><c> using</c><00:06:32.240><c> our</c>
+
+00:06:32.390 --> 00:06:32.400 align:start position:0%
+could be easily in uh easily using our
+ 
+
+00:06:32.400 --> 00:06:34.230 align:start position:0%
+could be easily in uh easily using our
+plugins<00:06:32.960><c> so</c>
+
+00:06:34.230 --> 00:06:34.240 align:start position:0%
+plugins so
+ 
+
+00:06:34.240 --> 00:06:37.270 align:start position:0%
+plugins so
+we<00:06:34.479><c> decided</c><00:06:34.960><c> to</c><00:06:35.120><c> use</c><00:06:36.720><c> the</c>
+
+00:06:37.270 --> 00:06:37.280 align:start position:0%
+we decided to use the
+ 
+
+00:06:37.280 --> 00:06:40.790 align:start position:0%
+we decided to use the
+dlpc<00:06:38.080><c> endpoints</c><00:06:38.800><c> provided</c><00:06:39.919><c> from</c><00:06:40.160><c> the</c><00:06:40.319><c> cosmos</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+dlpc endpoints provided from the cosmos
+ 
+
+00:06:40.800 --> 00:06:42.150 align:start position:0%
+dlpc endpoints provided from the cosmos
+sdk
+
+00:06:42.150 --> 00:06:42.160 align:start position:0%
+sdk
+ 
+
+00:06:42.160 --> 00:06:44.230 align:start position:0%
+sdk
+which<00:06:42.400><c> is</c><00:06:42.560><c> a</c><00:06:42.639><c> mechanism</c><00:06:43.199><c> that</c><00:06:43.600><c> you</c><00:06:43.840><c> read</c><00:06:44.080><c> from</c>
+
+00:06:44.230 --> 00:06:44.240 align:start position:0%
+which is a mechanism that you read from
+ 
+
+00:06:44.240 --> 00:06:45.830 align:start position:0%
+which is a mechanism that you read from
+the<00:06:44.319><c> blockchain</c>
+
+00:06:45.830 --> 00:06:45.840 align:start position:0%
+the blockchain
+ 
+
+00:06:45.840 --> 00:06:49.589 align:start position:0%
+the blockchain
+so<00:06:46.479><c> now</c><00:06:46.800><c> uh</c><00:06:47.520><c> the</c><00:06:47.919><c> cosmos</c><00:06:48.400><c> the</c><00:06:48.720><c> data</c><00:06:49.039><c> store</c><00:06:49.440><c> it</c>
+
+00:06:49.589 --> 00:06:49.599 align:start position:0%
+so now uh the cosmos the data store it
+ 
+
+00:06:49.599 --> 00:06:51.430 align:start position:0%
+so now uh the cosmos the data store it
+will<00:06:49.759><c> be</c><00:06:50.000><c> reading</c>
+
+00:06:51.430 --> 00:06:51.440 align:start position:0%
+will be reading
+ 
+
+00:06:51.440 --> 00:06:56.309 align:start position:0%
+will be reading
+data<00:06:51.919><c> from</c><00:06:53.599><c> cosmos</c><00:06:54.080><c> rpc</c><00:06:54.639><c> endpoints</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+data from cosmos rpc endpoints
+ 
+
+00:06:56.319 --> 00:06:59.510 align:start position:0%
+data from cosmos rpc endpoints
+another<00:06:56.720><c> one</c><00:06:56.960><c> is</c><00:06:57.120><c> isc</c><00:06:57.599><c> and</c><00:06:57.759><c> ipld</c><00:06:58.479><c> which</c><00:06:59.199><c> which</c>
+
+00:06:59.510 --> 00:06:59.520 align:start position:0%
+another one is isc and ipld which which
+ 
+
+00:06:59.520 --> 00:07:01.110 align:start position:0%
+another one is isc and ipld which which
+is<00:06:59.680><c> an</c><00:06:59.840><c> ipld</c><00:07:00.400><c> extension</c>
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+is an ipld extension
+ 
+
+00:07:01.120 --> 00:07:06.309 align:start position:0%
+is an ipld extension
+for<00:07:01.599><c> passing</c><00:07:02.240><c> ic</c><00:07:02.960><c> icm</c><00:07:03.440><c> related</c><00:07:03.919><c> data</c><00:07:04.240><c> stores</c>
+
+00:07:06.309 --> 00:07:06.319 align:start position:0%
+for passing ic icm related data stores
+ 
+
+00:07:06.319 --> 00:07:09.430 align:start position:0%
+for passing ic icm related data stores
+this<00:07:06.560><c> is</c><00:07:06.720><c> the</c><00:07:06.800><c> url</c><00:07:07.280><c> for</c><00:07:08.400><c> the</c><00:07:08.560><c> ibfs</c>
+
+00:07:09.430 --> 00:07:09.440 align:start position:0%
+this is the url for the ibfs
+ 
+
+00:07:09.440 --> 00:07:12.870 align:start position:0%
+this is the url for the ibfs
+plugins<00:07:11.120><c> for</c><00:07:11.360><c> the</c><00:07:11.680><c> introduction</c><00:07:12.240><c> to</c><00:07:12.400><c> ipfs</c>
+
+00:07:12.870 --> 00:07:12.880 align:start position:0%
+plugins for the introduction to ipfs
+ 
+
+00:07:12.880 --> 00:07:14.710 align:start position:0%
+plugins for the introduction to ipfs
+plugins<00:07:13.440><c> if</c><00:07:13.599><c> you</c>
+
+00:07:14.710 --> 00:07:14.720 align:start position:0%
+plugins if you
+ 
+
+00:07:14.720 --> 00:07:19.670 align:start position:0%
+plugins if you
+if<00:07:14.880><c> you</c><00:07:15.039><c> are</c><00:07:15.120><c> interested</c><00:07:15.599><c> in</c><00:07:15.680><c> that</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+ 
+ 
+
+00:07:19.680 --> 00:07:23.029 align:start position:0%
+ 
+so<00:07:20.080><c> uh</c><00:07:20.479><c> basically</c><00:07:20.960><c> this</c><00:07:21.199><c> is</c><00:07:21.360><c> uh</c><00:07:21.759><c> architecture</c>
+
+00:07:23.029 --> 00:07:23.039 align:start position:0%
+so uh basically this is uh architecture
+ 
+
+00:07:23.039 --> 00:07:25.510 align:start position:0%
+so uh basically this is uh architecture
+on<00:07:23.120><c> the</c><00:07:23.280><c> left</c><00:07:23.440><c> hand</c><00:07:23.680><c> side</c><00:07:23.919><c> we</c><00:07:24.080><c> have</c><00:07:24.319><c> a</c><00:07:25.120><c> cosmos</c>
+
+00:07:25.510 --> 00:07:25.520 align:start position:0%
+on the left hand side we have a cosmos
+ 
+
+00:07:25.520 --> 00:07:27.189 align:start position:0%
+on the left hand side we have a cosmos
+sdk<00:07:26.000><c> based</c><00:07:26.319><c> blockchain</c>
+
+00:07:27.189 --> 00:07:27.199 align:start position:0%
+sdk based blockchain
+ 
+
+00:07:27.199 --> 00:07:29.589 align:start position:0%
+sdk based blockchain
+say<00:07:27.520><c> for</c><00:07:27.680><c> example</c><00:07:28.160><c> like</c><00:07:28.400><c> one</c><00:07:28.639><c> chain</c><00:07:29.280><c> it</c><00:07:29.440><c> will</c>
+
+00:07:29.589 --> 00:07:29.599 align:start position:0%
+say for example like one chain it will
+ 
+
+00:07:29.599 --> 00:07:31.510 align:start position:0%
+say for example like one chain it will
+have<00:07:29.840><c> some</c><00:07:30.000><c> more</c><00:07:30.240><c> drills</c><00:07:30.639><c> each</c><00:07:30.880><c> modules</c><00:07:31.280><c> will</c>
+
+00:07:31.510 --> 00:07:31.520 align:start position:0%
+have some more drills each modules will
+ 
+
+00:07:31.520 --> 00:07:34.550 align:start position:0%
+have some more drills each modules will
+expose<00:07:31.919><c> their</c><00:07:32.160><c> own</c><00:07:32.400><c> rpg</c><00:07:32.960><c> endpoints</c>
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+expose their own rpg endpoints
+ 
+
+00:07:34.560 --> 00:07:38.070 align:start position:0%
+expose their own rpg endpoints
+and<00:07:35.840><c> our</c><00:07:36.080><c> module</c><00:07:36.560><c> icm</c><00:07:37.039><c> module</c><00:07:37.520><c> will</c><00:07:37.680><c> expose</c>
+
+00:07:38.070 --> 00:07:38.080 align:start position:0%
+and our module icm module will expose
+ 
+
+00:07:38.080 --> 00:07:39.909 align:start position:0%
+and our module icm module will expose
+some<00:07:38.319><c> specific</c><00:07:38.880><c> endpoints</c><00:07:39.440><c> for</c>
+
+00:07:39.909 --> 00:07:39.919 align:start position:0%
+some specific endpoints for
+ 
+
+00:07:39.919 --> 00:07:43.189 align:start position:0%
+some specific endpoints for
+uh<00:07:40.560><c> for</c><00:07:40.720><c> the</c><00:07:40.800><c> cosmos</c><00:07:41.360><c> data</c><00:07:42.400><c> for</c><00:07:42.639><c> the</c><00:07:42.800><c> cosmos</c>
+
+00:07:43.189 --> 00:07:43.199 align:start position:0%
+uh for the cosmos data for the cosmos
+ 
+
+00:07:43.199 --> 00:07:45.430 align:start position:0%
+uh for the cosmos data for the cosmos
+data<00:07:43.520><c> store</c><00:07:43.840><c> plug-in</c>
+
+00:07:45.430 --> 00:07:45.440 align:start position:0%
+data store plug-in
+ 
+
+00:07:45.440 --> 00:07:48.070 align:start position:0%
+data store plug-in
+mainly<00:07:45.919><c> it</c><00:07:46.160><c> exposed</c><00:07:46.720><c> three</c><00:07:46.960><c> functions</c><00:07:47.520><c> for</c>
+
+00:07:48.070 --> 00:07:48.080 align:start position:0%
+mainly it exposed three functions for
+ 
+
+00:07:48.080 --> 00:07:50.629 align:start position:0%
+mainly it exposed three functions for
+querying<00:07:48.560><c> if</c><00:07:48.800><c> a</c><00:07:48.879><c> data</c><00:07:49.280><c> exists</c><00:07:49.840><c> on</c>
+
+00:07:50.629 --> 00:07:50.639 align:start position:0%
+querying if a data exists on
+ 
+
+00:07:50.639 --> 00:07:53.110 align:start position:0%
+querying if a data exists on
+uh<00:07:51.120><c> on</c><00:07:51.280><c> the</c><00:07:51.360><c> blockchain</c><00:07:52.400><c> the</c><00:07:52.560><c> size</c><00:07:52.879><c> of</c><00:07:53.039><c> the</c>
+
+00:07:53.110 --> 00:07:53.120 align:start position:0%
+uh on the blockchain the size of the
+ 
+
+00:07:53.120 --> 00:07:53.749 align:start position:0%
+uh on the blockchain the size of the
+data
+
+00:07:53.749 --> 00:07:53.759 align:start position:0%
+data
+ 
+
+00:07:53.759 --> 00:07:56.830 align:start position:0%
+data
+and<00:07:54.000><c> also</c><00:07:54.319><c> the</c><00:07:54.560><c> date</c><00:07:54.879><c> and</c><00:07:55.440><c> finally</c><00:07:55.759><c> the</c><00:07:55.919><c> data</c>
+
+00:07:56.830 --> 00:07:56.840 align:start position:0%
+and also the date and finally the data
+ 
+
+00:07:56.840 --> 00:07:58.469 align:start position:0%
+and also the date and finally the data
+itself
+
+00:07:58.469 --> 00:07:58.479 align:start position:0%
+itself
+ 
+
+00:07:58.479 --> 00:08:02.230 align:start position:0%
+itself
+and<00:07:58.879><c> then</c><00:07:59.360><c> on</c><00:08:00.720><c> on</c><00:08:00.800><c> the</c><00:08:00.960><c> ipfs</c><00:08:01.599><c> side</c>
+
+00:08:02.230 --> 00:08:02.240 align:start position:0%
+and then on on the ipfs side
+ 
+
+00:08:02.240 --> 00:08:05.670 align:start position:0%
+and then on on the ipfs side
+or<00:08:03.840><c> whenever</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+or whenever
+ 
+
+00:08:05.680 --> 00:08:07.990 align:start position:0%
+or whenever
+the<00:08:05.840><c> plugin</c><00:08:06.800><c> the</c><00:08:06.960><c> main</c><00:08:07.120><c> plugin</c><00:08:07.520><c> will</c><00:08:07.680><c> be</c>
+
+00:08:07.990 --> 00:08:08.000 align:start position:0%
+the plugin the main plugin will be
+ 
+
+00:08:08.000 --> 00:08:09.270 align:start position:0%
+the plugin the main plugin will be
+cosmos<00:08:08.560><c> d</c>
+
+00:08:09.270 --> 00:08:09.280 align:start position:0%
+cosmos d
+ 
+
+00:08:09.280 --> 00:08:13.029 align:start position:0%
+cosmos d
+which<00:08:09.599><c> is</c><00:08:09.759><c> the</c><00:08:10.240><c> cosmos</c><00:08:10.639><c> data</c><00:08:11.120><c> store</c><00:08:12.160><c> and</c>
+
+00:08:13.029 --> 00:08:13.039 align:start position:0%
+which is the cosmos data store and
+ 
+
+00:08:13.039 --> 00:08:15.589 align:start position:0%
+which is the cosmos data store and
+uh<00:08:13.599><c> when</c><00:08:13.759><c> someone</c><00:08:14.160><c> query</c><00:08:14.720><c> either</c><00:08:15.039><c> from</c><00:08:15.199><c> remote</c>
+
+00:08:15.589 --> 00:08:15.599 align:start position:0%
+uh when someone query either from remote
+ 
+
+00:08:15.599 --> 00:08:16.790 align:start position:0%
+uh when someone query either from remote
+or<00:08:15.759><c> locally</c>
+
+00:08:16.790 --> 00:08:16.800 align:start position:0%
+or locally
+ 
+
+00:08:16.800 --> 00:08:20.550 align:start position:0%
+or locally
+uh<00:08:17.120><c> cid</c><00:08:18.080><c> it</c><00:08:18.240><c> will</c><00:08:18.479><c> first</c><00:08:19.039><c> analyze</c><00:08:19.599><c> the</c><00:08:19.759><c> cid</c><00:08:20.319><c> to</c>
+
+00:08:20.550 --> 00:08:20.560 align:start position:0%
+uh cid it will first analyze the cid to
+ 
+
+00:08:20.560 --> 00:08:20.869 align:start position:0%
+uh cid it will first analyze the cid to
+see
+
+00:08:20.869 --> 00:08:20.879 align:start position:0%
+see
+ 
+
+00:08:20.879 --> 00:08:23.990 align:start position:0%
+see
+uh<00:08:21.759><c> to</c><00:08:21.919><c> see</c><00:08:22.160><c> if</c><00:08:22.319><c> the</c><00:08:22.560><c> type</c><00:08:22.879><c> is</c><00:08:23.120><c> actually</c><00:08:23.840><c> the</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+uh to see if the type is actually the
+ 
+
+00:08:24.000 --> 00:08:26.309 align:start position:0%
+uh to see if the type is actually the
+type<00:08:24.240><c> of</c><00:08:24.319><c> the</c><00:08:24.479><c> crd</c><00:08:24.960><c> is</c><00:08:25.120><c> actually</c>
+
+00:08:26.309 --> 00:08:26.319 align:start position:0%
+type of the crd is actually
+ 
+
+00:08:26.319 --> 00:08:30.550 align:start position:0%
+type of the crd is actually
+a<00:08:26.479><c> cosmos</c><00:08:26.960><c> sdk</c><00:08:28.240><c> or</c><00:08:28.400><c> cosmos</c><00:08:28.879><c> sdk</c><00:08:29.360><c> one</c>
+
+00:08:30.550 --> 00:08:30.560 align:start position:0%
+a cosmos sdk or cosmos sdk one
+ 
+
+00:08:30.560 --> 00:08:33.750 align:start position:0%
+a cosmos sdk or cosmos sdk one
+and<00:08:30.800><c> if</c><00:08:31.039><c> so</c><00:08:32.000><c> it</c><00:08:32.159><c> will</c><00:08:32.479><c> uh</c><00:08:32.719><c> process</c><00:08:33.120><c> uh</c>
+
+00:08:33.750 --> 00:08:33.760 align:start position:0%
+and if so it will uh process uh
+ 
+
+00:08:33.760 --> 00:08:35.829 align:start position:0%
+and if so it will uh process uh
+it<00:08:33.919><c> will</c><00:08:34.080><c> process</c><00:08:34.479><c> it</c><00:08:34.640><c> through</c><00:08:35.120><c> the</c><00:08:35.279><c> lpc</c>
+
+00:08:35.829 --> 00:08:35.839 align:start position:0%
+it will process it through the lpc
+ 
+
+00:08:35.839 --> 00:08:36.870 align:start position:0%
+it will process it through the lpc
+endpoint
+
+00:08:36.870 --> 00:08:36.880 align:start position:0%
+endpoint
+ 
+
+00:08:36.880 --> 00:08:38.949 align:start position:0%
+endpoint
+so<00:08:37.039><c> that</c><00:08:37.200><c> it</c><00:08:37.279><c> will</c><00:08:37.519><c> carry</c><00:08:37.919><c> the</c><00:08:38.479><c> it</c><00:08:38.560><c> will</c><00:08:38.719><c> call</c>
+
+00:08:38.949 --> 00:08:38.959 align:start position:0%
+so that it will carry the it will call
+ 
+
+00:08:38.959 --> 00:08:41.350 align:start position:0%
+so that it will carry the it will call
+the<00:08:39.599><c> specific</c><00:08:40.240><c> endpoints</c><00:08:40.640><c> defined</c><00:08:41.039><c> by</c>
+
+00:08:41.350 --> 00:08:41.360 align:start position:0%
+the specific endpoints defined by
+ 
+
+00:08:41.360 --> 00:08:45.590 align:start position:0%
+the specific endpoints defined by
+ifcn<00:08:41.839><c> module</c><00:08:42.479><c> or</c><00:08:43.839><c> so</c><00:08:44.080><c> that</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+ifcn module or so that
+ 
+
+00:08:45.600 --> 00:08:47.590 align:start position:0%
+ifcn module or so that
+so<00:08:45.839><c> that</c><00:08:46.000><c> it</c><00:08:46.160><c> will</c><00:08:46.240><c> retrieve</c><00:08:46.720><c> the</c><00:08:46.880><c> cid</c><00:08:47.360><c> raw</c>
+
+00:08:47.590 --> 00:08:47.600 align:start position:0%
+so that it will retrieve the cid raw
+ 
+
+00:08:47.600 --> 00:08:49.110 align:start position:0%
+so that it will retrieve the cid raw
+data<00:08:48.000><c> from</c><00:08:48.320><c> the</c>
+
+00:08:49.110 --> 00:08:49.120 align:start position:0%
+data from the
+ 
+
+00:08:49.120 --> 00:08:52.150 align:start position:0%
+data from the
+from<00:08:49.279><c> the</c><00:08:49.440><c> blockchain</c><00:08:51.200><c> and</c><00:08:51.360><c> then</c><00:08:51.839><c> uh</c>
+
+00:08:52.150 --> 00:08:52.160 align:start position:0%
+from the blockchain and then uh
+ 
+
+00:08:52.160 --> 00:08:56.230 align:start position:0%
+from the blockchain and then uh
+if<00:08:52.399><c> it's</c><00:08:52.640><c> not</c><00:08:52.880><c> a</c><00:08:53.040><c> cid</c><00:08:53.519><c> uh</c><00:08:54.640><c> not</c><00:08:54.800><c> the</c><00:08:54.959><c> data</c><00:08:55.360><c> that</c>
+
+00:08:56.230 --> 00:08:56.240 align:start position:0%
+if it's not a cid uh not the data that
+ 
+
+00:08:56.240 --> 00:08:58.870 align:start position:0%
+if it's not a cid uh not the data that
+that<00:08:56.480><c> is</c><00:08:56.640><c> from</c><00:08:57.120><c> cosmos</c><00:08:57.600><c> sdk</c><00:08:58.080><c> then</c><00:08:58.320><c> the</c><00:08:58.480><c> request</c>
+
+00:08:58.870 --> 00:08:58.880 align:start position:0%
+that is from cosmos sdk then the request
+ 
+
+00:08:58.880 --> 00:09:01.190 align:start position:0%
+that is from cosmos sdk then the request
+will<00:08:59.040><c> be</c><00:08:59.200><c> simply</c><00:08:59.519><c> forwarded</c><00:09:00.080><c> to</c>
+
+00:09:01.190 --> 00:09:01.200 align:start position:0%
+will be simply forwarded to
+ 
+
+00:09:01.200 --> 00:09:04.310 align:start position:0%
+will be simply forwarded to
+uh<00:09:02.000><c> to</c><00:09:02.160><c> the</c><00:09:02.240><c> basic</c><00:09:02.800><c> uh</c><00:09:03.440><c> level</c><00:09:03.760><c> db</c>
+
+00:09:04.310 --> 00:09:04.320 align:start position:0%
+uh to the basic uh level db
+ 
+
+00:09:04.320 --> 00:09:08.790 align:start position:0%
+uh to the basic uh level db
+plug-in<00:09:06.720><c> and</c><00:09:07.040><c> after</c><00:09:07.440><c> that</c><00:09:07.760><c> uh</c>
+
+00:09:08.790 --> 00:09:08.800 align:start position:0%
+plug-in and after that uh
+ 
+
+00:09:08.800 --> 00:09:11.269 align:start position:0%
+plug-in and after that uh
+if<00:09:09.200><c> it</c><00:09:09.440><c> is</c><00:09:09.600><c> a</c><00:09:09.680><c> local</c><00:09:10.000><c> request</c><00:09:10.399><c> then</c><00:09:10.880><c> maybe</c><00:09:11.120><c> the</c>
+
+00:09:11.269 --> 00:09:11.279 align:start position:0%
+if it is a local request then maybe the
+ 
+
+00:09:11.279 --> 00:09:11.829 align:start position:0%
+if it is a local request then maybe the
+user
+
+00:09:11.829 --> 00:09:11.839 align:start position:0%
+user
+ 
+
+00:09:11.839 --> 00:09:15.030 align:start position:0%
+user
+needs<00:09:12.080><c> to</c><00:09:12.320><c> uh</c><00:09:12.560><c> wants</c><00:09:12.800><c> to</c><00:09:13.440><c> pass</c><00:09:13.760><c> the</c><00:09:14.080><c> ipld</c><00:09:14.640><c> data</c>
+
+00:09:15.030 --> 00:09:15.040 align:start position:0%
+needs to uh wants to pass the ipld data
+ 
+
+00:09:15.040 --> 00:09:16.150 align:start position:0%
+needs to uh wants to pass the ipld data
+so<00:09:15.279><c> that</c>
+
+00:09:16.150 --> 00:09:16.160 align:start position:0%
+so that
+ 
+
+00:09:16.160 --> 00:09:18.949 align:start position:0%
+so that
+so<00:09:16.320><c> the</c><00:09:16.480><c> city</c><00:09:16.880><c> data</c><00:09:17.120><c> will</c><00:09:17.200><c> be</c><00:09:17.760><c> passed</c><00:09:18.160><c> by</c><00:09:18.720><c> the</c>
+
+00:09:18.949 --> 00:09:18.959 align:start position:0%
+so the city data will be passed by the
+ 
+
+00:09:18.959 --> 00:09:21.030 align:start position:0%
+so the city data will be passed by the
+ic<00:09:19.360><c> and</c><00:09:19.519><c> ipld</c>
+
+00:09:21.030 --> 00:09:21.040 align:start position:0%
+ic and ipld
+ 
+
+00:09:21.040 --> 00:09:23.509 align:start position:0%
+ic and ipld
+plugin<00:09:21.519><c> so</c><00:09:21.680><c> that</c><00:09:21.920><c> it</c><00:09:22.080><c> will</c><00:09:22.240><c> be</c><00:09:22.560><c> a</c><00:09:23.200><c> humor</c>
+
+00:09:23.509 --> 00:09:23.519 align:start position:0%
+plugin so that it will be a humor
+ 
+
+00:09:23.519 --> 00:09:24.630 align:start position:0%
+plugin so that it will be a humor
+rebuttable<00:09:24.080><c> one</c>
+
+00:09:24.630 --> 00:09:24.640 align:start position:0%
+rebuttable one
+ 
+
+00:09:24.640 --> 00:09:27.269 align:start position:0%
+rebuttable one
+and<00:09:24.720><c> then</c><00:09:25.600><c> the</c><00:09:25.839><c> response</c><00:09:26.480><c> is</c><00:09:26.720><c> given</c><00:09:26.959><c> to</c><00:09:27.120><c> the</c>
+
+00:09:27.269 --> 00:09:27.279 align:start position:0%
+and then the response is given to the
+ 
+
+00:09:27.279 --> 00:09:30.150 align:start position:0%
+and then the response is given to the
+user
+
+00:09:30.150 --> 00:09:30.160 align:start position:0%
+ 
+ 
+
+00:09:30.160 --> 00:09:33.750 align:start position:0%
+ 
+so<00:09:30.720><c> as</c><00:09:30.880><c> you</c><00:09:31.040><c> can</c><00:09:31.279><c> see</c><00:09:31.519><c> it's</c><00:09:32.160><c> basically</c><00:09:32.720><c> a</c>
+
+00:09:33.750 --> 00:09:33.760 align:start position:0%
+so as you can see it's basically a
+ 
+
+00:09:33.760 --> 00:09:36.630 align:start position:0%
+so as you can see it's basically a
+very<00:09:34.000><c> simple</c><00:09:34.399><c> architecture</c><00:09:35.120><c> that</c><00:09:36.240><c> actually</c>
+
+00:09:36.630 --> 00:09:36.640 align:start position:0%
+very simple architecture that actually
+ 
+
+00:09:36.640 --> 00:09:37.990 align:start position:0%
+very simple architecture that actually
+it<00:09:36.800><c> does</c><00:09:36.959><c> not</c><00:09:37.279><c> involve</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+it does not involve
+ 
+
+00:09:38.000 --> 00:09:41.430 align:start position:0%
+it does not involve
+any<00:09:38.399><c> cosmos</c><00:09:38.959><c> related</c><00:09:39.519><c> stuff</c><00:09:40.000><c> on</c><00:09:40.240><c> the</c>
+
+00:09:41.430 --> 00:09:41.440 align:start position:0%
+any cosmos related stuff on the
+ 
+
+00:09:41.440 --> 00:09:43.190 align:start position:0%
+any cosmos related stuff on the
+on<00:09:41.600><c> the</c><00:09:41.680><c> data</c><00:09:42.000><c> store</c><00:09:42.240><c> size</c><00:09:42.480><c> so</c><00:09:42.720><c> maybe</c><00:09:43.040><c> it</c>
+
+00:09:43.190 --> 00:09:43.200 align:start position:0%
+on the data store size so maybe it
+ 
+
+00:09:43.200 --> 00:09:44.630 align:start position:0%
+on the data store size so maybe it
+should<00:09:43.360><c> be</c><00:09:43.519><c> called</c>
+
+00:09:44.630 --> 00:09:44.640 align:start position:0%
+should be called
+ 
+
+00:09:44.640 --> 00:09:47.750 align:start position:0%
+should be called
+i<00:09:44.800><c> don't</c><00:09:44.959><c> know</c><00:09:45.200><c> ipfs</c><00:09:45.839><c> http</c><00:09:46.880><c> datastore</c>
+
+00:09:47.750 --> 00:09:47.760 align:start position:0%
+i don't know ipfs http datastore
+ 
+
+00:09:47.760 --> 00:09:51.030 align:start position:0%
+i don't know ipfs http datastore
+or<00:09:48.000><c> something</c><00:09:48.240><c> like</c><00:09:48.480><c> that</c><00:09:49.440><c> so</c><00:09:49.839><c> our</c><00:09:50.480><c> target</c><00:09:50.880><c> is</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+or something like that so our target is
+ 
+
+00:09:51.040 --> 00:09:51.590 align:start position:0%
+or something like that so our target is
+to
+
+00:09:51.590 --> 00:09:51.600 align:start position:0%
+to
+ 
+
+00:09:51.600 --> 00:09:54.310 align:start position:0%
+to
+be<00:09:51.920><c> least</c><00:09:52.320><c> intrusive</c><00:09:52.959><c> for</c><00:09:53.200><c> both</c><00:09:53.839><c> cosmos</c>
+
+00:09:54.310 --> 00:09:54.320 align:start position:0%
+be least intrusive for both cosmos
+ 
+
+00:09:54.320 --> 00:09:56.389 align:start position:0%
+be least intrusive for both cosmos
+developers<00:09:54.880><c> and</c><00:09:55.120><c> ipfs</c>
+
+00:09:56.389 --> 00:09:56.399 align:start position:0%
+developers and ipfs
+ 
+
+00:09:56.399 --> 00:10:00.470 align:start position:0%
+developers and ipfs
+users<00:09:57.440><c> so</c><00:09:57.680><c> for</c><00:09:57.920><c> ipfs</c><00:09:58.480><c> users</c><00:09:59.040><c> ideally</c><00:09:59.680><c> they</c>
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+users so for ipfs users ideally they
+ 
+
+00:10:00.480 --> 00:10:02.550 align:start position:0%
+users so for ipfs users ideally they
+they<00:10:00.720><c> just</c><00:10:00.959><c> need</c><00:10:01.120><c> to</c><00:10:01.519><c> compile</c><00:10:01.839><c> the</c><00:10:02.000><c> plugins</c>
+
+00:10:02.550 --> 00:10:02.560 align:start position:0%
+they just need to compile the plugins
+ 
+
+00:10:02.560 --> 00:10:05.430 align:start position:0%
+they just need to compile the plugins
+and<00:10:02.640><c> then</c><00:10:02.880><c> install</c><00:10:03.360><c> them</c><00:10:03.839><c> on</c><00:10:04.160><c> their</c>
+
+00:10:05.430 --> 00:10:05.440 align:start position:0%
+and then install them on their
+ 
+
+00:10:05.440 --> 00:10:08.230 align:start position:0%
+and then install them on their
+ipfs<00:10:06.079><c> clients</c><00:10:06.640><c> then</c><00:10:06.959><c> it</c><00:10:07.120><c> could</c><00:10:07.279><c> be</c><00:10:07.440><c> used</c><00:10:08.000><c> then</c>
+
+00:10:08.230 --> 00:10:08.240 align:start position:0%
+ipfs clients then it could be used then
+ 
+
+00:10:08.240 --> 00:10:09.990 align:start position:0%
+ipfs clients then it could be used then
+it<00:10:08.320><c> will</c><00:10:08.480><c> be</c><00:10:08.640><c> usable</c>
+
+00:10:09.990 --> 00:10:10.000 align:start position:0%
+it will be usable
+ 
+
+00:10:10.000 --> 00:10:13.590 align:start position:0%
+it will be usable
+after<00:10:10.320><c> some</c><00:10:10.560><c> configuration</c><00:10:12.160><c> and</c><00:10:12.640><c> for</c><00:10:12.880><c> cosmis</c>
+
+00:10:13.590 --> 00:10:13.600 align:start position:0%
+after some configuration and for cosmis
+ 
+
+00:10:13.600 --> 00:10:16.829 align:start position:0%
+after some configuration and for cosmis
+sdk<00:10:14.079><c> module</c><00:10:14.480><c> developers</c><00:10:15.519><c> not</c><00:10:15.760><c> only</c><00:10:16.000><c> for</c>
+
+00:10:16.829 --> 00:10:16.839 align:start position:0%
+sdk module developers not only for
+ 
+
+00:10:16.839 --> 00:10:19.190 align:start position:0%
+sdk module developers not only for
+blockchain
+
+00:10:19.190 --> 00:10:19.200 align:start position:0%
+blockchain
+ 
+
+00:10:19.200 --> 00:10:22.389 align:start position:0%
+blockchain
+they<00:10:19.440><c> only</c><00:10:19.760><c> need</c><00:10:19.920><c> to</c><00:10:20.480><c> have</c><00:10:21.279><c> defined</c><00:10:21.920><c> a</c><00:10:22.160><c> few</c>
+
+00:10:22.389 --> 00:10:22.399 align:start position:0%
+they only need to have defined a few
+ 
+
+00:10:22.399 --> 00:10:23.829 align:start position:0%
+they only need to have defined a few
+extra<00:10:22.800><c> endpoints</c>
+
+00:10:23.829 --> 00:10:23.839 align:start position:0%
+extra endpoints
+ 
+
+00:10:23.839 --> 00:10:27.990 align:start position:0%
+extra endpoints
+for<00:10:24.320><c> exposing</c><00:10:26.800><c> for</c><00:10:26.959><c> exposing</c><00:10:27.519><c> their</c>
+
+00:10:27.990 --> 00:10:28.000 align:start position:0%
+for exposing for exposing their
+ 
+
+00:10:28.000 --> 00:10:31.750 align:start position:0%
+for exposing for exposing their
+contents<00:10:29.360><c> their</c><00:10:29.760><c> contents</c><00:10:30.880><c> through</c><00:10:31.200><c> the</c><00:10:31.279><c> rpc</c>
+
+00:10:31.750 --> 00:10:31.760 align:start position:0%
+contents their contents through the rpc
+ 
+
+00:10:31.760 --> 00:10:32.949 align:start position:0%
+contents their contents through the rpc
+endpoints
+
+00:10:32.949 --> 00:10:32.959 align:start position:0%
+endpoints
+ 
+
+00:10:32.959 --> 00:10:35.509 align:start position:0%
+endpoints
+and<00:10:33.200><c> also</c><00:10:33.440><c> defining</c><00:10:34.000><c> their</c><00:10:34.240><c> data</c><00:10:35.200><c> through</c><00:10:35.440><c> the</c>
+
+00:10:35.509 --> 00:10:35.519 align:start position:0%
+and also defining their data through the
+ 
+
+00:10:35.519 --> 00:10:38.470 align:start position:0%
+and also defining their data through the
+cids
+
+00:10:38.470 --> 00:10:38.480 align:start position:0%
+ 
+ 
+
+00:10:38.480 --> 00:10:40.870 align:start position:0%
+ 
+defining<00:10:38.880><c> the</c><00:10:39.040><c> ci</c><00:10:39.360><c> deformation</c><00:10:40.000><c> of</c><00:10:40.079><c> the</c><00:10:40.240><c> data</c>
+
+00:10:40.870 --> 00:10:40.880 align:start position:0%
+defining the ci deformation of the data
+ 
+
+00:10:40.880 --> 00:10:42.949 align:start position:0%
+defining the ci deformation of the data
+which<00:10:41.120><c> is</c><00:10:41.200><c> the</c><00:10:41.360><c> ideal</c><00:10:41.760><c> depart</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+which is the ideal depart
+ 
+
+00:10:42.959 --> 00:10:47.350 align:start position:0%
+which is the ideal depart
+then<00:10:44.800><c> then</c><00:10:45.440><c> after</c><00:10:45.680><c> that</c><00:10:45.920><c> it</c><00:10:46.079><c> would</c><00:10:46.240><c> be</c>
+
+00:10:47.350 --> 00:10:47.360 align:start position:0%
+then then after that it would be
+ 
+
+00:10:47.360 --> 00:10:50.870 align:start position:0%
+then then after that it would be
+possible<00:10:47.839><c> for</c><00:10:48.160><c> them</c><00:10:48.320><c> to</c><00:10:50.079><c> push</c>
+
+00:10:50.870 --> 00:10:50.880 align:start position:0%
+possible for them to push
+ 
+
+00:10:50.880 --> 00:10:53.829 align:start position:0%
+possible for them to push
+to<00:10:51.040><c> make</c><00:10:51.279><c> their</c><00:10:52.399><c> blocking</c><00:10:52.800><c> data</c><00:10:53.200><c> accessible</c>
+
+00:10:53.829 --> 00:10:53.839 align:start position:0%
+to make their blocking data accessible
+ 
+
+00:10:53.839 --> 00:10:56.870 align:start position:0%
+to make their blocking data accessible
+through<00:10:54.000><c> the</c><00:10:54.160><c> ipfs</c><00:10:54.720><c> network</c>
+
+00:10:56.870 --> 00:10:56.880 align:start position:0%
+through the ipfs network
+ 
+
+00:10:56.880 --> 00:10:59.190 align:start position:0%
+through the ipfs network
+also<00:10:57.200><c> this</c><00:10:57.440><c> architecture</c><00:10:58.160><c> is</c><00:10:58.560><c> simple</c><00:10:58.880><c> enough</c>
+
+00:10:59.190 --> 00:10:59.200 align:start position:0%
+also this architecture is simple enough
+ 
+
+00:10:59.200 --> 00:11:01.509 align:start position:0%
+also this architecture is simple enough
+for<00:10:59.360><c> generalization</c><00:11:00.399><c> for</c><00:11:00.560><c> example</c><00:11:01.120><c> if</c><00:11:01.279><c> it's</c>
+
+00:11:01.509 --> 00:11:01.519 align:start position:0%
+for generalization for example if it's
+ 
+
+00:11:01.519 --> 00:11:02.069 align:start position:0%
+for generalization for example if it's
+not
+
+00:11:02.069 --> 00:11:02.079 align:start position:0%
+not
+ 
+
+00:11:02.079 --> 00:11:05.509 align:start position:0%
+not
+for<00:11:02.320><c> sdk</c><00:11:03.120><c> module</c><00:11:03.760><c> cosmos</c><00:11:04.399><c> module</c><00:11:04.800><c> data</c><00:11:05.279><c> but</c>
+
+00:11:05.509 --> 00:11:05.519 align:start position:0%
+for sdk module cosmos module data but
+ 
+
+00:11:05.519 --> 00:11:06.310 align:start position:0%
+for sdk module cosmos module data but
+for<00:11:05.680><c> the</c>
+
+00:11:06.310 --> 00:11:06.320 align:start position:0%
+for the
+ 
+
+00:11:06.320 --> 00:11:08.630 align:start position:0%
+for the
+block<00:11:06.640><c> data</c><00:11:06.959><c> or</c><00:11:07.120><c> transaction</c><00:11:07.760><c> hash</c><00:11:08.160><c> then</c><00:11:08.480><c> we</c>
+
+00:11:08.630 --> 00:11:08.640 align:start position:0%
+block data or transaction hash then we
+ 
+
+00:11:08.640 --> 00:11:10.230 align:start position:0%
+block data or transaction hash then we
+could<00:11:08.880><c> easily</c>
+
+00:11:10.230 --> 00:11:10.240 align:start position:0%
+could easily
+ 
+
+00:11:10.240 --> 00:11:13.269 align:start position:0%
+could easily
+implement<00:11:10.640><c> that</c><00:11:11.440><c> in</c><00:11:11.519><c> the</c><00:11:11.680><c> data</c><00:11:12.000><c> store</c><00:11:12.320><c> part</c>
+
+00:11:13.269 --> 00:11:13.279 align:start position:0%
+implement that in the data store part
+ 
+
+00:11:13.279 --> 00:11:16.150 align:start position:0%
+implement that in the data store part
+just<00:11:13.519><c> curing</c><00:11:13.920><c> the</c><00:11:14.160><c> endpoint</c><00:11:14.560><c> defined</c><00:11:15.040><c> by</c><00:11:15.200><c> the</c>
+
+00:11:16.150 --> 00:11:16.160 align:start position:0%
+just curing the endpoint defined by the
+ 
+
+00:11:16.160 --> 00:11:18.550 align:start position:0%
+just curing the endpoint defined by the
+cosmos<00:11:16.560><c> sdk</c><00:11:17.040><c> themselves</c>
+
+00:11:18.550 --> 00:11:18.560 align:start position:0%
+cosmos sdk themselves
+ 
+
+00:11:18.560 --> 00:11:20.870 align:start position:0%
+cosmos sdk themselves
+and<00:11:18.959><c> as</c><00:11:19.120><c> i've</c><00:11:19.440><c> said</c><00:11:19.760><c> it's</c><00:11:20.000><c> also</c><00:11:20.320><c> generalized</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+and as i've said it's also generalized
+ 
+
+00:11:20.880 --> 00:11:21.910 align:start position:0%
+and as i've said it's also generalized
+for<00:11:21.200><c> uh</c><00:11:21.440><c> different</c>
+
+00:11:21.910 --> 00:11:21.920 align:start position:0%
+for uh different
+ 
+
+00:11:21.920 --> 00:11:24.550 align:start position:0%
+for uh different
+cosmos<00:11:22.399><c> sdk</c><00:11:22.800><c> modules</c><00:11:23.279><c> so</c><00:11:23.680><c> not</c><00:11:23.839><c> just</c><00:11:24.160><c> our</c><00:11:24.320><c> own</c>
+
+00:11:24.550 --> 00:11:24.560 align:start position:0%
+cosmos sdk modules so not just our own
+ 
+
+00:11:24.560 --> 00:11:26.790 align:start position:0%
+cosmos sdk modules so not just our own
+blockchain
+
+00:11:26.790 --> 00:11:26.800 align:start position:0%
+blockchain
+ 
+
+00:11:26.800 --> 00:11:29.030 align:start position:0%
+blockchain
+not<00:11:27.200><c> just</c><00:11:27.440><c> like</c><00:11:27.680><c> one</c><00:11:27.839><c> change</c><00:11:28.240><c> and</c><00:11:28.399><c> access</c><00:11:28.800><c> it</c>
+
+00:11:29.030 --> 00:11:29.040 align:start position:0%
+not just like one change and access it
+ 
+
+00:11:29.040 --> 00:11:30.310 align:start position:0%
+not just like one change and access it
+but<00:11:29.279><c> also</c><00:11:29.600><c> other</c>
+
+00:11:30.310 --> 00:11:30.320 align:start position:0%
+but also other
+ 
+
+00:11:30.320 --> 00:11:33.829 align:start position:0%
+but also other
+blockchain<00:11:31.120><c> other</c><00:11:31.360><c> developers</c><00:11:32.000><c> can</c><00:11:32.160><c> use</c><00:11:32.399><c> this</c>
+
+00:11:33.829 --> 00:11:33.839 align:start position:0%
+blockchain other developers can use this
+ 
+
+00:11:33.839 --> 00:11:37.110 align:start position:0%
+blockchain other developers can use this
+can<00:11:34.000><c> use</c><00:11:34.240><c> this</c><00:11:34.480><c> method</c><00:11:34.800><c> to</c><00:11:35.920><c> make</c><00:11:36.160><c> their</c>
+
+00:11:37.110 --> 00:11:37.120 align:start position:0%
+can use this method to make their
+ 
+
+00:11:37.120 --> 00:11:40.389 align:start position:0%
+can use this method to make their
+data<00:11:37.519><c> accessible</c><00:11:38.079><c> through</c><00:11:38.320><c> ipfs</c>
+
+00:11:40.389 --> 00:11:40.399 align:start position:0%
+data accessible through ipfs
+ 
+
+00:11:40.399 --> 00:11:42.870 align:start position:0%
+data accessible through ipfs
+so<00:11:41.200><c> this</c><00:11:41.440><c> is</c><00:11:41.519><c> basically</c><00:11:42.160><c> what</c><00:11:42.399><c> i</c><00:11:42.480><c> want</c><00:11:42.640><c> to</c>
+
+00:11:42.870 --> 00:11:42.880 align:start position:0%
+so this is basically what i want to
+ 
+
+00:11:42.880 --> 00:11:43.670 align:start position:0%
+so this is basically what i want to
+share<00:11:43.200><c> about</c>
+
+00:11:43.670 --> 00:11:43.680 align:start position:0%
+share about
+ 
+
+00:11:43.680 --> 00:11:46.790 align:start position:0%
+share about
+uh<00:11:44.640><c> uh</c><00:11:45.680><c> uh</c>
+
+00:11:46.790 --> 00:11:46.800 align:start position:0%
+uh uh uh
+ 
+
+00:11:46.800 --> 00:11:50.629 align:start position:0%
+uh uh uh
+cosmos<00:11:47.760><c> uh</c><00:11:48.800><c> sdk</c><00:11:49.680><c> plugin</c><00:11:50.160><c> for</c>
+
+00:11:50.629 --> 00:11:50.639 align:start position:0%
+cosmos uh sdk plugin for
+ 
+
+00:11:50.639 --> 00:11:53.829 align:start position:0%
+cosmos uh sdk plugin for
+ipfs<00:11:51.200><c> for</c><00:11:51.360><c> info</c><00:11:51.920><c> accessing</c><00:11:52.320><c> cosmos</c><00:11:52.880><c> sdk</c><00:11:53.519><c> based</c>
+
+00:11:53.829 --> 00:11:53.839 align:start position:0%
+ipfs for info accessing cosmos sdk based
+ 
+
+00:11:53.839 --> 00:11:55.030 align:start position:0%
+ipfs for info accessing cosmos sdk based
+blockchain
+
+00:11:55.030 --> 00:11:55.040 align:start position:0%
+blockchain
+ 
+
+00:11:55.040 --> 00:11:58.389 align:start position:0%
+blockchain
+uh<00:11:55.360><c> as</c><00:11:55.600><c> i</c><00:11:55.680><c> said</c><00:11:55.920><c> before</c><00:11:56.399><c> uh</c><00:11:56.880><c> if</c><00:11:57.040><c> you</c><00:11:58.000><c> uh</c><00:11:58.240><c> if</c>
+
+00:11:58.389 --> 00:11:58.399 align:start position:0%
+uh as i said before uh if you uh if
+ 
+
+00:11:58.399 --> 00:11:59.750 align:start position:0%
+uh as i said before uh if you uh if
+you're<00:11:58.639><c> interested</c><00:11:59.200><c> in</c><00:11:59.360><c> that</c>
+
+00:11:59.750 --> 00:11:59.760 align:start position:0%
+you're interested in that
+ 
+
+00:11:59.760 --> 00:12:02.710 align:start position:0%
+you're interested in that
+uh<00:12:00.000><c> you</c><00:12:00.160><c> can</c><00:12:00.800><c> you</c><00:12:00.959><c> can</c><00:12:01.200><c> have</c><00:12:01.360><c> a</c><00:12:01.440><c> look</c><00:12:01.760><c> on</c><00:12:01.920><c> the</c>
+
+00:12:02.710 --> 00:12:02.720 align:start position:0%
+uh you can you can have a look on the
+ 
+
+00:12:02.720 --> 00:12:03.990 align:start position:0%
+uh you can you can have a look on the
+case<00:12:03.040><c> study</c>
+
+00:12:03.990 --> 00:12:04.000 align:start position:0%
+case study
+ 
+
+00:12:04.000 --> 00:12:07.110 align:start position:0%
+case study
+which<00:12:04.320><c> is</c><00:12:04.480><c> quite</c><00:12:04.639><c> detailed</c><00:12:06.079><c> and</c><00:12:06.399><c> also</c><00:12:06.800><c> if</c><00:12:06.959><c> you</c>
+
+00:12:07.110 --> 00:12:07.120 align:start position:0%
+which is quite detailed and also if you
+ 
+
+00:12:07.120 --> 00:12:08.389 align:start position:0%
+which is quite detailed and also if you
+are<00:12:07.440><c> interested</c><00:12:08.000><c> in</c>
+
+00:12:08.389 --> 00:12:08.399 align:start position:0%
+are interested in
+ 
+
+00:12:08.399 --> 00:12:11.670 align:start position:0%
+are interested in
+litecoin<00:12:08.959><c> you</c><00:12:09.040><c> can</c><00:12:09.200><c> go</c><00:12:09.360><c> to</c><00:12:09.600><c> like.co</c><00:12:10.320><c> for</c><00:12:11.279><c> to</c>
+
+00:12:11.670 --> 00:12:11.680 align:start position:0%
+litecoin you can go to like.co for to
+ 
+
+00:12:11.680 --> 00:12:14.550 align:start position:0%
+litecoin you can go to like.co for to
+uh<00:12:12.160><c> which</c><00:12:12.399><c> is</c><00:12:12.560><c> our</c><00:12:12.720><c> main</c><00:12:12.959><c> website</c><00:12:14.160><c> and</c><00:12:14.399><c> our</c>
+
+00:12:14.550 --> 00:12:14.560 align:start position:0%
+uh which is our main website and our
+ 
+
+00:12:14.560 --> 00:12:15.509 align:start position:0%
+uh which is our main website and our
+codebase<00:12:15.200><c> is</c>
+
+00:12:15.509 --> 00:12:15.519 align:start position:0%
+codebase is
+ 
+
+00:12:15.519 --> 00:12:18.230 align:start position:0%
+codebase is
+in<00:12:15.839><c> uh</c><00:12:16.399><c> on</c><00:12:16.560><c> github</c><00:12:17.120><c> you</c><00:12:17.200><c> can</c><00:12:17.360><c> search</c><00:12:17.760><c> litecoin</c>
+
+00:12:18.230 --> 00:12:18.240 align:start position:0%
+in uh on github you can search litecoin
+ 
+
+00:12:18.240 --> 00:12:19.590 align:start position:0%
+in uh on github you can search litecoin
+and<00:12:18.320><c> then</c><00:12:18.480><c> you</c><00:12:18.560><c> can</c><00:12:18.720><c> see</c><00:12:18.959><c> our</c>
+
+00:12:19.590 --> 00:12:19.600 align:start position:0%
+and then you can see our
+ 
+
+00:12:19.600 --> 00:12:23.190 align:start position:0%
+and then you can see our
+repositories<00:12:21.920><c> yeah</c><00:12:22.480><c> that's</c><00:12:22.720><c> quite</c><00:12:22.959><c> a</c><00:12:23.040><c> lot</c><00:12:23.120><c> of</c>
+
+00:12:23.190 --> 00:12:23.200 align:start position:0%
+repositories yeah that's quite a lot of
+ 
+
+00:12:23.200 --> 00:12:25.839 align:start position:0%
+repositories yeah that's quite a lot of
+metric
+

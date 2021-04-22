@@ -1,0 +1,328 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.510 align:start position:0%
+ 
+okay<00:00:00.780><c> the</c><00:00:01.230><c> act</c><00:00:01.410><c> reversal</c><00:00:01.949><c> of</c><00:00:02.129><c> mutable</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+okay the act reversal of mutable
+ 
+
+00:00:02.520 --> 00:00:08.240 align:start position:0%
+okay the act reversal of mutable
+resources<00:00:03.360><c> rad</c><00:00:05.060><c> okay</c><00:00:06.060><c> so</c><00:00:06.810><c> the</c><00:00:07.379><c> dag</c><00:00:07.560><c> traversal</c>
+
+00:00:08.240 --> 00:00:08.250 align:start position:0%
+resources rad okay so the dag traversal
+ 
+
+00:00:08.250 --> 00:00:10.610 align:start position:0%
+resources rad okay so the dag traversal
+algorithm<00:00:08.880><c> is</c><00:00:09.120><c> optimized</c><00:00:09.840><c> for</c><00:00:10.019><c> immutable</c>
+
+00:00:10.610 --> 00:00:10.620 align:start position:0%
+algorithm is optimized for immutable
+ 
+
+00:00:10.620 --> 00:00:13.400 align:start position:0%
+algorithm is optimized for immutable
+data<00:00:10.650><c> and</c><00:00:11.309><c> we</c><00:00:11.730><c> won</c><00:00:12.090><c> this</c><00:00:12.300><c> predictability</c><00:00:12.719><c> on</c>
+
+00:00:13.400 --> 00:00:13.410 align:start position:0%
+data and we won this predictability on
+ 
+
+00:00:13.410 --> 00:00:16.010 align:start position:0%
+data and we won this predictability on
+the<00:00:14.070><c> other</c><00:00:14.219><c> hand</c><00:00:14.839><c> manta</c><00:00:15.839><c> ray</c>
+
+00:00:16.010 --> 00:00:16.020 align:start position:0%
+the other hand manta ray
+ 
+
+00:00:16.020 --> 00:00:19.279 align:start position:0%
+the other hand manta ray
+everything<00:00:16.590><c> is</c><00:00:16.710><c> flux</c><00:00:17.390><c> everything</c><00:00:18.390><c> changes</c><00:00:19.020><c> so</c>
+
+00:00:19.279 --> 00:00:19.289 align:start position:0%
+everything is flux everything changes so
+ 
+
+00:00:19.289 --> 00:00:22.820 align:start position:0%
+everything is flux everything changes so
+when<00:00:20.010><c> we</c><00:00:20.670><c> have</c><00:00:20.880><c> a</c><00:00:20.910><c> mutable</c><00:00:21.330><c> resource</c><00:00:21.930><c> that</c>
+
+00:00:22.820 --> 00:00:22.830 align:start position:0%
+when we have a mutable resource that
+ 
+
+00:00:22.830 --> 00:00:27.050 align:start position:0%
+when we have a mutable resource that
+that<00:00:23.699><c> is</c><00:00:23.910><c> usually</c><00:00:24.470><c> provided</c><00:00:25.470><c> by</c><00:00:25.500><c> a</c><00:00:26.070><c> chain</c><00:00:26.880><c> of</c>
+
+00:00:27.050 --> 00:00:27.060 align:start position:0%
+that is usually provided by a chain of
+ 
+
+00:00:27.060 --> 00:00:28.429 align:start position:0%
+that is usually provided by a chain of
+events<00:00:27.210><c> there's</c><00:00:27.630><c> a</c><00:00:27.689><c> chain</c><00:00:27.900><c> of</c><00:00:27.930><c> immutable</c>
+
+00:00:28.429 --> 00:00:28.439 align:start position:0%
+events there's a chain of immutable
+ 
+
+00:00:28.439 --> 00:00:30.589 align:start position:0%
+events there's a chain of immutable
+events<00:00:28.859><c> there's</c><00:00:29.460><c> a</c><00:00:29.580><c> computation</c><00:00:30.090><c> and</c><00:00:30.449><c> those</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+events there's a computation and those
+ 
+
+00:00:30.599 --> 00:00:32.630 align:start position:0%
+events there's a computation and those
+events<00:00:30.779><c> maybe</c><00:00:31.619><c> it's</c><00:00:31.800><c> just</c><00:00:32.040><c> we</c><00:00:32.250><c> just</c><00:00:32.460><c> want</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+events maybe it's just we just want
+ 
+
+00:00:32.640 --> 00:00:34.700 align:start position:0%
+events maybe it's just we just want
+ahead<00:00:32.910><c> of</c><00:00:33.059><c> the</c><00:00:33.210><c> events</c><00:00:33.570><c> that's</c><00:00:33.780><c> already</c><00:00:34.590><c> a</c>
+
+00:00:34.700 --> 00:00:34.710 align:start position:0%
+ahead of the events that's already a
+ 
+
+00:00:34.710 --> 00:00:38.209 align:start position:0%
+ahead of the events that's already a
+computation<00:00:35.130><c> its</c><00:00:35.610><c> IP</c><00:00:36.090><c> and</c><00:00:36.480><c> s</c><00:00:36.870><c> resolving</c><00:00:37.500><c> but</c>
+
+00:00:38.209 --> 00:00:38.219 align:start position:0%
+computation its IP and s resolving but
+ 
+
+00:00:38.219 --> 00:00:40.490 align:start position:0%
+computation its IP and s resolving but
+maybe<00:00:38.430><c> we</c><00:00:38.700><c> want</c><00:00:38.910><c> to</c><00:00:39.090><c> apply</c><00:00:39.600><c> a</c><00:00:39.719><c> process</c><00:00:40.290><c> to</c>
+
+00:00:40.490 --> 00:00:40.500 align:start position:0%
+maybe we want to apply a process to
+ 
+
+00:00:40.500 --> 00:00:42.319 align:start position:0%
+maybe we want to apply a process to
+create<00:00:40.649><c> a</c><00:00:40.829><c> view</c><00:00:41.129><c> so</c><00:00:41.670><c> if</c><00:00:41.730><c> we</c><00:00:41.820><c> apply</c><00:00:42.030><c> a</c><00:00:42.059><c> process</c>
+
+00:00:42.319 --> 00:00:42.329 align:start position:0%
+create a view so if we apply a process
+ 
+
+00:00:42.329 --> 00:00:44.630 align:start position:0%
+create a view so if we apply a process
+and<00:00:42.629><c> create</c><00:00:42.899><c> a</c><00:00:42.930><c> view</c><00:00:43.079><c> we</c><00:00:43.649><c> get</c><00:00:43.800><c> a</c><00:00:43.860><c> view</c><00:00:44.190><c> based</c><00:00:44.460><c> on</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+and create a view we get a view based on
+ 
+
+00:00:44.640 --> 00:00:47.000 align:start position:0%
+and create a view we get a view based on
+a<00:00:45.120><c> point</c><00:00:45.480><c> in</c><00:00:45.600><c> time</c><00:00:45.750><c> which</c><00:00:45.960><c> is</c><00:00:46.110><c> what</c><00:00:46.530><c> we</c><00:00:46.710><c> want</c>
+
+00:00:47.000 --> 00:00:47.010 align:start position:0%
+a point in time which is what we want
+ 
+
+00:00:47.010 --> 00:00:49.459 align:start position:0%
+a point in time which is what we want
+usually<00:00:47.280><c> but</c><00:00:47.789><c> what</c><00:00:48.480><c> if</c><00:00:48.570><c> we</c><00:00:48.719><c> want</c><00:00:48.960><c> an</c><00:00:49.079><c> updated</c>
+
+00:00:49.459 --> 00:00:49.469 align:start position:0%
+usually but what if we want an updated
+ 
+
+00:00:49.469 --> 00:00:52.430 align:start position:0%
+usually but what if we want an updated
+calculation<00:00:50.460><c> so</c><00:00:51.120><c> ideally</c><00:00:51.719><c> what</c><00:00:51.930><c> we</c><00:00:52.079><c> propose</c>
+
+00:00:52.430 --> 00:00:52.440 align:start position:0%
+calculation so ideally what we propose
+ 
+
+00:00:52.440 --> 00:00:54.740 align:start position:0%
+calculation so ideally what we propose
+is<00:00:52.710><c> the</c><00:00:53.610><c> calculation</c><00:00:54.300><c> should</c><00:00:54.570><c> have</c>
+
+00:00:54.740 --> 00:00:54.750 align:start position:0%
+is the calculation should have
+ 
+
+00:00:54.750 --> 00:00:56.779 align:start position:0%
+is the calculation should have
+provenance<00:00:55.260><c> information</c><00:00:55.920><c> and</c><00:00:56.190><c> say</c><00:00:56.520><c> okay</c>
+
+00:00:56.779 --> 00:00:56.789 align:start position:0%
+provenance information and say okay
+ 
+
+00:00:56.789 --> 00:00:59.420 align:start position:0%
+provenance information and say okay
+here's<00:00:57.539><c> the</c><00:00:57.690><c> process</c><00:00:57.930><c> here's</c><00:00:58.559><c> a</c><00:00:58.620><c> pointer</c><00:00:59.160><c> to</c>
+
+00:00:59.420 --> 00:00:59.430 align:start position:0%
+here's the process here's a pointer to
+ 
+
+00:00:59.430 --> 00:01:02.689 align:start position:0%
+here's the process here's a pointer to
+the<00:00:59.840><c> function</c><00:01:00.840><c> the</c><00:01:01.559><c> the</c><00:01:01.770><c> the</c><00:01:01.980><c> procedure</c><00:01:02.399><c> that</c>
+
+00:01:02.689 --> 00:01:02.699 align:start position:0%
+the function the the the procedure that
+ 
+
+00:01:02.699 --> 00:01:06.440 align:start position:0%
+the function the the the procedure that
+was<00:01:02.850><c> used</c><00:01:02.910><c> here's</c><00:01:03.719><c> a</c><00:01:03.780><c> pointer</c><00:01:04.290><c> to</c><00:01:04.610><c> the</c><00:01:05.610><c> head</c><00:01:06.420><c> of</c>
+
+00:01:06.440 --> 00:01:06.450 align:start position:0%
+was used here's a pointer to the head of
+ 
+
+00:01:06.450 --> 00:01:08.810 align:start position:0%
+was used here's a pointer to the head of
+the<00:01:06.659><c> chain</c><00:01:06.869><c> at</c><00:01:07.049><c> the</c><00:01:07.320><c> time</c><00:01:07.560><c> but</c><00:01:07.860><c> also</c><00:01:08.040><c> how</c><00:01:08.760><c> to</c>
+
+00:01:08.810 --> 00:01:08.820 align:start position:0%
+the chain at the time but also how to
+ 
+
+00:01:08.820 --> 00:01:11.870 align:start position:0%
+the chain at the time but also how to
+get<00:01:09.390><c> the</c><00:01:09.930><c> new</c><00:01:10.170><c> head</c><00:01:10.380><c> of</c><00:01:10.409><c> the</c><00:01:10.590><c> chain</c><00:01:10.830><c> so</c><00:01:11.040><c> we</c><00:01:11.580><c> can</c>
+
+00:01:11.870 --> 00:01:11.880 align:start position:0%
+get the new head of the chain so we can
+ 
+
+00:01:11.880 --> 00:01:16.520 align:start position:0%
+get the new head of the chain so we can
+easily<00:01:12.380><c> get</c><00:01:13.380><c> the</c><00:01:14.220><c> new</c><00:01:14.549><c> version</c><00:01:14.939><c> of</c><00:01:15.530><c> the</c>
+
+00:01:16.520 --> 00:01:16.530 align:start position:0%
+easily get the new version of the
+ 
+
+00:01:16.530 --> 00:01:19.910 align:start position:0%
+easily get the new version of the
+computation<00:01:17.490><c> of</c><00:01:18.060><c> the</c><00:01:18.420><c> process</c><00:01:18.840><c> so</c><00:01:19.470><c> it's</c><00:01:19.650><c> a</c><00:01:19.740><c> way</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+computation of the process so it's a way
+ 
+
+00:01:19.920 --> 00:01:23.510 align:start position:0%
+computation of the process so it's a way
+to<00:01:19.950><c> both</c><00:01:20.880><c> have</c><00:01:21.360><c> the</c><00:01:22.320><c> the</c><00:01:22.740><c> deterministic</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+to both have the the deterministic
+ 
+
+00:01:23.520 --> 00:01:25.999 align:start position:0%
+to both have the the deterministic
+updates<00:01:24.030><c> we</c><00:01:24.240><c> know</c><00:01:24.450><c> and</c><00:01:24.659><c> love</c><00:01:24.720><c> but</c><00:01:25.710><c> there's</c><00:01:25.950><c> a</c>
+
+00:01:25.999 --> 00:01:26.009 align:start position:0%
+updates we know and love but there's a
+ 
+
+00:01:26.009 --> 00:01:28.580 align:start position:0%
+updates we know and love but there's a
+way<00:01:26.189><c> to</c><00:01:26.220><c> tweak</c><00:01:26.640><c> the</c><00:01:27.090><c> traversal</c><00:01:27.479><c> syntax</c><00:01:28.200><c> to</c><00:01:28.409><c> say</c>
+
+00:01:28.580 --> 00:01:28.590 align:start position:0%
+way to tweak the traversal syntax to say
+ 
+
+00:01:28.590 --> 00:01:31.190 align:start position:0%
+way to tweak the traversal syntax to say
+oh<00:01:28.740><c> actually</c><00:01:29.189><c> here</c><00:01:30.030><c> we</c><00:01:30.420><c> use</c><00:01:30.630><c> the</c><00:01:30.780><c> provenance</c>
+
+00:01:31.190 --> 00:01:31.200 align:start position:0%
+oh actually here we use the provenance
+ 
+
+00:01:31.200 --> 00:01:33.289 align:start position:0%
+oh actually here we use the provenance
+information<00:01:31.860><c> so</c><00:01:32.369><c> I</c><00:01:32.400><c> can</c><00:01:32.490><c> get</c><00:01:32.820><c> an</c><00:01:32.939><c> updated</c>
+
+00:01:33.289 --> 00:01:33.299 align:start position:0%
+information so I can get an updated
+ 
+
+00:01:33.299 --> 00:01:37.310 align:start position:0%
+information so I can get an updated
+version<00:01:33.689><c> of</c><00:01:33.990><c> the</c><00:01:34.310><c> content</c><00:01:35.869><c> there's</c><00:01:36.869><c> a</c><00:01:36.960><c> lot</c><00:01:37.200><c> of</c>
+
+00:01:37.310 --> 00:01:37.320 align:start position:0%
+version of the content there's a lot of
+ 
+
+00:01:37.320 --> 00:01:39.530 align:start position:0%
+version of the content there's a lot of
+nitty-gritty<00:01:38.280><c> details</c>
+
+00:01:39.530 --> 00:01:39.540 align:start position:0%
+nitty-gritty details
+ 
+
+00:01:39.540 --> 00:01:42.980 align:start position:0%
+nitty-gritty details
+it's<00:01:40.610><c> obviously</c><00:01:41.610><c> work</c><00:01:41.850><c> in</c><00:01:42.060><c> progress</c><00:01:42.329><c> but</c><00:01:42.930><c> I</c>
+
+00:01:42.980 --> 00:01:42.990 align:start position:0%
+it's obviously work in progress but I
+ 
+
+00:01:42.990 --> 00:01:46.639 align:start position:0%
+it's obviously work in progress but I
+think<00:01:43.439><c> it's</c><00:01:43.979><c> a</c><00:01:44.790><c> useful</c><00:01:45.600><c> I</c><00:01:46.049><c> mean</c><00:01:46.200><c> we</c><00:01:46.320><c> all</c><00:01:46.439><c> want</c>
+
+00:01:46.639 --> 00:01:46.649 align:start position:0%
+think it's a useful I mean we all want
+ 
+
+00:01:46.649 --> 00:01:49.550 align:start position:0%
+think it's a useful I mean we all want
+updated<00:01:47.159><c> values</c><00:01:47.610><c> and</c><00:01:47.850><c> still</c><00:01:48.390><c> respects</c><00:01:49.049><c> the</c>
+
+00:01:49.550 --> 00:01:49.560 align:start position:0%
+updated values and still respects the
+ 
+
+00:01:49.560 --> 00:01:52.310 align:start position:0%
+updated values and still respects the
+immutability<00:01:50.250><c> and</c><00:01:50.549><c> deterministic</c><00:01:51.119><c> nature</c><00:01:51.810><c> of</c>
+
+00:01:52.310 --> 00:01:52.320 align:start position:0%
+immutability and deterministic nature of
+ 
+
+00:01:52.320 --> 00:01:59.370 align:start position:0%
+immutability and deterministic nature of
+that<00:01:52.979><c> traversal</c>
+
+00:01:59.370 --> 00:01:59.380 align:start position:0%
+ 
+ 
+
+00:01:59.380 --> 00:02:01.439 align:start position:0%
+ 
+you
+

@@ -1,0 +1,952 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.120 --> 00:00:04.630 align:start position:0%
+ 
+pinning<00:00:03.439><c> service</c><00:00:03.760><c> api</c>
+
+00:00:04.630 --> 00:00:04.640 align:start position:0%
+pinning service api
+ 
+
+00:00:04.640 --> 00:00:07.349 align:start position:0%
+pinning service api
+is<00:00:05.359><c> something</c><00:00:05.680><c> we've</c><00:00:05.920><c> been</c><00:00:06.080><c> working</c><00:00:06.480><c> for</c><00:00:07.040><c> uh</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+is something we've been working for uh
+ 
+
+00:00:07.359 --> 00:00:08.710 align:start position:0%
+is something we've been working for uh
+the<00:00:07.440><c> past</c><00:00:07.680><c> few</c><00:00:07.919><c> weeks</c>
+
+00:00:08.710 --> 00:00:08.720 align:start position:0%
+the past few weeks
+ 
+
+00:00:08.720 --> 00:00:11.990 align:start position:0%
+the past few weeks
+uh<00:00:09.040><c> to</c><00:00:09.280><c> sort</c><00:00:09.519><c> of</c><00:00:09.679><c> like</c><00:00:10.240><c> create</c><00:00:10.559><c> a</c><00:00:10.719><c> generic</c><00:00:11.519><c> spec</c>
+
+00:00:11.990 --> 00:00:12.000 align:start position:0%
+uh to sort of like create a generic spec
+ 
+
+00:00:12.000 --> 00:00:16.870 align:start position:0%
+uh to sort of like create a generic spec
+a<00:00:12.160><c> very</c><00:00:12.400><c> minimal</c><00:00:12.880><c> spec</c><00:00:13.360><c> that</c><00:00:14.000><c> multiple</c><00:00:14.920><c> uh</c>
+
+00:00:16.870 --> 00:00:16.880 align:start position:0%
+a very minimal spec that multiple uh
+ 
+
+00:00:16.880 --> 00:00:19.429 align:start position:0%
+a very minimal spec that multiple uh
+parties<00:00:17.279><c> and</c><00:00:17.440><c> actors</c><00:00:17.920><c> in</c><00:00:18.160><c> our</c><00:00:18.480><c> ipfs</c><00:00:18.960><c> ecosystem</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+parties and actors in our ipfs ecosystem
+ 
+
+00:00:19.439 --> 00:00:21.429 align:start position:0%
+parties and actors in our ipfs ecosystem
+can<00:00:19.680><c> agree</c><00:00:20.000><c> on</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+can agree on
+ 
+
+00:00:21.439 --> 00:00:24.230 align:start position:0%
+can agree on
+both<00:00:21.920><c> on</c><00:00:22.080><c> the</c><00:00:22.320><c> service</c><00:00:22.720><c> side</c><00:00:23.199><c> and</c><00:00:23.519><c> the</c><00:00:23.840><c> client</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+both on the service side and the client
+ 
+
+00:00:24.240 --> 00:00:25.910 align:start position:0%
+both on the service side and the client
+side
+
+00:00:25.910 --> 00:00:25.920 align:start position:0%
+side
+ 
+
+00:00:25.920 --> 00:00:29.589 align:start position:0%
+side
+to<00:00:26.080><c> facilitate</c><00:00:26.880><c> the</c><00:00:27.039><c> very</c><00:00:27.359><c> basic</c><00:00:28.840><c> persistence</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+to facilitate the very basic persistence
+ 
+
+00:00:29.599 --> 00:00:30.870 align:start position:0%
+to facilitate the very basic persistence
+um
+
+00:00:30.870 --> 00:00:30.880 align:start position:0%
+um
+ 
+
+00:00:30.880 --> 00:00:33.110 align:start position:0%
+um
+more<00:00:31.119><c> or</c><00:00:31.199><c> less</c><00:00:31.439><c> you</c><00:00:31.519><c> can</c><00:00:31.679><c> think</c><00:00:31.920><c> about</c><00:00:32.160><c> this</c><00:00:32.640><c> uh</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+more or less you can think about this uh
+ 
+
+00:00:33.120 --> 00:00:34.229 align:start position:0%
+more or less you can think about this uh
+as<00:00:33.360><c> a</c><00:00:33.520><c> minimum</c>
+
+00:00:34.229 --> 00:00:34.239 align:start position:0%
+as a minimum
+ 
+
+00:00:34.239 --> 00:00:37.030 align:start position:0%
+as a minimum
+valuable<00:00:34.640><c> product</c><00:00:35.200><c> to</c><00:00:35.520><c> enable</c><00:00:35.920><c> something</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+valuable product to enable something
+ 
+
+00:00:37.040 --> 00:00:37.510 align:start position:0%
+valuable product to enable something
+like
+
+00:00:37.510 --> 00:00:37.520 align:start position:0%
+like
+ 
+
+00:00:37.520 --> 00:00:40.549 align:start position:0%
+like
+remote<00:00:38.000><c> pinning</c><00:00:38.800><c> so</c><00:00:39.200><c> you</c><00:00:39.840><c> just</c><00:00:40.000><c> like</c><00:00:40.160><c> district</c>
+
+00:00:40.549 --> 00:00:40.559 align:start position:0%
+remote pinning so you just like district
+ 
+
+00:00:40.559 --> 00:00:41.110 align:start position:0%
+remote pinning so you just like district
+mentioned
+
+00:00:41.110 --> 00:00:41.120 align:start position:0%
+mentioned
+ 
+
+00:00:41.120 --> 00:00:44.389 align:start position:0%
+mentioned
+you<00:00:41.280><c> got</c><00:00:41.600><c> your</c><00:00:41.840><c> laptop</c><00:00:42.480><c> you</c><00:00:42.960><c> import</c><00:00:43.920><c> data</c><00:00:44.239><c> to</c>
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+you got your laptop you import data to
+ 
+
+00:00:44.399 --> 00:00:45.270 align:start position:0%
+you got your laptop you import data to
+ipfs
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+ipfs
+ 
+
+00:00:45.280 --> 00:00:46.790 align:start position:0%
+ipfs
+but<00:00:45.520><c> what</c><00:00:45.760><c> happens</c><00:00:46.079><c> when</c><00:00:46.239><c> you</c><00:00:46.399><c> close</c><00:00:46.640><c> your</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+but what happens when you close your
+ 
+
+00:00:46.800 --> 00:00:49.350 align:start position:0%
+but what happens when you close your
+laptop<00:00:47.520><c> and</c><00:00:47.760><c> someone</c><00:00:48.160><c> else</c><00:00:48.559><c> wants</c><00:00:48.879><c> to</c>
+
+00:00:49.350 --> 00:00:49.360 align:start position:0%
+laptop and someone else wants to
+ 
+
+00:00:49.360 --> 00:00:52.229 align:start position:0%
+laptop and someone else wants to
+access<00:00:49.760><c> the</c><00:00:50.000><c> data</c><00:00:50.640><c> when</c><00:00:51.280><c> your</c><00:00:51.520><c> laptop</c><00:00:52.079><c> is</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+access the data when your laptop is
+ 
+
+00:00:52.239 --> 00:00:54.310 align:start position:0%
+access the data when your laptop is
+closed<00:00:52.640><c> or</c><00:00:52.800><c> your</c><00:00:53.120><c> server</c><00:00:53.520><c> is</c><00:00:53.600><c> temporarily</c>
+
+00:00:54.310 --> 00:00:54.320 align:start position:0%
+closed or your server is temporarily
+ 
+
+00:00:54.320 --> 00:00:57.110 align:start position:0%
+closed or your server is temporarily
+offline<00:00:55.120><c> you</c><00:00:55.280><c> want</c><00:00:55.680><c> to</c><00:00:56.160><c> persist</c><00:00:56.640><c> data</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+offline you want to persist data
+ 
+
+00:00:57.120 --> 00:00:57.990 align:start position:0%
+offline you want to persist data
+somewhere<00:00:57.520><c> else</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+somewhere else
+ 
+
+00:00:58.000 --> 00:01:01.430 align:start position:0%
+somewhere else
+so<00:00:58.160><c> there's</c><00:00:58.480><c> at</c><00:00:58.640><c> least</c><00:00:58.879><c> one</c><00:00:59.760><c> seed</c><00:01:00.719><c> provider</c>
+
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+so there's at least one seed provider
+ 
+
+00:01:01.440 --> 00:01:04.310 align:start position:0%
+so there's at least one seed provider
+data<00:01:01.760><c> provider</c><00:01:03.280><c> so</c><00:01:03.440><c> this</c><00:01:03.680><c> is</c><00:01:03.760><c> where</c><00:01:04.000><c> pinning</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+data provider so this is where pinning
+ 
+
+00:01:04.320 --> 00:01:05.750 align:start position:0%
+data provider so this is where pinning
+service<00:01:04.640><c> api</c><00:01:05.040><c> spec</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+service api spec
+ 
+
+00:01:05.760 --> 00:01:08.550 align:start position:0%
+service api spec
+comes<00:01:06.080><c> in</c><00:01:06.320><c> it's</c><00:01:06.479><c> a</c><00:01:06.560><c> very</c><00:01:06.880><c> basic</c><00:01:07.360><c> open</c><00:01:07.680><c> api</c><00:01:08.159><c> spec</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+comes in it's a very basic open api spec
+ 
+
+00:01:08.560 --> 00:01:10.830 align:start position:0%
+comes in it's a very basic open api spec
+which
+
+00:01:10.830 --> 00:01:10.840 align:start position:0%
+ 
+ 
+
+00:01:10.840 --> 00:01:12.710 align:start position:0%
+ 
+um<00:01:12.159><c> like</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+um like
+ 
+
+00:01:12.720 --> 00:01:14.950 align:start position:0%
+um like
+service<00:01:13.119><c> providers</c><00:01:13.600><c> can</c><00:01:13.840><c> implement</c><00:01:14.479><c> uh</c><00:01:14.799><c> you</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+service providers can implement uh you
+ 
+
+00:01:14.960 --> 00:01:16.149 align:start position:0%
+service providers can implement uh you
+can<00:01:15.439><c> it's</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+can it's
+ 
+
+00:01:16.159 --> 00:01:19.749 align:start position:0%
+can it's
+only<00:01:16.720><c> about</c><00:01:18.080><c> providing</c><00:01:18.560><c> a</c><00:01:18.720><c> cid</c><00:01:19.280><c> that</c><00:01:19.439><c> you</c><00:01:19.600><c> want</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+only about providing a cid that you want
+ 
+
+00:01:19.759 --> 00:01:20.710 align:start position:0%
+only about providing a cid that you want
+to<00:01:19.840><c> persist</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+to persist
+ 
+
+00:01:20.720 --> 00:01:23.749 align:start position:0%
+to persist
+and<00:01:20.880><c> getting</c><00:01:21.200><c> the</c><00:01:21.439><c> status</c><00:01:22.080><c> is</c><00:01:22.240><c> it</c><00:01:22.880><c> ongoing</c><00:01:23.600><c> is</c>
+
+00:01:23.749 --> 00:01:23.759 align:start position:0%
+and getting the status is it ongoing is
+ 
+
+00:01:23.759 --> 00:01:26.149 align:start position:0%
+and getting the status is it ongoing is
+it<00:01:23.920><c> cute</c><00:01:24.840><c> um</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+it cute um
+ 
+
+00:01:26.159 --> 00:01:29.910 align:start position:0%
+it cute um
+that's<00:01:26.479><c> it</c><00:01:27.920><c> it</c><00:01:28.080><c> does</c><00:01:28.240><c> not</c><00:01:28.479><c> include</c>
+
+00:01:29.910 --> 00:01:29.920 align:start position:0%
+that's it it does not include
+ 
+
+00:01:29.920 --> 00:01:33.109 align:start position:0%
+that's it it does not include
+importing<00:01:30.560><c> to</c><00:01:30.799><c> ipfs</c><00:01:31.600><c> it</c><00:01:31.759><c> does</c><00:01:31.920><c> not</c><00:01:32.479><c> include</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+importing to ipfs it does not include
+ 
+
+00:01:33.119 --> 00:01:36.230 align:start position:0%
+importing to ipfs it does not include
+user<00:01:33.520><c> space</c><00:01:33.840><c> management</c><00:01:35.280><c> it's</c><00:01:35.439><c> just</c><00:01:35.759><c> one</c><00:01:36.079><c> a</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+user space management it's just one a
+ 
+
+00:01:36.240 --> 00:01:38.310 align:start position:0%
+user space management it's just one a
+very<00:01:36.479><c> small</c><00:01:36.880><c> generic</c><00:01:37.360><c> spec</c><00:01:37.680><c> that</c><00:01:37.840><c> you</c><00:01:38.000><c> can</c>
+
+00:01:38.310 --> 00:01:38.320 align:start position:0%
+very small generic spec that you can
+ 
+
+00:01:38.320 --> 00:01:41.510 align:start position:0%
+very small generic spec that you can
+implement<00:01:39.280><c> and</c><00:01:39.520><c> there's</c><00:01:39.920><c> a</c><00:01:40.720><c> ipfs</c><00:01:41.280><c> pinning</c>
+
+00:01:41.510 --> 00:01:41.520 align:start position:0%
+implement and there's a ipfs pinning
+ 
+
+00:01:41.520 --> 00:01:43.590 align:start position:0%
+implement and there's a ipfs pinning
+service<00:01:41.840><c> api</c><00:01:42.159><c> spec</c><00:01:42.479><c> repo</c><00:01:42.880><c> if</c><00:01:43.040><c> you</c><00:01:43.119><c> want</c><00:01:43.360><c> to</c>
+
+00:01:43.590 --> 00:01:43.600 align:start position:0%
+service api spec repo if you want to
+ 
+
+00:01:43.600 --> 00:01:44.789 align:start position:0%
+service api spec repo if you want to
+learn
+
+00:01:44.789 --> 00:01:44.799 align:start position:0%
+learn
+ 
+
+00:01:44.799 --> 00:01:47.910 align:start position:0%
+learn
+more<00:01:45.119><c> details</c><00:01:45.520><c> about</c><00:01:45.759><c> this</c><00:01:47.439><c> there's</c><00:01:47.759><c> a</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+more details about this there's a
+ 
+
+00:01:47.920 --> 00:01:49.350 align:start position:0%
+more details about this there's a
+specification<00:01:48.799><c> which</c><00:01:49.119><c> is</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+specification which is
+ 
+
+00:01:49.360 --> 00:01:52.510 align:start position:0%
+specification which is
+in<00:01:49.520><c> the</c><00:01:49.680><c> yaml</c><00:01:50.000><c> format</c><00:01:50.560><c> it's</c><00:01:50.799><c> open</c><00:01:51.119><c> api</c>
+
+00:01:52.510 --> 00:01:52.520 align:start position:0%
+in the yaml format it's open api
+ 
+
+00:01:52.520 --> 00:01:55.749 align:start position:0%
+in the yaml format it's open api
+3.0<00:01:53.600><c> i</c><00:01:53.680><c> believe</c><00:01:54.479><c> and</c><00:01:54.720><c> there</c><00:01:55.119><c> is</c><00:01:55.360><c> a</c><00:01:55.439><c> human</c>
+
+00:01:55.749 --> 00:01:55.759 align:start position:0%
+3.0 i believe and there is a human
+ 
+
+00:01:55.759 --> 00:01:57.270 align:start position:0%
+3.0 i believe and there is a human
+readable<00:01:56.159><c> documentation</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+readable documentation
+ 
+
+00:01:57.280 --> 00:02:00.389 align:start position:0%
+readable documentation
+uh<00:01:57.600><c> that</c><00:01:57.840><c> you</c><00:01:58.159><c> can</c><00:01:58.719><c> uh</c><00:01:59.280><c> look</c><00:01:59.520><c> at</c><00:01:59.920><c> it's</c>
+
+00:02:00.389 --> 00:02:00.399 align:start position:0%
+uh that you can uh look at it's
+ 
+
+00:02:00.399 --> 00:02:03.429 align:start position:0%
+uh that you can uh look at it's
+rendered<00:02:00.799><c> from</c><00:02:00.960><c> that</c><00:02:01.200><c> yaml</c><00:02:01.600><c> file</c><00:02:02.399><c> and</c><00:02:02.719><c> just</c><00:02:02.960><c> to</c>
+
+00:02:03.429 --> 00:02:03.439 align:start position:0%
+rendered from that yaml file and just to
+ 
+
+00:02:03.439 --> 00:02:05.830 align:start position:0%
+rendered from that yaml file and just to
+very<00:02:03.759><c> briefly</c><00:02:04.719><c> show</c><00:02:04.960><c> you</c><00:02:05.119><c> how</c><00:02:05.360><c> simple</c><00:02:05.600><c> this</c>
+
+00:02:05.830 --> 00:02:05.840 align:start position:0%
+very briefly show you how simple this
+ 
+
+00:02:05.840 --> 00:02:06.950 align:start position:0%
+very briefly show you how simple this
+api<00:02:06.240><c> is</c><00:02:06.399><c> you</c><00:02:06.560><c> got</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+api is you got
+ 
+
+00:02:06.960 --> 00:02:09.109 align:start position:0%
+api is you got
+a<00:02:07.360><c> pin</c><00:02:07.759><c> object</c><00:02:08.160><c> which</c><00:02:08.319><c> is</c><00:02:08.560><c> just</c><00:02:08.800><c> a</c><00:02:08.879><c> basic</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+a pin object which is just a basic
+ 
+
+00:02:09.119 --> 00:02:10.630 align:start position:0%
+a pin object which is just a basic
+representation<00:02:09.840><c> of</c><00:02:09.920><c> the</c><00:02:10.080><c> stuff</c><00:02:10.399><c> that</c><00:02:10.479><c> you</c>
+
+00:02:10.630 --> 00:02:10.640 align:start position:0%
+representation of the stuff that you
+ 
+
+00:02:10.640 --> 00:02:11.670 align:start position:0%
+representation of the stuff that you
+want<00:02:10.800><c> to</c><00:02:10.959><c> pin</c>
+
+00:02:11.670 --> 00:02:11.680 align:start position:0%
+want to pin
+ 
+
+00:02:11.680 --> 00:02:14.710 align:start position:0%
+want to pin
+it's<00:02:11.920><c> a</c><00:02:12.000><c> cid</c><00:02:12.640><c> you</c><00:02:12.800><c> can</c><00:02:13.040><c> optionally</c><00:02:13.520><c> provide</c><00:02:14.160><c> a</c>
+
+00:02:14.710 --> 00:02:14.720 align:start position:0%
+it's a cid you can optionally provide a
+ 
+
+00:02:14.720 --> 00:02:18.070 align:start position:0%
+it's a cid you can optionally provide a
+list<00:02:15.040><c> of</c><00:02:15.280><c> known</c><00:02:15.599><c> sources</c><00:02:16.640><c> to</c><00:02:16.800><c> speed</c><00:02:17.120><c> up</c><00:02:17.680><c> data</c>
+
+00:02:18.070 --> 00:02:18.080 align:start position:0%
+list of known sources to speed up data
+ 
+
+00:02:18.080 --> 00:02:18.790 align:start position:0%
+list of known sources to speed up data
+transfer<00:02:18.560><c> and</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+transfer and
+ 
+
+00:02:18.800 --> 00:02:20.309 align:start position:0%
+transfer and
+additional<00:02:19.200><c> metadata</c><00:02:19.760><c> which</c><00:02:20.000><c> is</c><00:02:20.080><c> also</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+additional metadata which is also
+ 
+
+00:02:20.319 --> 00:02:22.390 align:start position:0%
+additional metadata which is also
+optional<00:02:21.120><c> and</c><00:02:21.280><c> then</c><00:02:21.520><c> you</c><00:02:21.760><c> got</c>
+
+00:02:22.390 --> 00:02:22.400 align:start position:0%
+optional and then you got
+ 
+
+00:02:22.400 --> 00:02:25.750 align:start position:0%
+optional and then you got
+in<00:02:22.560><c> response</c><00:02:23.360><c> or</c><00:02:23.680><c> for</c><00:02:24.480><c> initial</c><00:02:24.959><c> pin</c>
+
+00:02:25.750 --> 00:02:25.760 align:start position:0%
+in response or for initial pin
+ 
+
+00:02:25.760 --> 00:02:27.670 align:start position:0%
+in response or for initial pin
+operation<00:02:26.319><c> or</c><00:02:26.720><c> maybe</c><00:02:27.040><c> later</c><00:02:27.360><c> you</c><00:02:27.440><c> want</c><00:02:27.599><c> to</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+operation or maybe later you want to
+ 
+
+00:02:27.680 --> 00:02:28.949 align:start position:0%
+operation or maybe later you want to
+check<00:02:28.239><c> status</c>
+
+00:02:28.949 --> 00:02:28.959 align:start position:0%
+check status
+ 
+
+00:02:28.959 --> 00:02:30.630 align:start position:0%
+check status
+you<00:02:29.040><c> got</c><00:02:29.200><c> this</c><00:02:29.440><c> pin</c><00:02:29.680><c> status</c><00:02:30.080><c> response</c><00:02:30.480><c> where</c>
+
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+you got this pin status response where
+ 
+
+00:02:30.640 --> 00:02:32.390 align:start position:0%
+you got this pin status response where
+you<00:02:30.720><c> got</c><00:02:31.040><c> the</c><00:02:31.200><c> id</c><00:02:31.680><c> of</c>
+
+00:02:32.390 --> 00:02:32.400 align:start position:0%
+you got the id of
+ 
+
+00:02:32.400 --> 00:02:35.030 align:start position:0%
+you got the id of
+pinning<00:02:32.800><c> operation</c><00:02:33.599><c> status</c><00:02:34.400><c> where</c><00:02:34.640><c> this</c><00:02:34.879><c> was</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+pinning operation status where this was
+ 
+
+00:02:35.040 --> 00:02:35.589 align:start position:0%
+pinning operation status where this was
+created
+
+00:02:35.589 --> 00:02:35.599 align:start position:0%
+created
+ 
+
+00:02:35.599 --> 00:02:38.229 align:start position:0%
+created
+and<00:02:35.760><c> then</c><00:02:35.920><c> you</c><00:02:36.080><c> got</c><00:02:36.239><c> a</c><00:02:36.400><c> list</c><00:02:36.720><c> of</c><00:02:37.280><c> providers</c>
+
+00:02:38.229 --> 00:02:38.239 align:start position:0%
+and then you got a list of providers
+ 
+
+00:02:38.239 --> 00:02:41.430 align:start position:0%
+and then you got a list of providers
+provided<00:02:38.720><c> by</c><00:02:38.879><c> the</c><00:02:39.040><c> pinning</c><00:02:39.360><c> service</c>
+
+00:02:41.430 --> 00:02:41.440 align:start position:0%
+provided by the pinning service
+ 
+
+00:02:41.440 --> 00:02:44.869 align:start position:0%
+provided by the pinning service
+themselves<00:02:42.400><c> um</c><00:02:43.680><c> those</c><00:02:44.000><c> new</c><00:02:44.160><c> multi-others</c>
+
+00:02:44.869 --> 00:02:44.879 align:start position:0%
+themselves um those new multi-others
+ 
+
+00:02:44.879 --> 00:02:45.670 align:start position:0%
+themselves um those new multi-others
+will<00:02:45.120><c> be</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+will be
+ 
+
+00:02:45.680 --> 00:02:48.949 align:start position:0%
+will be
+providing<00:02:46.879><c> data</c><00:02:47.440><c> your</c><00:02:47.760><c> data</c><00:02:48.160><c> to</c><00:02:48.319><c> the</c><00:02:48.480><c> network</c>
+
+00:02:48.949 --> 00:02:48.959 align:start position:0%
+providing data your data to the network
+ 
+
+00:02:48.959 --> 00:02:51.110 align:start position:0%
+providing data your data to the network
+and<00:02:49.120><c> of</c><00:02:49.280><c> course</c><00:02:49.599><c> additional</c><00:02:50.000><c> metadata</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+and of course additional metadata
+ 
+
+00:02:51.120 --> 00:02:53.990 align:start position:0%
+and of course additional metadata
+um<00:02:51.680><c> yep</c><00:02:52.080><c> so</c><00:02:52.800><c> the</c><00:02:52.959><c> list</c><00:02:53.200><c> of</c><00:02:53.280><c> operations</c><00:02:53.680><c> is</c><00:02:53.760><c> very</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+um yep so the list of operations is very
+ 
+
+00:02:54.000 --> 00:02:54.470 align:start position:0%
+um yep so the list of operations is very
+short
+
+00:02:54.470 --> 00:02:54.480 align:start position:0%
+short
+ 
+
+00:02:54.480 --> 00:02:57.750 align:start position:0%
+short
+you<00:02:54.879><c> list</c><00:02:55.120><c> pins</c><00:02:55.599><c> add</c><00:02:55.840><c> pin</c><00:02:56.480><c> uh</c><00:02:56.959><c> you</c><00:02:57.120><c> can</c>
+
+00:02:57.750 --> 00:02:57.760 align:start position:0%
+you list pins add pin uh you can
+ 
+
+00:02:57.760 --> 00:03:01.190 align:start position:0%
+you list pins add pin uh you can
+read<00:02:58.080><c> pin</c><00:02:58.319><c> status</c><00:02:59.040><c> modify</c><00:02:59.599><c> it</c><00:02:59.920><c> or</c><00:03:00.159><c> remove</c><00:03:00.560><c> it</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+read pin status modify it or remove it
+ 
+
+00:03:01.200 --> 00:03:04.630 align:start position:0%
+read pin status modify it or remove it
+that's<00:03:01.519><c> it</c><00:03:02.080><c> uh</c><00:03:02.640><c> just</c><00:03:03.120><c> to</c><00:03:03.840><c> highlight</c>
+
+00:03:04.630 --> 00:03:04.640 align:start position:0%
+that's it uh just to highlight
+ 
+
+00:03:04.640 --> 00:03:07.830 align:start position:0%
+that's it uh just to highlight
+that<00:03:04.879><c> it's</c><00:03:05.120><c> not</c><00:03:05.360><c> just</c><00:03:05.680><c> a</c><00:03:05.760><c> very</c><00:03:06.720><c> abstract</c><00:03:07.360><c> thing</c>
+
+00:03:07.830 --> 00:03:07.840 align:start position:0%
+that it's not just a very abstract thing
+ 
+
+00:03:07.840 --> 00:03:10.229 align:start position:0%
+that it's not just a very abstract thing
+that<00:03:08.080><c> will</c><00:03:08.239><c> be</c><00:03:08.400><c> implemented</c><00:03:08.879><c> by</c><00:03:09.040><c> services</c><00:03:09.840><c> uh</c>
+
+00:03:10.229 --> 00:03:10.239 align:start position:0%
+that will be implemented by services uh
+ 
+
+00:03:10.239 --> 00:03:11.030 align:start position:0%
+that will be implemented by services uh
+we<00:03:10.480><c> will</c>
+
+00:03:11.030 --> 00:03:11.040 align:start position:0%
+we will
+ 
+
+00:03:11.040 --> 00:03:14.790 align:start position:0%
+we will
+uh<00:03:11.840><c> introduce</c><00:03:12.560><c> a</c><00:03:12.720><c> first</c><00:03:13.760><c> uh</c>
+
+00:03:14.790 --> 00:03:14.800 align:start position:0%
+uh introduce a first uh
+ 
+
+00:03:14.800 --> 00:03:18.149 align:start position:0%
+uh introduce a first uh
+uh<00:03:16.000><c> it</c><00:03:16.159><c> will</c><00:03:16.319><c> be</c><00:03:16.879><c> introduced</c><00:03:17.519><c> into</c><00:03:17.760><c> our</c><00:03:17.920><c> gui</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+uh it will be introduced into our gui
+ 
+
+00:03:18.159 --> 00:03:19.750 align:start position:0%
+uh it will be introduced into our gui
+applications<00:03:18.800><c> so</c><00:03:19.040><c> if</c><00:03:19.120><c> you</c><00:03:19.280><c> install</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+applications so if you install
+ 
+
+00:03:19.760 --> 00:03:23.509 align:start position:0%
+applications so if you install
+a<00:03:19.920><c> ipfs</c><00:03:20.480><c> desktop</c><00:03:21.599><c> or</c><00:03:21.760><c> you</c><00:03:22.000><c> run</c><00:03:22.319><c> web</c><00:03:22.560><c> ui</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+a ipfs desktop or you run web ui
+ 
+
+00:03:23.519 --> 00:03:25.030 align:start position:0%
+a ipfs desktop or you run web ui
+on<00:03:23.680><c> the</c><00:03:23.840><c> settings</c><00:03:24.319><c> screen</c><00:03:24.560><c> there</c><00:03:24.720><c> will</c><00:03:24.879><c> be</c>
+
+00:03:25.030 --> 00:03:25.040 align:start position:0%
+on the settings screen there will be
+ 
+
+00:03:25.040 --> 00:03:27.430 align:start position:0%
+on the settings screen there will be
+option<00:03:25.440><c> to</c><00:03:26.480><c> add</c><00:03:26.720><c> a</c><00:03:26.799><c> service</c>
+
+00:03:27.430 --> 00:03:27.440 align:start position:0%
+option to add a service
+ 
+
+00:03:27.440 --> 00:03:29.350 align:start position:0%
+option to add a service
+a<00:03:27.599><c> remote</c><00:03:27.920><c> service</c><00:03:28.319><c> this</c><00:03:28.560><c> is</c><00:03:28.640><c> just</c><00:03:28.799><c> a</c><00:03:28.959><c> mockup</c>
+
+00:03:29.350 --> 00:03:29.360 align:start position:0%
+a remote service this is just a mockup
+ 
+
+00:03:29.360 --> 00:03:32.390 align:start position:0%
+a remote service this is just a mockup
+but<00:03:29.519><c> it</c><00:03:29.680><c> will</c><00:03:29.840><c> look</c><00:03:30.239><c> more</c><00:03:30.400><c> or</c><00:03:30.560><c> less</c><00:03:30.799><c> like</c><00:03:30.959><c> this</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+but it will look more or less like this
+ 
+
+00:03:32.400 --> 00:03:35.270 align:start position:0%
+but it will look more or less like this
+it<00:03:32.640><c> could</c><00:03:32.879><c> be</c><00:03:33.200><c> something</c><00:03:33.519><c> custom</c><00:03:34.560><c> or</c><00:03:34.879><c> it</c><00:03:35.040><c> could</c>
+
+00:03:35.270 --> 00:03:35.280 align:start position:0%
+it could be something custom or it could
+ 
+
+00:03:35.280 --> 00:03:36.149 align:start position:0%
+it could be something custom or it could
+be<00:03:35.440><c> one</c><00:03:35.680><c> of</c>
+
+00:03:36.149 --> 00:03:36.159 align:start position:0%
+be one of
+ 
+
+00:03:36.159 --> 00:03:38.149 align:start position:0%
+be one of
+well-known<00:03:36.959><c> already</c><00:03:37.280><c> existing</c><00:03:37.760><c> players</c>
+
+00:03:38.149 --> 00:03:38.159 align:start position:0%
+well-known already existing players
+ 
+
+00:03:38.159 --> 00:03:39.270 align:start position:0%
+well-known already existing players
+maybe<00:03:38.400><c> someone</c><00:03:38.799><c> new</c>
+
+00:03:39.270 --> 00:03:39.280 align:start position:0%
+maybe someone new
+ 
+
+00:03:39.280 --> 00:03:41.670 align:start position:0%
+maybe someone new
+maybe<00:03:39.599><c> your</c><00:03:39.840><c> own</c><00:03:40.159><c> thing</c><00:03:40.400><c> that</c><00:03:40.560><c> you</c><00:03:40.799><c> created</c>
+
+00:03:41.670 --> 00:03:41.680 align:start position:0%
+maybe your own thing that you created
+ 
+
+00:03:41.680 --> 00:03:43.910 align:start position:0%
+maybe your own thing that you created
+and<00:03:42.239><c> you</c><00:03:42.560><c> will</c><00:03:42.799><c> be</c><00:03:42.959><c> able</c><00:03:43.120><c> to</c><00:03:43.360><c> add</c><00:03:43.599><c> pinning</c>
+
+00:03:43.910 --> 00:03:43.920 align:start position:0%
+and you will be able to add pinning
+ 
+
+00:03:43.920 --> 00:03:46.149 align:start position:0%
+and you will be able to add pinning
+service<00:03:44.319><c> to</c><00:03:44.480><c> your</c><00:03:44.799><c> ipfs</c><00:03:45.360><c> node</c>
+
+00:03:46.149 --> 00:03:46.159 align:start position:0%
+service to your ipfs node
+ 
+
+00:03:46.159 --> 00:03:49.750 align:start position:0%
+service to your ipfs node
+and<00:03:47.680><c> redo</c><00:03:48.159><c> remote</c><00:03:48.640><c> pinning</c><00:03:49.040><c> and</c><00:03:49.120><c> that</c><00:03:49.360><c> remote</c>
+
+00:03:49.750 --> 00:03:49.760 align:start position:0%
+and redo remote pinning and that remote
+ 
+
+00:03:49.760 --> 00:03:51.589 align:start position:0%
+and redo remote pinning and that remote
+pinning<00:03:50.080><c> will</c><00:03:50.239><c> not</c><00:03:50.480><c> only</c><00:03:50.799><c> work</c><00:03:51.040><c> in</c><00:03:51.120><c> the</c><00:03:51.280><c> gui</c>
+
+00:03:51.589 --> 00:03:51.599 align:start position:0%
+pinning will not only work in the gui
+ 
+
+00:03:51.599 --> 00:03:53.750 align:start position:0%
+pinning will not only work in the gui
+application<00:03:52.159><c> like</c><00:03:52.400><c> ipfs</c><00:03:52.799><c> desktop</c><00:03:53.280><c> you</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+application like ipfs desktop you
+ 
+
+00:03:53.760 --> 00:03:57.030 align:start position:0%
+application like ipfs desktop you
+will<00:03:54.480><c> be</c><00:03:54.640><c> able</c><00:03:54.959><c> to</c><00:03:55.200><c> use</c><00:03:55.519><c> the</c><00:03:55.680><c> same</c><00:03:56.640><c> pinning</c>
+
+00:03:57.030 --> 00:03:57.040 align:start position:0%
+will be able to use the same pinning
+ 
+
+00:03:57.040 --> 00:03:58.309 align:start position:0%
+will be able to use the same pinning
+service
+
+00:03:58.309 --> 00:03:58.319 align:start position:0%
+service
+ 
+
+00:03:58.319 --> 00:04:00.550 align:start position:0%
+service
+from<00:03:58.480><c> the</c><00:03:58.640><c> command</c><00:03:59.040><c> line</c><00:03:59.599><c> so</c><00:03:59.840><c> if</c><00:04:00.000><c> you</c><00:04:00.080><c> just</c><00:04:00.319><c> use</c>
+
+00:04:00.550 --> 00:04:00.560 align:start position:0%
+from the command line so if you just use
+ 
+
+00:04:00.560 --> 00:04:01.990 align:start position:0%
+from the command line so if you just use
+go<00:04:00.720><c> ipfs</c><00:04:01.280><c> and</c><00:04:01.360><c> don't</c><00:04:01.680><c> use</c>
+
+00:04:01.990 --> 00:04:02.000 align:start position:0%
+go ipfs and don't use
+ 
+
+00:04:02.000 --> 00:04:05.589 align:start position:0%
+go ipfs and don't use
+ipfs<00:04:03.599><c> desktop</c><00:04:04.319><c> you</c><00:04:04.560><c> still</c><00:04:04.799><c> will</c><00:04:04.959><c> be</c><00:04:05.120><c> able</c>
+
+00:04:05.589 --> 00:04:05.599 align:start position:0%
+ipfs desktop you still will be able
+ 
+
+00:04:05.599 --> 00:04:08.309 align:start position:0%
+ipfs desktop you still will be able
+to<00:04:05.840><c> benefit</c><00:04:06.319><c> from</c><00:04:06.560><c> this</c><00:04:06.720><c> spec</c><00:04:07.439><c> uh</c><00:04:07.680><c> so</c><00:04:07.920><c> it's</c><00:04:08.159><c> a</c>
+
+00:04:08.309 --> 00:04:08.319 align:start position:0%
+to benefit from this spec uh so it's a
+ 
+
+00:04:08.319 --> 00:04:08.949 align:start position:0%
+to benefit from this spec uh so it's a
+very
+
+00:04:08.949 --> 00:04:08.959 align:start position:0%
+very
+ 
+
+00:04:08.959 --> 00:04:11.030 align:start position:0%
+very
+small<00:04:09.200><c> spec</c><00:04:09.599><c> and</c><00:04:09.840><c> it's</c><00:04:10.000><c> very</c><00:04:10.239><c> early</c><00:04:10.640><c> but</c><00:04:10.799><c> we</c>
+
+00:04:11.030 --> 00:04:11.040 align:start position:0%
+small spec and it's very early but we
+ 
+
+00:04:11.040 --> 00:04:12.229 align:start position:0%
+small spec and it's very early but we
+are<00:04:11.680><c> closing</c>
+
+00:04:12.229 --> 00:04:12.239 align:start position:0%
+are closing
+ 
+
+00:04:12.239 --> 00:04:15.110 align:start position:0%
+are closing
+uh<00:04:12.720><c> it's</c><00:04:12.959><c> effectively</c><00:04:13.760><c> done</c><00:04:14.159><c> we'll</c><00:04:14.480><c> probably</c>
+
+00:04:15.110 --> 00:04:15.120 align:start position:0%
+uh it's effectively done we'll probably
+ 
+
+00:04:15.120 --> 00:04:15.509 align:start position:0%
+uh it's effectively done we'll probably
+we
+
+00:04:15.509 --> 00:04:15.519 align:start position:0%
+we
+ 
+
+00:04:15.519 --> 00:04:18.550 align:start position:0%
+we
+may<00:04:16.639><c> rename</c><00:04:17.120><c> a</c><00:04:17.199><c> field</c><00:04:17.519><c> or</c><00:04:17.680><c> two</c><00:04:17.919><c> but</c><00:04:18.320><c> more</c><00:04:18.479><c> or</c>
+
+00:04:18.550 --> 00:04:18.560 align:start position:0%
+may rename a field or two but more or
+ 
+
+00:04:18.560 --> 00:04:18.949 align:start position:0%
+may rename a field or two but more or
+less
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+less
+ 
+
+00:04:18.959 --> 00:04:21.030 align:start position:0%
+less
+it<00:04:19.359><c> is</c><00:04:19.519><c> pretty</c><00:04:19.840><c> stable</c><00:04:20.400><c> so</c><00:04:20.639><c> if</c><00:04:20.799><c> you</c><00:04:20.880><c> are</c>
+
+00:04:21.030 --> 00:04:21.040 align:start position:0%
+it is pretty stable so if you are
+ 
+
+00:04:21.040 --> 00:04:22.310 align:start position:0%
+it is pretty stable so if you are
+interested<00:04:21.519><c> in</c><00:04:21.680><c> this</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+interested in this
+ 
+
+00:04:22.320 --> 00:04:25.990 align:start position:0%
+interested in this
+uh<00:04:23.040><c> just</c><00:04:23.520><c> uh</c><00:04:24.240><c> visit</c><00:04:24.880><c> links</c><00:04:25.199><c> which</c><00:04:25.440><c> i</c><00:04:25.680><c> will</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+uh just uh visit links which i will
+ 
+
+00:04:26.000 --> 00:04:26.629 align:start position:0%
+uh just uh visit links which i will
+paste
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+paste
+ 
+
+00:04:26.639 --> 00:04:32.510 align:start position:0%
+paste
+on<00:04:26.800><c> the</c><00:04:26.960><c> chat</c><00:04:27.520><c> shortly</c><00:04:28.960><c> and</c><00:04:29.120><c> i</c><00:04:29.199><c> believe</c><00:04:29.520><c> that's</c>
+
+00:04:32.510 --> 00:04:32.520 align:start position:0%
+ 
+ 
+
+00:04:32.520 --> 00:04:35.520 align:start position:0%
+ 
+it
+

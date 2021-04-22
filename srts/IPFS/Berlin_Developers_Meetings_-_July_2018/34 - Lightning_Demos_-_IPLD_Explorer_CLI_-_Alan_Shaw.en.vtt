@@ -1,0 +1,728 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:03.050 align:start position:0%
+ 
+like<00:00:00.480><c> in</c><00:00:00.630><c> preparation</c><00:00:01.260><c> for</c><00:00:01.610><c> so</c><00:00:02.610><c> we're</c><00:00:02.850><c> kind</c><00:00:03.030><c> of</c>
+
+00:00:03.050 --> 00:00:03.060 align:start position:0%
+like in preparation for so we're kind of
+ 
+
+00:00:03.060 --> 00:00:05.570 align:start position:0%
+like in preparation for so we're kind of
+rebuilding<00:00:03.600><c> the</c><00:00:03.780><c> web</c><00:00:03.899><c> at</c><00:00:04.319><c> the</c><00:00:04.410><c> moment</c><00:00:04.710><c> and</c><00:00:04.799><c> in</c>
+
+00:00:05.570 --> 00:00:05.580 align:start position:0%
+rebuilding the web at the moment and in
+ 
+
+00:00:05.580 --> 00:00:08.150 align:start position:0%
+rebuilding the web at the moment and in
+preparation<00:00:05.850><c> for</c><00:00:06.330><c> doing</c><00:00:06.750><c> it</c><00:00:07.379><c> said</c><00:00:07.680><c> for</c><00:00:07.950><c> doing</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+preparation for doing it said for doing
+ 
+
+00:00:08.160 --> 00:00:09.589 align:start position:0%
+preparation for doing it said for doing
+that<00:00:08.460><c> I</c><00:00:08.670><c> thought</c><00:00:09.059><c> it</c><00:00:09.179><c> might</c><00:00:09.300><c> be</c><00:00:09.360><c> a</c><00:00:09.389><c> good</c><00:00:09.510><c> idea</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+that I thought it might be a good idea
+ 
+
+00:00:09.599 --> 00:00:16.519 align:start position:0%
+that I thought it might be a good idea
+to<00:00:09.750><c> explore</c><00:00:10.110><c> what</c><00:00:10.460><c> what</c><00:00:11.460><c> an</c><00:00:12.240><c> IP</c><00:00:12.480><c> LD</c><00:00:13.790><c> and</c><00:00:15.529><c> just</c>
+
+00:00:16.519 --> 00:00:16.529 align:start position:0%
+to explore what what an IP LD and just
+ 
+
+00:00:16.529 --> 00:00:19.580 align:start position:0%
+to explore what what an IP LD and just
+try<00:00:17.220><c> and</c><00:00:17.250><c> get</c><00:00:17.430><c> it</c><00:00:17.580><c> done</c><00:00:17.670><c> in</c><00:00:17.820><c> the</c><00:00:17.910><c> CLI</c><00:00:18.270><c> first</c><00:00:18.590><c> and</c>
+
+00:00:19.580 --> 00:00:19.590 align:start position:0%
+try and get it done in the CLI first and
+ 
+
+00:00:19.590 --> 00:00:25.720 align:start position:0%
+try and get it done in the CLI first and
+so<00:00:20.189><c> you</c><00:00:20.250><c> can</c><00:00:20.699><c> npm</c><00:00:21.330><c> install'</c><00:00:21.689><c> IP</c><00:00:22.350><c> LD</c><00:00:22.830><c> explorer</c>
+
+00:00:25.720 --> 00:00:25.730 align:start position:0%
+ 
+ 
+
+00:00:25.730 --> 00:00:29.179 align:start position:0%
+ 
+and<00:00:26.730><c> then</c><00:00:26.880><c> type</c><00:00:27.090><c> it</c><00:00:27.210><c> in</c><00:00:27.300><c> on</c><00:00:27.480><c> your</c><00:00:27.510><c> m</c><00:00:28.010><c> in</c><00:00:29.010><c> your</c>
+
+00:00:29.179 --> 00:00:29.189 align:start position:0%
+and then type it in on your m in your
+ 
+
+00:00:29.189 --> 00:00:32.959 align:start position:0%
+and then type it in on your m in your
+command<00:00:29.460><c> line</c><00:00:29.519><c> and</c><00:00:31.009><c> explore</c><00:00:32.009><c> your</c><00:00:32.040><c> explore</c>
+
+00:00:32.959 --> 00:00:32.969 align:start position:0%
+command line and explore your explore
+ 
+
+00:00:32.969 --> 00:00:36.620 align:start position:0%
+command line and explore your explore
+the<00:00:33.329><c> IP</c><00:00:33.750><c> LD</c><00:00:34.020><c> or</c><00:00:34.170><c> nodes</c><00:00:34.469><c> in</c><00:00:34.829><c> your</c><00:00:35.070><c> in</c><00:00:36.000><c> your</c><00:00:36.059><c> ipfs</c>
+
+00:00:36.620 --> 00:00:36.630 align:start position:0%
+the IP LD or nodes in your in your ipfs
+ 
+
+00:00:36.630 --> 00:00:47.979 align:start position:0%
+the IP LD or nodes in your in your ipfs
+repo<00:00:37.760><c> and</c><00:00:38.760><c> so</c><00:00:39.059><c> by</c><00:00:39.420><c> default</c><00:00:39.690><c> if</c><00:00:40.530><c> i</c><00:00:40.710><c> type</c><00:00:40.890><c> LS</c><00:00:41.070><c> then</c>
+
+00:00:47.979 --> 00:00:47.989 align:start position:0%
+ 
+ 
+
+00:00:47.989 --> 00:00:51.889 align:start position:0%
+ 
+so<00:00:48.989><c> i</c><00:00:49.020><c> by</c><00:00:49.649><c> default</c><00:00:50.010><c> it</c><00:00:50.160><c> just</c><00:00:50.399><c> drops</c><00:00:50.879><c> me</c><00:00:51.059><c> in</c><00:00:51.239><c> at</c><00:00:51.510><c> a</c>
+
+00:00:51.889 --> 00:00:51.899 align:start position:0%
+so i by default it just drops me in at a
+ 
+
+00:00:51.899 --> 00:00:55.910 align:start position:0%
+so i by default it just drops me in at a
+a<00:00:52.620><c> hash</c><00:00:53.219><c> that</c><00:00:53.910><c> we</c><00:00:54.510><c> that</c><00:00:54.930><c> we</c><00:00:55.079><c> know</c><00:00:55.230><c> is</c><00:00:55.410><c> local</c>
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+a hash that we that we know is local
+ 
+
+00:00:55.920 --> 00:00:57.860 align:start position:0%
+a hash that we that we know is local
+winds<00:00:56.160><c> there</c><00:00:56.399><c> and</c><00:00:56.610><c> by</c><00:00:56.850><c> default</c><00:00:57.030><c> it</c><00:00:57.390><c> just</c><00:00:57.600><c> gets</c>
+
+00:00:57.860 --> 00:00:57.870 align:start position:0%
+winds there and by default it just gets
+ 
+
+00:00:57.870 --> 00:01:00.170 align:start position:0%
+winds there and by default it just gets
+your<00:00:58.140><c> NFS</c><00:00:58.500><c> root</c><00:00:58.710><c> so</c><00:00:59.070><c> I'm</c><00:00:59.340><c> at</c><00:00:59.520><c> the</c><00:00:59.760><c> hash</c><00:00:59.910><c> which</c>
+
+00:01:00.170 --> 00:01:00.180 align:start position:0%
+your NFS root so I'm at the hash which
+ 
+
+00:01:00.180 --> 00:01:03.110 align:start position:0%
+your NFS root so I'm at the hash which
+is<00:01:00.329><c> of</c><00:01:00.539><c> my</c><00:01:00.780><c> current</c><00:01:01.140><c> EMFs</c><00:01:01.920><c> root</c><00:01:02.160><c> and</c><00:01:02.879><c> so</c><00:01:03.030><c> you</c>
+
+00:01:03.110 --> 00:01:03.120 align:start position:0%
+is of my current EMFs root and so you
+ 
+
+00:01:03.120 --> 00:01:04.399 align:start position:0%
+is of my current EMFs root and so you
+can<00:01:03.239><c> see</c><00:01:03.420><c> here</c><00:01:03.660><c> that</c><00:01:03.840><c> these</c><00:01:03.960><c> are</c><00:01:04.110><c> all</c><00:01:04.229><c> the</c>
+
+00:01:04.399 --> 00:01:04.409 align:start position:0%
+can see here that these are all the
+ 
+
+00:01:04.409 --> 00:01:06.940 align:start position:0%
+can see here that these are all the
+files<00:01:04.650><c> in</c><00:01:05.040><c> my</c><00:01:05.070><c> m</c><00:01:05.309><c> FS</c><00:01:05.549><c> root</c><00:01:05.880><c> which</c><00:01:06.420><c> is</c><00:01:06.450><c> mounted</c>
+
+00:01:06.940 --> 00:01:06.950 align:start position:0%
+files in my m FS root which is mounted
+ 
+
+00:01:06.950 --> 00:01:14.630 align:start position:0%
+files in my m FS root which is mounted
+using<00:01:07.950><c> IVFs</c><00:01:08.460><c> fuse</c><00:01:09.799><c> me</c><00:01:10.799><c> stack</c><00:01:11.299><c> and</c><00:01:12.680><c> so</c><00:01:13.680><c> we</c><00:01:14.430><c> can</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+using IVFs fuse me stack and so we can
+ 
+
+00:01:14.640 --> 00:01:16.670 align:start position:0%
+using IVFs fuse me stack and so we can
+so<00:01:14.850><c> we</c><00:01:14.939><c> can</c><00:01:15.060><c> do</c><00:01:15.180><c> stuff</c><00:01:15.240><c> like</c><00:01:15.420><c> CD</c><00:01:16.350><c> which</c><00:01:16.650><c> is</c>
+
+00:01:16.670 --> 00:01:16.680 align:start position:0%
+so we can do stuff like CD which is
+ 
+
+00:01:16.680 --> 00:01:21.710 align:start position:0%
+so we can do stuff like CD which is
+changed<00:01:17.340><c> dag</c><00:01:19.970><c> so</c><00:01:20.970><c> I</c><00:01:21.000><c> can</c><00:01:21.180><c> yeah</c><00:01:21.420><c> I</c><00:01:21.450><c> can</c><00:01:21.600><c> traverse</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+changed dag so I can yeah I can traverse
+ 
+
+00:01:21.720 --> 00:01:24.380 align:start position:0%
+changed dag so I can yeah I can traverse
+into<00:01:22.200><c> into</c><00:01:22.950><c> like</c><00:01:23.250><c> folders</c><00:01:23.640><c> and</c><00:01:23.939><c> stuff</c><00:01:24.180><c> and</c><00:01:24.330><c> I</c>
+
+00:01:24.380 --> 00:01:24.390 align:start position:0%
+into into like folders and stuff and I
+ 
+
+00:01:24.390 --> 00:01:25.789 align:start position:0%
+into into like folders and stuff and I
+can<00:01:24.509><c> actually</c><00:01:24.810><c> because</c><00:01:25.140><c> we're</c><00:01:25.350><c> changing</c><00:01:25.380><c> dag</c>
+
+00:01:25.789 --> 00:01:25.799 align:start position:0%
+can actually because we're changing dag
+ 
+
+00:01:25.799 --> 00:01:27.800 align:start position:0%
+can actually because we're changing dag
+not<00:01:25.979><c> directory</c><00:01:26.400><c> I</c><00:01:26.430><c> can</c><00:01:26.549><c> traverse</c><00:01:26.880><c> into</c><00:01:27.390><c> actual</c>
+
+00:01:27.800 --> 00:01:27.810 align:start position:0%
+not directory I can traverse into actual
+ 
+
+00:01:27.810 --> 00:01:31.010 align:start position:0%
+not directory I can traverse into actual
+files<00:01:28.280><c> and</c><00:01:29.280><c> list</c><00:01:29.909><c> out</c><00:01:30.090><c> links</c><00:01:30.450><c> in</c><00:01:30.600><c> them</c><00:01:30.810><c> and</c>
+
+00:01:31.010 --> 00:01:31.020 align:start position:0%
+files and list out links in them and
+ 
+
+00:01:31.020 --> 00:01:35.179 align:start position:0%
+files and list out links in them and
+I've<00:01:31.590><c> got</c><00:01:31.770><c> some</c><00:01:33.650><c> autocomplete</c><00:01:34.650><c> so</c><00:01:34.890><c> we</c><00:01:35.040><c> can</c>
+
+00:01:35.179 --> 00:01:35.189 align:start position:0%
+I've got some autocomplete so we can
+ 
+
+00:01:35.189 --> 00:01:37.929 align:start position:0%
+I've got some autocomplete so we can
+resolve<00:01:35.490><c> and</c><00:01:35.790><c> it</c><00:01:35.820><c> gives</c><00:01:36.030><c> it</c><00:01:36.240><c> tells</c><00:01:36.450><c> me</c><00:01:36.600><c> about</c>
+
+00:01:37.929 --> 00:01:37.939 align:start position:0%
+resolve and it gives it tells me about
+ 
+
+00:01:37.939 --> 00:01:39.920 align:start position:0%
+resolve and it gives it tells me about
+about<00:01:38.939><c> the</c><00:01:39.299><c> node</c><00:01:39.479><c> that</c><00:01:39.659><c> I'm</c><00:01:39.720><c> currently</c>
+
+00:01:39.920 --> 00:01:39.930 align:start position:0%
+about the node that I'm currently
+ 
+
+00:01:39.930 --> 00:01:42.230 align:start position:0%
+about the node that I'm currently
+looking<00:01:40.110><c> at</c><00:01:40.380><c> like</c><00:01:41.009><c> to</c><00:01:41.070><c> see</c><00:01:41.189><c> ID</c><00:01:41.340><c> to</c><00:01:41.490><c> size</c><00:01:41.729><c> the</c>
+
+00:01:42.230 --> 00:01:42.240 align:start position:0%
+looking at like to see ID to size the
+ 
+
+00:01:42.240 --> 00:01:45.319 align:start position:0%
+looking at like to see ID to size the
+data<00:01:42.450><c> and</c><00:01:42.840><c> the</c><00:01:43.200><c> links</c><00:01:43.439><c> that</c><00:01:43.500><c> are</c><00:01:43.590><c> in</c><00:01:43.680><c> there</c><00:01:44.329><c> so</c>
+
+00:01:45.319 --> 00:01:45.329 align:start position:0%
+data and the links that are in there so
+ 
+
+00:01:45.329 --> 00:01:47.840 align:start position:0%
+data and the links that are in there so
+you<00:01:45.390><c> can</c><00:01:45.600><c> see</c><00:01:45.920><c> and</c><00:01:46.920><c> so</c><00:01:47.159><c> that's</c><00:01:47.310><c> my</c><00:01:47.430><c> current</c><00:01:47.670><c> m</c>
+
+00:01:47.840 --> 00:01:47.850 align:start position:0%
+you can see and so that's my current m
+ 
+
+00:01:47.850 --> 00:01:50.630 align:start position:0%
+you can see and so that's my current m
+FS<00:01:48.119><c> route</c><00:01:48.390><c> if</c><00:01:48.570><c> I</c><00:01:49.079><c> if</c><00:01:49.409><c> I</c><00:01:49.619><c> then</c><00:01:49.829><c> like</c><00:01:50.250><c> added</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+FS route if I if I then like added
+ 
+
+00:01:50.640 --> 00:01:52.819 align:start position:0%
+FS route if I if I then like added
+something<00:01:50.850><c> to</c><00:01:51.000><c> em</c><00:01:51.509><c> FS</c><00:01:51.720><c> or</c><00:01:51.899><c> a</c><00:01:51.990><c> change</c><00:01:52.350><c> that</c><00:01:52.649><c> if</c><00:01:52.740><c> I</c>
+
+00:01:52.819 --> 00:01:52.829 align:start position:0%
+something to em FS or a change that if I
+ 
+
+00:01:52.829 --> 00:01:57.080 align:start position:0%
+something to em FS or a change that if I
+changed<00:01:53.159><c> if</c><00:01:53.280><c> I</c><00:01:53.369><c> rename</c><00:01:53.700><c> something</c><00:01:54.149><c> like</c><00:01:54.750><c> that</c>
+
+00:01:57.080 --> 00:01:57.090 align:start position:0%
+changed if I rename something like that
+ 
+
+00:01:57.090 --> 00:01:59.480 align:start position:0%
+changed if I rename something like that
+then<00:01:57.450><c> if</c><00:01:57.780><c> I</c><00:01:58.259><c> CD</c><00:01:58.619><c> again</c><00:01:58.920><c> I</c><00:01:59.189><c> get</c><00:01:59.430><c> a</c><00:01:59.460><c> different</c>
+
+00:01:59.480 --> 00:01:59.490 align:start position:0%
+then if I CD again I get a different
+ 
+
+00:01:59.490 --> 00:02:01.700 align:start position:0%
+then if I CD again I get a different
+hash<00:02:00.450><c> because</c><00:02:00.689><c> everything's</c><00:02:01.439><c> like</c>
+
+00:02:01.700 --> 00:02:01.710 align:start position:0%
+hash because everything's like
+ 
+
+00:02:01.710 --> 00:02:04.310 align:start position:0%
+hash because everything's like
+propagated<00:02:02.189><c> through</c><00:02:02.399><c> and</c><00:02:02.750><c> we</c><00:02:03.750><c> get</c><00:02:03.960><c> we've</c><00:02:04.170><c> got</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+propagated through and we get we've got
+ 
+
+00:02:04.320 --> 00:02:06.649 align:start position:0%
+propagated through and we get we've got
+a<00:02:04.350><c> different</c><00:02:04.619><c> root</c><00:02:04.740><c> node</c><00:02:04.950><c> now</c><00:02:05.210><c> but</c><00:02:06.210><c> I'm</c><00:02:06.390><c> still</c>
+
+00:02:06.649 --> 00:02:06.659 align:start position:0%
+a different root node now but I'm still
+ 
+
+00:02:06.659 --> 00:02:10.010 align:start position:0%
+a different root node now but I'm still
+looking<00:02:06.930><c> at</c><00:02:07.020><c> my</c><00:02:07.140><c> NFS</c><00:02:07.500><c> and</c><00:02:08.280><c> my</c><00:02:09.060><c> file</c><00:02:09.660><c> name</c>
+
+00:02:10.010 --> 00:02:10.020 align:start position:0%
+looking at my NFS and my file name
+ 
+
+00:02:10.020 --> 00:02:13.350 align:start position:0%
+looking at my NFS and my file name
+changes
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+ 
+ 
+
+00:02:13.360 --> 00:02:16.630 align:start position:0%
+ 
+cool<00:02:14.390><c> so</c><00:02:15.260><c> with</c><00:02:15.530><c> these</c><00:02:15.710><c> earth</c><00:02:15.950><c> so</c><00:02:16.190><c> you've</c><00:02:16.430><c> seen</c>
+
+00:02:16.630 --> 00:02:16.640 align:start position:0%
+cool so with these earth so you've seen
+ 
+
+00:02:16.640 --> 00:02:19.720 align:start position:0%
+cool so with these earth so you've seen
+that<00:02:17.090><c> this</c><00:02:17.420><c> looks</c><00:02:18.100><c> I</c><00:02:19.100><c> said</c><00:02:19.310><c> that</c><00:02:19.430><c> this</c><00:02:19.490><c> is</c><00:02:19.550><c> an</c>
+
+00:02:19.720 --> 00:02:19.730 align:start position:0%
+that this looks I said that this is an
+ 
+
+00:02:19.730 --> 00:02:22.720 align:start position:0%
+that this looks I said that this is an
+IPL<00:02:20.030><c> the</c><00:02:20.180><c> Explorer</c><00:02:20.540><c> and</c><00:02:21.260><c> we've</c><00:02:22.130><c> we're</c>
+
+00:02:22.720 --> 00:02:22.730 align:start position:0%
+IPL the Explorer and we've we're
+ 
+
+00:02:22.730 --> 00:02:24.610 align:start position:0%
+IPL the Explorer and we've we're
+basically<00:02:22.940><c> looking</c><00:02:23.180><c> at</c><00:02:23.420><c> protobuf</c><00:02:24.200><c> tag</c><00:02:24.380><c> nodes</c>
+
+00:02:24.610 --> 00:02:24.620 align:start position:0%
+basically looking at protobuf tag nodes
+ 
+
+00:02:24.620 --> 00:02:26.530 align:start position:0%
+basically looking at protobuf tag nodes
+at<00:02:24.830><c> the</c><00:02:24.860><c> moment</c><00:02:25.190><c> because</c><00:02:26.090><c> we're</c><00:02:26.330><c> looking</c><00:02:26.390><c> for</c>
+
+00:02:26.530 --> 00:02:26.540 align:start position:0%
+at the moment because we're looking for
+ 
+
+00:02:26.540 --> 00:02:30.940 align:start position:0%
+at the moment because we're looking for
+MF<00:02:26.900><c> s</c><00:02:27.080><c> so</c><00:02:27.790><c> what</c><00:02:28.790><c> we</c><00:02:28.910><c> should</c><00:02:28.970><c> do</c><00:02:29.540><c> is</c><00:02:29.810><c> make</c><00:02:30.680><c> some</c>
+
+00:02:30.940 --> 00:02:30.950 align:start position:0%
+MF s so what we should do is make some
+ 
+
+00:02:30.950 --> 00:02:33.370 align:start position:0%
+MF s so what we should do is make some
+like<00:02:31.460><c> C</c><00:02:31.910><c> ball</c><00:02:32.090><c> nodes</c><00:02:32.330><c> or</c><00:02:32.540><c> something</c><00:02:32.870><c> and</c><00:02:33.110><c> then</c>
+
+00:02:33.370 --> 00:02:33.380 align:start position:0%
+like C ball nodes or something and then
+ 
+
+00:02:33.380 --> 00:02:44.130 align:start position:0%
+like C ball nodes or something and then
+explore<00:02:33.770><c> them</c><00:02:34.180><c> how</c><00:02:35.180><c> do</c><00:02:35.240><c> we</c><00:02:35.390><c> feel</c><00:02:38.080><c> so</c><00:02:39.080><c> I</c><00:02:39.110><c> can</c>
+
+00:02:44.130 --> 00:02:44.140 align:start position:0%
+ 
+ 
+
+00:02:44.140 --> 00:02:48.130 align:start position:0%
+ 
+let's<00:02:45.140><c> echo</c><00:02:45.830><c> a</c><00:02:46.100><c> so</c><00:02:46.520><c> if</c><00:02:46.730><c> I</c><00:02:46.850><c> create</c><00:02:47.210><c> a</c><00:02:47.360><c> node</c><00:02:47.690><c> let's</c>
+
+00:02:48.130 --> 00:02:48.140 align:start position:0%
+let's echo a so if I create a node let's
+ 
+
+00:02:48.140 --> 00:02:56.460 align:start position:0%
+let's echo a so if I create a node let's
+say<00:02:49.480><c> just</c><00:02:50.480><c> testing</c><00:02:51.670><c> testing</c>
+
+00:02:56.460 --> 00:02:56.470 align:start position:0%
+ 
+ 
+
+00:02:56.470 --> 00:03:00.340 align:start position:0%
+ 
+yes<00:02:57.470><c> good</c><00:02:57.950><c> I</c><00:02:58.220><c> get</c><00:02:58.670><c> it</c><00:02:58.760><c> I</c><00:02:58.850><c> get</c><00:02:58.910><c> some</c><00:02:59.120><c> hash</c><00:02:59.350><c> which</c>
+
+00:03:00.340 --> 00:03:00.350 align:start position:0%
+yes good I get it I get some hash which
+ 
+
+00:03:00.350 --> 00:03:10.600 align:start position:0%
+yes good I get it I get some hash which
+is<00:03:00.440><c> good</c><00:03:04.120><c> so</c><00:03:05.120><c> CD</c><00:03:06.160><c> CD</c><00:03:07.160><c> into</c><00:03:07.490><c> their</c><00:03:09.100><c> resolve</c><00:03:10.100><c> is</c>
+
+00:03:10.600 --> 00:03:10.610 align:start position:0%
+is good so CD CD into their resolve is
+ 
+
+00:03:10.610 --> 00:03:12.130 align:start position:0%
+is good so CD CD into their resolve is
+to<00:03:10.790><c> see</c><00:03:11.060><c> what</c><00:03:11.210><c> diagnosis</c><00:03:11.600><c> got</c><00:03:11.750><c> something</c><00:03:12.050><c> in</c>
+
+00:03:12.130 --> 00:03:12.140 align:start position:0%
+to see what diagnosis got something in
+ 
+
+00:03:12.140 --> 00:03:15.220 align:start position:0%
+to see what diagnosis got something in
+it<00:03:12.260><c> that's</c><00:03:12.980><c> right</c><00:03:13.580><c> I</c><00:03:13.820><c> can</c><00:03:14.150><c> also</c><00:03:14.270><c> cause</c><00:03:14.750><c> I</c><00:03:15.020><c> can</c>
+
+00:03:15.220 --> 00:03:15.230 align:start position:0%
+it that's right I can also cause I can
+ 
+
+00:03:15.230 --> 00:03:18.670 align:start position:0%
+it that's right I can also cause I can
+say<00:03:15.440><c> CD</c><00:03:15.800><c> into</c><00:03:16.010><c> test</c><00:03:16.310><c> and</c><00:03:16.700><c> then</c><00:03:17.530><c> resolve</c><00:03:18.530><c> that</c>
+
+00:03:18.670 --> 00:03:18.680 align:start position:0%
+say CD into test and then resolve that
+ 
+
+00:03:18.680 --> 00:03:22.180 align:start position:0%
+say CD into test and then resolve that
+that's<00:03:18.980><c> the</c><00:03:19.220><c> data</c><00:03:19.400><c> is</c><00:03:19.700><c> a</c><00:03:19.970><c> string</c><00:03:20.960><c> thing</c><00:03:21.320><c> which</c>
+
+00:03:22.180 --> 00:03:22.190 align:start position:0%
+that's the data is a string thing which
+ 
+
+00:03:22.190 --> 00:03:25.450 align:start position:0%
+that's the data is a string thing which
+is<00:03:22.340><c> cool</c><00:03:23.050><c> but</c><00:03:24.050><c> then</c><00:03:24.290><c> we</c><00:03:24.680><c> can</c><00:03:24.830><c> do</c><00:03:24.920><c> more</c>
+
+00:03:25.450 --> 00:03:25.460 align:start position:0%
+is cool but then we can do more
+ 
+
+00:03:25.460 --> 00:03:28.330 align:start position:0%
+is cool but then we can do more
+interesting<00:03:25.640><c> stuff</c><00:03:25.970><c> is</c><00:03:26.210><c> to</c><00:03:26.390><c> do</c><00:03:26.480><c> like</c><00:03:27.310><c> create</c><00:03:28.310><c> a</c>
+
+00:03:28.330 --> 00:03:28.340 align:start position:0%
+interesting stuff is to do like create a
+ 
+
+00:03:28.340 --> 00:03:34.060 align:start position:0%
+interesting stuff is to do like create a
+dag<00:03:28.520><c> note</c><00:03:28.700><c> that</c><00:03:28.880><c> links</c><00:03:29.120><c> to</c><00:03:29.240><c> that</c><00:03:29.360><c> diagnose</c><00:03:33.070><c> I'm</c>
+
+00:03:34.060 --> 00:03:34.070 align:start position:0%
+dag note that links to that diagnose I'm
+ 
+
+00:03:34.070 --> 00:03:36.760 align:start position:0%
+dag note that links to that diagnose I'm
+gonna<00:03:34.310><c> use</c><00:03:34.730><c> the</c><00:03:34.940><c> traditional</c><00:03:35.770><c> program</c>
+
+00:03:36.760 --> 00:03:36.770 align:start position:0%
+gonna use the traditional program
+ 
+
+00:03:36.770 --> 00:03:42.430 align:start position:0%
+gonna use the traditional program
+thingies<00:03:39.040><c> and</c><00:03:40.040><c> so</c><00:03:40.220><c> a</c><00:03:40.430><c> link</c><00:03:40.670><c> see</c><00:03:41.510><c> a</c><00:03:41.840><c> link</c><00:03:42.110><c> and</c><00:03:42.350><c> IP</c>
+
+00:03:42.430 --> 00:03:42.440 align:start position:0%
+thingies and so a link see a link and IP
+ 
+
+00:03:42.440 --> 00:03:45.900 align:start position:0%
+thingies and so a link see a link and IP
+OD<00:03:42.740><c> pink</c><00:03:43.340><c> in</c><00:03:43.700><c> JSON</c><00:03:44.600><c> format</c>
+
+00:03:45.900 --> 00:03:45.910 align:start position:0%
+OD pink in JSON format
+ 
+
+00:03:45.910 --> 00:03:53.440 align:start position:0%
+OD pink in JSON format
+oh<00:03:50.650><c> so</c><00:03:51.650><c> we</c><00:03:51.740><c> can</c><00:03:51.860><c> have</c><00:03:51.950><c> like</c><00:03:52.160><c> some</c><00:03:52.700><c> link</c><00:03:52.910><c> data</c><00:03:53.090><c> in</c>
+
+00:03:53.440 --> 00:03:53.450 align:start position:0%
+oh so we can have like some link data in
+ 
+
+00:03:53.450 --> 00:03:55.390 align:start position:0%
+oh so we can have like some link data in
+our<00:03:53.660><c> seaboard</c><00:03:54.080><c> node</c><00:03:54.320><c> and</c><00:03:54.680><c> I</c><00:03:54.890><c> can</c><00:03:55.040><c> also</c><00:03:55.220><c> have</c>
+
+00:03:55.390 --> 00:03:55.400 align:start position:0%
+our seaboard node and I can also have
+ 
+
+00:03:55.400 --> 00:04:07.730 align:start position:0%
+our seaboard node and I can also have
+some<00:03:55.460><c> like</c><00:03:56.030><c> data</c><00:03:56.480><c> data</c><00:03:56.860><c> which</c><00:03:57.860><c> could</c><00:03:58.040><c> be</c><00:03:58.220><c> like</c>
+
+00:04:07.730 --> 00:04:07.740 align:start position:0%
+ 
+ 
+
+00:04:07.740 --> 00:04:20.060 align:start position:0%
+ 
+I<00:04:08.150><c> prepared</c><00:04:09.150><c> this</c><00:04:13.160><c> tag</c><00:04:14.900><c> put</c><00:04:18.680><c> where</c><00:04:19.680><c> did</c><00:04:19.799><c> that</c><00:04:19.890><c> h</c>
+
+00:04:20.060 --> 00:04:20.070 align:start position:0%
+I prepared this tag put where did that h
+ 
+
+00:04:20.070 --> 00:04:25.220 align:start position:0%
+I prepared this tag put where did that h
+come<00:04:20.340><c> from</c><00:04:20.519><c> oh</c><00:04:21.200><c> no</c><00:04:22.430><c> thanks</c><00:04:23.430><c> I</c><00:04:23.840><c> need</c><00:04:24.840><c> you</c><00:04:24.990><c> to</c><00:04:25.140><c> be</c>
+
+00:04:25.220 --> 00:04:25.230 align:start position:0%
+come from oh no thanks I need you to be
+ 
+
+00:04:25.230 --> 00:04:33.800 align:start position:0%
+come from oh no thanks I need you to be
+my<00:04:25.380><c> linter</c><00:04:31.820><c> okay</c><00:04:32.820><c> so</c><00:04:32.880><c> now</c><00:04:33.180><c> we've</c><00:04:33.330><c> got</c><00:04:33.360><c> now</c>
+
+00:04:33.800 --> 00:04:33.810 align:start position:0%
+my linter okay so now we've got now
+ 
+
+00:04:33.810 --> 00:04:34.940 align:start position:0%
+my linter okay so now we've got now
+we've<00:04:33.930><c> got</c><00:04:34.020><c> a</c><00:04:34.050><c> new</c><00:04:34.200><c> node</c><00:04:34.410><c> which</c><00:04:34.710><c> hopefully</c>
+
+00:04:34.940 --> 00:04:34.950 align:start position:0%
+we've got a new node which hopefully
+ 
+
+00:04:34.950 --> 00:04:36.470 align:start position:0%
+we've got a new node which hopefully
+links<00:04:35.370><c> to</c><00:04:35.460><c> that</c><00:04:35.580><c> other</c><00:04:35.670><c> node</c><00:04:35.940><c> that</c><00:04:36.090><c> I</c><00:04:36.150><c> created</c>
+
+00:04:36.470 --> 00:04:36.480 align:start position:0%
+links to that other node that I created
+ 
+
+00:04:36.480 --> 00:04:39.080 align:start position:0%
+links to that other node that I created
+so<00:04:36.840><c> if</c><00:04:37.740><c> I</c><00:04:37.800><c> switch</c><00:04:38.010><c> back</c><00:04:38.040><c> to</c><00:04:38.220><c> that</c><00:04:38.310><c> and</c><00:04:38.550><c> change</c>
+
+00:04:39.080 --> 00:04:39.090 align:start position:0%
+so if I switch back to that and change
+ 
+
+00:04:39.090 --> 00:04:42.710 align:start position:0%
+so if I switch back to that and change
+dag<00:04:39.390><c> into</c><00:04:39.870><c> that</c><00:04:40.020><c> node</c><00:04:40.490><c> and</c><00:04:41.490><c> resolve</c><00:04:42.300><c> it</c><00:04:42.510><c> so</c>
+
+00:04:42.710 --> 00:04:42.720 align:start position:0%
+dag into that node and resolve it so
+ 
+
+00:04:42.720 --> 00:04:46.190 align:start position:0%
+dag into that node and resolve it so
+look<00:04:42.900><c> great</c><00:04:43.230><c> so</c><00:04:44.040><c> I've</c><00:04:44.130><c> got</c><00:04:44.310><c> this</c><00:04:44.870><c> foo</c><00:04:45.870><c> is</c>
+
+00:04:46.190 --> 00:04:46.200 align:start position:0%
+look great so I've got this foo is
+ 
+
+00:04:46.200 --> 00:04:47.540 align:start position:0%
+look great so I've got this foo is
+another<00:04:46.590><c> Seaborn</c><00:04:47.340><c> ID</c>
+
+00:04:47.540 --> 00:04:47.550 align:start position:0%
+another Seaborn ID
+ 
+
+00:04:47.550 --> 00:04:49.580 align:start position:0%
+another Seaborn ID
+oh<00:04:47.580><c> wait</c><00:04:48.000><c> no</c><00:04:48.240><c> we</c><00:04:48.360><c> should</c><00:04:48.510><c> put</c><00:04:48.660><c> a</c><00:04:48.810><c> dag</c><00:04:49.050><c> PB</c><00:04:49.410><c> node</c>
+
+00:04:49.580 --> 00:04:49.590 align:start position:0%
+oh wait no we should put a dag PB node
+ 
+
+00:04:49.590 --> 00:04:52.850 align:start position:0%
+oh wait no we should put a dag PB node
+in<00:04:49.770><c> it</c><00:04:49.890><c> right</c><00:04:50.540><c> so</c><00:04:51.540><c> if</c><00:04:52.050><c> I</c><00:04:52.290><c> just</c><00:04:52.440><c> take</c><00:04:52.650><c> one</c><00:04:52.710><c> of</c>
+
+00:04:52.850 --> 00:04:52.860 align:start position:0%
+in it right so if I just take one of
+ 
+
+00:04:52.860 --> 00:04:57.590 align:start position:0%
+in it right so if I just take one of
+these<00:04:54.110><c> okay</c><00:04:55.110><c> let's</c><00:04:55.800><c> do</c><00:04:55.950><c> that</c><00:04:56.130><c> because</c><00:04:57.120><c> then</c><00:04:57.540><c> I</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+these okay let's do that because then I
+ 
+
+00:04:57.600 --> 00:05:00.770 align:start position:0%
+these okay let's do that because then I
+can<00:04:57.750><c> traverse</c><00:04:57.930><c> through</c><00:04:58.350><c> like</c><00:04:58.830><c> others</c><00:04:59.510><c> so</c><00:05:00.510><c> this</c>
+
+00:05:00.770 --> 00:05:00.780 align:start position:0%
+can traverse through like others so this
+ 
+
+00:05:00.780 --> 00:05:06.140 align:start position:0%
+can traverse through like others so this
+is<00:05:00.960><c> I'm</c><00:05:01.320><c> gonna</c><00:05:01.500><c> put</c><00:05:01.650><c> in</c><00:05:01.800><c> a</c><00:05:02.630><c> PB</c><00:05:04.490><c> which</c><00:05:05.490><c> is</c><00:05:05.669><c> a</c><00:05:05.880><c> link</c>
+
+00:05:06.140 --> 00:05:06.150 align:start position:0%
+is I'm gonna put in a PB which is a link
+ 
+
+00:05:06.150 --> 00:05:20.120 align:start position:0%
+is I'm gonna put in a PB which is a link
+to<00:05:06.390><c> a</c><00:05:06.419><c> PB</c><00:05:06.960><c> node</c><00:05:18.350><c> and</c><00:05:19.350><c> then</c><00:05:19.470><c> so</c><00:05:19.710><c> now</c><00:05:19.830><c> we've</c><00:05:19.980><c> got</c>
+
+00:05:20.120 --> 00:05:20.130 align:start position:0%
+to a PB node and then so now we've got
+ 
+
+00:05:20.130 --> 00:05:22.520 align:start position:0%
+to a PB node and then so now we've got
+two<00:05:20.280><c> links</c><00:05:20.430><c> which</c><00:05:20.640><c> one</c><00:05:20.910><c> of</c><00:05:20.940><c> them</c><00:05:21.120><c> is</c><00:05:21.270><c> a</c><00:05:21.540><c> probe</c>
+
+00:05:22.520 --> 00:05:22.530 align:start position:0%
+two links which one of them is a probe
+ 
+
+00:05:22.530 --> 00:05:23.900 align:start position:0%
+two links which one of them is a probe
+of<00:05:22.710><c> stagnating</c><00:05:23.160><c> one</c><00:05:23.280><c> under</c><00:05:23.460><c> the</c><00:05:23.580><c> sea</c><00:05:23.729><c> wall</c>
+
+00:05:23.900 --> 00:05:23.910 align:start position:0%
+of stagnating one under the sea wall
+ 
+
+00:05:23.910 --> 00:05:26.409 align:start position:0%
+of stagnating one under the sea wall
+diagnose<00:05:24.450><c> one</c><00:05:24.630><c> of</c><00:05:24.720><c> them</c><00:05:24.810><c> is</c><00:05:24.930><c> actual</c><00:05:25.200><c> data</c>
+
+00:05:26.409 --> 00:05:26.419 align:start position:0%
+diagnose one of them is actual data
+ 
+
+00:05:26.419 --> 00:05:29.240 align:start position:0%
+diagnose one of them is actual data
+that's<00:05:27.419><c> a</c><00:05:27.450><c> better</c><00:05:27.600><c> view</c><00:05:27.840><c> of</c><00:05:27.930><c> it</c><00:05:28.080><c> and</c><00:05:28.890><c> then</c><00:05:29.130><c> we</c>
+
+00:05:29.240 --> 00:05:29.250 align:start position:0%
+that's a better view of it and then we
+ 
+
+00:05:29.250 --> 00:05:30.830 align:start position:0%
+that's a better view of it and then we
+should<00:05:29.460><c> be</c><00:05:29.550><c> able</c><00:05:29.669><c> to</c><00:05:29.790><c> just</c><00:05:30.060><c> reverse</c><00:05:30.360><c> into</c><00:05:30.720><c> it</c>
+
+00:05:30.830 --> 00:05:30.840 align:start position:0%
+should be able to just reverse into it
+ 
+
+00:05:30.840 --> 00:05:34.659 align:start position:0%
+should be able to just reverse into it
+so<00:05:30.990><c> if</c><00:05:31.080><c> I</c><00:05:31.169><c> CD</c><00:05:31.530><c> into</c><00:05:31.950><c> food</c><00:05:32.340><c> then</c><00:05:32.820><c> I'm</c><00:05:33.180><c> here</c><00:05:33.620><c> and</c>
+
+00:05:34.659 --> 00:05:34.669 align:start position:0%
+so if I CD into food then I'm here and
+ 
+
+00:05:34.669 --> 00:06:01.430 align:start position:0%
+so if I CD into food then I'm here and
+yeah<00:05:45.590><c> no</c><00:05:51.710><c> one's</c><00:05:52.710><c> a</c><00:05:52.860><c> PB</c><00:05:59.390><c> cool</c><00:06:00.390><c> and</c><00:06:01.200><c> that's</c>
+
+00:06:01.430 --> 00:06:01.440 align:start position:0%
+yeah no one's a PB cool and that's
+ 
+
+00:06:01.440 --> 00:06:02.659 align:start position:0%
+yeah no one's a PB cool and that's
+basically<00:06:01.710><c> it</c><00:06:01.830><c> you</c><00:06:01.919><c> can</c><00:06:02.130><c> just</c><00:06:02.250><c> mess</c><00:06:02.340><c> around</c><00:06:02.370><c> of</c>
+
+00:06:02.659 --> 00:06:02.669 align:start position:0%
+basically it you can just mess around of
+ 
+
+00:06:02.669 --> 00:06:08.930 align:start position:0%
+basically it you can just mess around of
+it<00:06:05.390><c> explore</c><00:06:06.390><c> explore</c><00:06:07.140><c> your</c><00:06:07.380><c> DAGs</c><00:06:07.590><c> in</c><00:06:07.950><c> UCLA</c><00:06:08.640><c> and</c>
+
+00:06:08.930 --> 00:06:08.940 align:start position:0%
+it explore explore your DAGs in UCLA and
+ 
+
+00:06:08.940 --> 00:06:13.170 align:start position:0%
+it explore explore your DAGs in UCLA and
+and<00:06:09.780><c> have</c><00:06:10.410><c> some</c><00:06:10.560><c> fun</c>
+
+00:06:13.170 --> 00:06:13.180 align:start position:0%
+ 
+ 
+
+00:06:13.180 --> 00:06:16.290 align:start position:0%
+ 
+[Applause]
+

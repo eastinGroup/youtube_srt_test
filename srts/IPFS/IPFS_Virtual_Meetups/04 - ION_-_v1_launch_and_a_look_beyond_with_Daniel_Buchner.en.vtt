@@ -1,0 +1,3536 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:09.280 --> 00:00:10.870 align:start position:0%
+ 
+today<00:00:09.519><c> we're</c><00:00:09.679><c> going</c><00:00:09.760><c> to</c><00:00:09.840><c> talk</c><00:00:10.000><c> about</c><00:00:10.320><c> ion</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+today we're going to talk about ion
+ 
+
+00:00:10.880 --> 00:00:12.950 align:start position:0%
+today we're going to talk about ion
+it's<00:00:11.120><c> this</c><00:00:11.679><c> decentralized</c><00:00:12.400><c> identifier</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+it's this decentralized identifier
+ 
+
+00:00:12.960 --> 00:00:14.629 align:start position:0%
+it's this decentralized identifier
+implementation
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+implementation
+ 
+
+00:00:14.639 --> 00:00:17.590 align:start position:0%
+implementation
+runs<00:00:14.880><c> on</c><00:00:14.960><c> bitcoin</c><00:00:15.519><c> but</c><00:00:16.000><c> importantly</c><00:00:16.640><c> for</c><00:00:16.880><c> this</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+runs on bitcoin but importantly for this
+ 
+
+00:00:17.600 --> 00:00:19.670 align:start position:0%
+runs on bitcoin but importantly for this
+uh<00:00:17.840><c> discussion</c><00:00:18.400><c> in</c><00:00:18.480><c> this</c><00:00:18.720><c> group</c><00:00:19.039><c> is</c><00:00:19.199><c> the</c><00:00:19.359><c> fact</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+uh discussion in this group is the fact
+ 
+
+00:00:19.680 --> 00:00:20.710 align:start position:0%
+uh discussion in this group is the fact
+that<00:00:19.920><c> within</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+that within
+ 
+
+00:00:20.720 --> 00:00:23.269 align:start position:0%
+that within
+uh<00:00:20.880><c> the</c><00:00:21.039><c> implementation</c><00:00:21.920><c> the</c><00:00:22.400><c> file</c><00:00:22.880><c> transfer</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+uh the implementation the file transfer
+ 
+
+00:00:23.279 --> 00:00:25.029 align:start position:0%
+uh the implementation the file transfer
+replication<00:00:23.840><c> protocol</c><00:00:24.320><c> it</c><00:00:24.400><c> relies</c><00:00:24.720><c> on</c><00:00:24.880><c> is</c>
+
+00:00:25.029 --> 00:00:25.039 align:start position:0%
+replication protocol it relies on is
+ 
+
+00:00:25.039 --> 00:00:26.150 align:start position:0%
+replication protocol it relies on is
+ipfs
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+ipfs
+ 
+
+00:00:26.160 --> 00:00:28.390 align:start position:0%
+ipfs
+um<00:00:26.560><c> so</c><00:00:27.119><c> we'll</c><00:00:27.279><c> talk</c><00:00:27.519><c> a</c><00:00:27.519><c> little</c><00:00:27.680><c> bit</c><00:00:27.840><c> about</c><00:00:28.000><c> that</c>
+
+00:00:28.390 --> 00:00:28.400 align:start position:0%
+um so we'll talk a little bit about that
+ 
+
+00:00:28.400 --> 00:00:30.470 align:start position:0%
+um so we'll talk a little bit about that
+how<00:00:28.560><c> that</c><00:00:28.800><c> works</c><00:00:29.119><c> as</c><00:00:29.279><c> well</c><00:00:29.439><c> as</c><00:00:29.920><c> identity</c><00:00:30.320><c> and</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+how that works as well as identity and
+ 
+
+00:00:30.480 --> 00:00:31.429 align:start position:0%
+how that works as well as identity and
+iron<00:00:30.800><c> in</c><00:00:30.880><c> general</c>
+
+00:00:31.429 --> 00:00:31.439 align:start position:0%
+iron in general
+ 
+
+00:00:31.439 --> 00:00:34.069 align:start position:0%
+iron in general
+um<00:00:31.679><c> maybe</c><00:00:31.920><c> you</c><00:00:32.079><c> want</c><00:00:32.160><c> to</c><00:00:32.239><c> get</c><00:00:32.399><c> involved</c><00:00:33.760><c> so</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+um maybe you want to get involved so
+ 
+
+00:00:34.079 --> 00:00:34.870 align:start position:0%
+um maybe you want to get involved so
+first<00:00:34.399><c> question</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+first question
+ 
+
+00:00:34.880 --> 00:00:38.069 align:start position:0%
+first question
+to<00:00:35.360><c> answer</c><00:00:35.760><c> is</c><00:00:35.840><c> what</c><00:00:36.000><c> is</c><00:00:36.160><c> identity</c><00:00:36.719><c> right</c><00:00:37.360><c> so</c>
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+to answer is what is identity right so
+ 
+
+00:00:38.079 --> 00:00:39.590 align:start position:0%
+to answer is what is identity right so
+it's<00:00:38.320><c> sort</c><00:00:38.480><c> of</c><00:00:38.559><c> a</c><00:00:38.640><c> notoriously</c><00:00:39.280><c> difficult</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+it's sort of a notoriously difficult
+ 
+
+00:00:39.600 --> 00:00:41.190 align:start position:0%
+it's sort of a notoriously difficult
+thing<00:00:39.840><c> to</c><00:00:40.160><c> define</c><00:00:40.719><c> but</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+thing to define but
+ 
+
+00:00:41.200 --> 00:00:42.790 align:start position:0%
+thing to define but
+i<00:00:41.280><c> want</c><00:00:41.440><c> to</c><00:00:41.520><c> give</c><00:00:41.760><c> a</c><00:00:41.920><c> definition</c><00:00:42.399><c> that</c><00:00:42.480><c> i</c><00:00:42.559><c> think</c>
+
+00:00:42.790 --> 00:00:42.800 align:start position:0%
+i want to give a definition that i think
+ 
+
+00:00:42.800 --> 00:00:44.310 align:start position:0%
+i want to give a definition that i think
+should<00:00:43.040><c> cover</c><00:00:43.280><c> it</c><00:00:43.440><c> all</c><00:00:43.600><c> because</c><00:00:43.840><c> it's</c><00:00:44.160><c> because</c>
+
+00:00:44.310 --> 00:00:44.320 align:start position:0%
+should cover it all because it's because
+ 
+
+00:00:44.320 --> 00:00:45.350 align:start position:0%
+should cover it all because it's because
+it's<00:00:44.559><c> everything</c>
+
+00:00:45.350 --> 00:00:45.360 align:start position:0%
+it's everything
+ 
+
+00:00:45.360 --> 00:00:47.270 align:start position:0%
+it's everything
+um<00:00:45.920><c> identities</c><00:00:46.399><c> everything</c><00:00:46.719><c> around</c><00:00:46.960><c> you</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+um identities everything around you
+ 
+
+00:00:47.280 --> 00:00:48.950 align:start position:0%
+um identities everything around you
+right<00:00:47.520><c> like</c><00:00:47.840><c> literally</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+right like literally
+ 
+
+00:00:48.960 --> 00:00:51.430 align:start position:0%
+right like literally
+everything<00:00:49.680><c> other</c><00:00:50.000><c> than</c><00:00:50.160><c> money</c><00:00:50.640><c> uh</c><00:00:50.960><c> probably</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+everything other than money uh probably
+ 
+
+00:00:51.440 --> 00:00:52.869 align:start position:0%
+everything other than money uh probably
+you<00:00:51.520><c> could</c><00:00:51.760><c> you</c><00:00:51.920><c> could</c><00:00:52.079><c> argue</c>
+
+00:00:52.869 --> 00:00:52.879 align:start position:0%
+you could you could argue
+ 
+
+00:00:52.879 --> 00:00:54.389 align:start position:0%
+you could you could argue
+uh<00:00:53.120><c> in</c><00:00:53.280><c> the</c><00:00:53.360><c> sense</c><00:00:53.600><c> that</c><00:00:53.760><c> it's</c><00:00:54.000><c> everything</c><00:00:54.239><c> you</c>
+
+00:00:54.389 --> 00:00:54.399 align:start position:0%
+uh in the sense that it's everything you
+ 
+
+00:00:54.399 --> 00:00:55.990 align:start position:0%
+uh in the sense that it's everything you
+say<00:00:54.719><c> do</c><00:00:54.879><c> you</c><00:00:55.039><c> think</c><00:00:55.360><c> experience</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+say do you think experience
+ 
+
+00:00:56.000 --> 00:00:57.830 align:start position:0%
+say do you think experience
+express<00:00:56.480><c> your</c><00:00:56.640><c> political</c><00:00:57.120><c> views</c><00:00:57.440><c> your</c><00:00:57.600><c> app</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+express your political views your app
+ 
+
+00:00:57.840 --> 00:00:59.830 align:start position:0%
+express your political views your app
+data<00:00:58.320><c> like</c><00:00:58.800><c> anything</c><00:00:59.280><c> in</c><00:00:59.359><c> the</c><00:00:59.440><c> world</c><00:00:59.680><c> that</c>
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+data like anything in the world that
+ 
+
+00:00:59.840 --> 00:01:02.069 align:start position:0%
+data like anything in the world that
+could<00:01:00.000><c> define</c><00:01:00.480><c> you</c><00:01:00.800><c> as</c><00:01:01.039><c> a</c><00:01:01.120><c> person</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+could define you as a person
+ 
+
+00:01:02.079 --> 00:01:05.109 align:start position:0%
+could define you as a person
+is<00:01:02.399><c> your</c><00:01:02.800><c> identity</c><00:01:04.239><c> so</c>
+
+00:01:05.109 --> 00:01:05.119 align:start position:0%
+is your identity so
+ 
+
+00:01:05.119 --> 00:01:07.830 align:start position:0%
+is your identity so
+it's<00:01:05.600><c> really</c><00:01:05.840><c> really</c><00:01:06.080><c> important</c><00:01:07.280><c> that</c><00:01:07.600><c> we</c>
+
+00:01:07.830 --> 00:01:07.840 align:start position:0%
+it's really really important that we
+ 
+
+00:01:07.840 --> 00:01:08.789 align:start position:0%
+it's really really important that we
+create<00:01:08.080><c> a</c><00:01:08.159><c> system</c>
+
+00:01:08.789 --> 00:01:08.799 align:start position:0%
+create a system
+ 
+
+00:01:08.799 --> 00:01:10.630 align:start position:0%
+create a system
+that<00:01:09.119><c> is</c><00:01:09.439><c> both</c><00:01:09.600><c> secure</c><00:01:10.000><c> and</c><00:01:10.080><c> decentralized</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+that is both secure and decentralized
+ 
+
+00:01:10.640 --> 00:01:11.990 align:start position:0%
+that is both secure and decentralized
+because<00:01:11.040><c> you</c><00:01:11.119><c> know</c><00:01:11.280><c> this</c><00:01:11.520><c> is</c><00:01:11.680><c> really</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+because you know this is really
+ 
+
+00:01:12.000 --> 00:01:15.590 align:start position:0%
+because you know this is really
+like<00:01:12.159><c> the</c><00:01:12.320><c> story</c><00:01:12.560><c> of</c><00:01:12.640><c> your</c><00:01:12.799><c> life</c><00:01:13.280><c> right</c><00:01:14.560><c> um</c><00:01:14.880><c> so</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+like the story of your life right um so
+ 
+
+00:01:15.600 --> 00:01:18.310 align:start position:0%
+like the story of your life right um so
+why<00:01:15.840><c> is</c><00:01:16.080><c> identity</c><00:01:16.640><c> a</c><00:01:16.799><c> must-win</c><00:01:17.439><c> fight</c><00:01:17.840><c> i</c><00:01:18.159><c> would</c>
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+why is identity a must-win fight i would
+ 
+
+00:01:18.320 --> 00:01:20.149 align:start position:0%
+why is identity a must-win fight i would
+argue<00:01:18.560><c> it</c><00:01:18.640><c> is</c><00:01:18.720><c> a</c><00:01:18.799><c> must-win</c><00:01:19.280><c> fight</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+argue it is a must-win fight
+ 
+
+00:01:20.159 --> 00:01:22.710 align:start position:0%
+argue it is a must-win fight
+uh<00:01:20.479><c> because</c><00:01:20.799><c> if</c><00:01:20.960><c> you</c><00:01:21.360><c> define</c><00:01:21.840><c> identity</c><00:01:22.400><c> as</c><00:01:22.560><c> the</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+uh because if you define identity as the
+ 
+
+00:01:22.720 --> 00:01:23.830 align:start position:0%
+uh because if you define identity as the
+thing<00:01:22.960><c> that</c><00:01:23.200><c> grounds</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+thing that grounds
+ 
+
+00:01:23.840 --> 00:01:25.350 align:start position:0%
+thing that grounds
+all<00:01:24.000><c> of</c><00:01:24.159><c> these</c><00:01:24.400><c> activities</c><00:01:24.960><c> you</c><00:01:25.040><c> know</c><00:01:25.200><c> your</c>
+
+00:01:25.350 --> 00:01:25.360 align:start position:0%
+all of these activities you know your
+ 
+
+00:01:25.360 --> 00:01:26.630 align:start position:0%
+all of these activities you know your
+social<00:01:25.600><c> media</c><00:01:26.159><c> you</c><00:01:26.320><c> know</c><00:01:26.400><c> your</c>
+
+00:01:26.630 --> 00:01:26.640 align:start position:0%
+social media you know your
+ 
+
+00:01:26.640 --> 00:01:28.149 align:start position:0%
+social media you know your
+communications<00:01:27.280><c> with</c><00:01:27.520><c> others</c>
+
+00:01:28.149 --> 00:01:28.159 align:start position:0%
+communications with others
+ 
+
+00:01:28.159 --> 00:01:30.950 align:start position:0%
+communications with others
+um<00:01:28.560><c> all</c><00:01:28.880><c> the</c><00:01:29.040><c> stuff</c><00:01:29.280><c> you</c><00:01:29.439><c> type</c><00:01:29.759><c> into</c><00:01:30.560><c> to</c><00:01:30.799><c> the</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+um all the stuff you type into to the
+ 
+
+00:01:30.960 --> 00:01:32.710 align:start position:0%
+um all the stuff you type into to the
+digital<00:01:31.360><c> sphere</c><00:01:31.759><c> which</c><00:01:32.000><c> is</c><00:01:32.159><c> like</c>
+
+00:01:32.710 --> 00:01:32.720 align:start position:0%
+digital sphere which is like
+ 
+
+00:01:32.720 --> 00:01:34.950 align:start position:0%
+digital sphere which is like
+you<00:01:32.799><c> know</c><00:01:33.040><c> my</c><00:01:33.200><c> grocery</c><00:01:33.680><c> lists</c><00:01:34.320><c> my</c><00:01:34.640><c> thoughts</c>
+
+00:01:34.950 --> 00:01:34.960 align:start position:0%
+you know my grocery lists my thoughts
+ 
+
+00:01:34.960 --> 00:01:35.990 align:start position:0%
+you know my grocery lists my thoughts
+and<00:01:35.040><c> feelings</c><00:01:35.520><c> and</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+and feelings and
+ 
+
+00:01:36.000 --> 00:01:37.749 align:start position:0%
+and feelings and
+documents<00:01:36.560><c> like</c><00:01:36.960><c> this</c><00:01:37.119><c> is</c><00:01:37.360><c> incredibly</c>
+
+00:01:37.749 --> 00:01:37.759 align:start position:0%
+documents like this is incredibly
+ 
+
+00:01:37.759 --> 00:01:40.310 align:start position:0%
+documents like this is incredibly
+sensitive<00:01:38.240><c> data</c><00:01:38.720><c> and</c><00:01:39.040><c> if</c><00:01:39.280><c> we</c><00:01:39.520><c> don't</c><00:01:39.840><c> win</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+sensitive data and if we don't win
+ 
+
+00:01:40.320 --> 00:01:42.389 align:start position:0%
+sensitive data and if we don't win
+the<00:01:40.479><c> fight</c><00:01:40.640><c> of</c><00:01:40.799><c> identity</c><00:01:41.280><c> the</c><00:01:41.439><c> thing</c><00:01:41.759><c> that</c>
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+the fight of identity the thing that
+ 
+
+00:01:42.399 --> 00:01:44.630 align:start position:0%
+the fight of identity the thing that
+gates<00:01:42.960><c> access</c><00:01:43.439><c> to</c><00:01:43.520><c> that</c><00:01:43.680><c> data</c><00:01:44.000><c> by</c><00:01:44.240><c> outside</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+gates access to that data by outside
+ 
+
+00:01:44.640 --> 00:01:46.469 align:start position:0%
+gates access to that data by outside
+parties<00:01:45.119><c> and</c><00:01:45.280><c> gives</c><00:01:45.520><c> them</c><00:01:45.759><c> ability</c><00:01:46.159><c> to</c><00:01:46.240><c> read</c>
+
+00:01:46.469 --> 00:01:46.479 align:start position:0%
+parties and gives them ability to read
+ 
+
+00:01:46.479 --> 00:01:47.429 align:start position:0%
+parties and gives them ability to read
+it<00:01:46.560><c> or</c><00:01:46.799><c> not</c>
+
+00:01:47.429 --> 00:01:47.439 align:start position:0%
+it or not
+ 
+
+00:01:47.439 --> 00:01:49.590 align:start position:0%
+it or not
+um<00:01:47.840><c> i</c><00:01:48.000><c> think</c><00:01:48.159><c> we</c><00:01:48.399><c> you</c><00:01:48.560><c> know</c><00:01:48.640><c> we're</c><00:01:48.880><c> in</c><00:01:49.119><c> for</c><00:01:49.439><c> like</c>
+
+00:01:49.590 --> 00:01:49.600 align:start position:0%
+um i think we you know we're in for like
+ 
+
+00:01:49.600 --> 00:01:51.749 align:start position:0%
+um i think we you know we're in for like
+maybe<00:01:49.920><c> not</c><00:01:50.079><c> such</c><00:01:50.320><c> a</c><00:01:50.399><c> good</c><00:01:50.560><c> feature</c>
+
+00:01:51.749 --> 00:01:51.759 align:start position:0%
+maybe not such a good feature
+ 
+
+00:01:51.759 --> 00:01:55.510 align:start position:0%
+maybe not such a good feature
+so<00:01:52.960><c> explaining</c><00:01:53.360><c> the</c><00:01:53.439><c> root</c><00:01:53.680><c> of</c><00:01:53.759><c> identity</c><00:01:54.240><c> right</c>
+
+00:01:55.510 --> 00:01:55.520 align:start position:0%
+so explaining the root of identity right
+ 
+
+00:01:55.520 --> 00:01:57.350 align:start position:0%
+so explaining the root of identity right
+what<00:01:55.680><c> we're</c><00:01:55.920><c> talking</c><00:01:56.159><c> about</c><00:01:56.320><c> today</c><00:01:56.640><c> ion</c><00:01:57.040><c> is</c>
+
+00:01:57.350 --> 00:01:57.360 align:start position:0%
+what we're talking about today ion is
+ 
+
+00:01:57.360 --> 00:01:59.270 align:start position:0%
+what we're talking about today ion is
+primarily<00:01:58.000><c> the</c><00:01:58.159><c> bottom</c><00:01:58.479><c> of</c><00:01:58.560><c> this</c><00:01:58.799><c> tree</c><00:01:59.119><c> it's</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+primarily the bottom of this tree it's
+ 
+
+00:01:59.280 --> 00:02:01.510 align:start position:0%
+primarily the bottom of this tree it's
+the<00:01:59.439><c> the</c><00:01:59.600><c> foundation</c><00:02:00.159><c> of</c><00:02:00.320><c> identity</c>
+
+00:02:01.510 --> 00:02:01.520 align:start position:0%
+the the foundation of identity
+ 
+
+00:02:01.520 --> 00:02:03.830 align:start position:0%
+the the foundation of identity
+not<00:02:01.920><c> identity</c><00:02:02.399><c> data</c><00:02:02.880><c> so</c><00:02:03.119><c> one</c><00:02:03.360><c> thing</c><00:02:03.520><c> to</c><00:02:03.600><c> really</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+not identity data so one thing to really
+ 
+
+00:02:03.840 --> 00:02:04.709 align:start position:0%
+not identity data so one thing to really
+keep
+
+00:02:04.709 --> 00:02:04.719 align:start position:0%
+keep
+ 
+
+00:02:04.719 --> 00:02:06.230 align:start position:0%
+keep
+an<00:02:04.960><c> understanding</c><00:02:05.360><c> of</c><00:02:05.439><c> in</c><00:02:05.520><c> your</c><00:02:05.680><c> mind</c><00:02:05.920><c> is</c><00:02:06.000><c> that</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+an understanding of in your mind is that
+ 
+
+00:02:06.240 --> 00:02:07.990 align:start position:0%
+an understanding of in your mind is that
+identifiers<00:02:07.200><c> are</c><00:02:07.360><c> very</c><00:02:07.520><c> different</c><00:02:07.759><c> than</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+identifiers are very different than
+ 
+
+00:02:08.000 --> 00:02:10.150 align:start position:0%
+identifiers are very different than
+identity<00:02:08.640><c> right</c><00:02:08.879><c> identity's</c><00:02:09.440><c> the</c><00:02:09.520><c> sum</c><00:02:09.759><c> total</c>
+
+00:02:10.150 --> 00:02:10.160 align:start position:0%
+identity right identity's the sum total
+ 
+
+00:02:10.160 --> 00:02:13.270 align:start position:0%
+identity right identity's the sum total
+of<00:02:10.319><c> you</c><00:02:10.879><c> identifiers</c><00:02:11.760><c> are</c><00:02:12.000><c> references</c>
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+of you identifiers are references
+ 
+
+00:02:13.280 --> 00:02:16.470 align:start position:0%
+of you identifiers are references
+to<00:02:13.680><c> all</c><00:02:14.080><c> or</c><00:02:14.319><c> part</c><00:02:14.640><c> of</c><00:02:14.720><c> you</c><00:02:15.200><c> um</c><00:02:15.760><c> and</c><00:02:16.080><c> so</c>
+
+00:02:16.470 --> 00:02:16.480 align:start position:0%
+to all or part of you um and so
+ 
+
+00:02:16.480 --> 00:02:18.630 align:start position:0%
+to all or part of you um and so
+when<00:02:16.640><c> we</c><00:02:16.800><c> talk</c><00:02:17.040><c> about</c><00:02:17.200><c> what</c><00:02:17.360><c> is</c><00:02:17.440><c> an</c><00:02:17.599><c> identifier</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+when we talk about what is an identifier
+ 
+
+00:02:18.640 --> 00:02:19.670 align:start position:0%
+when we talk about what is an identifier
+you<00:02:18.879><c> all</c><00:02:19.120><c> use</c><00:02:19.360><c> them</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+you all use them
+ 
+
+00:02:19.680 --> 00:02:21.430 align:start position:0%
+you all use them
+you<00:02:19.760><c> know</c><00:02:19.920><c> email</c><00:02:20.319><c> addresses</c><00:02:20.800><c> usernames</c><00:02:21.280><c> these</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+you know email addresses usernames these
+ 
+
+00:02:21.440 --> 00:02:22.790 align:start position:0%
+you know email addresses usernames these
+are<00:02:21.520><c> all</c><00:02:21.680><c> identifiers</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+are all identifiers
+ 
+
+00:02:22.800 --> 00:02:24.630 align:start position:0%
+are all identifiers
+but<00:02:22.959><c> they're</c><00:02:23.120><c> centralized</c><00:02:23.840><c> so</c><00:02:24.160><c> people</c><00:02:24.480><c> can</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+but they're centralized so people can
+ 
+
+00:02:24.640 --> 00:02:26.550 align:start position:0%
+but they're centralized so people can
+take<00:02:24.800><c> them</c><00:02:24.959><c> from</c><00:02:25.200><c> you</c><00:02:25.599><c> right</c><00:02:25.840><c> if</c><00:02:25.920><c> they</c><00:02:26.080><c> want</c><00:02:26.319><c> to</c>
+
+00:02:26.550 --> 00:02:26.560 align:start position:0%
+take them from you right if they want to
+ 
+
+00:02:26.560 --> 00:02:27.589 align:start position:0%
+take them from you right if they want to
+if<00:02:26.720><c> you</c>
+
+00:02:27.589 --> 00:02:27.599 align:start position:0%
+if you
+ 
+
+00:02:27.599 --> 00:02:30.390 align:start position:0%
+if you
+you're<00:02:28.080><c> acting</c><00:02:28.319><c> naughty</c><00:02:28.720><c> on</c><00:02:28.800><c> a</c><00:02:28.879><c> social</c><00:02:29.200><c> media</c>
+
+00:02:30.390 --> 00:02:30.400 align:start position:0%
+you're acting naughty on a social media
+ 
+
+00:02:30.400 --> 00:02:31.350 align:start position:0%
+you're acting naughty on a social media
+website<00:02:31.040><c> or</c>
+
+00:02:31.350 --> 00:02:31.360 align:start position:0%
+website or
+ 
+
+00:02:31.360 --> 00:02:32.790 align:start position:0%
+website or
+naughty<00:02:31.760><c> as</c><00:02:31.920><c> they</c><00:02:32.160><c> think</c><00:02:32.319><c> you're</c><00:02:32.560><c> acting</c>
+
+00:02:32.790 --> 00:02:32.800 align:start position:0%
+naughty as they think you're acting
+ 
+
+00:02:32.800 --> 00:02:34.550 align:start position:0%
+naughty as they think you're acting
+they'll<00:02:33.040><c> take</c><00:02:33.280><c> your</c><00:02:33.599><c> account</c><00:02:33.920><c> away</c><00:02:34.160><c> you</c><00:02:34.319><c> lose</c>
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+they'll take your account away you lose
+ 
+
+00:02:34.560 --> 00:02:35.750 align:start position:0%
+they'll take your account away you lose
+all<00:02:34.640><c> your</c><00:02:34.800><c> connections</c>
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+all your connections
+ 
+
+00:02:35.760 --> 00:02:37.750 align:start position:0%
+all your connections
+all<00:02:36.000><c> the</c><00:02:36.160><c> content</c><00:02:36.640><c> that</c><00:02:36.720><c> you</c><00:02:36.879><c> had</c><00:02:37.280><c> is</c><00:02:37.440><c> gone</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+all the content that you had is gone
+ 
+
+00:02:37.760 --> 00:02:39.270 align:start position:0%
+all the content that you had is gone
+right<00:02:38.000><c> it's</c><00:02:38.160><c> not</c><00:02:38.319><c> really</c><00:02:38.640><c> yours</c><00:02:39.040><c> they're</c>
+
+00:02:39.270 --> 00:02:39.280 align:start position:0%
+right it's not really yours they're
+ 
+
+00:02:39.280 --> 00:02:40.390 align:start position:0%
+right it's not really yours they're
+leasing<00:02:39.680><c> it</c><00:02:39.760><c> to</c><00:02:39.920><c> you</c>
+
+00:02:40.390 --> 00:02:40.400 align:start position:0%
+leasing it to you
+ 
+
+00:02:40.400 --> 00:02:42.070 align:start position:0%
+leasing it to you
+same<00:02:40.640><c> thing</c><00:02:40.800><c> with</c><00:02:40.959><c> email</c><00:02:41.360><c> addresses</c><00:02:41.840><c> you</c><00:02:41.920><c> can</c>
+
+00:02:42.070 --> 00:02:42.080 align:start position:0%
+same thing with email addresses you can
+ 
+
+00:02:42.080 --> 00:02:45.270 align:start position:0%
+same thing with email addresses you can
+be<00:02:42.239><c> erased</c><00:02:42.720><c> you</c><00:02:42.800><c> can</c><00:02:42.959><c> be</c><00:02:43.360><c> de-personed</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+be erased you can be de-personed
+ 
+
+00:02:45.280 --> 00:02:47.190 align:start position:0%
+be erased you can be de-personed
+now<00:02:45.440><c> your</c><00:02:45.599><c> identity</c><00:02:46.080><c> data</c><00:02:46.480><c> is</c><00:02:46.800><c> all</c><00:02:46.879><c> the</c><00:02:47.040><c> stuff</c>
+
+00:02:47.190 --> 00:02:47.200 align:start position:0%
+now your identity data is all the stuff
+ 
+
+00:02:47.200 --> 00:02:48.390 align:start position:0%
+now your identity data is all the stuff
+that<00:02:47.360><c> actually</c><00:02:47.599><c> defines</c><00:02:48.000><c> you</c><00:02:48.239><c> your</c>
+
+00:02:48.390 --> 00:02:48.400 align:start position:0%
+that actually defines you your
+ 
+
+00:02:48.400 --> 00:02:50.070 align:start position:0%
+that actually defines you your
+identifier<00:02:49.040><c> are</c><00:02:49.120><c> just</c><00:02:49.280><c> a</c><00:02:49.360><c> reference</c><00:02:49.680><c> point</c>
+
+00:02:50.070 --> 00:02:50.080 align:start position:0%
+identifier are just a reference point
+ 
+
+00:02:50.080 --> 00:02:52.869 align:start position:0%
+identifier are just a reference point
+so<00:02:50.800><c> an</c><00:02:50.959><c> identifier</c><00:02:52.080><c> doesn't</c><00:02:52.319><c> really</c><00:02:52.640><c> tell</c><00:02:52.800><c> a</c>
+
+00:02:52.869 --> 00:02:52.879 align:start position:0%
+so an identifier doesn't really tell a
+ 
+
+00:02:52.879 --> 00:02:53.990 align:start position:0%
+so an identifier doesn't really tell a
+whole<00:02:53.040><c> lot</c><00:02:53.360><c> right</c><00:02:53.599><c> i</c><00:02:53.680><c> mean</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+whole lot right i mean
+ 
+
+00:02:54.000 --> 00:02:55.589 align:start position:0%
+whole lot right i mean
+maybe<00:02:54.319><c> if</c><00:02:54.400><c> you</c><00:02:54.480><c> put</c><00:02:54.640><c> your</c><00:02:54.800><c> name</c><00:02:55.040><c> as</c><00:02:55.200><c> your</c><00:02:55.360><c> email</c>
+
+00:02:55.589 --> 00:02:55.599 align:start position:0%
+maybe if you put your name as your email
+ 
+
+00:02:55.599 --> 00:02:57.430 align:start position:0%
+maybe if you put your name as your email
+address<00:02:55.920><c> as</c><00:02:56.000><c> most</c><00:02:56.239><c> people</c><00:02:56.480><c> do</c><00:02:56.959><c> it</c><00:02:57.120><c> obviously</c>
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+address as most people do it obviously
+ 
+
+00:02:57.440 --> 00:02:58.309 align:start position:0%
+address as most people do it obviously
+tells<00:02:57.680><c> something</c>
+
+00:02:58.309 --> 00:02:58.319 align:start position:0%
+tells something
+ 
+
+00:02:58.319 --> 00:03:00.309 align:start position:0%
+tells something
+but<00:02:58.560><c> a</c><00:02:58.640><c> big</c><00:02:59.120><c> random</c><00:02:59.519><c> identifier</c><00:03:00.080><c> doesn't</c>
+
+00:03:00.309 --> 00:03:00.319 align:start position:0%
+but a big random identifier doesn't
+ 
+
+00:03:00.319 --> 00:03:02.309 align:start position:0%
+but a big random identifier doesn't
+actually<00:03:01.120><c> tell</c><00:03:01.360><c> you</c><00:03:01.519><c> about</c><00:03:01.840><c> what</c><00:03:02.080><c> it</c>
+
+00:03:02.309 --> 00:03:02.319 align:start position:0%
+actually tell you about what it
+ 
+
+00:03:02.319 --> 00:03:05.190 align:start position:0%
+actually tell you about what it
+identifies<00:03:03.120><c> it</c><00:03:03.200><c> could</c><00:03:03.360><c> identify</c><00:03:03.840><c> a</c><00:03:03.920><c> person</c>
+
+00:03:05.190 --> 00:03:05.200 align:start position:0%
+identifies it could identify a person
+ 
+
+00:03:05.200 --> 00:03:08.309 align:start position:0%
+identifies it could identify a person
+it<00:03:05.360><c> could</c><00:03:05.599><c> identify</c><00:03:06.159><c> machines</c><00:03:07.120><c> so</c><00:03:07.840><c> without</c>
+
+00:03:08.309 --> 00:03:08.319 align:start position:0%
+it could identify machines so without
+ 
+
+00:03:08.319 --> 00:03:10.470 align:start position:0%
+it could identify machines so without
+identity<00:03:08.800><c> data</c><00:03:09.120><c> identifiers</c><00:03:09.920><c> are</c><00:03:10.080><c> just</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+identity data identifiers are just
+ 
+
+00:03:10.480 --> 00:03:13.509 align:start position:0%
+identity data identifiers are just
+pseudo-anonymous<00:03:11.440><c> ids</c><00:03:12.159><c> backed</c><00:03:12.800><c> by</c><00:03:13.200><c> strong</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+pseudo-anonymous ids backed by strong
+ 
+
+00:03:13.519 --> 00:03:15.030 align:start position:0%
+pseudo-anonymous ids backed by strong
+cryptography<00:03:14.159><c> and</c><00:03:14.319><c> we'll</c><00:03:14.480><c> talk</c><00:03:14.720><c> a</c><00:03:14.720><c> little</c><00:03:14.879><c> bit</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+cryptography and we'll talk a little bit
+ 
+
+00:03:15.040 --> 00:03:15.670 align:start position:0%
+cryptography and we'll talk a little bit
+about<00:03:15.280><c> what</c>
+
+00:03:15.670 --> 00:03:15.680 align:start position:0%
+about what
+ 
+
+00:03:15.680 --> 00:03:17.910 align:start position:0%
+about what
+decentralized<00:03:16.480><c> vampires</c><00:03:17.040><c> specifically</c><00:03:17.760><c> as</c><00:03:17.840><c> a</c>
+
+00:03:17.910 --> 00:03:17.920 align:start position:0%
+decentralized vampires specifically as a
+ 
+
+00:03:17.920 --> 00:03:19.270 align:start position:0%
+decentralized vampires specifically as a
+type<00:03:18.159><c> of</c><00:03:18.319><c> idr</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+type of idr
+ 
+
+00:03:19.280 --> 00:03:21.990 align:start position:0%
+type of idr
+decentralized<00:03:19.840><c> identifiers</c><00:03:20.560><c> is</c><00:03:20.720><c> a</c><00:03:20.800><c> w3c</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+decentralized identifiers is a w3c
+ 
+
+00:03:22.000 --> 00:03:23.750 align:start position:0%
+decentralized identifiers is a w3c
+emerging<00:03:22.480><c> standard</c><00:03:22.800><c> that</c><00:03:22.959><c> just</c><00:03:23.120><c> went</c><00:03:23.360><c> into</c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+emerging standard that just went into
+ 
+
+00:03:23.760 --> 00:03:25.110 align:start position:0%
+emerging standard that just went into
+candidate
+
+00:03:25.110 --> 00:03:25.120 align:start position:0%
+candidate
+ 
+
+00:03:25.120 --> 00:03:28.149 align:start position:0%
+candidate
+recommendation<00:03:26.720><c> just</c><00:03:27.120><c> two</c><00:03:27.280><c> weeks</c><00:03:27.599><c> ago</c>
+
+00:03:28.149 --> 00:03:28.159 align:start position:0%
+recommendation just two weeks ago
+ 
+
+00:03:28.159 --> 00:03:29.430 align:start position:0%
+recommendation just two weeks ago
+and<00:03:28.400><c> it's</c><00:03:28.480><c> going</c><00:03:28.560><c> to</c><00:03:28.640><c> be</c><00:03:28.799><c> an</c><00:03:28.959><c> international</c>
+
+00:03:29.430 --> 00:03:29.440 align:start position:0%
+and it's going to be an international
+ 
+
+00:03:29.440 --> 00:03:31.509 align:start position:0%
+and it's going to be an international
+standard<00:03:30.080><c> it</c><00:03:30.239><c> essentially</c><00:03:30.720><c> sets</c><00:03:31.040><c> forth</c><00:03:31.360><c> a</c>
+
+00:03:31.509 --> 00:03:31.519 align:start position:0%
+standard it essentially sets forth a
+ 
+
+00:03:31.519 --> 00:03:32.149 align:start position:0%
+standard it essentially sets forth a
+standard<00:03:31.840><c> for</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+standard for
+ 
+
+00:03:32.159 --> 00:03:35.350 align:start position:0%
+standard for
+a<00:03:32.239><c> uri</c><00:03:32.799><c> scheme</c><00:03:33.599><c> and</c><00:03:33.920><c> a</c><00:03:34.480><c> data</c><00:03:34.799><c> model</c>
+
+00:03:35.350 --> 00:03:35.360 align:start position:0%
+a uri scheme and a data model
+ 
+
+00:03:35.360 --> 00:03:38.390 align:start position:0%
+a uri scheme and a data model
+for<00:03:35.599><c> the</c><00:03:35.760><c> expression</c><00:03:36.400><c> of</c><00:03:36.799><c> keys</c><00:03:37.440><c> and</c><00:03:37.680><c> endpoints</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+for the expression of keys and endpoints
+ 
+
+00:03:38.400 --> 00:03:41.589 align:start position:0%
+for the expression of keys and endpoints
+in<00:03:38.560><c> relation</c><00:03:39.040><c> to</c><00:03:39.200><c> an</c><00:03:39.360><c> identifier</c><00:03:40.480><c> and</c><00:03:41.360><c> what</c>
+
+00:03:41.589 --> 00:03:41.599 align:start position:0%
+in relation to an identifier and what
+ 
+
+00:03:41.599 --> 00:03:42.309 align:start position:0%
+in relation to an identifier and what
+ion<00:03:42.080><c> is</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+ion is
+ 
+
+00:03:42.319 --> 00:03:45.110 align:start position:0%
+ion is
+is<00:03:42.640><c> a</c><00:03:42.799><c> formulation</c><00:03:43.599><c> of</c><00:03:43.760><c> dids</c><00:03:44.480><c> it's</c><00:03:44.720><c> a</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+is a formulation of dids it's a
+ 
+
+00:03:45.120 --> 00:03:47.110 align:start position:0%
+is a formulation of dids it's a
+implementation<00:03:45.920><c> of</c><00:03:46.080><c> those</c><00:03:46.319><c> standards</c>
+
+00:03:47.110 --> 00:03:47.120 align:start position:0%
+implementation of those standards
+ 
+
+00:03:47.120 --> 00:03:48.789 align:start position:0%
+implementation of those standards
+over<00:03:47.440><c> on</c><00:03:47.519><c> the</c><00:03:47.599><c> right</c><00:03:47.840><c> you'll</c><00:03:48.080><c> see</c><00:03:48.560><c> you</c><00:03:48.640><c> know</c>
+
+00:03:48.789 --> 00:03:48.799 align:start position:0%
+over on the right you'll see you know
+ 
+
+00:03:48.799 --> 00:03:50.390 align:start position:0%
+over on the right you'll see you know
+one<00:03:49.040><c> identifier</c><00:03:49.760><c> an</c><00:03:49.920><c> ion</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+one identifier an ion
+ 
+
+00:03:50.400 --> 00:03:52.070 align:start position:0%
+one identifier an ion
+identifier<00:03:51.120><c> it's</c><00:03:51.280><c> not</c><00:03:51.440><c> friendly</c><00:03:51.760><c> looking</c>
+
+00:03:52.070 --> 00:03:52.080 align:start position:0%
+identifier it's not friendly looking
+ 
+
+00:03:52.080 --> 00:03:53.589 align:start position:0%
+identifier it's not friendly looking
+it's<00:03:52.319><c> not</c><00:03:52.560><c> like</c><00:03:52.720><c> an</c><00:03:52.879><c> email</c><00:03:53.120><c> address</c>
+
+00:03:53.589 --> 00:03:53.599 align:start position:0%
+it's not like an email address
+ 
+
+00:03:53.599 --> 00:03:57.190 align:start position:0%
+it's not like an email address
+it's<00:03:53.840><c> a</c><00:03:54.080><c> 32-bit</c><00:03:54.640><c> string</c><00:03:55.280><c> a</c><00:03:55.519><c> 32-byte</c><00:03:56.159><c> string</c>
+
+00:03:57.190 --> 00:03:57.200 align:start position:0%
+it's a 32-bit string a 32-byte string
+ 
+
+00:03:57.200 --> 00:03:59.509 align:start position:0%
+it's a 32-bit string a 32-byte string
+and<00:03:57.439><c> it</c><00:03:57.519><c> maps</c><00:03:57.840><c> to</c><00:03:58.000><c> this</c><00:03:58.159><c> did</c><00:03:58.640><c> document</c><00:03:59.200><c> which</c>
+
+00:03:59.509 --> 00:03:59.519 align:start position:0%
+and it maps to this did document which
+ 
+
+00:03:59.519 --> 00:04:02.149 align:start position:0%
+and it maps to this did document which
+is<00:03:59.840><c> a</c><00:04:00.000><c> docu</c><00:04:00.319><c> a</c><00:04:00.400><c> json</c><00:04:00.720><c> document</c><00:04:01.120><c> that</c><00:04:01.280><c> contains</c>
+
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+is a docu a json document that contains
+ 
+
+00:04:02.159 --> 00:04:03.429 align:start position:0%
+is a docu a json document that contains
+some<00:04:02.400><c> public</c><00:04:02.720><c> keys</c><00:04:03.040><c> that</c><00:04:03.120><c> you</c><00:04:03.200><c> might</c>
+
+00:04:03.429 --> 00:04:03.439 align:start position:0%
+some public keys that you might
+ 
+
+00:04:03.439 --> 00:04:05.429 align:start position:0%
+some public keys that you might
+associate<00:04:03.920><c> with</c><00:04:04.080><c> your</c><00:04:04.239><c> identifier</c>
+
+00:04:05.429 --> 00:04:05.439 align:start position:0%
+associate with your identifier
+ 
+
+00:04:05.439 --> 00:04:08.070 align:start position:0%
+associate with your identifier
+and<00:04:06.080><c> some</c><00:04:06.480><c> service</c><00:04:06.879><c> endpoints</c><00:04:07.599><c> where</c><00:04:07.840><c> people</c>
+
+00:04:08.070 --> 00:04:08.080 align:start position:0%
+and some service endpoints where people
+ 
+
+00:04:08.080 --> 00:04:10.949 align:start position:0%
+and some service endpoints where people
+might<00:04:08.319><c> be</c><00:04:08.400><c> able</c><00:04:08.560><c> to</c><00:04:08.640><c> go</c><00:04:08.879><c> find</c><00:04:09.200><c> identity</c><00:04:09.840><c> data</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+might be able to go find identity data
+ 
+
+00:04:10.959 --> 00:04:12.550 align:start position:0%
+might be able to go find identity data
+and<00:04:11.280><c> those</c><00:04:11.519><c> are</c><00:04:11.760><c> really</c><00:04:12.000><c> the</c><00:04:12.159><c> two</c><00:04:12.319><c> most</c>
+
+00:04:12.550 --> 00:04:12.560 align:start position:0%
+and those are really the two most
+ 
+
+00:04:12.560 --> 00:04:16.469 align:start position:0%
+and those are really the two most
+important<00:04:12.959><c> things</c><00:04:13.519><c> that</c><00:04:13.840><c> link</c><00:04:14.080><c> to</c><00:04:14.319><c> a</c><00:04:14.640><c> d</c><00:04:14.799><c> i</c><00:04:14.959><c> d</c>
+
+00:04:16.469 --> 00:04:16.479 align:start position:0%
+important things that link to a d i d
+ 
+
+00:04:16.479 --> 00:04:17.909 align:start position:0%
+important things that link to a d i d
+uh<00:04:16.639><c> the</c><00:04:16.799><c> big</c><00:04:17.040><c> difference</c><00:04:17.359><c> here</c><00:04:17.600><c> obviously</c><00:04:17.840><c> is</c>
+
+00:04:17.909 --> 00:04:17.919 align:start position:0%
+uh the big difference here obviously is
+ 
+
+00:04:17.919 --> 00:04:19.590 align:start position:0%
+uh the big difference here obviously is
+cryptographically<00:04:18.560><c> secure</c><00:04:18.959><c> and</c><00:04:19.040><c> these</c><00:04:19.359><c> these</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+cryptographically secure and these these
+ 
+
+00:04:19.600 --> 00:04:21.270 align:start position:0%
+cryptographically secure and these these
+ids<00:04:19.919><c> are</c><00:04:20.000><c> yours</c><00:04:20.320><c> they</c><00:04:20.479><c> can't</c><00:04:20.720><c> be</c><00:04:20.799><c> taken</c><00:04:21.120><c> from</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+ids are yours they can't be taken from
+ 
+
+00:04:21.280 --> 00:04:22.870 align:start position:0%
+ids are yours they can't be taken from
+you<00:04:21.440><c> they</c><00:04:21.600><c> have</c><00:04:21.759><c> all</c><00:04:21.840><c> the</c><00:04:22.000><c> value</c><00:04:22.240><c> of</c><00:04:22.400><c> bitcoin</c>
+
+00:04:22.870 --> 00:04:22.880 align:start position:0%
+you they have all the value of bitcoin
+ 
+
+00:04:22.880 --> 00:04:23.590 align:start position:0%
+you they have all the value of bitcoin
+and<00:04:23.040><c> all</c><00:04:23.199><c> those</c>
+
+00:04:23.590 --> 00:04:23.600 align:start position:0%
+and all those
+ 
+
+00:04:23.600 --> 00:04:25.430 align:start position:0%
+and all those
+those<00:04:23.919><c> attributes</c><00:04:24.639><c> in</c><00:04:24.720><c> the</c><00:04:24.800><c> sense</c><00:04:25.120><c> that</c><00:04:25.360><c> you</c>
+
+00:04:25.430 --> 00:04:25.440 align:start position:0%
+those attributes in the sense that you
+ 
+
+00:04:25.440 --> 00:04:27.030 align:start position:0%
+those attributes in the sense that you
+know<00:04:25.919><c> it's</c><00:04:26.080><c> as</c><00:04:26.240><c> hard</c><00:04:26.560><c> to</c>
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+know it's as hard to
+ 
+
+00:04:27.040 --> 00:04:28.870 align:start position:0%
+know it's as hard to
+steal<00:04:27.440><c> someone's</c><00:04:27.919><c> well-secured</c><00:04:28.479><c> bitcoin</c>
+
+00:04:28.870 --> 00:04:28.880 align:start position:0%
+steal someone's well-secured bitcoin
+ 
+
+00:04:28.880 --> 00:04:30.230 align:start position:0%
+steal someone's well-secured bitcoin
+keys<00:04:29.280><c> or</c><00:04:29.600><c> as</c><00:04:29.759><c> it</c><00:04:29.840><c> is</c>
+
+00:04:30.230 --> 00:04:30.240 align:start position:0%
+keys or as it is
+ 
+
+00:04:30.240 --> 00:04:33.189 align:start position:0%
+keys or as it is
+their<00:04:30.400><c> identity</c><00:04:30.800><c> as</c><00:04:30.960><c> it</c><00:04:31.040><c> is</c><00:04:31.120><c> the</c><00:04:31.280><c> bitcoin</c><00:04:31.680><c> keys</c>
+
+00:04:33.189 --> 00:04:33.199 align:start position:0%
+their identity as it is the bitcoin keys
+ 
+
+00:04:33.199 --> 00:04:33.990 align:start position:0%
+their identity as it is the bitcoin keys
+so
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+so
+ 
+
+00:04:34.000 --> 00:04:36.870 align:start position:0%
+so
+let's<00:04:34.240><c> talk</c><00:04:34.400><c> about</c><00:04:34.560><c> ion</c><00:04:35.120><c> uh</c><00:04:35.280><c> what</c><00:04:35.520><c> is</c><00:04:35.680><c> it</c><00:04:36.639><c> it's</c>
+
+00:04:36.870 --> 00:04:36.880 align:start position:0%
+let's talk about ion uh what is it it's
+ 
+
+00:04:36.880 --> 00:04:39.030 align:start position:0%
+let's talk about ion uh what is it it's
+an<00:04:37.040><c> open</c><00:04:37.360><c> public</c><00:04:37.759><c> permission</c><00:04:38.160><c> this</c><00:04:38.320><c> layer</c><00:04:38.639><c> two</c>
+
+00:04:39.030 --> 00:04:39.040 align:start position:0%
+an open public permission this layer two
+ 
+
+00:04:39.040 --> 00:04:41.350 align:start position:0%
+an open public permission this layer two
+a<00:04:39.280><c> network</c><00:04:39.600><c> that</c><00:04:39.759><c> runs</c><00:04:40.000><c> on</c><00:04:40.080><c> top</c><00:04:40.320><c> of</c><00:04:40.400><c> bitcoin</c>
+
+00:04:41.350 --> 00:04:41.360 align:start position:0%
+a network that runs on top of bitcoin
+ 
+
+00:04:41.360 --> 00:04:42.469 align:start position:0%
+a network that runs on top of bitcoin
+and<00:04:41.600><c> enables</c>
+
+00:04:42.469 --> 00:04:42.479 align:start position:0%
+and enables
+ 
+
+00:04:42.479 --> 00:04:43.990 align:start position:0%
+and enables
+one<00:04:42.720><c> implementation</c><00:04:43.280><c> of</c><00:04:43.440><c> decentralized</c>
+
+00:04:43.990 --> 00:04:44.000 align:start position:0%
+one implementation of decentralized
+ 
+
+00:04:44.000 --> 00:04:45.909 align:start position:0%
+one implementation of decentralized
+identifiers<00:04:44.639><c> at</c><00:04:45.040><c> pretty</c><00:04:45.440><c> pretty</c><00:04:45.680><c> awesome</c>
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+identifiers at pretty pretty awesome
+ 
+
+00:04:45.919 --> 00:04:46.629 align:start position:0%
+identifiers at pretty pretty awesome
+scale
+
+00:04:46.629 --> 00:04:46.639 align:start position:0%
+scale
+ 
+
+00:04:46.639 --> 00:04:49.749 align:start position:0%
+scale
+so<00:04:47.680><c> doesn't</c><00:04:48.000><c> rely</c><00:04:48.320><c> on</c><00:04:48.560><c> any</c><00:04:48.880><c> of</c><00:04:49.040><c> the</c><00:04:49.199><c> things</c><00:04:49.600><c> you</c>
+
+00:04:49.749 --> 00:04:49.759 align:start position:0%
+so doesn't rely on any of the things you
+ 
+
+00:04:49.759 --> 00:04:51.430 align:start position:0%
+so doesn't rely on any of the things you
+may<00:04:50.000><c> see</c><00:04:50.160><c> in</c><00:04:50.320><c> other</c><00:04:50.560><c> protocols</c><00:04:51.120><c> there</c><00:04:51.199><c> are</c><00:04:51.360><c> an</c>
+
+00:04:51.430 --> 00:04:51.440 align:start position:0%
+may see in other protocols there are an
+ 
+
+00:04:51.440 --> 00:04:52.950 align:start position:0%
+may see in other protocols there are an
+essential<00:04:51.840><c> authorities</c><00:04:52.400><c> you</c><00:04:52.479><c> know</c>
+
+00:04:52.950 --> 00:04:52.960 align:start position:0%
+essential authorities you know
+ 
+
+00:04:52.960 --> 00:04:55.430 align:start position:0%
+essential authorities you know
+strange<00:04:53.360><c> coming</c><00:04:53.600><c> from</c><00:04:53.680><c> microsoft</c><00:04:54.240><c> obviously</c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+strange coming from microsoft obviously
+ 
+
+00:04:55.440 --> 00:04:57.270 align:start position:0%
+strange coming from microsoft obviously
+but<00:04:55.759><c> there's</c><00:04:56.000><c> no</c><00:04:56.240><c> signatories</c><00:04:56.960><c> there's</c><00:04:57.120><c> no</c>
+
+00:04:57.270 --> 00:04:57.280 align:start position:0%
+but there's no signatories there's no
+ 
+
+00:04:57.280 --> 00:04:57.830 align:start position:0%
+but there's no signatories there's no
+cabal
+
+00:04:57.830 --> 00:04:57.840 align:start position:0%
+cabal
+ 
+
+00:04:57.840 --> 00:05:00.710 align:start position:0%
+cabal
+it's<00:04:58.000><c> not</c><00:04:58.240><c> libra</c><00:04:58.800><c> there's</c><00:04:59.040><c> no</c><00:04:59.600><c> there's</c><00:04:59.840><c> no</c><00:05:00.080><c> ceo</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+it's not libra there's no there's no ceo
+ 
+
+00:05:00.720 --> 00:05:02.469 align:start position:0%
+it's not libra there's no there's no ceo
+right<00:05:00.880><c> just</c><00:05:01.039><c> like</c><00:05:01.199><c> the</c><00:05:01.360><c> ceo</c><00:05:01.759><c> of</c><00:05:01.840><c> bitcoin</c><00:05:02.320><c> has</c>
+
+00:05:02.469 --> 00:05:02.479 align:start position:0%
+right just like the ceo of bitcoin has
+ 
+
+00:05:02.479 --> 00:05:02.790 align:start position:0%
+right just like the ceo of bitcoin has
+not
+
+00:05:02.790 --> 00:05:02.800 align:start position:0%
+not
+ 
+
+00:05:02.800 --> 00:05:03.749 align:start position:0%
+not
+you<00:05:02.960><c> know</c><00:05:03.120><c> been</c><00:05:03.280><c> called</c><00:05:03.440><c> in</c><00:05:03.520><c> front</c><00:05:03.680><c> of</c>
+
+00:05:03.749 --> 00:05:03.759 align:start position:0%
+you know been called in front of
+ 
+
+00:05:03.759 --> 00:05:04.790 align:start position:0%
+you know been called in front of
+congress<00:05:04.080><c> you're</c><00:05:04.240><c> not</c><00:05:04.320><c> going</c><00:05:04.400><c> to</c><00:05:04.479><c> find</c><00:05:04.720><c> the</c>
+
+00:05:04.790 --> 00:05:04.800 align:start position:0%
+congress you're not going to find the
+ 
+
+00:05:04.800 --> 00:05:06.150 align:start position:0%
+congress you're not going to find the
+ceo<00:05:05.120><c> of</c><00:05:05.280><c> ion</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+ceo of ion
+ 
+
+00:05:06.160 --> 00:05:09.510 align:start position:0%
+ceo of ion
+there<00:05:06.400><c> soon</c><00:05:06.720><c> either</c>
+
+00:05:09.510 --> 00:05:09.520 align:start position:0%
+ 
+ 
+
+00:05:09.520 --> 00:05:12.629 align:start position:0%
+ 
+so<00:05:11.199><c> how</c><00:05:11.360><c> does</c><00:05:11.520><c> it</c><00:05:11.600><c> work</c><00:05:12.000><c> right</c>
+
+00:05:12.629 --> 00:05:12.639 align:start position:0%
+so how does it work right
+ 
+
+00:05:12.639 --> 00:05:14.469 align:start position:0%
+so how does it work right
+this<00:05:12.800><c> will</c><00:05:12.880><c> get</c><00:05:13.039><c> in</c><00:05:13.199><c> a</c><00:05:13.199><c> little</c><00:05:13.360><c> bit</c><00:05:13.520><c> about</c><00:05:13.680><c> ipfs</c>
+
+00:05:14.469 --> 00:05:14.479 align:start position:0%
+this will get in a little bit about ipfs
+ 
+
+00:05:14.479 --> 00:05:16.629 align:start position:0%
+this will get in a little bit about ipfs
+so<00:05:14.880><c> in</c><00:05:15.039><c> ion</c><00:05:15.280><c> node</c><00:05:15.520><c> anyone</c><00:05:15.759><c> can</c><00:05:15.919><c> run</c><00:05:16.160><c> them</c>
+
+00:05:16.629 --> 00:05:16.639 align:start position:0%
+so in ion node anyone can run them
+ 
+
+00:05:16.639 --> 00:05:19.430 align:start position:0%
+so in ion node anyone can run them
+basically<00:05:17.199><c> inside</c><00:05:17.680><c> of</c><00:05:17.759><c> an</c><00:05:17.919><c> ion</c><00:05:18.080><c> node</c><00:05:18.880><c> resides</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+basically inside of an ion node resides
+ 
+
+00:05:19.440 --> 00:05:20.230 align:start position:0%
+basically inside of an ion node resides
+bitcoin
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+bitcoin
+ 
+
+00:05:20.240 --> 00:05:23.670 align:start position:0%
+bitcoin
+um<00:05:20.560><c> some</c><00:05:20.800><c> processing</c><00:05:21.360><c> logic</c><00:05:21.759><c> module</c><00:05:22.320><c> and</c>
+
+00:05:23.670 --> 00:05:23.680 align:start position:0%
+um some processing logic module and
+ 
+
+00:05:23.680 --> 00:05:26.870 align:start position:0%
+um some processing logic module and
+for<00:05:23.840><c> this</c><00:05:24.080><c> group</c><00:05:24.880><c> an</c><00:05:24.960><c> ipfs</c><00:05:25.520><c> node</c><00:05:26.400><c> every</c><00:05:26.639><c> single</c>
+
+00:05:26.870 --> 00:05:26.880 align:start position:0%
+for this group an ipfs node every single
+ 
+
+00:05:26.880 --> 00:05:27.749 align:start position:0%
+for this group an ipfs node every single
+ion<00:05:27.120><c> node</c><00:05:27.360><c> runs</c>
+
+00:05:27.749 --> 00:05:27.759 align:start position:0%
+ion node runs
+ 
+
+00:05:27.759 --> 00:05:30.870 align:start position:0%
+ion node runs
+an<00:05:27.919><c> ipfs</c><00:05:28.479><c> node</c><00:05:29.039><c> we</c><00:05:29.199><c> use</c><00:05:29.280><c> go</c><00:05:29.520><c> ipfs</c><00:05:30.479><c> and</c>
+
+00:05:30.870 --> 00:05:30.880 align:start position:0%
+an ipfs node we use go ipfs and
+ 
+
+00:05:30.880 --> 00:05:33.110 align:start position:0%
+an ipfs node we use go ipfs and
+what<00:05:31.120><c> that</c><00:05:31.440><c> actually</c><00:05:31.840><c> allows</c><00:05:32.320><c> for</c><00:05:32.560><c> is</c><00:05:32.800><c> all</c><00:05:32.960><c> the</c>
+
+00:05:33.110 --> 00:05:33.120 align:start position:0%
+what that actually allows for is all the
+ 
+
+00:05:33.120 --> 00:05:35.029 align:start position:0%
+what that actually allows for is all the
+nodes<00:05:33.440><c> to</c><00:05:33.680><c> ensure</c><00:05:34.080><c> that</c><00:05:34.240><c> they</c><00:05:34.400><c> circulate</c>
+
+00:05:35.029 --> 00:05:35.039 align:start position:0%
+nodes to ensure that they circulate
+ 
+
+00:05:35.039 --> 00:05:36.870 align:start position:0%
+nodes to ensure that they circulate
+all<00:05:35.120><c> the</c><00:05:35.360><c> specific</c><00:05:36.000><c> data</c><00:05:36.320><c> that</c><00:05:36.479><c> they</c><00:05:36.639><c> know</c>
+
+00:05:36.870 --> 00:05:36.880 align:start position:0%
+all the specific data that they know
+ 
+
+00:05:36.880 --> 00:05:38.070 align:start position:0%
+all the specific data that they know
+they<00:05:37.039><c> should</c><00:05:37.199><c> have</c><00:05:37.440><c> and</c><00:05:37.520><c> how</c><00:05:37.759><c> do</c><00:05:37.759><c> they</c><00:05:37.919><c> know</c>
+
+00:05:38.070 --> 00:05:38.080 align:start position:0%
+they should have and how do they know
+ 
+
+00:05:38.080 --> 00:05:39.029 align:start position:0%
+they should have and how do they know
+they<00:05:38.160><c> should</c><00:05:38.320><c> have</c><00:05:38.479><c> the</c><00:05:38.560><c> data</c>
+
+00:05:39.029 --> 00:05:39.039 align:start position:0%
+they should have the data
+ 
+
+00:05:39.039 --> 00:05:40.550 align:start position:0%
+they should have the data
+well<00:05:39.199><c> they're</c><00:05:39.360><c> watching</c><00:05:39.759><c> bitcoin</c><00:05:40.320><c> for</c>
+
+00:05:40.550 --> 00:05:40.560 align:start position:0%
+well they're watching bitcoin for
+ 
+
+00:05:40.560 --> 00:05:43.670 align:start position:0%
+well they're watching bitcoin for
+embedded<00:05:41.280><c> ipfs</c><00:05:41.919><c> cids</c><00:05:42.560><c> that</c><00:05:42.800><c> are</c>
+
+00:05:43.670 --> 00:05:43.680 align:start position:0%
+embedded ipfs cids that are
+ 
+
+00:05:43.680 --> 00:05:45.909 align:start position:0%
+embedded ipfs cids that are
+placed<00:05:44.000><c> into</c><00:05:44.479><c> transactions</c><00:05:45.440><c> and</c><00:05:45.600><c> if</c><00:05:45.680><c> those</c>
+
+00:05:45.909 --> 00:05:45.919 align:start position:0%
+placed into transactions and if those
+ 
+
+00:05:45.919 --> 00:05:47.830 align:start position:0%
+placed into transactions and if those
+transactions<00:05:46.639><c> you</c><00:05:46.720><c> know</c><00:05:46.880><c> pass</c><00:05:47.199><c> a</c><00:05:47.280><c> certain</c><00:05:47.600><c> set</c>
+
+00:05:47.830 --> 00:05:47.840 align:start position:0%
+transactions you know pass a certain set
+ 
+
+00:05:47.840 --> 00:05:50.230 align:start position:0%
+transactions you know pass a certain set
+of<00:05:48.160><c> deterministic</c><00:05:49.039><c> rules</c>
+
+00:05:50.230 --> 00:05:50.240 align:start position:0%
+of deterministic rules
+ 
+
+00:05:50.240 --> 00:05:52.550 align:start position:0%
+of deterministic rules
+they<00:05:50.560><c> ingest</c><00:05:51.039><c> the</c><00:05:51.199><c> cid</c><00:05:52.080><c> and</c><00:05:52.160><c> they</c><00:05:52.320><c> start</c>
+
+00:05:52.550 --> 00:05:52.560 align:start position:0%
+they ingest the cid and they start
+ 
+
+00:05:52.560 --> 00:05:53.430 align:start position:0%
+they ingest the cid and they start
+looking<00:05:52.960><c> for</c>
+
+00:05:53.430 --> 00:05:53.440 align:start position:0%
+looking for
+ 
+
+00:05:53.440 --> 00:05:55.990 align:start position:0%
+looking for
+that<00:05:53.680><c> data</c><00:05:54.560><c> and</c><00:05:54.960><c> essentially</c><00:05:55.440><c> the</c><00:05:55.520><c> system</c><00:05:55.919><c> is</c>
+
+00:05:55.990 --> 00:05:56.000 align:start position:0%
+that data and essentially the system is
+ 
+
+00:05:56.000 --> 00:05:57.670 align:start position:0%
+that data and essentially the system is
+a<00:05:56.080><c> really</c><00:05:56.319><c> really</c><00:05:56.560><c> big</c><00:05:56.800><c> crdt</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+a really really big crdt
+ 
+
+00:05:57.680 --> 00:05:59.670 align:start position:0%
+a really really big crdt
+um<00:05:57.919><c> it's</c><00:05:58.160><c> basically</c><00:05:58.479><c> an</c><00:05:58.639><c> authenticated</c><00:05:59.120><c> crdt</c>
+
+00:05:59.670 --> 00:05:59.680 align:start position:0%
+um it's basically an authenticated crdt
+ 
+
+00:05:59.680 --> 00:06:01.350 align:start position:0%
+um it's basically an authenticated crdt
+that<00:05:59.759><c> uses</c><00:06:00.000><c> bitcoin</c><00:06:00.400><c> as</c><00:06:00.560><c> clock</c>
+
+00:06:01.350 --> 00:06:01.360 align:start position:0%
+that uses bitcoin as clock
+ 
+
+00:06:01.360 --> 00:06:03.590 align:start position:0%
+that uses bitcoin as clock
+and<00:06:01.759><c> as</c><00:06:02.000><c> it</c><00:06:02.160><c> pulls</c><00:06:02.479><c> all</c><00:06:02.639><c> the</c><00:06:02.720><c> data</c><00:06:03.120><c> in</c><00:06:03.280><c> from</c><00:06:03.440><c> all</c>
+
+00:06:03.590 --> 00:06:03.600 align:start position:0%
+and as it pulls all the data in from all
+ 
+
+00:06:03.600 --> 00:06:04.790 align:start position:0%
+and as it pulls all the data in from all
+the<00:06:03.759><c> ipfs</c><00:06:04.240><c> cids</c>
+
+00:06:04.790 --> 00:06:04.800 align:start position:0%
+the ipfs cids
+ 
+
+00:06:04.800 --> 00:06:07.749 align:start position:0%
+the ipfs cids
+the<00:06:04.880><c> anchored</c><00:06:05.280><c> batches</c><00:06:05.759><c> of</c><00:06:06.000><c> did</c><00:06:06.560><c> operations</c>
+
+00:06:07.749 --> 00:06:07.759 align:start position:0%
+the anchored batches of did operations
+ 
+
+00:06:07.759 --> 00:06:08.870 align:start position:0%
+the anchored batches of did operations
+it<00:06:07.919><c> compiles</c><00:06:08.400><c> them</c>
+
+00:06:08.870 --> 00:06:08.880 align:start position:0%
+it compiles them
+ 
+
+00:06:08.880 --> 00:06:11.430 align:start position:0%
+it compiles them
+in<00:06:09.280><c> a</c><00:06:09.600><c> deterministic</c><00:06:10.400><c> manner</c><00:06:10.800><c> that</c><00:06:11.039><c> is</c><00:06:11.280><c> not</c>
+
+00:06:11.430 --> 00:06:11.440 align:start position:0%
+in a deterministic manner that is not
+ 
+
+00:06:11.440 --> 00:06:12.870 align:start position:0%
+in a deterministic manner that is not
+subjective<00:06:11.919><c> in</c><00:06:12.080><c> any</c><00:06:12.240><c> way</c>
+
+00:06:12.870 --> 00:06:12.880 align:start position:0%
+subjective in any way
+ 
+
+00:06:12.880 --> 00:06:14.469 align:start position:0%
+subjective in any way
+it's<00:06:13.440><c> formally</c><00:06:13.840><c> and</c><00:06:13.919><c> mathematically</c>
+
+00:06:14.469 --> 00:06:14.479 align:start position:0%
+it's formally and mathematically
+ 
+
+00:06:14.479 --> 00:06:16.390 align:start position:0%
+it's formally and mathematically
+provable<00:06:15.759><c> and</c><00:06:15.919><c> there</c>
+
+00:06:16.390 --> 00:06:16.400 align:start position:0%
+provable and there
+ 
+
+00:06:16.400 --> 00:06:18.150 align:start position:0%
+provable and there
+is<00:06:16.639><c> no</c><00:06:16.800><c> one</c><00:06:16.960><c> that</c><00:06:17.120><c> can</c><00:06:17.280><c> stand</c><00:06:17.600><c> in</c><00:06:17.680><c> between</c><00:06:18.000><c> you</c>
+
+00:06:18.150 --> 00:06:18.160 align:start position:0%
+is no one that can stand in between you
+ 
+
+00:06:18.160 --> 00:06:19.990 align:start position:0%
+is no one that can stand in between you
+and<00:06:18.240><c> that</c><00:06:18.400><c> consensus</c><00:06:18.960><c> because</c><00:06:19.280><c> the</c><00:06:19.440><c> consensus</c>
+
+00:06:19.990 --> 00:06:20.000 align:start position:0%
+and that consensus because the consensus
+ 
+
+00:06:20.000 --> 00:06:23.510 align:start position:0%
+and that consensus because the consensus
+is<00:06:20.240><c> is</c><00:06:20.400><c> purely</c><00:06:20.800><c> math</c><00:06:21.600><c> so</c><00:06:22.639><c> so</c><00:06:22.800><c> that's</c><00:06:23.039><c> kind</c><00:06:23.199><c> of</c>
+
+00:06:23.510 --> 00:06:23.520 align:start position:0%
+is is purely math so so that's kind of
+ 
+
+00:06:23.520 --> 00:06:25.430 align:start position:0%
+is is purely math so so that's kind of
+the<00:06:23.759><c> the</c><00:06:23.919><c> big</c><00:06:24.160><c> role</c><00:06:24.319><c> ipfs</c><00:06:24.880><c> plays</c><00:06:25.039><c> and</c><00:06:25.199><c> it's</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+the the big role ipfs plays and it's
+ 
+
+00:06:25.440 --> 00:06:26.870 align:start position:0%
+the the big role ipfs plays and it's
+interesting<00:06:25.840><c> in</c><00:06:26.000><c> the</c><00:06:26.080><c> sense</c><00:06:26.400><c> that</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+interesting in the sense that
+ 
+
+00:06:26.880 --> 00:06:29.110 align:start position:0%
+interesting in the sense that
+ion<00:06:27.120><c> nodes</c><00:06:27.440><c> do</c><00:06:27.600><c> not</c><00:06:27.919><c> speak</c><00:06:28.160><c> to</c><00:06:28.400><c> each</c><00:06:28.560><c> other</c>
+
+00:06:29.110 --> 00:06:29.120 align:start position:0%
+ion nodes do not speak to each other
+ 
+
+00:06:29.120 --> 00:06:30.870 align:start position:0%
+ion nodes do not speak to each other
+other<00:06:29.440><c> than</c><00:06:29.680><c> through</c><00:06:30.000><c> ipfs</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+other than through ipfs
+ 
+
+00:06:30.880 --> 00:06:31.909 align:start position:0%
+other than through ipfs
+they<00:06:31.120><c> they</c><00:06:31.280><c> watch</c><00:06:31.520><c> each</c><00:06:31.680><c> other's</c>
+
+00:06:31.909 --> 00:06:31.919 align:start position:0%
+they they watch each other's
+ 
+
+00:06:31.919 --> 00:06:33.590 align:start position:0%
+they they watch each other's
+transactions<00:06:32.479><c> in</c><00:06:32.560><c> bitcoin</c><00:06:32.960><c> they</c><00:06:33.120><c> communicate</c>
+
+00:06:33.590 --> 00:06:33.600 align:start position:0%
+transactions in bitcoin they communicate
+ 
+
+00:06:33.600 --> 00:06:35.430 align:start position:0%
+transactions in bitcoin they communicate
+over<00:06:33.840><c> the</c><00:06:33.919><c> ips</c><00:06:34.479><c> protocol</c><00:06:34.880><c> to</c><00:06:35.039><c> make</c><00:06:35.199><c> sure</c><00:06:35.360><c> that</c>
+
+00:06:35.430 --> 00:06:35.440 align:start position:0%
+over the ips protocol to make sure that
+ 
+
+00:06:35.440 --> 00:06:35.990 align:start position:0%
+over the ips protocol to make sure that
+they
+
+00:06:35.990 --> 00:06:36.000 align:start position:0%
+they
+ 
+
+00:06:36.000 --> 00:06:38.469 align:start position:0%
+they
+uh<00:06:36.240><c> circulate</c><00:06:36.720><c> and</c><00:06:36.880><c> replicate</c><00:06:37.759><c> uh</c><00:06:38.240><c> the</c>
+
+00:06:38.469 --> 00:06:38.479 align:start position:0%
+uh circulate and replicate uh the
+ 
+
+00:06:38.479 --> 00:06:39.670 align:start position:0%
+uh circulate and replicate uh the
+mirrored<00:06:38.960><c> set</c><00:06:39.199><c> of</c>
+
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+mirrored set of
+ 
+
+00:06:39.680 --> 00:06:42.870 align:start position:0%
+mirrored set of
+of<00:06:39.840><c> data</c><00:06:40.240><c> that</c><00:06:40.400><c> makes</c><00:06:40.639><c> up</c><00:06:40.800><c> ion</c><00:06:41.919><c> so</c><00:06:42.560><c> what</c><00:06:42.720><c> does</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+of data that makes up ion so what does
+ 
+
+00:06:42.880 --> 00:06:43.749 align:start position:0%
+of data that makes up ion so what does
+ion<00:06:43.039><c> deliver</c>
+
+00:06:43.749 --> 00:06:43.759 align:start position:0%
+ion deliver
+ 
+
+00:06:43.759 --> 00:06:45.350 align:start position:0%
+ion deliver
+well<00:06:44.240><c> like</c><00:06:44.400><c> i</c><00:06:44.479><c> said</c><00:06:44.720><c> operates</c><00:06:45.039><c> at</c><00:06:45.120><c> massive</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+well like i said operates at massive
+ 
+
+00:06:45.360 --> 00:06:47.270 align:start position:0%
+well like i said operates at massive
+scale<00:06:45.680><c> you</c><00:06:45.759><c> know</c><00:06:45.919><c> tens</c><00:06:46.160><c> of</c><00:06:46.560><c> thousands</c><00:06:46.960><c> or</c><00:06:47.039><c> tens</c>
+
+00:06:47.270 --> 00:06:47.280 align:start position:0%
+scale you know tens of thousands or tens
+ 
+
+00:06:47.280 --> 00:06:49.110 align:start position:0%
+scale you know tens of thousands or tens
+of<00:06:47.360><c> thousands</c><00:06:47.680><c> of</c><00:06:47.840><c> operations</c><00:06:48.319><c> per</c><00:06:48.479><c> second</c>
+
+00:06:49.110 --> 00:06:49.120 align:start position:0%
+of thousands of operations per second
+ 
+
+00:06:49.120 --> 00:06:50.469 align:start position:0%
+of thousands of operations per second
+it's<00:06:49.280><c> really</c><00:06:49.440><c> efficient</c><00:06:49.919><c> people</c><00:06:50.160><c> say</c><00:06:50.319><c> you</c>
+
+00:06:50.469 --> 00:06:50.479 align:start position:0%
+it's really efficient people say you
+ 
+
+00:06:50.479 --> 00:06:52.390 align:start position:0%
+it's really efficient people say you
+know<00:06:50.560><c> they</c><00:06:50.720><c> ask</c><00:06:50.960><c> all</c><00:06:51.120><c> the</c><00:06:51.199><c> time</c><00:06:51.840><c> especially</c>
+
+00:06:52.390 --> 00:06:52.400 align:start position:0%
+know they ask all the time especially
+ 
+
+00:06:52.400 --> 00:06:53.749 align:start position:0%
+know they ask all the time especially
+folks<00:06:52.639><c> that</c><00:06:52.720><c> aren't</c><00:06:52.960><c> really</c><00:06:53.120><c> familiar</c><00:06:53.520><c> with</c>
+
+00:06:53.749 --> 00:06:53.759 align:start position:0%
+folks that aren't really familiar with
+ 
+
+00:06:53.759 --> 00:06:55.749 align:start position:0%
+folks that aren't really familiar with
+these<00:06:54.000><c> sorts</c><00:06:54.240><c> of</c><00:06:54.319><c> technologies</c><00:06:54.960><c> internally</c>
+
+00:06:55.749 --> 00:06:55.759 align:start position:0%
+these sorts of technologies internally
+ 
+
+00:06:55.759 --> 00:06:57.510 align:start position:0%
+these sorts of technologies internally
+well<00:06:56.000><c> but</c><00:06:56.160><c> bitcoin's</c><00:06:56.560><c> so</c><00:06:56.720><c> expensive</c><00:06:57.360><c> it's</c>
+
+00:06:57.510 --> 00:06:57.520 align:start position:0%
+well but bitcoin's so expensive it's
+ 
+
+00:06:57.520 --> 00:06:59.510 align:start position:0%
+well but bitcoin's so expensive it's
+just<00:06:57.680><c> so</c><00:06:57.840><c> expensive</c><00:06:58.479><c> for</c><00:06:58.639><c> transactions</c>
+
+00:06:59.510 --> 00:06:59.520 align:start position:0%
+just so expensive for transactions
+ 
+
+00:06:59.520 --> 00:07:01.270 align:start position:0%
+just so expensive for transactions
+well<00:06:59.919><c> maybe</c><00:07:00.400><c> right</c><00:07:00.639><c> i</c><00:07:00.720><c> mean</c><00:07:00.880><c> if</c><00:07:00.960><c> you</c><00:07:01.039><c> were</c><00:07:01.199><c> to</c>
+
+00:07:01.270 --> 00:07:01.280 align:start position:0%
+well maybe right i mean if you were to
+ 
+
+00:07:01.280 --> 00:07:02.710 align:start position:0%
+well maybe right i mean if you were to
+write<00:07:01.440><c> cap</c><00:07:01.680><c> pictures</c><00:07:02.000><c> into</c><00:07:02.160><c> bitcoin</c><00:07:02.479><c> you</c><00:07:02.639><c> got</c>
+
+00:07:02.710 --> 00:07:02.720 align:start position:0%
+write cap pictures into bitcoin you got
+ 
+
+00:07:02.720 --> 00:07:03.990 align:start position:0%
+write cap pictures into bitcoin you got
+to<00:07:02.800><c> really</c><00:07:02.960><c> care</c><00:07:03.120><c> about</c><00:07:03.360><c> that</c><00:07:03.440><c> cat</c><00:07:03.680><c> picture</c>
+
+00:07:03.990 --> 00:07:04.000 align:start position:0%
+to really care about that cat picture
+ 
+
+00:07:04.000 --> 00:07:05.270 align:start position:0%
+to really care about that cat picture
+for<00:07:04.160><c> five</c><00:07:04.319><c> dollars</c><00:07:04.560><c> a</c><00:07:04.639><c> pot</c>
+
+00:07:05.270 --> 00:07:05.280 align:start position:0%
+for five dollars a pot
+ 
+
+00:07:05.280 --> 00:07:07.670 align:start position:0%
+for five dollars a pot
+but<00:07:06.000><c> if</c><00:07:06.240><c> you're</c><00:07:06.400><c> writing</c><00:07:06.880><c> you</c><00:07:06.960><c> know</c><00:07:07.120><c> say</c><00:07:07.360><c> 10</c>
+
+00:07:07.670 --> 00:07:07.680 align:start position:0%
+but if you're writing you know say 10
+ 
+
+00:07:07.680 --> 00:07:09.589 align:start position:0%
+but if you're writing you know say 10
+000<00:07:08.000><c> did</c><00:07:08.479><c> operations</c><00:07:09.039><c> that</c><00:07:09.199><c> it</c><00:07:09.280><c> can</c><00:07:09.440><c> be</c>
+
+00:07:09.589 --> 00:07:09.599 align:start position:0%
+000 did operations that it can be
+ 
+
+00:07:09.599 --> 00:07:12.070 align:start position:0%
+000 did operations that it can be
+embedded<00:07:10.000><c> through</c><00:07:10.240><c> one</c><00:07:10.479><c> bitcoin</c><00:07:10.880><c> transaction</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+embedded through one bitcoin transaction
+ 
+
+00:07:12.080 --> 00:07:13.909 align:start position:0%
+embedded through one bitcoin transaction
+even<00:07:12.319><c> if</c><00:07:12.400><c> the</c><00:07:12.479><c> price</c><00:07:12.720><c> of</c><00:07:12.800><c> bitcoin</c><00:07:13.120><c> went</c><00:07:13.280><c> to</c><00:07:13.360><c> 100</c>
+
+00:07:13.909 --> 00:07:13.919 align:start position:0%
+even if the price of bitcoin went to 100
+ 
+
+00:07:13.919 --> 00:07:15.510 align:start position:0%
+even if the price of bitcoin went to 100
+per<00:07:14.160><c> transaction</c><00:07:14.720><c> and</c><00:07:14.880><c> it's</c><00:07:15.120><c> one</c>
+
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+per transaction and it's one
+ 
+
+00:07:15.520 --> 00:07:17.749 align:start position:0%
+per transaction and it's one
+cent<00:07:15.759><c> per</c><00:07:16.000><c> operation</c><00:07:16.880><c> and</c><00:07:17.039><c> an</c><00:07:17.199><c> operation</c>
+
+00:07:17.749 --> 00:07:17.759 align:start position:0%
+cent per operation and an operation
+ 
+
+00:07:17.759 --> 00:07:20.070 align:start position:0%
+cent per operation and an operation
+could<00:07:18.160><c> you</c><00:07:18.319><c> know</c><00:07:18.479><c> be</c><00:07:18.639><c> grounding</c><00:07:19.199><c> the</c><00:07:19.360><c> id</c><00:07:19.759><c> of</c>
+
+00:07:20.070 --> 00:07:20.080 align:start position:0%
+could you know be grounding the id of
+ 
+
+00:07:20.080 --> 00:07:22.070 align:start position:0%
+could you know be grounding the id of
+you<00:07:20.160><c> know</c><00:07:20.319><c> jeff</c><00:07:20.560><c> bezos's</c><00:07:21.199><c> id</c><00:07:21.759><c> do</c><00:07:21.840><c> you</c><00:07:21.919><c> think</c>
+
+00:07:22.070 --> 00:07:22.080 align:start position:0%
+you know jeff bezos's id do you think
+ 
+
+00:07:22.080 --> 00:07:23.589 align:start position:0%
+you know jeff bezos's id do you think
+he's<00:07:22.240><c> willing</c><00:07:22.479><c> to</c><00:07:22.639><c> pay</c><00:07:22.960><c> a</c><00:07:23.120><c> penny</c>
+
+00:07:23.589 --> 00:07:23.599 align:start position:0%
+he's willing to pay a penny
+ 
+
+00:07:23.599 --> 00:07:26.309 align:start position:0%
+he's willing to pay a penny
+i<00:07:23.919><c> do</c><00:07:24.319><c> i</c><00:07:24.560><c> mean</c><00:07:24.720><c> they</c><00:07:24.960><c> they'll</c><00:07:25.199><c> charge</c><00:07:25.520><c> you</c><00:07:25.759><c> uh</c>
+
+00:07:26.309 --> 00:07:26.319 align:start position:0%
+i do i mean they they'll charge you uh
+ 
+
+00:07:26.319 --> 00:07:26.710 align:start position:0%
+i do i mean they they'll charge you uh
+you<00:07:26.400><c> know</c>
+
+00:07:26.710 --> 00:07:26.720 align:start position:0%
+you know
+ 
+
+00:07:26.720 --> 00:07:28.390 align:start position:0%
+you know
+a<00:07:26.800><c> dollar</c><00:07:27.280><c> when</c><00:07:27.440><c> you</c><00:07:27.680><c> switch</c><00:07:27.919><c> out</c><00:07:28.080><c> your</c><00:07:28.160><c> sim</c>
+
+00:07:28.390 --> 00:07:28.400 align:start position:0%
+a dollar when you switch out your sim
+ 
+
+00:07:28.400 --> 00:07:30.230 align:start position:0%
+a dollar when you switch out your sim
+card<00:07:28.800><c> right</c><00:07:29.199><c> it's</c><00:07:29.360><c> all</c><00:07:29.520><c> kind</c><00:07:29.680><c> of</c><00:07:29.759><c> bundled</c><00:07:30.080><c> up</c>
+
+00:07:30.230 --> 00:07:30.240 align:start position:0%
+card right it's all kind of bundled up
+ 
+
+00:07:30.240 --> 00:07:31.189 align:start position:0%
+card right it's all kind of bundled up
+in<00:07:30.319><c> your</c><00:07:30.400><c> contract</c>
+
+00:07:31.189 --> 00:07:31.199 align:start position:0%
+in your contract
+ 
+
+00:07:31.199 --> 00:07:33.430 align:start position:0%
+in your contract
+so<00:07:31.759><c> for</c><00:07:32.080><c> switching</c><00:07:32.479><c> out</c><00:07:32.560><c> a</c><00:07:32.639><c> single</c><00:07:32.880><c> sim</c><00:07:33.120><c> every</c>
+
+00:07:33.430 --> 00:07:33.440 align:start position:0%
+so for switching out a single sim every
+ 
+
+00:07:33.440 --> 00:07:34.790 align:start position:0%
+so for switching out a single sim every
+few<00:07:33.599><c> years</c><00:07:33.840><c> when</c><00:07:34.000><c> you</c><00:07:34.080><c> get</c><00:07:34.160><c> a</c><00:07:34.240><c> new</c><00:07:34.400><c> phone</c><00:07:34.639><c> you</c>
+
+00:07:34.790 --> 00:07:34.800 align:start position:0%
+few years when you get a new phone you
+ 
+
+00:07:34.800 --> 00:07:35.510 align:start position:0%
+few years when you get a new phone you
+could<00:07:34.880><c> pay</c><00:07:35.039><c> for</c><00:07:35.120><c> all</c><00:07:35.280><c> your</c>
+
+00:07:35.510 --> 00:07:35.520 align:start position:0%
+could pay for all your
+ 
+
+00:07:35.520 --> 00:07:38.790 align:start position:0%
+could pay for all your
+deops<00:07:36.479><c> probably</c><00:07:37.039><c> for</c><00:07:37.440><c> years</c><00:07:37.759><c> at</c><00:07:37.840><c> a</c><00:07:37.919><c> time</c>
+
+00:07:38.790 --> 00:07:38.800 align:start position:0%
+deops probably for years at a time
+ 
+
+00:07:38.800 --> 00:07:41.830 align:start position:0%
+deops probably for years at a time
+so<00:07:38.960><c> we</c><00:07:39.120><c> think</c><00:07:39.199><c> it's</c><00:07:39.360><c> pretty</c><00:07:39.520><c> good</c><00:07:39.599><c> deal</c><00:07:41.520><c> ion</c>
+
+00:07:41.830 --> 00:07:41.840 align:start position:0%
+so we think it's pretty good deal ion
+ 
+
+00:07:41.840 --> 00:07:43.990 align:start position:0%
+so we think it's pretty good deal ion
+also<00:07:42.160><c> includes</c><00:07:42.479><c> a</c><00:07:42.560><c> light</c><00:07:42.720><c> node</c><00:07:42.960><c> configuration</c>
+
+00:07:43.990 --> 00:07:44.000 align:start position:0%
+also includes a light node configuration
+ 
+
+00:07:44.000 --> 00:07:46.230 align:start position:0%
+also includes a light node configuration
+so<00:07:44.240><c> that</c><00:07:44.479><c> you</c><00:07:44.720><c> only</c><00:07:44.960><c> need</c><00:07:45.199><c> to</c><00:07:45.599><c> actually</c><00:07:46.000><c> have</c>
+
+00:07:46.230 --> 00:07:46.240 align:start position:0%
+so that you only need to actually have
+ 
+
+00:07:46.240 --> 00:07:48.550 align:start position:0%
+so that you only need to actually have
+on<00:07:46.479><c> hand</c><00:07:46.800><c> at</c><00:07:46.960><c> any</c><00:07:47.120><c> moment</c><00:07:47.520><c> as</c><00:07:47.680><c> a</c><00:07:47.759><c> light</c><00:07:48.000><c> node</c>
+
+00:07:48.550 --> 00:07:48.560 align:start position:0%
+on hand at any moment as a light node
+ 
+
+00:07:48.560 --> 00:07:50.790 align:start position:0%
+on hand at any moment as a light node
+about<00:07:49.120><c> five</c><00:07:49.440><c> percent</c><00:07:49.840><c> of</c><00:07:49.919><c> the</c><00:07:50.080><c> total</c><00:07:50.400><c> data</c><00:07:50.639><c> set</c>
+
+00:07:50.790 --> 00:07:50.800 align:start position:0%
+about five percent of the total data set
+ 
+
+00:07:50.800 --> 00:07:51.670 align:start position:0%
+about five percent of the total data set
+in<00:07:50.879><c> the</c><00:07:50.960><c> world</c>
+
+00:07:51.670 --> 00:07:51.680 align:start position:0%
+in the world
+ 
+
+00:07:51.680 --> 00:07:53.749 align:start position:0%
+in the world
+to<00:07:51.840><c> give</c><00:07:52.000><c> you</c><00:07:52.160><c> a</c><00:07:52.400><c> picture</c><00:07:52.720><c> of</c><00:07:53.120><c> how</c><00:07:53.280><c> much</c><00:07:53.520><c> data</c>
+
+00:07:53.749 --> 00:07:53.759 align:start position:0%
+to give you a picture of how much data
+ 
+
+00:07:53.759 --> 00:07:55.510 align:start position:0%
+to give you a picture of how much data
+that<00:07:53.840><c> would</c><00:07:54.000><c> be</c><00:07:54.240><c> for</c><00:07:54.400><c> under</c><00:07:54.720><c> two</c><00:07:54.879><c> terabytes</c><00:07:55.360><c> of</c>
+
+00:07:55.510 --> 00:07:55.520 align:start position:0%
+that would be for under two terabytes of
+ 
+
+00:07:55.520 --> 00:07:56.230 align:start position:0%
+that would be for under two terabytes of
+storage
+
+00:07:56.230 --> 00:07:56.240 align:start position:0%
+storage
+ 
+
+00:07:56.240 --> 00:07:59.189 align:start position:0%
+storage
+um<00:07:56.639><c> you</c><00:07:56.879><c> could</c><00:07:57.680><c> uh</c><00:07:58.000><c> anchor</c><00:07:58.479><c> 50</c><00:07:58.720><c> billion</c><00:07:59.120><c> you</c>
+
+00:07:59.189 --> 00:07:59.199 align:start position:0%
+um you could uh anchor 50 billion you
+ 
+
+00:07:59.199 --> 00:08:01.189 align:start position:0%
+um you could uh anchor 50 billion you
+could<00:07:59.360><c> have</c><00:07:59.440><c> 50</c><00:07:59.759><c> billion</c><00:08:00.080><c> active</c><00:08:00.319><c> dids</c><00:08:00.960><c> in</c><00:08:01.039><c> the</c>
+
+00:08:01.189 --> 00:08:01.199 align:start position:0%
+could have 50 billion active dids in the
+ 
+
+00:08:01.199 --> 00:08:03.270 align:start position:0%
+could have 50 billion active dids in the
+pki<00:08:01.680><c> system</c><00:08:02.080><c> so</c><00:08:02.319><c> basically</c><00:08:02.720><c> onboarding</c><00:08:03.199><c> the</c>
+
+00:08:03.270 --> 00:08:03.280 align:start position:0%
+pki system so basically onboarding the
+ 
+
+00:08:03.280 --> 00:08:04.629 align:start position:0%
+pki system so basically onboarding the
+entire<00:08:03.599><c> planet</c><00:08:03.919><c> to</c><00:08:04.000><c> ion</c>
+
+00:08:04.629 --> 00:08:04.639 align:start position:0%
+entire planet to ion
+ 
+
+00:08:04.639 --> 00:08:06.550 align:start position:0%
+entire planet to ion
+we<00:08:04.800><c> could</c><00:08:05.039><c> we</c><00:08:05.120><c> could</c><00:08:05.280><c> spin</c><00:08:05.599><c> that</c><00:08:05.759><c> at</c><00:08:05.919><c> about</c><00:08:06.080><c> 1.8</c>
+
+00:08:06.550 --> 00:08:06.560 align:start position:0%
+we could we could spin that at about 1.8
+ 
+
+00:08:06.560 --> 00:08:07.670 align:start position:0%
+we could we could spin that at about 1.8
+terabytes<00:08:07.039><c> which</c><00:08:07.280><c> is</c>
+
+00:08:07.670 --> 00:08:07.680 align:start position:0%
+terabytes which is
+ 
+
+00:08:07.680 --> 00:08:10.629 align:start position:0%
+terabytes which is
+pretty<00:08:07.919><c> good</c><00:08:08.720><c> um</c><00:08:09.280><c> decentralized</c><00:08:10.000><c> registry</c><00:08:10.479><c> so</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+pretty good um decentralized registry so
+ 
+
+00:08:10.639 --> 00:08:11.110 align:start position:0%
+pretty good um decentralized registry so
+ion
+
+00:08:11.110 --> 00:08:11.120 align:start position:0%
+ion
+ 
+
+00:08:11.120 --> 00:08:12.469 align:start position:0%
+ion
+unlike<00:08:11.360><c> some</c><00:08:11.599><c> other</c><00:08:11.759><c> methods</c><00:08:12.160><c> that</c><00:08:12.319><c> are</c>
+
+00:08:12.469 --> 00:08:12.479 align:start position:0%
+unlike some other methods that are
+ 
+
+00:08:12.479 --> 00:08:15.110 align:start position:0%
+unlike some other methods that are
+completely<00:08:13.840><c> where</c><00:08:14.000><c> there's</c><00:08:14.240><c> no</c><00:08:14.479><c> index</c><00:08:14.879><c> right</c>
+
+00:08:15.110 --> 00:08:15.120 align:start position:0%
+completely where there's no index right
+ 
+
+00:08:15.120 --> 00:08:16.869 align:start position:0%
+completely where there's no index right
+some<00:08:15.280><c> other</c><00:08:15.520><c> methods</c><00:08:15.919><c> are</c>
+
+00:08:16.869 --> 00:08:16.879 align:start position:0%
+some other methods are
+ 
+
+00:08:16.879 --> 00:08:19.110 align:start position:0%
+some other methods are
+essentially<00:08:17.360><c> like</c><00:08:17.599><c> you</c><00:08:17.759><c> can</c><00:08:18.000><c> call</c><00:08:18.319><c> in</c><00:08:18.479><c> to</c><00:08:18.720><c> some</c>
+
+00:08:19.110 --> 00:08:19.120 align:start position:0%
+essentially like you can call in to some
+ 
+
+00:08:19.120 --> 00:08:21.430 align:start position:0%
+essentially like you can call in to some
+specific<00:08:19.680><c> prover</c><00:08:20.080><c> module</c><00:08:20.479><c> and</c><00:08:20.639><c> figure</c><00:08:20.960><c> out</c>
+
+00:08:21.430 --> 00:08:21.440 align:start position:0%
+specific prover module and figure out
+ 
+
+00:08:21.440 --> 00:08:23.749 align:start position:0%
+specific prover module and figure out
+your<00:08:21.680><c> ids</c><00:08:22.240><c> keys</c><00:08:22.479><c> and</c><00:08:22.639><c> endpoints</c><00:08:23.360><c> if</c><00:08:23.440><c> you</c><00:08:23.599><c> know</c>
+
+00:08:23.749 --> 00:08:23.759 align:start position:0%
+your ids keys and endpoints if you know
+ 
+
+00:08:23.759 --> 00:08:25.830 align:start position:0%
+your ids keys and endpoints if you know
+the<00:08:23.919><c> id</c><00:08:24.319><c> but</c><00:08:24.479><c> you</c><00:08:24.639><c> can't</c><00:08:24.879><c> see</c><00:08:25.199><c> all</c><00:08:25.360><c> the</c><00:08:25.520><c> id</c>
+
+00:08:25.830 --> 00:08:25.840 align:start position:0%
+the id but you can't see all the id
+ 
+
+00:08:25.840 --> 00:08:27.270 align:start position:0%
+the id but you can't see all the id
+strings<00:08:26.240><c> you</c><00:08:26.319><c> can't</c><00:08:26.560><c> see</c><00:08:26.800><c> like</c>
+
+00:08:27.270 --> 00:08:27.280 align:start position:0%
+strings you can't see like
+ 
+
+00:08:27.280 --> 00:08:29.189 align:start position:0%
+strings you can't see like
+you<00:08:27.360><c> know</c><00:08:27.520><c> id</c><00:08:27.840><c> one</c><00:08:28.000><c> two</c><00:08:28.160><c> three</c><00:08:28.400><c> four</c><00:08:28.639><c> five</c><00:08:28.879><c> six</c>
+
+00:08:29.189 --> 00:08:29.199 align:start position:0%
+you know id one two three four five six
+ 
+
+00:08:29.199 --> 00:08:30.710 align:start position:0%
+you know id one two three four five six
+all<00:08:29.280><c> the</c><00:08:29.360><c> other</c><00:08:29.520><c> ones</c><00:08:29.759><c> right</c>
+
+00:08:30.710 --> 00:08:30.720 align:start position:0%
+all the other ones right
+ 
+
+00:08:30.720 --> 00:08:33.829 align:start position:0%
+all the other ones right
+uh<00:08:30.960><c> ion</c><00:08:31.440><c> is</c><00:08:31.919><c> specifically</c><00:08:32.880><c> enabling</c><00:08:33.360><c> this</c>
+
+00:08:33.829 --> 00:08:33.839 align:start position:0%
+uh ion is specifically enabling this
+ 
+
+00:08:33.839 --> 00:08:35.430 align:start position:0%
+uh ion is specifically enabling this
+um<00:08:34.159><c> through</c><00:08:34.399><c> a</c><00:08:34.479><c> decentralized</c><00:08:35.039><c> index</c><00:08:35.279><c> so</c>
+
+00:08:35.430 --> 00:08:35.440 align:start position:0%
+um through a decentralized index so
+ 
+
+00:08:35.440 --> 00:08:36.709 align:start position:0%
+um through a decentralized index so
+every<00:08:35.680><c> id</c><00:08:35.839><c> that's</c><00:08:36.000><c> anchored</c><00:08:36.320><c> in</c><00:08:36.399><c> ion</c><00:08:36.640><c> you</c>
+
+00:08:36.709 --> 00:08:36.719 align:start position:0%
+every id that's anchored in ion you
+ 
+
+00:08:36.719 --> 00:08:38.070 align:start position:0%
+every id that's anchored in ion you
+could<00:08:36.880><c> at</c><00:08:36.880><c> least</c><00:08:37.200><c> know</c>
+
+00:08:38.070 --> 00:08:38.080 align:start position:0%
+could at least know
+ 
+
+00:08:38.080 --> 00:08:40.310 align:start position:0%
+could at least know
+uh<00:08:38.320><c> its</c><00:08:38.560><c> id</c><00:08:39.120><c> and</c><00:08:39.200><c> its</c><00:08:39.360><c> keys</c><00:08:39.599><c> and</c><00:08:39.680><c> its</c><00:08:39.839><c> endpoints</c>
+
+00:08:40.310 --> 00:08:40.320 align:start position:0%
+uh its id and its keys and its endpoints
+ 
+
+00:08:40.320 --> 00:08:41.670 align:start position:0%
+uh its id and its keys and its endpoints
+now<00:08:40.479><c> you</c><00:08:40.560><c> don't</c><00:08:40.719><c> know</c><00:08:40.880><c> who</c><00:08:41.039><c> it</c><00:08:41.200><c> is</c><00:08:41.279><c> so</c><00:08:41.440><c> it's</c><00:08:41.599><c> not</c>
+
+00:08:41.670 --> 00:08:41.680 align:start position:0%
+now you don't know who it is so it's not
+ 
+
+00:08:41.680 --> 00:08:42.630 align:start position:0%
+now you don't know who it is so it's not
+giving<00:08:41.919><c> you</c><00:08:42.000><c> a</c><00:08:42.159><c> huge</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+giving you a huge
+ 
+
+00:08:42.640 --> 00:08:44.630 align:start position:0%
+giving you a huge
+you<00:08:42.719><c> know</c><00:08:43.200><c> vector</c><00:08:43.599><c> in</c><00:08:43.680><c> terms</c><00:08:43.919><c> of</c><00:08:44.080><c> like</c><00:08:44.320><c> actual</c>
+
+00:08:44.630 --> 00:08:44.640 align:start position:0%
+you know vector in terms of like actual
+ 
+
+00:08:44.640 --> 00:08:45.670 align:start position:0%
+you know vector in terms of like actual
+identity<00:08:45.040><c> data</c>
+
+00:08:45.670 --> 00:08:45.680 align:start position:0%
+identity data
+ 
+
+00:08:45.680 --> 00:08:46.870 align:start position:0%
+identity data
+but<00:08:45.839><c> there's</c><00:08:46.080><c> some</c><00:08:46.160><c> really</c><00:08:46.399><c> cool</c><00:08:46.560><c> things</c><00:08:46.800><c> you</c>
+
+00:08:46.870 --> 00:08:46.880 align:start position:0%
+but there's some really cool things you
+ 
+
+00:08:46.880 --> 00:08:48.790 align:start position:0%
+but there's some really cool things you
+can<00:08:46.959><c> do</c><00:08:47.120><c> with</c><00:08:47.200><c> that</c><00:08:47.920><c> one</c><00:08:48.240><c> is</c>
+
+00:08:48.790 --> 00:08:48.800 align:start position:0%
+can do with that one is
+ 
+
+00:08:48.800 --> 00:08:51.430 align:start position:0%
+can do with that one is
+uh<00:08:49.040><c> you</c><00:08:49.200><c> can</c><00:08:49.440><c> type</c><00:08:49.760><c> ids</c><00:08:50.399><c> so</c><00:08:50.560><c> i</c><00:08:50.720><c> could</c><00:08:51.120><c> create</c>
+
+00:08:51.430 --> 00:08:51.440 align:start position:0%
+uh you can type ids so i could create
+ 
+
+00:08:51.440 --> 00:08:53.269 align:start position:0%
+uh you can type ids so i could create
+ids<00:08:51.839><c> that</c><00:08:51.920><c> have</c><00:08:52.080><c> certain</c><00:08:52.399><c> types</c><00:08:52.720><c> that</c><00:08:52.880><c> are</c>
+
+00:08:53.269 --> 00:08:53.279 align:start position:0%
+ids that have certain types that are
+ 
+
+00:08:53.279 --> 00:08:55.670 align:start position:0%
+ids that have certain types that are
+you<00:08:53.360><c> know</c><00:08:53.519><c> digital</c><00:08:54.080><c> things</c><00:08:54.560><c> they're</c><00:08:55.200><c> you</c><00:08:55.360><c> know</c>
+
+00:08:55.670 --> 00:08:55.680 align:start position:0%
+you know digital things they're you know
+ 
+
+00:08:55.680 --> 00:08:56.389 align:start position:0%
+you know digital things they're you know
+types<00:08:56.080><c> that</c>
+
+00:08:56.389 --> 00:08:56.399 align:start position:0%
+types that
+ 
+
+00:08:56.399 --> 00:08:58.389 align:start position:0%
+types that
+span<00:08:56.720><c> from</c><00:08:56.959><c> people</c><00:08:57.279><c> to</c><00:08:57.440><c> machines</c><00:08:58.000><c> all</c><00:08:58.080><c> sorts</c>
+
+00:08:58.389 --> 00:08:58.399 align:start position:0%
+span from people to machines all sorts
+ 
+
+00:08:58.399 --> 00:09:00.230 align:start position:0%
+span from people to machines all sorts
+of<00:08:58.480><c> things</c><00:08:59.040><c> and</c><00:08:59.200><c> then</c><00:08:59.440><c> you</c><00:08:59.519><c> could</c>
+
+00:09:00.230 --> 00:09:00.240 align:start position:0%
+of things and then you could
+ 
+
+00:09:00.240 --> 00:09:02.870 align:start position:0%
+of things and then you could
+basically<00:09:00.720><c> parse</c><00:09:01.279><c> the</c><00:09:01.680><c> global</c><00:09:02.080><c> substrate</c><00:09:02.720><c> of</c>
+
+00:09:02.870 --> 00:09:02.880 align:start position:0%
+basically parse the global substrate of
+ 
+
+00:09:02.880 --> 00:09:03.829 align:start position:0%
+basically parse the global substrate of
+ids<00:09:03.360><c> and</c>
+
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+ids and
+ 
+
+00:09:03.839 --> 00:09:06.150 align:start position:0%
+ids and
+you<00:09:03.920><c> know</c><00:09:04.080><c> get</c><00:09:04.240><c> whatever</c><00:09:04.640><c> batch</c><00:09:05.279><c> of</c><00:09:05.440><c> those</c><00:09:05.680><c> ids</c>
+
+00:09:06.150 --> 00:09:06.160 align:start position:0%
+you know get whatever batch of those ids
+ 
+
+00:09:06.160 --> 00:09:07.350 align:start position:0%
+you know get whatever batch of those ids
+of<00:09:06.320><c> whatever</c><00:09:06.640><c> type</c><00:09:06.880><c> you</c><00:09:06.959><c> want</c>
+
+00:09:07.350 --> 00:09:07.360 align:start position:0%
+of whatever type you want
+ 
+
+00:09:07.360 --> 00:09:08.710 align:start position:0%
+of whatever type you want
+and<00:09:07.519><c> create</c><00:09:07.760><c> your</c><00:09:07.920><c> own</c><00:09:08.080><c> registry</c><00:09:08.480><c> for</c><00:09:08.560><c> those</c>
+
+00:09:08.710 --> 00:09:08.720 align:start position:0%
+and create your own registry for those
+ 
+
+00:09:08.720 --> 00:09:09.829 align:start position:0%
+and create your own registry for those
+things<00:09:08.880><c> we'll</c><00:09:09.040><c> touch</c><00:09:09.279><c> on</c><00:09:09.360><c> that</c><00:09:09.440><c> a</c><00:09:09.519><c> little</c><00:09:09.680><c> bit</c>
+
+00:09:09.829 --> 00:09:09.839 align:start position:0%
+things we'll touch on that a little bit
+ 
+
+00:09:09.839 --> 00:09:11.030 align:start position:0%
+things we'll touch on that a little bit
+inside
+
+00:09:11.030 --> 00:09:11.040 align:start position:0%
+inside
+ 
+
+00:09:11.040 --> 00:09:13.269 align:start position:0%
+inside
+so<00:09:11.600><c> a</c><00:09:11.680><c> little</c><00:09:11.920><c> road</c><00:09:12.160><c> map</c><00:09:12.399><c> uh</c><00:09:12.640><c> we</c><00:09:12.720><c> talked</c><00:09:12.959><c> about</c>
+
+00:09:13.269 --> 00:09:13.279 align:start position:0%
+so a little road map uh we talked about
+ 
+
+00:09:13.279 --> 00:09:15.269 align:start position:0%
+so a little road map uh we talked about
+you<00:09:13.360><c> know</c><00:09:13.519><c> how</c><00:09:13.680><c> ions</c><00:09:14.160><c> getting</c><00:09:14.399><c> to</c><00:09:14.480><c> v1</c>
+
+00:09:15.269 --> 00:09:15.279 align:start position:0%
+you know how ions getting to v1
+ 
+
+00:09:15.279 --> 00:09:17.509 align:start position:0%
+you know how ions getting to v1
+it's<00:09:15.440><c> been</c><00:09:15.600><c> a</c><00:09:15.680><c> while</c><00:09:16.160><c> um</c><00:09:16.880><c> we</c><00:09:17.040><c> spent</c><00:09:17.200><c> about</c><00:09:17.440><c> a</c>
+
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+it's been a while um we spent about a
+ 
+
+00:09:17.519 --> 00:09:18.630 align:start position:0%
+it's been a while um we spent about a
+year<00:09:17.680><c> just</c><00:09:17.839><c> kind</c><00:09:17.920><c> of</c><00:09:18.000><c> thinking</c><00:09:18.320><c> about</c><00:09:18.480><c> how</c>
+
+00:09:18.630 --> 00:09:18.640 align:start position:0%
+year just kind of thinking about how
+ 
+
+00:09:18.640 --> 00:09:20.389 align:start position:0%
+year just kind of thinking about how
+best<00:09:18.800><c> to</c><00:09:18.880><c> approach</c><00:09:19.200><c> the</c><00:09:19.360><c> space</c>
+
+00:09:20.389 --> 00:09:20.399 align:start position:0%
+best to approach the space
+ 
+
+00:09:20.399 --> 00:09:23.110 align:start position:0%
+best to approach the space
+did<00:09:20.640><c> some</c><00:09:20.800><c> just</c><00:09:21.040><c> conceptual</c><00:09:21.519><c> work</c><00:09:22.160><c> uh</c><00:09:22.399><c> in</c><00:09:22.560><c> 2019</c>
+
+00:09:23.110 --> 00:09:23.120 align:start position:0%
+did some just conceptual work uh in 2019
+ 
+
+00:09:23.120 --> 00:09:24.470 align:start position:0%
+did some just conceptual work uh in 2019
+we<00:09:23.279><c> had</c><00:09:23.360><c> a</c><00:09:23.440><c> draft</c><00:09:23.760><c> of</c><00:09:23.839><c> the</c><00:09:24.000><c> underlying</c>
+
+00:09:24.470 --> 00:09:24.480 align:start position:0%
+we had a draft of the underlying
+ 
+
+00:09:24.480 --> 00:09:25.910 align:start position:0%
+we had a draft of the underlying
+protocol<00:09:24.959><c> citri</c><00:09:25.519><c> which</c>
+
+00:09:25.910 --> 00:09:25.920 align:start position:0%
+protocol citri which
+ 
+
+00:09:25.920 --> 00:09:27.430 align:start position:0%
+protocol citri which
+is<00:09:26.000><c> blockchain</c><00:09:26.480><c> agnostic</c><00:09:26.959><c> there's</c><00:09:27.200><c> people</c>
+
+00:09:27.430 --> 00:09:27.440 align:start position:0%
+is blockchain agnostic there's people
+ 
+
+00:09:27.440 --> 00:09:29.590 align:start position:0%
+is blockchain agnostic there's people
+running<00:09:27.680><c> it</c><00:09:27.760><c> on</c><00:09:27.920><c> ethereum</c><00:09:28.480><c> as</c><00:09:28.720><c> elements</c><00:09:29.200><c> and</c>
+
+00:09:29.590 --> 00:09:29.600 align:start position:0%
+running it on ethereum as elements and
+ 
+
+00:09:29.600 --> 00:09:31.509 align:start position:0%
+running it on ethereum as elements and
+others<00:09:30.640><c> that's</c><00:09:30.880><c> actually</c><00:09:31.120><c> just</c><00:09:31.279><c> been</c>
+
+00:09:31.509 --> 00:09:31.519 align:start position:0%
+others that's actually just been
+ 
+
+00:09:31.519 --> 00:09:32.710 align:start position:0%
+others that's actually just been
+standardized<00:09:32.160><c> by</c><00:09:32.320><c> diff</c>
+
+00:09:32.710 --> 00:09:32.720 align:start position:0%
+standardized by diff
+ 
+
+00:09:32.720 --> 00:09:35.110 align:start position:0%
+standardized by diff
+um<00:09:33.120><c> it</c><00:09:33.360><c> is</c><00:09:33.440><c> now</c><00:09:33.760><c> an</c><00:09:33.920><c> official</c><00:09:34.399><c> diff</c><00:09:34.640><c> ratified</c>
+
+00:09:35.110 --> 00:09:35.120 align:start position:0%
+um it is now an official diff ratified
+ 
+
+00:09:35.120 --> 00:09:36.870 align:start position:0%
+um it is now an official diff ratified
+standard
+
+00:09:36.870 --> 00:09:36.880 align:start position:0%
+standard
+ 
+
+00:09:36.880 --> 00:09:39.430 align:start position:0%
+standard
+we<00:09:37.040><c> got</c><00:09:37.200><c> a</c><00:09:37.360><c> beta</c><00:09:37.920><c> running</c><00:09:38.240><c> of</c><00:09:38.399><c> ion</c><00:09:38.880><c> the</c>
+
+00:09:39.430 --> 00:09:39.440 align:start position:0%
+we got a beta running of ion the
+ 
+
+00:09:39.440 --> 00:09:41.350 align:start position:0%
+we got a beta running of ion the
+specific<00:09:39.839><c> implementation</c><00:09:40.399><c> of</c><00:09:40.480><c> side</c><00:09:40.720><c> tree</c>
+
+00:09:41.350 --> 00:09:41.360 align:start position:0%
+specific implementation of side tree
+ 
+
+00:09:41.360 --> 00:09:43.829 align:start position:0%
+specific implementation of side tree
+anchored<00:09:41.760><c> in</c><00:09:41.920><c> bitcoin</c><00:09:42.560><c> in</c><00:09:42.880><c> 2020</c><00:09:43.440><c> and</c><00:09:43.519><c> we</c><00:09:43.600><c> ran</c>
+
+00:09:43.829 --> 00:09:43.839 align:start position:0%
+anchored in bitcoin in 2020 and we ran
+ 
+
+00:09:43.839 --> 00:09:44.790 align:start position:0%
+anchored in bitcoin in 2020 and we ran
+that<00:09:43.920><c> beta</c><00:09:44.240><c> for</c>
+
+00:09:44.790 --> 00:09:44.800 align:start position:0%
+that beta for
+ 
+
+00:09:44.800 --> 00:09:48.790 align:start position:0%
+that beta for
+about<00:09:45.040><c> the</c><00:09:45.120><c> duration</c><00:09:45.440><c> of</c><00:09:45.519><c> 2020</c><00:09:47.680><c> and</c><00:09:47.920><c> now</c>
+
+00:09:48.790 --> 00:09:48.800 align:start position:0%
+about the duration of 2020 and now
+ 
+
+00:09:48.800 --> 00:09:51.509 align:start position:0%
+about the duration of 2020 and now
+in<00:09:49.360><c> approximately</c><00:09:50.560><c> don't</c><00:09:50.720><c> hold</c><00:09:50.880><c> me</c><00:09:51.040><c> to</c><00:09:51.120><c> it</c><00:09:51.279><c> but</c>
+
+00:09:51.509 --> 00:09:51.519 align:start position:0%
+in approximately don't hold me to it but
+ 
+
+00:09:51.519 --> 00:09:52.790 align:start position:0%
+in approximately don't hold me to it but
+i<00:09:51.600><c> think</c><00:09:51.839><c> thursday</c>
+
+00:09:52.790 --> 00:09:52.800 align:start position:0%
+i think thursday
+ 
+
+00:09:52.800 --> 00:09:55.910 align:start position:0%
+i think thursday
+um<00:09:53.440><c> we</c><00:09:53.680><c> are</c><00:09:54.000><c> going</c><00:09:54.240><c> to</c><00:09:54.399><c> v1</c><00:09:54.800><c> production</c><00:09:55.440><c> um</c>
+
+00:09:55.910 --> 00:09:55.920 align:start position:0%
+um we are going to v1 production um
+ 
+
+00:09:55.920 --> 00:09:58.310 align:start position:0%
+um we are going to v1 production um
+microsoft<00:09:56.480><c> ga</c><00:09:57.120><c> with</c><00:09:57.360><c> our</c><00:09:57.600><c> node</c><00:09:57.839><c> and</c><00:09:58.000><c> we</c><00:09:58.080><c> can't</c>
+
+00:09:58.310 --> 00:09:58.320 align:start position:0%
+microsoft ga with our node and we can't
+ 
+
+00:09:58.320 --> 00:09:59.509 align:start position:0%
+microsoft ga with our node and we can't
+speak<00:09:58.480><c> for</c><00:09:58.560><c> anyone</c><00:09:58.880><c> else</c><00:09:59.040><c> because</c><00:09:59.279><c> obviously</c>
+
+00:09:59.509 --> 00:09:59.519 align:start position:0%
+speak for anyone else because obviously
+ 
+
+00:09:59.519 --> 00:10:01.110 align:start position:0%
+speak for anyone else because obviously
+the<00:09:59.600><c> protocol</c><00:10:00.000><c> doesn't</c><00:10:00.160><c> just</c><00:10:00.320><c> hinge</c><00:10:00.640><c> on</c><00:10:00.800><c> us</c><00:10:00.959><c> at</c>
+
+00:10:01.110 --> 00:10:01.120 align:start position:0%
+the protocol doesn't just hinge on us at
+ 
+
+00:10:01.120 --> 00:10:01.750 align:start position:0%
+the protocol doesn't just hinge on us at
+all
+
+00:10:01.750 --> 00:10:01.760 align:start position:0%
+all
+ 
+
+00:10:01.760 --> 00:10:04.870 align:start position:0%
+all
+um<00:10:02.320><c> but</c><00:10:02.560><c> we</c><00:10:03.200><c> we're</c><00:10:03.519><c> confident</c><00:10:04.000><c> the</c><00:10:04.160><c> spec</c><00:10:04.560><c> is</c><00:10:04.800><c> in</c>
+
+00:10:04.870 --> 00:10:04.880 align:start position:0%
+um but we we're confident the spec is in
+ 
+
+00:10:04.880 --> 00:10:06.389 align:start position:0%
+um but we we're confident the spec is in
+good<00:10:05.120><c> shape</c><00:10:05.360><c> the</c><00:10:05.519><c> underlying</c><00:10:05.920><c> protocol</c><00:10:06.320><c> has</c>
+
+00:10:06.389 --> 00:10:06.399 align:start position:0%
+good shape the underlying protocol has
+ 
+
+00:10:06.399 --> 00:10:07.350 align:start position:0%
+good shape the underlying protocol has
+been<00:10:06.640><c> standardized</c>
+
+00:10:07.350 --> 00:10:07.360 align:start position:0%
+been standardized
+ 
+
+00:10:07.360 --> 00:10:08.630 align:start position:0%
+been standardized
+and<00:10:07.600><c> it's</c><00:10:07.839><c> going</c><00:10:07.920><c> to</c><00:10:08.000><c> be</c><00:10:08.079><c> rolled</c><00:10:08.399><c> out</c><00:10:08.480><c> just</c>
+
+00:10:08.630 --> 00:10:08.640 align:start position:0%
+and it's going to be rolled out just
+ 
+
+00:10:08.640 --> 00:10:10.550 align:start position:0%
+and it's going to be rolled out just
+like<00:10:08.880><c> any</c><00:10:09.120><c> other</c><00:10:09.920><c> production</c>
+
+00:10:10.550 --> 00:10:10.560 align:start position:0%
+like any other production
+ 
+
+00:10:10.560 --> 00:10:13.350 align:start position:0%
+like any other production
+service<00:10:10.959><c> for</c><00:10:11.120><c> us</c><00:10:11.680><c> anyway</c><00:10:12.240><c> so</c><00:10:12.480><c> so</c><00:10:13.120><c> more</c>
+
+00:10:13.350 --> 00:10:13.360 align:start position:0%
+service for us anyway so so more
+ 
+
+00:10:13.360 --> 00:10:14.790 align:start position:0%
+service for us anyway so so more
+information<00:10:13.760><c> will</c><00:10:13.839><c> be</c><00:10:14.000><c> coming</c><00:10:14.240><c> to</c><00:10:14.320><c> you</c>
+
+00:10:14.790 --> 00:10:14.800 align:start position:0%
+information will be coming to you
+ 
+
+00:10:14.800 --> 00:10:17.670 align:start position:0%
+information will be coming to you
+in<00:10:14.880><c> the</c><00:10:14.959><c> coming</c><00:10:15.279><c> days</c><00:10:16.240><c> and</c><00:10:16.640><c> quarter</c><00:10:17.120><c> quarter</c><00:10:17.440><c> 4</c>
+
+00:10:17.670 --> 00:10:17.680 align:start position:0%
+in the coming days and quarter quarter 4
+ 
+
+00:10:17.680 --> 00:10:18.470 align:start position:0%
+in the coming days and quarter quarter 4
+2021
+
+00:10:18.470 --> 00:10:18.480 align:start position:0%
+2021
+ 
+
+00:10:18.480 --> 00:10:19.590 align:start position:0%
+2021
+you<00:10:18.560><c> know</c><00:10:18.720><c> we</c><00:10:18.800><c> want</c><00:10:18.959><c> to</c><00:10:19.040><c> integrate</c><00:10:19.360><c> it</c>
+
+00:10:19.590 --> 00:10:19.600 align:start position:0%
+you know we want to integrate it
+ 
+
+00:10:19.600 --> 00:10:21.030 align:start position:0%
+you know we want to integrate it
+certainly<00:10:20.000><c> in</c><00:10:20.240><c> all</c><00:10:20.320><c> of</c><00:10:20.480><c> our</c><00:10:20.640><c> identity</c>
+
+00:10:21.030 --> 00:10:21.040 align:start position:0%
+certainly in all of our identity
+ 
+
+00:10:21.040 --> 00:10:21.829 align:start position:0%
+certainly in all of our identity
+products
+
+00:10:21.829 --> 00:10:21.839 align:start position:0%
+products
+ 
+
+00:10:21.839 --> 00:10:23.910 align:start position:0%
+products
+uh<00:10:22.079><c> as</c><00:10:22.240><c> a</c><00:10:22.320><c> company</c><00:10:23.040><c> um</c><00:10:23.279><c> you'll</c><00:10:23.519><c> see</c><00:10:23.760><c> auth</c>
+
+00:10:23.910 --> 00:10:23.920 align:start position:0%
+uh as a company um you'll see auth
+ 
+
+00:10:23.920 --> 00:10:26.150 align:start position:0%
+uh as a company um you'll see auth
+modules<00:10:24.399><c> coming</c><00:10:24.640><c> out</c><00:10:24.880><c> people</c><00:10:25.120><c> being</c><00:10:25.360><c> able</c><00:10:25.519><c> to</c>
+
+00:10:26.150 --> 00:10:26.160 align:start position:0%
+modules coming out people being able to
+ 
+
+00:10:26.160 --> 00:10:28.949 align:start position:0%
+modules coming out people being able to
+log<00:10:26.399><c> in</c><00:10:26.480><c> with</c><00:10:26.640><c> dids</c><00:10:27.360><c> and</c><00:10:27.680><c> all</c><00:10:27.839><c> sorts</c><00:10:28.079><c> of</c><00:10:28.240><c> things</c>
+
+00:10:28.949 --> 00:10:28.959 align:start position:0%
+log in with dids and all sorts of things
+ 
+
+00:10:28.959 --> 00:10:30.790 align:start position:0%
+log in with dids and all sorts of things
+that<00:10:29.120><c> we</c><00:10:29.279><c> think</c><00:10:29.440><c> are</c><00:10:29.600><c> just</c><00:10:29.760><c> really</c><00:10:29.920><c> cool</c>
+
+00:10:30.790 --> 00:10:30.800 align:start position:0%
+that we think are just really cool
+ 
+
+00:10:30.800 --> 00:10:32.150 align:start position:0%
+that we think are just really cool
+and<00:10:30.959><c> enabling</c><00:10:31.440><c> for</c><00:10:31.600><c> the</c><00:10:31.680><c> community</c><00:10:32.079><c> the</c>
+
+00:10:32.150 --> 00:10:32.160 align:start position:0%
+and enabling for the community the
+ 
+
+00:10:32.160 --> 00:10:34.949 align:start position:0%
+and enabling for the community the
+decentralized<00:10:32.640><c> community</c><00:10:32.959><c> in</c><00:10:33.040><c> general</c>
+
+00:10:34.949 --> 00:10:34.959 align:start position:0%
+decentralized community in general
+ 
+
+00:10:34.959 --> 00:10:38.389 align:start position:0%
+decentralized community in general
+so<00:10:35.200><c> what's</c><00:10:35.519><c> next</c><00:10:36.240><c> um</c><00:10:37.200><c> after</c><00:10:37.440><c> dids</c><00:10:38.000><c> there's</c>
+
+00:10:38.389 --> 00:10:38.399 align:start position:0%
+so what's next um after dids there's
+ 
+
+00:10:38.399 --> 00:10:39.910 align:start position:0%
+so what's next um after dids there's
+another<00:10:38.720><c> place</c><00:10:38.959><c> that</c><00:10:39.120><c> ipfs</c><00:10:39.600><c> can</c><00:10:39.680><c> play</c><00:10:39.839><c> a</c>
+
+00:10:39.910 --> 00:10:39.920 align:start position:0%
+another place that ipfs can play a
+ 
+
+00:10:39.920 --> 00:10:41.910 align:start position:0%
+another place that ipfs can play a
+really<00:10:40.160><c> really</c><00:10:40.640><c> big</c><00:10:40.959><c> role</c><00:10:41.279><c> and</c><00:10:41.440><c> i</c><00:10:41.519><c> think</c><00:10:41.680><c> some</c>
+
+00:10:41.910 --> 00:10:41.920 align:start position:0%
+really really big role and i think some
+ 
+
+00:10:41.920 --> 00:10:43.030 align:start position:0%
+really really big role and i think some
+other<00:10:42.079><c> folks</c><00:10:42.399><c> you</c><00:10:42.560><c> know</c><00:10:42.720><c> in</c>
+
+00:10:43.030 --> 00:10:43.040 align:start position:0%
+other folks you know in
+ 
+
+00:10:43.040 --> 00:10:44.790 align:start position:0%
+other folks you know in
+the<00:10:43.120><c> conversations</c><00:10:43.760><c> to</c><00:10:43.920><c> come</c><00:10:44.160><c> will</c><00:10:44.399><c> touch</c><00:10:44.640><c> on</c>
+
+00:10:44.790 --> 00:10:44.800 align:start position:0%
+the conversations to come will touch on
+ 
+
+00:10:44.800 --> 00:10:47.030 align:start position:0%
+the conversations to come will touch on
+this<00:10:45.440><c> and</c><00:10:45.839><c> the</c><00:10:46.000><c> next</c><00:10:46.240><c> thing</c><00:10:46.399><c> is</c><00:10:46.480><c> personal</c><00:10:46.800><c> data</c>
+
+00:10:47.030 --> 00:10:47.040 align:start position:0%
+this and the next thing is personal data
+ 
+
+00:10:47.040 --> 00:10:47.509 align:start position:0%
+this and the next thing is personal data
+stores
+
+00:10:47.509 --> 00:10:47.519 align:start position:0%
+stores
+ 
+
+00:10:47.519 --> 00:10:49.990 align:start position:0%
+stores
+so<00:10:48.640><c> you</c><00:10:48.720><c> know</c><00:10:48.800><c> what's</c><00:10:49.040><c> an</c><00:10:49.200><c> id</c><00:10:49.440><c> worth</c><00:10:49.760><c> if</c><00:10:49.920><c> you</c>
+
+00:10:49.990 --> 00:10:50.000 align:start position:0%
+so you know what's an id worth if you
+ 
+
+00:10:50.000 --> 00:10:51.509 align:start position:0%
+so you know what's an id worth if you
+can't<00:10:50.320><c> connect</c><00:10:50.720><c> to</c><00:10:50.880><c> some</c><00:10:51.040><c> data</c>
+
+00:10:51.509 --> 00:10:51.519 align:start position:0%
+can't connect to some data
+ 
+
+00:10:51.519 --> 00:10:53.590 align:start position:0%
+can't connect to some data
+and<00:10:51.680><c> maybe</c><00:10:52.000><c> ask</c><00:10:52.240><c> for</c><00:10:52.399><c> some</c><00:10:52.720><c> stuff</c><00:10:53.519><c> of</c>
+
+00:10:53.590 --> 00:10:53.600 align:start position:0%
+and maybe ask for some stuff of
+ 
+
+00:10:53.600 --> 00:10:55.190 align:start position:0%
+and maybe ask for some stuff of
+someone's<00:10:54.079><c> to</c><00:10:54.240><c> learn</c><00:10:54.480><c> about</c><00:10:54.720><c> them</c><00:10:55.040><c> or</c>
+
+00:10:55.190 --> 00:10:55.200 align:start position:0%
+someone's to learn about them or
+ 
+
+00:10:55.200 --> 00:10:57.110 align:start position:0%
+someone's to learn about them or
+something<00:10:55.440><c> they</c><00:10:55.519><c> want</c><00:10:55.680><c> you</c><00:10:55.839><c> to</c><00:10:55.920><c> hear</c><00:10:56.079><c> about</c>
+
+00:10:57.110 --> 00:10:57.120 align:start position:0%
+something they want you to hear about
+ 
+
+00:10:57.120 --> 00:10:59.030 align:start position:0%
+something they want you to hear about
+the<00:10:57.279><c> concept</c><00:10:57.680><c> here</c><00:10:57.920><c> is</c><00:10:58.079><c> that</c><00:10:58.399><c> in</c><00:10:58.560><c> those</c>
+
+00:10:59.030 --> 00:10:59.040 align:start position:0%
+the concept here is that in those
+ 
+
+00:10:59.040 --> 00:11:00.630 align:start position:0%
+the concept here is that in those
+service<00:10:59.440><c> endpoints</c><00:10:59.839><c> that</c><00:10:59.920><c> you</c><00:11:00.079><c> can</c><00:11:00.160><c> associate</c>
+
+00:11:00.630 --> 00:11:00.640 align:start position:0%
+service endpoints that you can associate
+ 
+
+00:11:00.640 --> 00:11:02.150 align:start position:0%
+service endpoints that you can associate
+with<00:11:00.720><c> your</c><00:11:00.880><c> ids</c>
+
+00:11:02.150 --> 00:11:02.160 align:start position:0%
+with your ids
+ 
+
+00:11:02.160 --> 00:11:03.670 align:start position:0%
+with your ids
+you<00:11:02.320><c> might</c><00:11:02.560><c> want</c><00:11:02.800><c> like</c><00:11:03.040><c> a</c><00:11:03.120><c> personal</c><00:11:03.440><c> data</c>
+
+00:11:03.670 --> 00:11:03.680 align:start position:0%
+you might want like a personal data
+ 
+
+00:11:03.680 --> 00:11:05.990 align:start position:0%
+you might want like a personal data
+store<00:11:03.920><c> endpoint</c><00:11:04.640><c> where</c><00:11:04.959><c> you</c><00:11:05.120><c> can</c><00:11:05.360><c> put</c><00:11:05.600><c> some</c>
+
+00:11:05.990 --> 00:11:06.000 align:start position:0%
+store endpoint where you can put some
+ 
+
+00:11:06.000 --> 00:11:07.430 align:start position:0%
+store endpoint where you can put some
+public<00:11:06.399><c> data</c><00:11:06.720><c> maybe</c><00:11:06.959><c> you</c><00:11:07.040><c> can</c><00:11:07.120><c> put</c><00:11:07.279><c> some</c>
+
+00:11:07.430 --> 00:11:07.440 align:start position:0%
+public data maybe you can put some
+ 
+
+00:11:07.440 --> 00:11:09.190 align:start position:0%
+public data maybe you can put some
+encrypted<00:11:07.839><c> data</c><00:11:08.800><c> and</c>
+
+00:11:09.190 --> 00:11:09.200 align:start position:0%
+encrypted data and
+ 
+
+00:11:09.200 --> 00:11:10.790 align:start position:0%
+encrypted data and
+you<00:11:09.360><c> know</c><00:11:09.519><c> maybe</c><00:11:09.760><c> data</c><00:11:10.000><c> that's</c><00:11:10.240><c> encrypted</c><00:11:10.560><c> for</c>
+
+00:11:10.790 --> 00:11:10.800 align:start position:0%
+you know maybe data that's encrypted for
+ 
+
+00:11:10.800 --> 00:11:12.389 align:start position:0%
+you know maybe data that's encrypted for
+multiple<00:11:11.120><c> parties</c>
+
+00:11:12.389 --> 00:11:12.399 align:start position:0%
+multiple parties
+ 
+
+00:11:12.399 --> 00:11:14.630 align:start position:0%
+multiple parties
+a<00:11:12.480><c> whole</c><00:11:12.720><c> mix</c><00:11:13.040><c> of</c><00:11:13.120><c> types</c><00:11:13.360><c> of</c><00:11:13.519><c> data</c><00:11:14.160><c> and</c><00:11:14.480><c> for</c>
+
+00:11:14.630 --> 00:11:14.640 align:start position:0%
+a whole mix of types of data and for
+ 
+
+00:11:14.640 --> 00:11:16.310 align:start position:0%
+a whole mix of types of data and for
+public<00:11:14.880><c> data</c><00:11:15.360><c> you</c><00:11:15.519><c> know</c><00:11:15.760><c> it</c><00:11:15.920><c> might</c><00:11:16.079><c> be</c>
+
+00:11:16.310 --> 00:11:16.320 align:start position:0%
+public data you know it might be
+ 
+
+00:11:16.320 --> 00:11:17.829 align:start position:0%
+public data you know it might be
+something<00:11:16.560><c> like</c><00:11:16.720><c> blue</c><00:11:16.959><c> sky</c><00:11:17.279><c> like</c><00:11:17.440><c> maybe</c><00:11:17.680><c> your</c>
+
+00:11:17.829 --> 00:11:17.839 align:start position:0%
+something like blue sky like maybe your
+ 
+
+00:11:17.839 --> 00:11:18.790 align:start position:0%
+something like blue sky like maybe your
+tweets<00:11:18.240><c> live</c><00:11:18.399><c> in</c><00:11:18.560><c> your</c>
+
+00:11:18.790 --> 00:11:18.800 align:start position:0%
+tweets live in your
+ 
+
+00:11:18.800 --> 00:11:21.269 align:start position:0%
+tweets live in your
+your<00:11:19.279><c> your</c><00:11:19.440><c> personal</c><00:11:19.760><c> data</c><00:11:20.000><c> store</c><00:11:20.800><c> so</c><00:11:20.959><c> that</c><00:11:21.120><c> if</c>
+
+00:11:21.269 --> 00:11:21.279 align:start position:0%
+your your personal data store so that if
+ 
+
+00:11:21.279 --> 00:11:23.590 align:start position:0%
+your your personal data store so that if
+i<00:11:21.360><c> wanted</c><00:11:21.600><c> to</c><00:11:21.760><c> go</c><00:11:21.920><c> get</c><00:11:22.160><c> the</c><00:11:22.320><c> tweet</c><00:11:22.720><c> of</c><00:11:22.959><c> say</c><00:11:23.279><c> bob</c>
+
+00:11:23.590 --> 00:11:23.600 align:start position:0%
+i wanted to go get the tweet of say bob
+ 
+
+00:11:23.600 --> 00:11:25.509 align:start position:0%
+i wanted to go get the tweet of say bob
+you<00:11:23.760><c> know</c><00:11:23.839><c> his</c><00:11:24.079><c> list</c><00:11:24.399><c> of</c><00:11:24.560><c> latest</c><00:11:24.880><c> tweets</c>
+
+00:11:25.509 --> 00:11:25.519 align:start position:0%
+you know his list of latest tweets
+ 
+
+00:11:25.519 --> 00:11:27.590 align:start position:0%
+you know his list of latest tweets
+i<00:11:25.680><c> would</c><00:11:25.839><c> look</c><00:11:26.000><c> as</c><00:11:26.240><c> did</c><00:11:26.720><c> up</c><00:11:26.880><c> i</c><00:11:26.959><c> would</c><00:11:27.200><c> find</c><00:11:27.440><c> his</c>
+
+00:11:27.590 --> 00:11:27.600 align:start position:0%
+i would look as did up i would find his
+ 
+
+00:11:27.600 --> 00:11:29.269 align:start position:0%
+i would look as did up i would find his
+service<00:11:28.000><c> endpoint</c><00:11:28.480><c> and</c><00:11:28.560><c> i</c><00:11:28.640><c> would</c><00:11:28.800><c> go</c><00:11:28.959><c> to</c><00:11:29.120><c> a</c>
+
+00:11:29.269 --> 00:11:29.279 align:start position:0%
+service endpoint and i would go to a
+ 
+
+00:11:29.279 --> 00:11:31.030 align:start position:0%
+service endpoint and i would go to a
+standardized<00:11:29.920><c> personal</c><00:11:30.240><c> data</c><00:11:30.480><c> store</c>
+
+00:11:31.030 --> 00:11:31.040 align:start position:0%
+standardized personal data store
+ 
+
+00:11:31.040 --> 00:11:33.110 align:start position:0%
+standardized personal data store
+and<00:11:31.200><c> ask</c><00:11:31.360><c> for</c><00:11:31.519><c> that</c><00:11:31.680><c> type</c><00:11:31.839><c> of</c><00:11:32.000><c> object</c><00:11:32.959><c> the</c>
+
+00:11:33.110 --> 00:11:33.120 align:start position:0%
+and ask for that type of object the
+ 
+
+00:11:33.120 --> 00:11:34.550 align:start position:0%
+and ask for that type of object the
+ceramic<00:11:33.440><c> folks</c><00:11:33.680><c> are</c><00:11:33.839><c> on</c><00:11:33.920><c> later</c><00:11:34.160><c> they've</c><00:11:34.399><c> done</c>
+
+00:11:34.550 --> 00:11:34.560 align:start position:0%
+ceramic folks are on later they've done
+ 
+
+00:11:34.560 --> 00:11:36.310 align:start position:0%
+ceramic folks are on later they've done
+a<00:11:34.880><c> really</c><00:11:35.040><c> good</c><00:11:35.200><c> job</c><00:11:35.440><c> of</c><00:11:35.519><c> this</c><00:11:35.680><c> public</c><00:11:35.920><c> data</c>
+
+00:11:36.310 --> 00:11:36.320 align:start position:0%
+a really good job of this public data
+ 
+
+00:11:36.320 --> 00:11:38.389 align:start position:0%
+a really good job of this public data
+piece<00:11:36.720><c> especially</c>
+
+00:11:38.389 --> 00:11:38.399 align:start position:0%
+piece especially
+ 
+
+00:11:38.399 --> 00:11:39.829 align:start position:0%
+piece especially
+and<00:11:38.560><c> if</c><00:11:38.640><c> i</c><00:11:38.800><c> have</c><00:11:38.959><c> that</c><00:11:39.120><c> i</c><00:11:39.200><c> can</c><00:11:39.440><c> i</c><00:11:39.519><c> can</c><00:11:39.680><c> start</c>
+
+00:11:39.829 --> 00:11:39.839 align:start position:0%
+and if i have that i can i can start
+ 
+
+00:11:39.839 --> 00:11:41.269 align:start position:0%
+and if i have that i can i can start
+building<00:11:40.079><c> decentralized</c><00:11:40.720><c> applications</c>
+
+00:11:41.269 --> 00:11:41.279 align:start position:0%
+building decentralized applications
+ 
+
+00:11:41.279 --> 00:11:42.470 align:start position:0%
+building decentralized applications
+because<00:11:41.519><c> i</c><00:11:41.600><c> can</c><00:11:41.760><c> actually</c>
+
+00:11:42.470 --> 00:11:42.480 align:start position:0%
+because i can actually
+ 
+
+00:11:42.480 --> 00:11:45.110 align:start position:0%
+because i can actually
+go<00:11:42.720><c> and</c><00:11:42.959><c> get</c><00:11:43.440><c> the</c><00:11:43.600><c> data</c><00:11:43.920><c> in</c><00:11:44.079><c> a</c><00:11:44.240><c> known</c><00:11:44.640><c> universal</c>
+
+00:11:45.110 --> 00:11:45.120 align:start position:0%
+go and get the data in a known universal
+ 
+
+00:11:45.120 --> 00:11:46.470 align:start position:0%
+go and get the data in a known universal
+way<00:11:45.360><c> from</c><00:11:45.519><c> my</c><00:11:45.680><c> peers</c>
+
+00:11:46.470 --> 00:11:46.480 align:start position:0%
+way from my peers
+ 
+
+00:11:46.480 --> 00:11:48.230 align:start position:0%
+way from my peers
+and<00:11:46.640><c> so</c><00:11:46.800><c> there's</c><00:11:46.959><c> a</c><00:11:47.040><c> whole</c><00:11:47.200><c> lot</c><00:11:47.360><c> of</c><00:11:47.519><c> power</c><00:11:48.079><c> in</c>
+
+00:11:48.230 --> 00:11:48.240 align:start position:0%
+and so there's a whole lot of power in
+ 
+
+00:11:48.240 --> 00:11:49.670 align:start position:0%
+and so there's a whole lot of power in
+that<00:11:48.480><c> and</c><00:11:48.560><c> that's</c><00:11:48.880><c> that's</c><00:11:49.200><c> i'd</c><00:11:49.360><c> actually</c>
+
+00:11:49.670 --> 00:11:49.680 align:start position:0%
+that and that's that's i'd actually
+ 
+
+00:11:49.680 --> 00:11:50.790 align:start position:0%
+that and that's that's i'd actually
+argue<00:11:50.000><c> that's</c><00:11:50.240><c> the</c>
+
+00:11:50.790 --> 00:11:50.800 align:start position:0%
+argue that's the
+ 
+
+00:11:50.800 --> 00:11:52.069 align:start position:0%
+argue that's the
+the<00:11:50.959><c> most</c><00:11:51.279><c> powerful</c><00:11:51.760><c> thing</c><00:11:51.920><c> about</c>
+
+00:11:52.069 --> 00:11:52.079 align:start position:0%
+the most powerful thing about
+ 
+
+00:11:52.079 --> 00:11:53.670 align:start position:0%
+the most powerful thing about
+decentralized<00:11:52.639><c> identities</c><00:11:53.120><c> when</c><00:11:53.200><c> you</c><00:11:53.360><c> pair</c>
+
+00:11:53.670 --> 00:11:53.680 align:start position:0%
+decentralized identities when you pair
+ 
+
+00:11:53.680 --> 00:11:54.870 align:start position:0%
+decentralized identities when you pair
+these<00:11:53.839><c> data</c><00:11:54.079><c> stores</c>
+
+00:11:54.870 --> 00:11:54.880 align:start position:0%
+these data stores
+ 
+
+00:11:54.880 --> 00:11:58.069 align:start position:0%
+these data stores
+so<00:11:55.600><c> we</c><00:11:55.920><c> believe</c><00:11:56.639><c> that</c><00:11:56.800><c> dids</c><00:11:57.440><c> really</c><00:11:57.680><c> are</c><00:11:57.920><c> the</c>
+
+00:11:58.069 --> 00:11:58.079 align:start position:0%
+so we believe that dids really are the
+ 
+
+00:11:58.079 --> 00:11:58.389 align:start position:0%
+so we believe that dids really are the
+dap
+
+00:11:58.389 --> 00:11:58.399 align:start position:0%
+dap
+ 
+
+00:11:58.399 --> 00:12:00.710 align:start position:0%
+dap
+platform<00:11:59.040><c> there's</c><00:11:59.440><c> no</c><00:12:00.160><c> decentralized</c>
+
+00:12:00.710 --> 00:12:00.720 align:start position:0%
+platform there's no decentralized
+ 
+
+00:12:00.720 --> 00:12:01.910 align:start position:0%
+platform there's no decentralized
+identity<00:12:01.120><c> itself</c>
+
+00:12:01.910 --> 00:12:01.920 align:start position:0%
+identity itself
+ 
+
+00:12:01.920 --> 00:12:03.509 align:start position:0%
+identity itself
+was<00:12:02.160><c> always</c><00:12:02.399><c> the</c><00:12:02.560><c> platform</c><00:12:02.959><c> i</c><00:12:03.200><c> just</c><00:12:03.360><c> think</c>
+
+00:12:03.509 --> 00:12:03.519 align:start position:0%
+was always the platform i just think
+ 
+
+00:12:03.519 --> 00:12:05.269 align:start position:0%
+was always the platform i just think
+people<00:12:03.760><c> are</c><00:12:03.839><c> waking</c><00:12:04.160><c> up</c><00:12:04.240><c> to</c><00:12:04.399><c> this</c>
+
+00:12:05.269 --> 00:12:05.279 align:start position:0%
+people are waking up to this
+ 
+
+00:12:05.279 --> 00:12:07.829 align:start position:0%
+people are waking up to this
+now<00:12:06.399><c> why</c><00:12:06.560><c> do</c><00:12:06.720><c> i</c><00:12:06.800><c> need</c><00:12:06.959><c> signal</c><00:12:07.360><c> and</c><00:12:07.440><c> telegram</c>
+
+00:12:07.829 --> 00:12:07.839 align:start position:0%
+now why do i need signal and telegram
+ 
+
+00:12:07.839 --> 00:12:09.750 align:start position:0%
+now why do i need signal and telegram
+when<00:12:08.079><c> i</c><00:12:08.160><c> have</c><00:12:08.320><c> dids</c><00:12:08.880><c> with</c><00:12:09.120><c> keys</c>
+
+00:12:09.750 --> 00:12:09.760 align:start position:0%
+when i have dids with keys
+ 
+
+00:12:09.760 --> 00:12:11.190 align:start position:0%
+when i have dids with keys
+and<00:12:09.920><c> standardized</c><00:12:10.399><c> personal</c><00:12:10.720><c> data</c><00:12:10.959><c> storing</c>
+
+00:12:11.190 --> 00:12:11.200 align:start position:0%
+and standardized personal data storing
+ 
+
+00:12:11.200 --> 00:12:13.350 align:start position:0%
+and standardized personal data storing
+points<00:12:11.920><c> i</c><00:12:12.079><c> have</c><00:12:12.399><c> an</c><00:12:12.560><c> implicit</c>
+
+00:12:13.350 --> 00:12:13.360 align:start position:0%
+points i have an implicit
+ 
+
+00:12:13.360 --> 00:12:15.750 align:start position:0%
+points i have an implicit
+universal<00:12:14.000><c> worldwide</c><00:12:14.880><c> encrypted</c><00:12:15.360><c> messaging</c>
+
+00:12:15.750 --> 00:12:15.760 align:start position:0%
+universal worldwide encrypted messaging
+ 
+
+00:12:15.760 --> 00:12:17.350 align:start position:0%
+universal worldwide encrypted messaging
+service<00:12:16.079><c> that's</c><00:12:16.320><c> a</c><00:12:16.480><c> standard</c>
+
+00:12:17.350 --> 00:12:17.360 align:start position:0%
+service that's a standard
+ 
+
+00:12:17.360 --> 00:12:18.470 align:start position:0%
+service that's a standard
+it's<00:12:17.519><c> a</c><00:12:17.600><c> little</c><00:12:17.760><c> bit</c><00:12:17.839><c> better</c><00:12:18.079><c> i'd</c><00:12:18.240><c> love</c><00:12:18.399><c> to</c>
+
+00:12:18.470 --> 00:12:18.480 align:start position:0%
+it's a little bit better i'd love to
+ 
+
+00:12:18.480 --> 00:12:19.990 align:start position:0%
+it's a little bit better i'd love to
+deprecate<00:12:18.959><c> those</c><00:12:19.120><c> companies</c><00:12:19.519><c> in</c><00:12:19.600><c> fact</c><00:12:19.760><c> that's</c>
+
+00:12:19.990 --> 00:12:20.000 align:start position:0%
+deprecate those companies in fact that's
+ 
+
+00:12:20.000 --> 00:12:21.910 align:start position:0%
+deprecate those companies in fact that's
+probably<00:12:20.320><c> what</c><00:12:20.399><c> we're</c><00:12:20.560><c> going</c><00:12:20.639><c> to</c><00:12:20.720><c> try</c><00:12:20.880><c> and</c><00:12:21.040><c> do</c>
+
+00:12:21.910 --> 00:12:21.920 align:start position:0%
+probably what we're going to try and do
+ 
+
+00:12:21.920 --> 00:12:23.829 align:start position:0%
+probably what we're going to try and do
+social<00:12:22.240><c> media</c><00:12:22.959><c> why</c><00:12:23.120><c> do</c><00:12:23.279><c> i</c><00:12:23.360><c> need</c><00:12:23.519><c> people</c>
+
+00:12:23.829 --> 00:12:23.839 align:start position:0%
+social media why do i need people
+ 
+
+00:12:23.839 --> 00:12:25.590 align:start position:0%
+social media why do i need people
+telling<00:12:24.160><c> me</c><00:12:24.320><c> that</c><00:12:24.480><c> i'm</c><00:12:24.720><c> kicked</c><00:12:25.120><c> off</c><00:12:25.360><c> their</c>
+
+00:12:25.590 --> 00:12:25.600 align:start position:0%
+telling me that i'm kicked off their
+ 
+
+00:12:25.600 --> 00:12:27.430 align:start position:0%
+telling me that i'm kicked off their
+platform<00:12:26.079><c> when</c><00:12:26.240><c> i</c><00:12:26.320><c> have</c><00:12:26.560><c> my</c><00:12:26.800><c> own</c><00:12:26.880><c> did</c><00:12:27.360><c> and</c>
+
+00:12:27.430 --> 00:12:27.440 align:start position:0%
+platform when i have my own did and
+ 
+
+00:12:27.440 --> 00:12:28.550 align:start position:0%
+platform when i have my own did and
+that's<00:12:27.600><c> what</c><00:12:27.680><c> people</c><00:12:28.000><c> follow</c>
+
+00:12:28.550 --> 00:12:28.560 align:start position:0%
+that's what people follow
+ 
+
+00:12:28.560 --> 00:12:30.389 align:start position:0%
+that's what people follow
+and<00:12:28.720><c> i</c><00:12:28.800><c> don't</c><00:12:28.959><c> need</c><00:12:29.120><c> them</c><00:12:29.279><c> in</c><00:12:29.440><c> the</c><00:12:29.519><c> middle</c><00:12:30.240><c> and</c>
+
+00:12:30.389 --> 00:12:30.399 align:start position:0%
+and i don't need them in the middle and
+ 
+
+00:12:30.399 --> 00:12:32.069 align:start position:0%
+and i don't need them in the middle and
+they're<00:12:30.800><c> irrelevant</c>
+
+00:12:32.069 --> 00:12:32.079 align:start position:0%
+they're irrelevant
+ 
+
+00:12:32.079 --> 00:12:33.750 align:start position:0%
+they're irrelevant
+what<00:12:32.320><c> what</c><00:12:32.480><c> about</c><00:12:32.720><c> the</c><00:12:32.800><c> gig</c><00:12:33.040><c> economy</c><00:12:33.600><c> you</c><00:12:33.680><c> know</c>
+
+00:12:33.750 --> 00:12:33.760 align:start position:0%
+what what about the gig economy you know
+ 
+
+00:12:33.760 --> 00:12:36.069 align:start position:0%
+what what about the gig economy you know
+if<00:12:33.920><c> i'm</c><00:12:34.079><c> in</c><00:12:34.240><c> austin</c><00:12:34.480><c> texas</c><00:12:34.959><c> and</c><00:12:35.040><c> they</c><00:12:35.200><c> say</c>
+
+00:12:36.069 --> 00:12:36.079 align:start position:0%
+if i'm in austin texas and they say
+ 
+
+00:12:36.079 --> 00:12:38.870 align:start position:0%
+if i'm in austin texas and they say
+well<00:12:36.320><c> you</c><00:12:36.480><c> can't</c><00:12:36.800><c> uh</c><00:12:37.200><c> operate</c><00:12:37.680><c> here</c><00:12:37.920><c> uber</c><00:12:38.639><c> well</c>
+
+00:12:38.870 --> 00:12:38.880 align:start position:0%
+well you can't uh operate here uber well
+ 
+
+00:12:38.880 --> 00:12:40.389 align:start position:0%
+well you can't uh operate here uber well
+what<00:12:39.120><c> if</c><00:12:39.200><c> the</c><00:12:39.360><c> way</c><00:12:39.519><c> that</c><00:12:39.760><c> drivers</c><00:12:40.320><c> and</c>
+
+00:12:40.389 --> 00:12:40.399 align:start position:0%
+what if the way that drivers and
+ 
+
+00:12:40.399 --> 00:12:41.750 align:start position:0%
+what if the way that drivers and
+passengers<00:12:40.880><c> start</c><00:12:41.040><c> talking</c><00:12:41.279><c> to</c><00:12:41.440><c> each</c><00:12:41.600><c> other</c>
+
+00:12:41.750 --> 00:12:41.760 align:start position:0%
+passengers start talking to each other
+ 
+
+00:12:41.760 --> 00:12:43.990 align:start position:0%
+passengers start talking to each other
+through<00:12:41.920><c> dids</c><00:12:42.320><c> and</c><00:12:42.399><c> personal</c><00:12:42.720><c> data</c><00:12:42.959><c> stores</c>
+
+00:12:43.990 --> 00:12:44.000 align:start position:0%
+through dids and personal data stores
+ 
+
+00:12:44.000 --> 00:12:45.990 align:start position:0%
+through dids and personal data stores
+it<00:12:44.160><c> makes</c><00:12:44.399><c> the</c><00:12:44.639><c> interdiction</c><00:12:45.200><c> barrier</c><00:12:45.680><c> down</c>
+
+00:12:45.990 --> 00:12:46.000 align:start position:0%
+it makes the interdiction barrier down
+ 
+
+00:12:46.000 --> 00:12:47.670 align:start position:0%
+it makes the interdiction barrier down
+to<00:12:46.160><c> the</c><00:12:46.240><c> person</c><00:12:46.800><c> and</c><00:12:46.959><c> that's</c><00:12:47.120><c> exactly</c><00:12:47.440><c> where</c>
+
+00:12:47.670 --> 00:12:47.680 align:start position:0%
+to the person and that's exactly where
+ 
+
+00:12:47.680 --> 00:12:48.230 align:start position:0%
+to the person and that's exactly where
+it<00:12:47.760><c> should</c><00:12:47.920><c> be</c>
+
+00:12:48.230 --> 00:12:48.240 align:start position:0%
+it should be
+ 
+
+00:12:48.240 --> 00:12:50.470 align:start position:0%
+it should be
+so<00:12:48.399><c> that</c><00:12:48.560><c> they</c><00:12:48.720><c> don't</c><00:12:48.959><c> have</c><00:12:49.200><c> as</c><00:12:49.440><c> easy</c><00:12:49.760><c> a</c><00:12:49.920><c> time</c>
+
+00:12:50.470 --> 00:12:50.480 align:start position:0%
+so that they don't have as easy a time
+ 
+
+00:12:50.480 --> 00:12:51.750 align:start position:0%
+so that they don't have as easy a time
+inflicting
+
+00:12:51.750 --> 00:12:51.760 align:start position:0%
+inflicting
+ 
+
+00:12:51.760 --> 00:12:53.990 align:start position:0%
+inflicting
+roadblocks<00:12:52.320><c> on</c><00:12:52.480><c> people</c><00:12:52.959><c> trying</c><00:12:53.200><c> to</c><00:12:53.360><c> exchange</c>
+
+00:12:53.990 --> 00:12:54.000 align:start position:0%
+roadblocks on people trying to exchange
+ 
+
+00:12:54.000 --> 00:12:56.310 align:start position:0%
+roadblocks on people trying to exchange
+and<00:12:54.480><c> buying</c><00:12:54.720><c> and</c><00:12:54.880><c> selling</c><00:12:55.200><c> of</c><00:12:55.360><c> activities</c>
+
+00:12:56.310 --> 00:12:56.320 align:start position:0%
+and buying and selling of activities
+ 
+
+00:12:56.320 --> 00:12:59.030 align:start position:0%
+and buying and selling of activities
+so<00:12:56.959><c> same</c><00:12:57.200><c> thing</c><00:12:57.440><c> about</c><00:12:57.600><c> content</c><00:12:57.920><c> registries</c>
+
+00:12:59.030 --> 00:12:59.040 align:start position:0%
+so same thing about content registries
+ 
+
+00:12:59.040 --> 00:13:00.710 align:start position:0%
+so same thing about content registries
+the<00:12:59.200><c> apple</c><00:12:59.519><c> app</c><00:12:59.680><c> store</c><00:13:00.079><c> really</c><00:13:00.320><c> what</c><00:13:00.480><c> is</c><00:13:00.639><c> a</c>
+
+00:13:00.710 --> 00:13:00.720 align:start position:0%
+the apple app store really what is a
+ 
+
+00:13:00.720 --> 00:13:01.829 align:start position:0%
+the apple app store really what is a
+registry<00:13:01.279><c> other</c><00:13:01.519><c> than</c>
+
+00:13:01.829 --> 00:13:01.839 align:start position:0%
+registry other than
+ 
+
+00:13:01.839 --> 00:13:04.389 align:start position:0%
+registry other than
+identifiers<00:13:02.639><c> linking</c><00:13:02.959><c> to</c><00:13:03.279><c> things</c><00:13:03.680><c> right</c><00:13:04.240><c> we</c>
+
+00:13:04.389 --> 00:13:04.399 align:start position:0%
+identifiers linking to things right we
+ 
+
+00:13:04.399 --> 00:13:05.829 align:start position:0%
+identifiers linking to things right we
+own<00:13:04.839><c> npm</c><00:13:05.440><c> um</c>
+
+00:13:05.829 --> 00:13:05.839 align:start position:0%
+own npm um
+ 
+
+00:13:05.839 --> 00:13:07.910 align:start position:0%
+own npm um
+microsoft<00:13:06.480><c> and</c><00:13:07.040><c> you</c><00:13:07.120><c> know</c><00:13:07.279><c> heaven</c><00:13:07.519><c> forbid</c>
+
+00:13:07.910 --> 00:13:07.920 align:start position:0%
+microsoft and you know heaven forbid
+ 
+
+00:13:07.920 --> 00:13:09.509 align:start position:0%
+microsoft and you know heaven forbid
+something<00:13:08.160><c> happened</c><00:13:08.399><c> to</c><00:13:08.480><c> that</c><00:13:08.639><c> sql</c><00:13:09.040><c> database</c>
+
+00:13:09.509 --> 00:13:09.519 align:start position:0%
+something happened to that sql database
+ 
+
+00:13:09.519 --> 00:13:11.269 align:start position:0%
+something happened to that sql database
+right<00:13:09.680><c> that</c><00:13:09.839><c> connects</c><00:13:10.240><c> the</c><00:13:10.320><c> world's</c><00:13:10.800><c> code</c><00:13:11.120><c> to</c>
+
+00:13:11.269 --> 00:13:11.279 align:start position:0%
+right that connects the world's code to
+ 
+
+00:13:11.279 --> 00:13:12.550 align:start position:0%
+right that connects the world's code to
+identifiers<00:13:11.920><c> that</c><00:13:12.000><c> you</c><00:13:12.160><c> type</c><00:13:12.320><c> into</c><00:13:12.480><c> your</c>
+
+00:13:12.550 --> 00:13:12.560 align:start position:0%
+identifiers that you type into your
+ 
+
+00:13:12.560 --> 00:13:13.670 align:start position:0%
+identifiers that you type into your
+package.json
+
+00:13:13.670 --> 00:13:13.680 align:start position:0%
+package.json
+ 
+
+00:13:13.680 --> 00:13:15.110 align:start position:0%
+package.json
+we<00:13:13.839><c> think</c><00:13:14.000><c> there</c><00:13:14.160><c> could</c><00:13:14.240><c> be</c><00:13:14.320><c> a</c><00:13:14.399><c> better</c><00:13:14.639><c> world</c>
+
+00:13:15.110 --> 00:13:15.120 align:start position:0%
+we think there could be a better world
+ 
+
+00:13:15.120 --> 00:13:16.790 align:start position:0%
+we think there could be a better world
+we<00:13:15.279><c> think</c><00:13:15.519><c> that</c><00:13:15.680><c> maybe</c><00:13:15.920><c> you</c><00:13:16.079><c> have</c><00:13:16.240><c> dids</c><00:13:16.720><c> that</c>
+
+00:13:16.790 --> 00:13:16.800 align:start position:0%
+we think that maybe you have dids that
+ 
+
+00:13:16.800 --> 00:13:17.910 align:start position:0%
+we think that maybe you have dids that
+stand<00:13:17.040><c> for</c><00:13:17.200><c> your</c><00:13:17.279><c> packages</c>
+
+00:13:17.910 --> 00:13:17.920 align:start position:0%
+stand for your packages
+ 
+
+00:13:17.920 --> 00:13:20.069 align:start position:0%
+stand for your packages
+and<00:13:18.079><c> you</c><00:13:18.240><c> crawl</c><00:13:18.560><c> ion</c><00:13:18.880><c> and</c><00:13:18.959><c> find</c><00:13:19.200><c> them</c><00:13:19.360><c> all</c><00:13:19.920><c> and</c>
+
+00:13:20.069 --> 00:13:20.079 align:start position:0%
+and you crawl ion and find them all and
+ 
+
+00:13:20.079 --> 00:13:22.470 align:start position:0%
+and you crawl ion and find them all and
+you<00:13:20.240><c> can</c><00:13:20.320><c> have</c><00:13:20.560><c> like</c><00:13:20.720><c> a</c><00:13:20.800><c> global</c><00:13:21.120><c> registry</c><00:13:21.839><c> of</c>
+
+00:13:22.470 --> 00:13:22.480 align:start position:0%
+you can have like a global registry of
+ 
+
+00:13:22.480 --> 00:13:25.350 align:start position:0%
+you can have like a global registry of
+code<00:13:22.720><c> that</c><00:13:22.959><c> can't</c><00:13:23.279><c> be</c><00:13:23.839><c> you</c><00:13:24.000><c> know</c><00:13:24.959><c> hurt</c><00:13:25.120><c> by</c>
+
+00:13:25.350 --> 00:13:25.360 align:start position:0%
+code that can't be you know hurt by
+ 
+
+00:13:25.360 --> 00:13:26.230 align:start position:0%
+code that can't be you know hurt by
+anyone<00:13:25.680><c> even</c><00:13:25.920><c> us</c>
+
+00:13:26.230 --> 00:13:26.240 align:start position:0%
+anyone even us
+ 
+
+00:13:26.240 --> 00:13:29.430 align:start position:0%
+anyone even us
+you<00:13:26.320><c> know</c><00:13:26.399><c> the</c><00:13:26.560><c> owners</c><00:13:26.800><c> of</c><00:13:26.959><c> npm</c><00:13:27.519><c> so</c><00:13:29.040><c> so</c>
+
+00:13:29.430 --> 00:13:29.440 align:start position:0%
+you know the owners of npm so so
+ 
+
+00:13:29.440 --> 00:13:30.870 align:start position:0%
+you know the owners of npm so so
+maybe<00:13:29.839><c> i'm</c><00:13:30.000><c> just</c><00:13:30.079><c> going</c><00:13:30.160><c> to</c><00:13:30.240><c> pause</c><00:13:30.480><c> it</c><00:13:30.639><c> to</c><00:13:30.720><c> you</c>
+
+00:13:30.870 --> 00:13:30.880 align:start position:0%
+maybe i'm just going to pause it to you
+ 
+
+00:13:30.880 --> 00:13:32.550 align:start position:0%
+maybe i'm just going to pause it to you
+that<00:13:31.279><c> could</c><00:13:31.440><c> it</c><00:13:31.519><c> be</c><00:13:31.680><c> that</c><00:13:31.760><c> decentralization</c>
+
+00:13:32.550 --> 00:13:32.560 align:start position:0%
+that could it be that decentralization
+ 
+
+00:13:32.560 --> 00:13:34.710 align:start position:0%
+that could it be that decentralization
+is<00:13:32.720><c> actually</c><00:13:32.959><c> a</c><00:13:33.200><c> platform</c><00:13:33.600><c> that</c><00:13:33.680><c> people</c>
+
+00:13:34.710 --> 00:13:34.720 align:start position:0%
+is actually a platform that people
+ 
+
+00:13:34.720 --> 00:13:35.990 align:start position:0%
+is actually a platform that people
+haven't<00:13:34.959><c> been</c><00:13:35.120><c> enamored</c><00:13:35.519><c> with</c><00:13:35.680><c> because</c><00:13:35.839><c> it's</c>
+
+00:13:35.990 --> 00:13:36.000 align:start position:0%
+haven't been enamored with because it's
+ 
+
+00:13:36.000 --> 00:13:37.750 align:start position:0%
+haven't been enamored with because it's
+not<00:13:36.160><c> as</c><00:13:36.320><c> sexy</c><00:13:36.720><c> it</c><00:13:36.800><c> doesn't</c><00:13:37.120><c> make</c><00:13:37.279><c> you</c><00:13:37.440><c> money</c>
+
+00:13:37.750 --> 00:13:37.760 align:start position:0%
+not as sexy it doesn't make you money
+ 
+
+00:13:37.760 --> 00:13:40.389 align:start position:0%
+not as sexy it doesn't make you money
+you<00:13:37.839><c> can't</c><00:13:38.000><c> ico</c><00:13:38.560><c> it</c><00:13:38.720><c> you</c><00:13:38.800><c> can't</c><00:13:39.279><c> coin</c><00:13:39.519><c> it</c>
+
+00:13:40.389 --> 00:13:40.399 align:start position:0%
+you can't ico it you can't coin it
+ 
+
+00:13:40.399 --> 00:13:41.750 align:start position:0%
+you can't ico it you can't coin it
+you<00:13:40.560><c> know</c><00:13:40.639><c> it</c><00:13:40.720><c> doesn't</c><00:13:40.959><c> just</c><00:13:41.120><c> turn</c><00:13:41.360><c> billions</c>
+
+00:13:41.750 --> 00:13:41.760 align:start position:0%
+you know it doesn't just turn billions
+ 
+
+00:13:41.760 --> 00:13:44.389 align:start position:0%
+you know it doesn't just turn billions
+in<00:13:41.839><c> your</c><00:13:42.000><c> pocket</c><00:13:42.320><c> overnight</c><00:13:43.360><c> but</c><00:13:43.519><c> it</c><00:13:43.680><c> is</c><00:13:43.839><c> real</c>
+
+00:13:44.389 --> 00:13:44.399 align:start position:0%
+in your pocket overnight but it is real
+ 
+
+00:13:44.399 --> 00:13:46.069 align:start position:0%
+in your pocket overnight but it is real
+it's<00:13:44.639><c> serious</c><00:13:45.279><c> and</c><00:13:45.440><c> some</c><00:13:45.600><c> of</c><00:13:45.680><c> the</c><00:13:45.760><c> largest</c>
+
+00:13:46.069 --> 00:13:46.079 align:start position:0%
+it's serious and some of the largest
+ 
+
+00:13:46.079 --> 00:13:48.230 align:start position:0%
+it's serious and some of the largest
+companies<00:13:46.560><c> in</c><00:13:46.639><c> the</c><00:13:46.720><c> world</c><00:13:47.120><c> are</c><00:13:47.680><c> recognizing</c>
+
+00:13:48.230 --> 00:13:48.240 align:start position:0%
+companies in the world are recognizing
+ 
+
+00:13:48.240 --> 00:13:50.710 align:start position:0%
+companies in the world are recognizing
+the<00:13:48.399><c> value</c><00:13:48.639><c> of</c><00:13:48.800><c> it</c><00:13:48.880><c> for</c><00:13:49.040><c> their</c><00:13:49.199><c> own</c><00:13:49.360><c> reasons</c>
+
+00:13:50.710 --> 00:13:50.720 align:start position:0%
+the value of it for their own reasons
+ 
+
+00:13:50.720 --> 00:13:52.150 align:start position:0%
+the value of it for their own reasons
+and<00:13:50.880><c> i</c><00:13:50.959><c> think</c><00:13:51.120><c> you</c><00:13:51.279><c> should</c><00:13:51.440><c> maybe</c><00:13:51.680><c> look</c><00:13:51.839><c> into</c>
+
+00:13:52.150 --> 00:13:52.160 align:start position:0%
+and i think you should maybe look into
+ 
+
+00:13:52.160 --> 00:14:00.560 align:start position:0%
+and i think you should maybe look into
+it<00:13:57.560><c> too</c>
+

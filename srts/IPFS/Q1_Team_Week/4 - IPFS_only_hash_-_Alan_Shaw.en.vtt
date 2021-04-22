@@ -1,0 +1,400 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.719 --> 00:00:05.940 align:start position:0%
+ 
+if<00:00:02.500><c> any</c><00:00:02.949><c> of</c><00:00:03.040><c> you</c><00:00:03.219><c> are</c><00:00:03.460><c> aware</c><00:00:03.730><c> of</c><00:00:04.240><c> the</c><00:00:04.950><c> parameter</c>
+
+00:00:05.940 --> 00:00:05.950 align:start position:0%
+if any of you are aware of the parameter
+ 
+
+00:00:05.950 --> 00:00:08.129 align:start position:0%
+if any of you are aware of the parameter
+or<00:00:06.130><c> option</c><00:00:06.610><c> to</c><00:00:06.850><c> either</c><00:00:06.880><c> this</c><00:00:07.390><c> ad</c><00:00:07.569><c> that</c><00:00:07.810><c> is</c><00:00:07.870><c> only</c>
+
+00:00:08.129 --> 00:00:08.139 align:start position:0%
+or option to either this ad that is only
+ 
+
+00:00:08.139 --> 00:00:11.549 align:start position:0%
+or option to either this ad that is only
+hash<00:00:08.460><c> this</c><00:00:09.460><c> will</c><00:00:09.849><c> be</c><00:00:09.999><c> familiar</c><00:00:10.240><c> but</c><00:00:11.230><c> basically</c>
+
+00:00:11.549 --> 00:00:11.559 align:start position:0%
+hash this will be familiar but basically
+ 
+
+00:00:11.559 --> 00:00:14.909 align:start position:0%
+hash this will be familiar but basically
+this<00:00:11.740><c> is</c><00:00:11.919><c> a</c><00:00:11.950><c> node</c><00:00:12.519><c> or</c><00:00:12.879><c> JS</c><00:00:13.570><c> module</c><00:00:14.049><c> to</c><00:00:14.559><c> allow</c><00:00:14.860><c> you</c>
+
+00:00:14.909 --> 00:00:14.919 align:start position:0%
+this is a node or JS module to allow you
+ 
+
+00:00:14.919 --> 00:00:17.460 align:start position:0%
+this is a node or JS module to allow you
+to<00:00:15.070><c> just</c><00:00:15.429><c> add</c><00:00:15.639><c> add</c><00:00:16.360><c> things</c><00:00:16.930><c> and</c><00:00:17.080><c> get</c><00:00:17.230><c> a</c><00:00:17.260><c> hash</c>
+
+00:00:17.460 --> 00:00:17.470 align:start position:0%
+to just add add things and get a hash
+ 
+
+00:00:17.470 --> 00:00:20.280 align:start position:0%
+to just add add things and get a hash
+out<00:00:17.740><c> but</c><00:00:18.400><c> without</c><00:00:19.000><c> running</c><00:00:19.480><c> an</c><00:00:19.570><c> IP</c><00:00:19.720><c> FS</c><00:00:20.050><c> node</c>
+
+00:00:20.280 --> 00:00:20.290 align:start position:0%
+out but without running an IP FS node
+ 
+
+00:00:20.290 --> 00:00:23.340 align:start position:0%
+out but without running an IP FS node
+it's<00:00:21.190><c> basically</c><00:00:21.700><c> a</c><00:00:21.790><c> wrapper</c><00:00:22.030><c> around</c><00:00:22.210><c> the</c><00:00:22.660><c> IVFs</c>
+
+00:00:23.340 --> 00:00:23.350 align:start position:0%
+it's basically a wrapper around the IVFs
+ 
+
+00:00:23.350 --> 00:00:27.840 align:start position:0%
+it's basically a wrapper around the IVFs
+UNIX<00:00:23.680><c> FS</c><00:00:23.920><c> importer</c><00:00:24.510><c> with</c><00:00:25.860><c> in-memory</c><00:00:26.860><c> IPO</c><00:00:27.610><c> D</c>
+
+00:00:27.840 --> 00:00:27.850 align:start position:0%
+UNIX FS importer with in-memory IPO D
+ 
+
+00:00:27.850 --> 00:00:30.480 align:start position:0%
+UNIX FS importer with in-memory IPO D
+data<00:00:28.450><c> stores</c><00:00:28.840><c> and</c><00:00:29.110><c> stuff</c><00:00:29.320><c> like</c><00:00:29.470><c> that</c>
+
+00:00:30.480 --> 00:00:30.490 align:start position:0%
+data stores and stuff like that
+ 
+
+00:00:30.490 --> 00:00:33.180 align:start position:0%
+data stores and stuff like that
+even<00:00:31.119><c> still</c><00:00:31.330><c> you</c><00:00:31.930><c> typically</c><00:00:32.529><c> use</c><00:00:32.619><c> it</c><00:00:32.829><c> node</c><00:00:33.039><c> you</c>
+
+00:00:33.180 --> 00:00:33.190 align:start position:0%
+even still you typically use it node you
+ 
+
+00:00:33.190 --> 00:00:34.799 align:start position:0%
+even still you typically use it node you
+just<00:00:33.370><c> an</c><00:00:33.489><c> NPM</c><00:00:33.760><c> install</c><00:00:33.850><c> it</c><00:00:34.239><c> IP</c><00:00:34.420><c> that's</c><00:00:34.659><c> only</c>
+
+00:00:34.799 --> 00:00:34.809 align:start position:0%
+just an NPM install it IP that's only
+ 
+
+00:00:34.809 --> 00:00:39.630 align:start position:0%
+just an NPM install it IP that's only
+hash<00:00:35.019><c> and</c><00:00:36.179><c> and</c><00:00:37.179><c> yeah</c><00:00:38.109><c> once</c><00:00:38.409><c> you've</c><00:00:38.559><c> got</c><00:00:38.769><c> it</c><00:00:38.800><c> you</c>
+
+00:00:39.630 --> 00:00:39.640 align:start position:0%
+hash and and yeah once you've got it you
+ 
+
+00:00:39.640 --> 00:00:41.069 align:start position:0%
+hash and and yeah once you've got it you
+might<00:00:39.670><c> use</c><00:00:39.940><c> it</c><00:00:40.089><c> like</c><00:00:40.210><c> this</c><00:00:40.359><c> you</c><00:00:40.629><c> just</c><00:00:40.749><c> require</c>
+
+00:00:41.069 --> 00:00:41.079 align:start position:0%
+might use it like this you just require
+ 
+
+00:00:41.079 --> 00:00:44.279 align:start position:0%
+might use it like this you just require
+it<00:00:41.319><c> and</c><00:00:41.469><c> then</c><00:00:42.010><c> you</c><00:00:42.879><c> just</c><00:00:43.120><c> say</c><00:00:43.390><c> what's</c><00:00:43.899><c> the</c><00:00:44.109><c> hash</c>
+
+00:00:44.279 --> 00:00:44.289 align:start position:0%
+it and then you just say what's the hash
+ 
+
+00:00:44.289 --> 00:00:47.279 align:start position:0%
+it and then you just say what's the hash
+of<00:00:44.559><c> my</c><00:00:45.100><c> data</c><00:00:45.370><c> and</c><00:00:46.179><c> then</c><00:00:46.420><c> you</c><00:00:46.780><c> wait</c><00:00:47.050><c> for</c><00:00:47.079><c> that</c>
+
+00:00:47.279 --> 00:00:47.289 align:start position:0%
+of my data and then you wait for that
+ 
+
+00:00:47.289 --> 00:00:48.840 align:start position:0%
+of my data and then you wait for that
+and<00:00:47.409><c> then</c><00:00:47.800><c> you</c><00:00:48.039><c> can</c><00:00:48.159><c> log</c><00:00:48.280><c> it</c><00:00:48.429><c> out</c><00:00:48.550><c> and</c><00:00:48.760><c> that's</c>
+
+00:00:48.840 --> 00:00:48.850 align:start position:0%
+and then you can log it out and that's
+ 
+
+00:00:48.850 --> 00:00:52.469 align:start position:0%
+and then you can log it out and that's
+fine<00:00:49.089><c> so</c><00:00:49.300><c> let's</c><00:00:50.199><c> demo</c><00:00:50.710><c> it</c><00:00:50.890><c> hooray</c><00:00:51.550><c> okay</c><00:00:52.420><c> so</c>
+
+00:00:52.469 --> 00:00:52.479 align:start position:0%
+fine so let's demo it hooray okay so
+ 
+
+00:00:52.479 --> 00:00:53.399 align:start position:0%
+fine so let's demo it hooray okay so
+what<00:00:52.690><c> we're</c><00:00:52.780><c> going</c><00:00:52.899><c> to</c><00:00:52.929><c> do</c><00:00:53.050><c> is</c><00:00:53.139><c> we're</c><00:00:53.260><c> going</c><00:00:53.350><c> to</c>
+
+00:00:53.399 --> 00:00:53.409 align:start position:0%
+what we're going to do is we're going to
+ 
+
+00:00:53.409 --> 00:00:55.430 align:start position:0%
+what we're going to do is we're going to
+create<00:00:53.679><c> our</c><00:00:53.739><c> own</c><00:00:53.979><c> little</c><00:00:54.420><c> command-line</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+create our own little command-line
+ 
+
+00:00:55.440 --> 00:00:59.129 align:start position:0%
+create our own little command-line
+utility<00:00:56.519><c> to</c><00:00:57.519><c> so</c><00:00:57.909><c> that</c><00:00:58.030><c> we</c><00:00:58.179><c> can</c><00:00:58.359><c> get</c><00:00:58.839><c> the</c><00:00:58.960><c> hash</c>
+
+00:00:59.129 --> 00:00:59.139 align:start position:0%
+utility to so that we can get the hash
+ 
+
+00:00:59.139 --> 00:01:02.219 align:start position:0%
+utility to so that we can get the hash
+of<00:00:59.379><c> things</c><00:01:00.239><c> so</c><00:01:01.239><c> what</c><00:01:01.749><c> are</c><00:01:01.809><c> we</c><00:01:01.870><c> going</c><00:01:02.019><c> to</c><00:01:02.139><c> do</c>
+
+00:01:02.219 --> 00:01:02.229 align:start position:0%
+of things so what are we going to do
+ 
+
+00:01:02.229 --> 00:01:08.210 align:start position:0%
+of things so what are we going to do
+we're<00:01:02.409><c> going</c><00:01:02.440><c> to</c><00:01:02.620><c> just</c><00:01:02.920><c> oh</c><00:01:03.429><c> wow</c><00:01:04.180><c> improved</c><00:01:04.720><c> okay</c>
+
+00:01:08.210 --> 00:01:08.220 align:start position:0%
+ 
+ 
+
+00:01:08.220 --> 00:01:09.690 align:start position:0%
+ 
+all<00:01:09.220><c> right</c>
+
+00:01:09.690 --> 00:01:09.700 align:start position:0%
+all right
+ 
+
+00:01:09.700 --> 00:01:15.270 align:start position:0%
+all right
+how<00:01:10.120><c> does</c><00:01:10.270><c> this</c><00:01:10.360><c> work</c><00:01:10.570><c> so</c><00:01:11.050><c> cook</c><00:01:13.830><c> so</c><00:01:14.830><c> we</c><00:01:14.950><c> require</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+how does this work so cook so we require
+ 
+
+00:01:15.280 --> 00:01:20.640 align:start position:0%
+how does this work so cook so we require
+this<00:01:15.550><c> I</c><00:01:15.760><c> TFS</c><00:01:16.290><c> only</c><00:01:17.290><c> hash</c><00:01:18.690><c> yeah</c><00:01:19.690><c> awesome</c><00:01:20.080><c> I</c><00:01:20.350><c> need</c>
+
+00:01:20.640 --> 00:01:20.650 align:start position:0%
+this I TFS only hash yeah awesome I need
+ 
+
+00:01:20.650 --> 00:01:24.570 align:start position:0%
+this I TFS only hash yeah awesome I need
+you<00:01:20.770><c> to</c><00:01:20.890><c> be</c><00:01:21.010><c> my</c><00:01:21.160><c> linter</c><00:01:22.830><c> okay</c><00:01:23.830><c> and</c><00:01:24.280><c> then</c><00:01:24.400><c> we'll</c>
+
+00:01:24.570 --> 00:01:24.580 align:start position:0%
+you to be my linter okay and then we'll
+ 
+
+00:01:24.580 --> 00:01:27.930 align:start position:0%
+you to be my linter okay and then we'll
+do<00:01:24.700><c> something</c><00:01:24.910><c> like</c><00:01:25.090><c> hash</c><00:01:25.900><c> of</c><00:01:26.760><c> and</c><00:01:27.760><c> then</c>
+
+00:01:27.930 --> 00:01:27.940 align:start position:0%
+do something like hash of and then
+ 
+
+00:01:27.940 --> 00:01:32.460 align:start position:0%
+do something like hash of and then
+because<00:01:28.540><c> of</c><00:01:28.570><c> that</c><00:01:29.020><c> because</c><00:01:30.690><c> no</c><00:01:31.690><c> js'</c><00:01:32.050><c> streams</c>
+
+00:01:32.460 --> 00:01:32.470 align:start position:0%
+because of that because no js' streams
+ 
+
+00:01:32.470 --> 00:01:34.560 align:start position:0%
+because of that because no js' streams
+are<00:01:32.800><c> also</c><00:01:32.950><c> can</c><00:01:33.610><c> you</c><00:01:33.700><c> see</c><00:01:33.850><c> this</c><00:01:33.970><c> yeah</c><00:01:34.330><c> you</c><00:01:34.420><c> can</c>
+
+00:01:34.560 --> 00:01:34.570 align:start position:0%
+are also can you see this yeah you can
+ 
+
+00:01:34.570 --> 00:01:36.930 align:start position:0%
+are also can you see this yeah you can
+I'm<00:01:34.810><c> also</c><00:01:35.500><c> a</c><00:01:35.650><c> sync</c><00:01:36.010><c> iterators</c><00:01:36.400><c> we</c><00:01:36.550><c> can</c><00:01:36.700><c> just</c>
+
+00:01:36.930 --> 00:01:36.940 align:start position:0%
+I'm also a sync iterators we can just
+ 
+
+00:01:36.940 --> 00:01:42.720 align:start position:0%
+I'm also a sync iterators we can just
+pass<00:01:37.180><c> standard</c><00:01:38.080><c> in</c><00:01:40.350><c> to</c><00:01:41.350><c> to</c><00:01:41.800><c> this</c><00:01:41.920><c> module</c><00:01:42.490><c> that</c>
+
+00:01:42.720 --> 00:01:42.730 align:start position:0%
+pass standard in to to this module that
+ 
+
+00:01:42.730 --> 00:01:44.990 align:start position:0%
+pass standard in to to this module that
+we've<00:01:42.880><c> got</c><00:01:43.060><c> and</c><00:01:43.750><c> then</c><00:01:44.170><c> and</c><00:01:44.410><c> because</c><00:01:44.650><c> it's</c><00:01:44.800><c> a</c>
+
+00:01:44.990 --> 00:01:45.000 align:start position:0%
+we've got and then and because it's a
+ 
+
+00:01:45.000 --> 00:01:47.730 align:start position:0%
+we've got and then and because it's a
+it's<00:01:46.000><c> promise</c><00:01:46.540><c> based</c><00:01:46.720><c> I</c><00:01:46.930><c> can</c><00:01:47.050><c> just</c><00:01:47.230><c> then</c><00:01:47.380><c> and</c>
+
+00:01:47.730 --> 00:01:47.740 align:start position:0%
+it's promise based I can just then and
+ 
+
+00:01:47.740 --> 00:01:50.340 align:start position:0%
+it's promise based I can just then and
+I'll<00:01:47.830><c> just</c><00:01:47.950><c> log</c><00:01:48.130><c> out</c><00:01:48.250><c> the</c><00:01:48.520><c> result</c><00:01:49.210><c> so</c><00:01:49.870><c> that's</c>
+
+00:01:50.340 --> 00:01:50.350 align:start position:0%
+I'll just log out the result so that's
+ 
+
+00:01:50.350 --> 00:01:59.160 align:start position:0%
+I'll just log out the result so that's
+cool<00:01:51.870><c> let's</c><00:01:52.870><c> save</c><00:01:53.140><c> that</c><00:01:53.170><c> oh</c><00:01:57.659><c> wait</c><00:01:58.659><c> I</c><00:01:58.900><c> don't</c>
+
+00:01:59.160 --> 00:01:59.170 align:start position:0%
+cool let's save that oh wait I don't
+ 
+
+00:01:59.170 --> 00:02:00.890 align:start position:0%
+cool let's save that oh wait I don't
+know<00:01:59.230><c> how</c><00:01:59.350><c> this</c><00:01:59.470><c> works</c>
+
+00:02:00.890 --> 00:02:00.900 align:start position:0%
+know how this works
+ 
+
+00:02:00.900 --> 00:02:07.359 align:start position:0%
+know how this works
+go<00:02:01.900><c> away</c><00:02:02.050><c> go</c><00:02:02.890><c> away</c>
+
+00:02:07.359 --> 00:02:07.369 align:start position:0%
+ 
+ 
+
+00:02:07.369 --> 00:02:11.930 align:start position:0%
+ 
+let's<00:02:08.369><c> do</c><00:02:08.460><c> it</c><00:02:08.490><c> again</c><00:02:08.700><c> sorry</c><00:02:09.300><c> there</c><00:02:10.110><c> we</c><00:02:10.170><c> go</c>
+
+00:02:11.930 --> 00:02:11.940 align:start position:0%
+let's do it again sorry there we go
+ 
+
+00:02:11.940 --> 00:02:14.330 align:start position:0%
+let's do it again sorry there we go
+and<00:02:12.390><c> then</c><00:02:12.510><c> so</c><00:02:12.810><c> I</c><00:02:13.050><c> now</c><00:02:13.590><c> I</c><00:02:13.620><c> should</c><00:02:14.010><c> be</c><00:02:14.100><c> able</c><00:02:14.190><c> to</c>
+
+00:02:14.330 --> 00:02:14.340 align:start position:0%
+and then so I now I should be able to
+ 
+
+00:02:14.340 --> 00:02:18.200 align:start position:0%
+and then so I now I should be able to
+just<00:02:14.580><c> sort</c><00:02:14.820><c> of</c><00:02:14.880><c> send</c><00:02:15.750><c> some</c><00:02:15.990><c> data</c><00:02:16.290><c> to</c><00:02:17.060><c> to</c><00:02:18.060><c> this</c>
+
+00:02:18.200 --> 00:02:18.210 align:start position:0%
+just sort of send some data to to this
+ 
+
+00:02:18.210 --> 00:02:24.170 align:start position:0%
+just sort of send some data to to this
+thing<00:02:18.600><c> so</c><00:02:19.530><c> node</c><00:02:20.720><c> hash</c><00:02:21.720><c> hash</c><00:02:22.620><c> off</c><00:02:22.830><c> and</c><00:02:23.070><c> I</c><00:02:23.910><c> should</c>
+
+00:02:24.170 --> 00:02:24.180 align:start position:0%
+thing so node hash hash off and I should
+ 
+
+00:02:24.180 --> 00:02:28.300 align:start position:0%
+thing so node hash hash off and I should
+get<00:02:24.330><c> an</c><00:02:24.710><c> IC</c><00:02:25.710><c> ID</c><00:02:25.860><c> so</c><00:02:26.250><c> it's</c><00:02:26.400><c> just</c><00:02:26.550><c> it's</c><00:02:27.330><c> taken</c><00:02:28.020><c> my</c>
+
+00:02:28.300 --> 00:02:28.310 align:start position:0%
+get an IC ID so it's just it's taken my
+ 
+
+00:02:28.310 --> 00:02:30.860 align:start position:0%
+get an IC ID so it's just it's taken my
+hello<00:02:29.310><c> string</c><00:02:29.730><c> I</c><00:02:29.940><c> piped</c><00:02:30.300><c> it</c><00:02:30.450><c> into</c><00:02:30.570><c> this</c>
+
+00:02:30.860 --> 00:02:30.870 align:start position:0%
+hello string I piped it into this
+ 
+
+00:02:30.870 --> 00:02:32.510 align:start position:0%
+hello string I piped it into this
+program<00:02:31.110><c> and</c><00:02:31.530><c> then</c><00:02:31.950><c> it's</c><00:02:32.040><c> giving</c><00:02:32.250><c> me</c><00:02:32.280><c> back</c><00:02:32.490><c> a</c>
+
+00:02:32.510 --> 00:02:32.520 align:start position:0%
+program and then it's giving me back a
+ 
+
+00:02:32.520 --> 00:02:34.699 align:start position:0%
+program and then it's giving me back a
+hash<00:02:32.760><c> which</c><00:02:32.940><c> is</c><00:02:33.090><c> rat</c><00:02:33.240><c> but</c><00:02:34.110><c> the</c><00:02:34.200><c> cool</c><00:02:34.410><c> thing</c><00:02:34.680><c> is</c>
+
+00:02:34.699 --> 00:02:34.709 align:start position:0%
+hash which is rat but the cool thing is
+ 
+
+00:02:34.709 --> 00:02:37.610 align:start position:0%
+hash which is rat but the cool thing is
+that<00:02:35.100><c> I</c><00:02:35.130><c> should</c><00:02:35.280><c> be</c><00:02:35.640><c> able</c><00:02:35.730><c> to</c><00:02:35.910><c> just</c><00:02:36.440><c> swap</c><00:02:37.440><c> this</c>
+
+00:02:37.610 --> 00:02:37.620 align:start position:0%
+that I should be able to just swap this
+ 
+
+00:02:37.620 --> 00:02:42.020 align:start position:0%
+that I should be able to just swap this
+out<00:02:37.800><c> for</c><00:02:38.160><c> ipfs</c><00:02:38.640><c> ad</c><00:02:38.850><c> and</c><00:02:39.920><c> in</c><00:02:40.920><c> theory</c><00:02:41.220><c> I</c><00:02:41.490><c> should</c>
+
+00:02:42.020 --> 00:02:42.030 align:start position:0%
+out for ipfs ad and in theory I should
+ 
+
+00:02:42.030 --> 00:02:46.479 align:start position:0%
+out for ipfs ad and in theory I should
+get<00:02:42.209><c> back</c><00:02:42.390><c> the</c><00:02:42.570><c> same</c><00:02:42.780><c> hash</c><00:02:43.080><c> array</c><00:02:44.120><c> it</c><00:02:45.120><c> works</c>
+
+00:02:46.479 --> 00:02:46.489 align:start position:0%
+get back the same hash array it works
+ 
+
+00:02:46.489 --> 00:02:51.160 align:start position:0%
+get back the same hash array it works
+and<00:02:47.489><c> that's</c><00:02:48.030><c> it</c><00:02:48.330><c> thank</c><00:02:49.170><c> you</c><00:02:49.230><c> for</c><00:02:49.320><c> listening</c>
+
+00:02:51.160 --> 00:02:51.170 align:start position:0%
+and that's it thank you for listening
+ 
+
+00:02:51.170 --> 00:02:54.780 align:start position:0%
+and that's it thank you for listening
+[Applause]
+
